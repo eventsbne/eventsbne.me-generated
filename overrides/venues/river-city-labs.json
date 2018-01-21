@@ -1,0 +1,13 @@
+{
+  "id": "rcl",
+  "name": "River City Labs",
+  "description": "River City Labs is a not for profit company formed to promote and develop early stage and start-up businesses and entrepreneurial activity in the mobile, Internet, telecoms and technology sector in Brisbane and surrounding regions in Australia.",
+  "nameLike": ["River\\s?City\\s?Labs.*"],
+  "url": "https://www.rivercitylabs.net/",
+  "contactEmail": "info@rivercitylabs.net",
+  "contactTwitter": "RiverCityLabs",
+  "contactFacebook": "https://www.facebook.com/RiverCityLabs/",
+  "contactLinkedIn": "https://www.linkedin.com/company-beta/2448389/",
+  "contactInstagram": "rivercitylabs",
+  "codeOfConduct": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "crikeycon",
+  "name": "The CrikeyCon Crew",
+  "description": "CrikeyCon is a community-led conference targeting those with an interest in information security around South-East Queensland and beyond.\nThe informal style of the event is designed to facilitate knowledge sharing between all participants. The event consists of presentations and demonstrations by industry professionals, security wizards, and enthusiasts alike.\nCheck out full details at\u00a0www.CrikeyCon.com\nT-Shirts and other swag are optional add-ons once you've picked your ticket type. \u00a0Retro gear is available on\u00a0https://crikeycon.secure-decoration.com\u00a0(or if you like certificate mismatches,\u00a0swag.CrikeyCon.com).\nEach year, CrikeyCon donates excess profits to local charities.",
+  "nameLike": [".*CrikeyCon.*"],
+  "url": "https://www.crikeycon.com/",
+  "contactEmail": "info@crikeycon.com",
+  "contactTwitter": "CrikeyCon",
+  "contactFacebook": null,
+  "contactLinkedIn": null,
+  "contactInstagram": null,
+  "codeOfConduct": "https://www.crikeycon.com/"
+}

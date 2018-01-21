@@ -1,0 +1,13 @@
+{
+  "id": "brisjs",
+  "name": "Brisbane Javascript",
+  "description": "We're the Brisbane JavaScript programming group - BrisJS for short. Our mission is to provide a community and a voice for Brisbane's JavaScript technology community.",
+  "nameLike": ["BrisJS.*"],
+  "url": "https://brisjs.org/",
+  "contactEmail": null,
+  "contactTwitter": "brisjs",
+  "contactFacebook": "https://www.facebook.com/BrisJSMeetup/",
+  "contactLinkedIn": null,
+  "contactInstagram": null,
+  "codeOfConduct": "https://brisjs.org/#conduct"
+}

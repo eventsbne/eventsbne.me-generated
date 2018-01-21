@@ -1,0 +1,31 @@
+{
+  "name": "eventsbne.me-generated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "export-to-hexo.js",
+  "private": "true",
+  "dependencies": {
+    "async": "^2.6.0",
+    "event-db-builder": "^1.0.0",
+    "js-yaml": "^3.10.0",
+    "mkdirp": "^0.5.1",
+    "moment-timezone": "^0.5.14",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "npm run refresh-from-server && node ./export-to-hexo;",
+    "refresh-from-server": "event-db-builder -c config.json -d state.db -o overrides",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eventsbne/eventsbne.me-generated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eventsbne/eventsbne.me-generated/issues"
+  },
+  "homepage": "https://github.com/eventsbne/eventsbne.me-generated#readme"
+}

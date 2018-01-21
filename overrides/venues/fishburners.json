@@ -1,0 +1,15 @@
+{
+  "id": "fishburners",
+  "name": "Fishburners Brisbane",
+  "description": "River City Labs is a not for profit company formed to promote and develop early stage and start-up businesses and entrepreneurial activity in the mobile, Internet, telecoms and technology sector in Brisbane and surrounding regions in Australia.",
+  "nameLike": ["Fishburners.*"],
+  "url": "https://fishburners.org/brisbane-coworking-space",
+  "contactAddress": "The Capital Building, Level 3, 155 Queen St",
+  "contactAddressNotes": "Entry is via the Regent Theatre/Brisbane Information Centre on Queenss Street Mall",
+  "contactEmail": null,
+  "contactTwitter": "fishburners",
+  "contactFacebook": "https://facebook.com/fishburners",
+  "contactLinkedIn": "https://www.linkedin.com/company/fishburners/",
+  "contactInstagram": "fishburners",
+  "codeOfConduct": null
+}
