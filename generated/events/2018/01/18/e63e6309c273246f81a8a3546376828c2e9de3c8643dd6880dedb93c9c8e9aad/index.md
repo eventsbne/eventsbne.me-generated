@@ -13,17 +13,6 @@ countWaitlist: '12'
 price: null
 url: 'https://www.meetup.com/BrisJS/events/246604767/'
 image: null
-organizer:
-  id: brisjs
-  remoteId: '1648226'
-  remoteIdType: meetup
-  name: Brisbane Javascript
-  url: 'https://brisjs.org/'
-  description: >-
-    We're the Brisbane JavaScript programming group - BrisJS for short. Our
-    mission is to provide a community and a voice for Brisbane's JavaScript
-    technology community.
-  codeOfConduct: 'https://brisjs.org/#conduct'
 venue:
   id: 4852310c173754d24fb10ff360238a79eca64c34279578305492220781c5d659
   remoteId: '23558360'
@@ -37,6 +26,17 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: brisjs
+  remoteId: '1648226'
+  remoteIdType: meetup
+  name: Brisbane Javascript
+  url: 'https://brisjs.org/'
+  description: >-
+    We're the Brisbane JavaScript programming group - BrisJS for short. Our
+    mission is to provide a community and a voice for Brisbane's JavaScript
+    technology community.
+  codeOfConduct: 'https://brisjs.org/#conduct'
 layout: event
 title: Drinks at Buffalo Bar
 date: '1516184053239.0'

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517302800000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
-countAttending: '19'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Google Cloud User Group monthly meetup
-date: '1516535300751.0'
+date: '1516622493676.0'
 
 ---
 <p>We're organising session content and will update details closer to the time. If you have content suggestions please let us know!</p> 

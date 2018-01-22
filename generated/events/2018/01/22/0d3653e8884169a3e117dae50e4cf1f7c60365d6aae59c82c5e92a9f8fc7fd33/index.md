@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1516608000000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
+timeCreated: '1516541596328.0'
+timeUpdated: '1516541596328.0'
 countAttending: '61'
 countCapacity: null
 countWaitlist: '0'
@@ -40,7 +40,7 @@ venue:
   contactPhone: null
 layout: event
 title: Blockchain Reserve - Brisbane Investment analysis
-date: '1516535300752.0'
+date: '1516541596328.0'
 
 ---
 <p>Here is what the meetup will look like:</p> <p>We will talk about different ICOs, in a structured format and will facilitate an open discussion about the merits of each project, allowing you to identify and distinguish between good and bad projects, how to make sure you aren't contributing to scams, and hear a varied selection of opinions from the other participants.</p> <p>Our team will be there to moderate and share their insights from their experience in this space. You will, of course, be able to ask any questions you might have and we will be happy to answer them. We want to make sure this is an active community where you don't just come to listen but participate and learn by doing and discussing.</p> <p>We would highly encourage you to read the whitepapers, and check out the projects we will be discussing in advance of the meetup. This will make it more beneficial to all!</p> <p>We will let you know 1 week in advance about the structure of the event and the ICOs we will discuss.</p> <p>You can find the whitepapers we will be covering this week in the comments section below. We look forward to seeing you there - there is a lot to learn!</p> <p>The Blockchain Reserve Team.</p> 

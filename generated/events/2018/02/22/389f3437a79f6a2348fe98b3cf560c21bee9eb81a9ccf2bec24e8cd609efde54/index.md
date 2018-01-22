@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519282800000.0'
 timeEnd: '1519291800000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '30'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com/e/sap-inside-track-brisbane-february-tickets-40927139175?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39435927%2F179404560206%2F1%2Foriginal.jpg?s=416968e5b7e96f70db0dd8759f1133a3
-venue:
-  id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
-  remoteId: null
-  remoteIdType: eventbrite
-  name: null
-  url: null
-  description: null
-  lat: null
-  lon: null
-  contactAddress: null
-  contactCity: null
-  contactCountry: null
-  contactPhone: null
 organizer:
   id: 4adaaf8b36a1717efa4a602498c1e65687a8e1f0123b0a5614e2da96b8e944ae
   remoteId: jakob-marius-kjaer-11042719706
@@ -41,9 +28,22 @@ organizer:
     tech side, but also engaging end users and businesses to help them on their
     UX journey.
   codeOfConduct: null
+venue:
+  id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
+  remoteId: null
+  remoteIdType: eventbrite
+  name: null
+  url: null
+  description: null
+  lat: null
+  lon: null
+  contactAddress: null
+  contactCity: null
+  contactCountry: null
+  contactPhone: null
 layout: event
 title: SAP Inside Track Brisbane February
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <DIV STYLE="color: #212121; font-family: sans-serif; font-size: 13px;"><BR></DIV>

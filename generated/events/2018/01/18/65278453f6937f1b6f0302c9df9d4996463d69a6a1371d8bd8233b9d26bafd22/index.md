@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516264200000.0'
 timeEnd: '1516267800000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Discover the eLibrary - Strathpine Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2>Discover the range of free eBooks, eAudiobooks and eMagazines available through the library. BYO device, tablet or smartphone.</H2>

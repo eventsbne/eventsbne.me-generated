@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516161600000.0'
 timeEnd: '1516165200000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -43,7 +43,7 @@ venue:
   contactPhone: null
 layout: event
 title: Introduction to Smartphones - North Lakes Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2>Learn tips and tricks to help use your device to its full potential.</H2>

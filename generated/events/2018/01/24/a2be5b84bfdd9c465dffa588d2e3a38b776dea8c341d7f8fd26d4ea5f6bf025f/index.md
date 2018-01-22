@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1516782600000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: The Ideas Entrepreneur joins forces with The Word Stylist! Come and See...
-date: '1516535300751.0'
+date: '1516622493676.0'
 
 ---
 <p>• What we'll do<br/>The Word Stylist, Elizabeth Campbell will share with us 5 Ways to Turn Content into Cash and become a Star online! Book your seat now and bring along a friend for FREE! Just click on RSVP and we'll see you there!</p> <p>• What to bring</p> <p><br/>• Important to know</p> 

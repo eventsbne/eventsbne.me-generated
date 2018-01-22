@@ -13,6 +13,14 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/awsgoldcoast/events/244161964/'
 image: null
+organizer:
+  id: 9aef548985b2124b66afd76f428be26c2d8788fd70e9c6630e0ba0874bb75583
+  remoteId: '18456390'
+  remoteIdType: meetup
+  name: Amazon Web Services - Gold Coast User Group
+  url: 'https://meetup.com/awsgoldcoast'
+  description: null
+  codeOfConduct: null
 venue:
   id: c2dea40491ea82e44414687cb0e103f1f87910b966a2fec3cade627cd720fe41
   remoteId: '6715392'
@@ -26,14 +34,6 @@ venue:
   contactCity: Mudgeeraba
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 9aef548985b2124b66afd76f428be26c2d8788fd70e9c6630e0ba0874bb75583
-  remoteId: '18456390'
-  remoteIdType: meetup
-  name: Amazon Web Services - Gold Coast User Group
-  url: 'https://meetup.com/awsgoldcoast'
-  description: null
-  codeOfConduct: null
 layout: event
 title: AWS Gold Coast regular meetup
 date: '1516184053245.0'

@@ -13,6 +13,14 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Lean-Business-Strategies/events/246263423/'
 image: null
+organizer:
+  id: 341b7f826c8b55aa36a75d48d8e8a80e10f36100713c70b182880551eaa5c3de
+  remoteId: '10015642'
+  remoteIdType: meetup
+  name: Lean Business Strategies
+  url: 'https://meetup.com/Lean-Business-Strategies'
+  description: null
+  codeOfConduct: null
 venue:
   id: rcl
   remoteId: '25313549'
@@ -30,14 +38,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 341b7f826c8b55aa36a75d48d8e8a80e10f36100713c70b182880551eaa5c3de
-  remoteId: '10015642'
-  remoteIdType: meetup
-  name: Lean Business Strategies
-  url: 'https://meetup.com/Lean-Business-Strategies'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Platform Strategies for Startups (Part 1)
 date: '1516184053247.0'

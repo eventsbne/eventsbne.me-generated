@@ -15,14 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/angular-workshop-2-day-training-brisbane-tickets-36766884742?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33893402%2F55525066651%2F1%2Foriginal.jpg?s=1efe9ce41b81ad92d9dd9d18c01833ca
-organizer:
-  id: f2aa9a2371e2d401f4b18bb191fb7004b4a0e929b65daa47639dd29e61c70f00
-  remoteId: ssw-firebootcamp-11834664786
-  remoteIdType: eventbrite
-  name: SSW + FireBootCamp
-  url: 'https://www.eventbrite.com.au/o/ssw-firebootcamp-11834664786'
-  description: "Website: http://events.ssw.com/organiser/ssw-firebootcamp/\\r\\n\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 venue:
   id: 0d82bfd2fb3455171c98c5edf9f6f209aa332b64eaea03997fd7d54c327b2ef2
   remoteId: '19553701'
@@ -36,6 +28,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: f2aa9a2371e2d401f4b18bb191fb7004b4a0e929b65daa47639dd29e61c70f00
+  remoteId: ssw-firebootcamp-11834664786
+  remoteIdType: eventbrite
+  name: SSW + FireBootCamp
+  url: 'https://www.eventbrite.com.au/o/ssw-firebootcamp-11834664786'
+  description: "Website: http://events.ssw.com/organiser/ssw-firebootcamp/\\r\\n\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 layout: event
 title: Angular Workshop (2 Day Training) - Brisbane
 date: '1516106511226.0'

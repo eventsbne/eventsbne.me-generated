@@ -24,15 +24,15 @@ events:
       /events/2018/02/15/327faefd71b14dcdda6431f0ff81569f1d3128129457a518b248538e4847a088
     organizer: Brisbane Tech Newbies
     timeStart: 1518680700000
-  - name: Is there a Secret to Success?
-    uri: >-
-      /events/2018/02/15/31c9043dd02c60286f69d1b036999a9f88dcab3297989a998fb53e9f5ebad592
-    organizer: Startup Ipswich
-    timeStart: 1518681600000
   - name: WooCommerce Meetup - Topic TBD
     uri: >-
       /events/2018/02/15/96d4fb04d03781d90b6e49fc64660411cdf138361cdae4fb136a6b61a38d9410
     organizer: Brisbane WooCommerce Meetup
+    timeStart: 1518681600000
+  - name: Is there a Secret to Success?
+    uri: >-
+      /events/2018/02/15/31c9043dd02c60286f69d1b036999a9f88dcab3297989a998fb53e9f5ebad592
+    organizer: Startup Ipswich
     timeStart: 1518681600000
   - name: Solutions to reverse global warming - public forum
     uri: >-

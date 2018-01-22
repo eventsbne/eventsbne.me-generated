@@ -2,16 +2,16 @@
 title: Events for 2018/02/06
 layout: event-index
 events:
-  - name: World Retrospective Day - Lean Coffee
-    uri: >-
-      /events/2018/02/06/76f4d9f19586115e6bf29f10d1b509554cd3575ca1134396adea5d0b20e26a1a
-    organizer: Agile Brisbane
-    timeStart: 1517868000000
   - name: 'Turning Clients into Contacts: How to Rock at Networking BRISBANE Workshop'
     uri: >-
       /events/2018/02/06/7e0b0ebb3df599e946cc154e6757ac8a8665530d3d41a27dc5d395716221fe84
     organizer: Entrepreneurs Scale Your Business Brisbane
     timeStart: 1517871600000
+  - name: World Retrospective Day - Lean Coffee
+    uri: >-
+      /events/2018/02/06/76f4d9f19586115e6bf29f10d1b509554cd3575ca1134396adea5d0b20e26a1a
+    organizer: Agile Brisbane
+    timeStart: 1517868000000
   - name: Introduction to iPads - North Lakes Library
     uri: >-
       /events/2018/02/06/bc1cdc128bac9c70de1a3f22b545dd1cd4e4cc73926bf1106e1254ccabff9078

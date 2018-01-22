@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517378400000.0'
 timeEnd: '1517383800000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -15,6 +15,14 @@ url: >-
   https://www.eventbrite.com.au/e/cibse-qld-fire-stopping-of-services-penetrations-getting-compliance-right-tickets-38803203426?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36461586%2F29522421407%2F1%2Foriginal.jpg?s=564af97698fec7ad900b1aab2e94b8b8
+organizer:
+  id: e1dfc44b9d3d10f837890e849981db439188808b8f8d44021e6dea0f0d8d823a
+  remoteId: cibse-qld-chapter-2591550752
+  remoteIdType: eventbrite
+  name: CIBSE QLD Chapter
+  url: 'https://www.eventbrite.com.au/o/cibse-qld-chapter-2591550752'
+  description: CIBSE QLD
+  codeOfConduct: null
 venue:
   id: 808b64b8f3667c02f358470116900e40542a1b274747c2508da47dedce8a8f8b
   remoteId: '21582462'
@@ -28,17 +36,9 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: e1dfc44b9d3d10f837890e849981db439188808b8f8d44021e6dea0f0d8d823a
-  remoteId: cibse-qld-chapter-2591550752
-  remoteIdType: eventbrite
-  name: CIBSE QLD Chapter
-  url: 'https://www.eventbrite.com.au/o/cibse-qld-chapter-2591550752'
-  description: CIBSE QLD
-  codeOfConduct: null
 layout: event
 title: 'CIBSE QLD | Fire Stopping of Services Penetrations: Getting Compliance Right'
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P><SPAN>The Chartered Institution of Building Services Engineers, Queensland Chapter, invite you to attend an information evening on Fire and Smoke Dampers.</SPAN><BR></P>

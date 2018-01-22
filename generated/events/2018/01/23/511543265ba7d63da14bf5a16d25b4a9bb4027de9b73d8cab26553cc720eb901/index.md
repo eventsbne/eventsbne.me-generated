@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516692600000.0'
 timeEnd: '1516698900000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -14,19 +14,6 @@ price: Free
 url: 'https://www.eventbrite.com.au/e/divvito-preview-tickets-42110871751?aff=ebapi'
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39524971%2F214820510540%2F1%2Foriginal.jpg?s=fb067008172c8360dc4d2d85d6f6e86b
-venue:
-  id: 503492bde8a18b057060eb43d05803420fb35635908c5f42185488e0853743f9
-  remoteId: '22789492'
-  remoteIdType: eventbrite
-  name: 'Level 2, The Precinct'
-  url: null
-  description: null
-  lat: '-27.4583798'
-  lon: '153.0341671'
-  contactAddress: 'T.C. Bierne Building,  315 Brunswick Street, Fortitude Valley, Qld 4006'
-  contactCity: Fortitude Valley
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: dd6454ca3298089f12211210f6c4841510ce98992ae426ab4ab02db738d02c58
   remoteId: divvito-16498146234
@@ -42,9 +29,22 @@ organizer:
     Introduction\n6:15 pm: Preview / Q\u0026A\n6:45 pm:\u00a0networking\nTHIS IS
     A FREE EVENT BUT REGISTRATIONS ARE REQUIRED TO SECURE YOUR SPOT.
   codeOfConduct: null
+venue:
+  id: 503492bde8a18b057060eb43d05803420fb35635908c5f42185488e0853743f9
+  remoteId: '22789492'
+  remoteIdType: eventbrite
+  name: 'Level 2, The Precinct'
+  url: null
+  description: null
+  lat: '-27.4583798'
+  lon: '153.0341671'
+  contactAddress: 'T.C. Bierne Building,  315 Brunswick Street, Fortitude Valley, Qld 4006'
+  contactCity: Fortitude Valley
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Divvito preview
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P CLASS="p1">You are invited to the preview of Divvito, the messaging app for separated and divorced parents that makes co-parenting communication easier. Parents, family lawyers, psychologists, counsellors and government stakeholders interested in improving collaboration between separated or divorced parents are invited.</P>

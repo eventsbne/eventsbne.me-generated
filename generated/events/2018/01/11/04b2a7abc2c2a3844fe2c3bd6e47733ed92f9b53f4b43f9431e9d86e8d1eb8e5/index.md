@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/rotary-nysf-alumni-evening-session-b-brisbane-tickets-39720907303?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37656116%2F129918502765%2F1%2Foriginal.jpg?s=d7f2a6567db5cdc73cb7c65530089a7c
-venue:
-  id: cc0b2535082ce255db5cd8014554e0455ef5ffb41cf01583f011eb00b6cf01b2
-  remoteId: '22501785'
-  remoteIdType: eventbrite
-  name: Abel Smith Building (23)
-  url: null
-  description: null
-  lat: '-27.4995096'
-  lon: '153.01520849999997'
-  contactAddress: 'Saint Lucia, QLD 4067'
-  contactCity: Saint Lucia
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: 06c6578d7d653724c9a5dab5174c38d742e02a34d4122eb9bc8f881db86faeb1
   remoteId: the-national-youth-science-forum-8389155880
@@ -53,6 +40,19 @@ organizer:
     invaluable for knowledge and understanding of ancient volcano-sedimentary
     successions.\nDr Carey attended the National Youth Science Forum in 1997.
   codeOfConduct: null
+venue:
+  id: cc0b2535082ce255db5cd8014554e0455ef5ffb41cf01583f011eb00b6cf01b2
+  remoteId: '22501785'
+  remoteIdType: eventbrite
+  name: Abel Smith Building (23)
+  url: null
+  description: null
+  lat: '-27.4995096'
+  lon: '153.01520849999997'
+  contactAddress: 'Saint Lucia, QLD 4067'
+  contactCity: Saint Lucia
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: 'Rotary & NYSF Alumni Evening (Session B, Brisbane)'
 date: '1516106511226.0'

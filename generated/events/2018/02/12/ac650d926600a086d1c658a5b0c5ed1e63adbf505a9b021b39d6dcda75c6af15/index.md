@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: null
 timeStart: '1518424200000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
-countAttending: '21'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '24'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Meetup 0x005
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 No description was provided.

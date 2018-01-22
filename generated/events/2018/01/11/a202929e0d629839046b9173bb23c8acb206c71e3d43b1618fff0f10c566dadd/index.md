@@ -15,6 +15,14 @@ url: >-
   https://www.eventbrite.com.au/e/jan-11-women-in-tech-roundtable-for-teen-girls-in-yrs-7-12-tickets-39790758229?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37625013%2F225145535304%2F1%2Foriginal.jpg?s=be22b0d8e314bf33755df184c5e31617
+organizer:
+  id: 98a0a1ef29a7d752694b27d8c720532d855a93f7ad90d620369b24fd4c83499b
+  remoteId: fuel-girl-shaped-flames-15595096830
+  remoteIdType: eventbrite
+  name: FUEL | Girl Shaped Flames
+  url: 'https://www.eventbrite.com.au/o/fuel-girl-shaped-flames-15595096830'
+  description: "FUEL connects teen girls in high-school with Extraordinary Women for hands-on and interactive skill development experiences in Brisbane.\\u00a0\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 venue:
   id: 8e997f8627c152eb5f60b22ae86013db856fe80386c44dd31a740b8f9c6255e1
   remoteId: '22048785'
@@ -28,14 +36,6 @@ venue:
   contactCity: Brisbane City
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 98a0a1ef29a7d752694b27d8c720532d855a93f7ad90d620369b24fd4c83499b
-  remoteId: fuel-girl-shaped-flames-15595096830
-  remoteIdType: eventbrite
-  name: FUEL | Girl Shaped Flames
-  url: 'https://www.eventbrite.com.au/o/fuel-girl-shaped-flames-15595096830'
-  description: "FUEL connects teen girls in high-school with Extraordinary Women for hands-on and interactive skill development experiences in Brisbane.\\u00a0\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 layout: event
 title: 'Jan 11: Women In Tech Roundtable for Teen Girls (in Yrs 7-12)'
 date: '1516106511226.0'

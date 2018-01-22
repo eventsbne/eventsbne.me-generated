@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516263300000.0'
 timeEnd: '1516272300000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '240'
 countWaitlist: null
@@ -15,6 +15,19 @@ url: >-
   https://www.eventbrite.com/e/bitcoin-and-blockchain-explained-for-non-technicals-tickets-41480722959?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38895533%2F12063037281%2F1%2Foriginal.jpg?s=6f6b8ddb749ce773e435911dd0593149
+venue:
+  id: 844e73280157577ee6ba4fb768e63e1c1172be2636ee1fcda8bd577b1ed7ad48
+  remoteId: '22733999'
+  remoteIdType: eventbrite
+  name: The Precinct
+  url: null
+  description: null
+  lat: '-27.4582007'
+  lon: '153.0342882'
+  contactAddress: 'River City Labs Level 2, 315 Brunswick Street, Fortitude Valley, QLD 4000'
+  contactCity: Fortitude Valley
+  contactCountry: Australia
+  contactPhone: null
 organizer:
   id: 85216560ccdb7cd4d6e34fac5851bba340e4ce0dd33df512342ddcbc3d94110d
   remoteId: jack-tanner-16065780714
@@ -64,22 +77,9 @@ organizer:
     Yeoh\nhttp://www.linkedin.com/in/caleb-yeoh-698ba63a\nChris
     Titley\nhttps://www.linkedin.com/in/ctitley/
   codeOfConduct: null
-venue:
-  id: 844e73280157577ee6ba4fb768e63e1c1172be2636ee1fcda8bd577b1ed7ad48
-  remoteId: '22733999'
-  remoteIdType: eventbrite
-  name: The Precinct
-  url: null
-  description: null
-  lat: '-27.4582007'
-  lon: '153.0342882'
-  contactAddress: 'River City Labs Level 2, 315 Brunswick Street, Fortitude Valley, QLD 4000'
-  contactCity: Fortitude Valley
-  contactCountry: Australia
-  contactPhone: null
 layout: event
 title: Bitcoin and Blockchain explained for non-technicals
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P><STRONG>NOTE: Only registrations through the Eventbrite page will be considered as attendees. Please go to <A HREF="https://www.eventbrite.com/e/bitcoin-and-blockchain-exlplained-for-non-technicals-tickets-41480722959" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">https://www.eventbrite.com/e/bitcoin-and-blockchain-exlplained-for-non-technicals-tickets-41480722959</A> to sign up for this event.</STRONG></P>

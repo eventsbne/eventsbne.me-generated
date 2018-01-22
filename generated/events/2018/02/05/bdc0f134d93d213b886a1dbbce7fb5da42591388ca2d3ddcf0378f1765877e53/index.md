@@ -15,15 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/leica-sp8-workshop-tickets-40925571486?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38286113%2F180677936881%2F1%2Foriginal.jpg?s=a4303d4ef94c950ec716e60990b9fda6
-organizer:
-  id: 61cbf5a436b73fe88d672449cd94a3d157ef95da2607ca8b8ca125f5e1921443
-  remoteId: australian-national-fabrication-facility-queensland-node-11974568303
-  remoteIdType: eventbrite
-  name: Australian National Fabrication Facility \u2013 Queensland Node
-  url: >-
-    https://www.eventbrite.com.au/o/australian-national-fabrication-facility-queensland-node-11974568303
-  description: "The Australian National Fabrication Facility's Queensland Node (ANFF-Q) is a world-class micro and nanofabrication facility providing access to cutting-edge equipment with support from expert staff specialising in microfluidics, organic electronics, biomaterials, novel semiconductor materials and characterisation.\\r\\nUtilising our state-of-the-art equipment and advice from our highly experienced Professional Officers, you can elevate your research and development to the next level, with better designs, shorter development iteration cycles, and expert training and advice.\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 venue:
   id: 5de634d600857ac6a31b1efbbd7bec261b08e6cd59ad41f166e48021268d6a92
   remoteId: '22331443'
@@ -39,6 +30,15 @@ venue:
   contactCity: St Lucia
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 61cbf5a436b73fe88d672449cd94a3d157ef95da2607ca8b8ca125f5e1921443
+  remoteId: australian-national-fabrication-facility-queensland-node-11974568303
+  remoteIdType: eventbrite
+  name: Australian National Fabrication Facility \u2013 Queensland Node
+  url: >-
+    https://www.eventbrite.com.au/o/australian-national-fabrication-facility-queensland-node-11974568303
+  description: "The Australian National Fabrication Facility's Queensland Node (ANFF-Q) is a world-class micro and nanofabrication facility providing access to cutting-edge equipment with support from expert staff specialising in microfluidics, organic electronics, biomaterials, novel semiconductor materials and characterisation.\\r\\nUtilising our state-of-the-art equipment and advice from our highly experienced Professional Officers, you can elevate your research and development to the next level, with better designs, shorter development iteration cycles, and expert training and advice.\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 layout: event
 title: Leica SP8 workshop
 date: '1516106511226.0'

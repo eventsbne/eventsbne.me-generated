@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1520294400000.0'
 timeEnd: '1520487000000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -15,6 +15,19 @@ url: >-
   https://www.eventbrite.com.au/e/canon-medical-vitrea-advanced-version-69-course-in-queensland-registration-37798238549?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39476871%2F185894324770%2F1%2Foriginal.jpg?s=3cf5385d78ca3a015e53d52c05ff581f
+venue:
+  id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
+  remoteId: null
+  remoteIdType: eventbrite
+  name: null
+  url: null
+  description: null
+  lat: null
+  lon: null
+  contactAddress: null
+  contactCity: null
+  contactCountry: null
+  contactPhone: null
 organizer:
   id: dc8b63c84923a4f6d26f46a363d760dcec1e35138c2ee9342d91067fd02936f4
   remoteId: canon-medical-learning-centre-11315141402
@@ -29,22 +42,9 @@ organizer:
     ongoing commitment to humanity. Generations of inherited passion creates a
     legacy of medical innovation and service that continues to evolve as we do.
   codeOfConduct: null
-venue:
-  id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
-  remoteId: null
-  remoteIdType: eventbrite
-  name: null
-  url: null
-  description: null
-  lat: null
-  lon: null
-  contactAddress: null
-  contactCity: null
-  contactCountry: null
-  contactPhone: null
 layout: event
 title: Canon Medical Vitrea Advanced Version 6.9 Course in Queensland
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>This three-day post-processing course teaches the fundamentals of Vital Images’ advanced visualisation software. Participants receive an overview of the variety of applications and disciplines within the software including CT angiography, lung, tumour, MSK, perfusion, pulmonary and renal. Learn to manipulate 2D and 3D images, including multi-planar reformatting (MPR), maximum intensity projection (MIP) and volumes, through hands-on exercises delivered by experienced clinical applications instructors.<BR>Each course module reinforces standardised learning methodology with step-by-step instruction for image acquisition, protocol assignment, case analysis and image distribution. <BR></P>

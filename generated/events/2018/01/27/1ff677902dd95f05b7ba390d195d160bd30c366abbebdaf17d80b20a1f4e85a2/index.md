@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517011200000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
+timeCreated: '1516622493675.0'
+timeUpdated: '1516622493675.0'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '1'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'KidHack: Arduino Electronics, Robotics & More'
-date: '1516535300751.0'
+date: '1516622493675.0'
 
 ---
 <p><b>UPDATE: Please purchase your entry ticket at our new KidHack website located here:</b> <a href="https://gctechspace.org/kidhack/"><a href="https://gctechspace.org/kidhack/" class="linkified">https://gctechspace.org/kidhack/</a></a></p> <p>The session running every 2 weeks was originally a Minecraft LAN party - but this has now expanded into a richer "KidHack" club. <b>$15 entry - Booking via our GCTechspace website is essential </b></p> <p>For those that may be participating in our Discovery workshops during the holidays we have opened up the TechSpace for kids that want to drop in and work on their projects during this time. This is generally self-paced but TechSpace mentors will be around to help you with any problems you might have.</p> <p>Some things you might want to work on:</p> <p>• Arduino Projects</p> <p>• Robotics using GCDuino and MiniMoto</p> <p>• Soldering (older kids only)</p> <p>Cost is $15 each (you <i>must</i> pre-book on gctechspace.org to attend).</p> 

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1518075000000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
-countAttending: '10'
+timeCreated: '1516622493675.0'
+timeUpdated: '1516622493675.0'
+countAttending: '13'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ venue:
   contactPhone: null
 layout: event
 title: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
-date: '1516535300751.0'
+date: '1516622493675.0'
 
 ---
 <p><img src="https://secure.meetupstatic.com/photos/event/4/4/8/2/600_461597538.jpeg" /></p> <p><b><i>Welcome to the Brisvegas AWS Security Meetup!</i></b></p> <p><br/>We have some great speakers we're lining up for this extra special event. Details to follow.</p> <p>Big shout out for <a href="https://aws.amazon.com/">AWS</a> who are sponsoring this event.</p> <p>Get the RSVPs rolling as we only have a limited number of tickets.</p> <p>See you there.</p> <p>Stephen</p> 

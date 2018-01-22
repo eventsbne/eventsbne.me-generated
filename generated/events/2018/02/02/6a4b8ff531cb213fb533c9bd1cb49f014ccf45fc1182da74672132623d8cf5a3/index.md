@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517551200000.0'
 timeEnd: '1517558400000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -15,6 +15,14 @@ url: >-
   https://www.eventbrite.com.au/e/river-city-labs-friday-open-house-tickets-39272943431?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38251345%2F36156522302%2F1%2Foriginal.jpg?s=e47cdd05d2ce4c279f5ec26f83e3237a
+organizer:
+  id: ba9f209ed3e149877388a1beee87f4344bac6e6153246b2d661e0efdaeac7fd0
+  remoteId: river-city-labs-2478778836
+  remoteIdType: eventbrite
+  name: River City Labs
+  url: 'https://www.eventbrite.com.au/o/river-city-labs-2478778836'
+  description: "River City Labs is a not for profit company formed to promote and develop early stage and start-up businesses and entrepreneurial activity in the mobile, Internet, telecoms and technology sector in Brisbane and surrounding regions in Australia.\\u00a0\\r\\n\\u00a0\\r\\n\\u00a0\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 venue:
   id: rcl
   remoteId: '25313549'
@@ -32,17 +40,9 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: ba9f209ed3e149877388a1beee87f4344bac6e6153246b2d661e0efdaeac7fd0
-  remoteId: river-city-labs-2478778836
-  remoteIdType: eventbrite
-  name: River City Labs
-  url: 'https://www.eventbrite.com.au/o/river-city-labs-2478778836'
-  description: "River City Labs is a not for profit company formed to promote and develop early stage and start-up businesses and entrepreneurial activity in the mobile, Internet, telecoms and technology sector in Brisbane and surrounding regions in Australia.\\u00a0\\r\\n\\u00a0\\r\\n\\u00a0\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 layout: event
 title: River City Labs Friday Open House
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>Join us for our monthly open house drinks. On our open house Fridays we open our doors to the community to give everyone a chance to drop in, meet the founders and entrepreneurs who run the Startups that call River City Labs home. Take a tour, walk through our venue and make some new connections.</P>

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516420800000.0'
 timeEnd: '1516426200000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to Tablets - Caboolture Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2>Learn the basics of using your Android tablet including apps, email, and the internet.</H2>

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1518062400000.0'
 timeEnd: '1518069600000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-ipads-albany-creek-library-tickets-37902263691?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31488707%2F175653860817%2F1%2Foriginal.jpg?s=886efbcb5e4ef98cbab03a63d556e478
-venue:
-  id: c246750672495d0277cf577c3eff7d686f06c6de5860eeb5c93c24fe0cb12cd3
-  remoteId: '15279906'
-  remoteIdType: eventbrite
-  name: Albany Creek Library
-  url: null
-  description: null
-  lat: '-27.344784'
-  lon: '152.96828900000003'
-  contactAddress: '16 Ferguson Street, Albany Creek, QLD 4035'
-  contactCity: Albany Creek
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
   remoteId: moreton-bay-region-libraries-10771695726
@@ -41,9 +28,22 @@ organizer:
     experience or current skill level. Bookings are essential for all computer
     and technology classes.
   codeOfConduct: null
+venue:
+  id: c246750672495d0277cf577c3eff7d686f06c6de5860eeb5c93c24fe0cb12cd3
+  remoteId: '15279906'
+  remoteIdType: eventbrite
+  name: Albany Creek Library
+  url: null
+  description: null
+  lat: '-27.344784'
+  lon: '152.96828900000003'
+  contactAddress: '16 Ferguson Street, Albany Creek, QLD 4035'
+  contactCity: Albany Creek
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Introduction to iPads - Albany Creek Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2><SPAN><SPAN>Learn the basics of using the iPad in this hands-on workshop, including getting started, downloading apps, email and the internet, and how to get the most out of your iPad.</SPAN> </SPAN></H2>

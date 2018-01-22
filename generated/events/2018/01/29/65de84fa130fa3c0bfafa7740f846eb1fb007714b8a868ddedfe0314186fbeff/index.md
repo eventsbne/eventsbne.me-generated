@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517212800000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
-countAttending: '15'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Presentation: Building AI with better quality'
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 <p>AI is already part of the standard toolset of many trailblazing technology companies. Running an Inception for an AI project is a bit different, and the difference brings some new challenges in the quality space.</p> <p>In this presentation, Hari will talk about how to build quality successfully in projects with an AI twist.</p> <p>Arrive anytime after 5.30pm for a 6pm start. Pizzas will be available on the night and are provided by ThoughtWorks.</p> <p>In case you arrive after 6pm and are not able to go up the elevator, please call ThoughtWorks on 3129 4506.</p> 

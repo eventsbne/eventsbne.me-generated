@@ -13,6 +13,14 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Docker-Brisbane-Australia/events/245929398/'
 image: null
+organizer:
+  id: a6c75d0e46dca965bb0baca69d15143aa7e30ae750995e3e4e644e2f76176d17
+  remoteId: '11898862'
+  remoteIdType: meetup
+  name: 'Docker Brisbane, Australia'
+  url: 'https://meetup.com/Docker-Brisbane-Australia'
+  description: null
+  codeOfConduct: null
 venue:
   id: 9e37fe5e9536399f11217631689923ece9bf885b1049a935b908ff5d00887e62
   remoteId: '24647707'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: a6c75d0e46dca965bb0baca69d15143aa7e30ae750995e3e4e644e2f76176d17
-  remoteId: '11898862'
-  remoteIdType: meetup
-  name: 'Docker Brisbane, Australia'
-  url: 'https://meetup.com/Docker-Brisbane-Australia'
-  description: null
-  codeOfConduct: null
 layout: event
 title: "Intro to Kubernetes with Scott Coulton, Docker Captain! Bring your laptop \U0001F4BB"
 date: '1514109667657.0'

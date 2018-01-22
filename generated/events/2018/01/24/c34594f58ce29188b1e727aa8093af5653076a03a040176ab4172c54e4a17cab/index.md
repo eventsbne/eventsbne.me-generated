@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516780800000.0'
 timeEnd: '1516788000000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '20'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com/e/january-lgbt-allies-in-tech-networking-drinks-tickets-41749035489?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39199416%2F51618020442%2F1%2Foriginal.jpg?s=6a40729380edd4f62d4e08803416eb14
-organizer:
-  id: lgbt
-  remoteId: brisbane-lgbt-amp-allies-in-tech-15524014714
-  remoteIdType: eventbrite
-  name: Brisbane LGBT & Allies in Tech
-  url: null
-  description: >-
-    Brisbane LGBT & Allies in Tech is a casual meet-up organised by Ash Kyd to
-    bring the community together and celebrate diversity in tech. It’s a great
-    place to meet and network with like-minded people. Join our Facebook group
-    to keep in touch.
-  codeOfConduct: >-
-    https://www.facebook.com/notes/brisbane-lgbt-allies-in-tech/code-of-conduct/350106142084029/
 venue:
   id: b29e256c867fd00f9c753be0049879bbab6be9c8d219086ea04e9506160a7e03
   remoteId: '22655865'
@@ -41,9 +28,22 @@ venue:
   contactCity: West End
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: lgbt
+  remoteId: brisbane-lgbt-amp-allies-in-tech-15524014714
+  remoteIdType: eventbrite
+  name: Brisbane LGBT & Allies in Tech
+  url: null
+  description: >-
+    Brisbane LGBT & Allies in Tech is a casual meet-up organised by Ash Kyd to
+    bring the community together and celebrate diversity in tech. It’s a great
+    place to meet and network with like-minded people. Join our Facebook group
+    to keep in touch.
+  codeOfConduct: >-
+    https://www.facebook.com/notes/brisbane-lgbt-allies-in-tech/code-of-conduct/350106142084029/
 layout: event
 title: January LGBT & Allies in Tech networking drinks
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>It's that time again. Come join the Brisbane LGBT &amp; Allies in Tech crew for drinks and chatting at the third of what's to become monthly pub meets!</P>

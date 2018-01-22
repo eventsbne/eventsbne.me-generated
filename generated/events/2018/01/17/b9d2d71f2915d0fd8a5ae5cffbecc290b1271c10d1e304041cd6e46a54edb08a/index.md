@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Women-in-Blockchain/events/246571862/'
 image: null
-organizer:
-  id: 21ee798e33c7cc405b71d2f2adfdf2118cba4556173b4b3f892a01e5a4943ea8
-  remoteId: '25004353'
-  remoteIdType: meetup
-  name: Brisbane Women in Blockchain
-  url: 'https://meetup.com/Brisbane-Women-in-Blockchain'
-  description: null
-  codeOfConduct: null
 venue:
   id: fishburners
   remoteId: '25001871'
@@ -38,6 +30,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 21ee798e33c7cc405b71d2f2adfdf2118cba4556173b4b3f892a01e5a4943ea8
+  remoteId: '25004353'
+  remoteIdType: meetup
+  name: Brisbane Women in Blockchain
+  url: 'https://meetup.com/Brisbane-Women-in-Blockchain'
+  description: null
+  codeOfConduct: null
 layout: event
 title: 'Women in Blockchain: Talking with Emma Weston, Co-Founder and CEO, AgriDigital'
 date: '1516109951367.0'

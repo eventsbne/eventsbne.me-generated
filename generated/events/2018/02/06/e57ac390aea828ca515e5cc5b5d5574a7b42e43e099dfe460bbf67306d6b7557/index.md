@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517886000000.0'
 timeEnd: '1517893200000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '5'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Computers for Beginners - Arana Hills Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2 CLASS="MsoNormal"><SPAN>Are you interested in learning to use computers or the internet, but not sure where to start?</SPAN></H2>

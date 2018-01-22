@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1518742800000.0'
 timeEnd: '1518746400000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -43,7 +43,7 @@ venue:
   contactPhone: null
 layout: event
 title: Introduction to iPads - Bribie Island
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2><SPAN><SPAN>Learn the basics of using the iPad in this hands-on workshop, including getting started, downloading apps, email and the internet, and how to get the most out of your iPad.</SPAN> </SPAN></H2>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517868000000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
-countAttending: '2'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '23'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: World Retrospective Day - Lean Coffee
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 <p>Hi all,</p> <p>It's world retrospective day on Tuesday 6th February. Check out - <a href="http://worldretroday.com/" class="linkified">http://worldretroday.com/</a></p> <p>For this auspicious day we are going to move our February Lean Coffee to Tuesday 6th and have a special Retrospective theme.</p> <p>------------------------------</p> <p>What is Lean Coffee?</p> <p>Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated. More info via: <a href="http://leancoffee.org/" class="linkified">http://leancoffee.org/</a></p> <p>What do I need to bring?</p> <p>Yourself :-) Post-it notes and pens will be provided. Elabor8 (<a href="https://elabor8.com.au/" class="linkified">https://elabor8.com.au/</a>) provides coffees and hot chocolates for all.</p> 

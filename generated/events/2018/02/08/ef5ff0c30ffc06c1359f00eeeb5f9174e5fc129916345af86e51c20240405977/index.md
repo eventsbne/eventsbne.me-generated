@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1518076800000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
-countAttending: '2'
+timeCreated: '1516622493675.0'
+timeUpdated: '1516622493675.0'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Kick off 2018
-date: '1516535300751.0'
+date: '1516622493675.0'
 
 ---
 <p>Great things are brewing for the year ahead. Check back soon!</p> 

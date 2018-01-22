@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Product-of-BNE/events/246855443/'
 image: null
-organizer:
-  id: 575237004773a91f1c1ac3c73299034aafb6b611496f95d29b7e155bf90b3a01
-  remoteId: '19650437'
-  remoteIdType: meetup
-  name: Product of BNE
-  url: 'https://meetup.com/Product-of-BNE'
-  description: null
-  codeOfConduct: null
 venue:
   id: 4ca5d2b276e24c1dbfd5c95b7471652e57d2f1050014e276658491160d5e5084
   remoteId: '25364762'
@@ -34,6 +26,14 @@ venue:
   contactCity: New Farm
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 575237004773a91f1c1ac3c73299034aafb6b611496f95d29b7e155bf90b3a01
+  remoteId: '19650437'
+  remoteIdType: meetup
+  name: Product of BNE
+  url: 'https://meetup.com/Product-of-BNE'
+  description: null
+  codeOfConduct: null
 layout: event
 title: "Community Breakfast \U0001F469\U0001F3FB‍\U0001F3EB\U0001F951"
 date: '1516184053247.0'

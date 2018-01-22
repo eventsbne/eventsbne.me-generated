@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Fishburners-Brisbane/events/246601254/'
 image: null
-organizer:
-  id: 091dd6af2d48c6c4edd17d82e0e76069b112b6d786fc896188b0a8d37077fa7b
-  remoteId: '21156484'
-  remoteIdType: meetup
-  name: Fishburners Brisbane
-  url: 'https://meetup.com/Fishburners-Brisbane'
-  description: null
-  codeOfConduct: null
 venue:
   id: b7002b7e4a5e5012becebed4e4991a35d350e61ad0af27aca58d4c28be6222b6
   remoteId: '25001871'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 091dd6af2d48c6c4edd17d82e0e76069b112b6d786fc896188b0a8d37077fa7b
+  remoteId: '21156484'
+  remoteIdType: meetup
+  name: Fishburners Brisbane
+  url: 'https://meetup.com/Fishburners-Brisbane'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Fishburners Community Friday Pitches & Drinks
 date: '1516106889506.0'

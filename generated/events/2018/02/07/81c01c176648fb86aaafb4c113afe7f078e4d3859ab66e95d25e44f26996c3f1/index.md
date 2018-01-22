@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517976000000.0'
 timeEnd: '1517979600000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '5'
 countWaitlist: null
@@ -43,7 +43,7 @@ venue:
   contactPhone: null
 layout: event
 title: Introduction to Tablets - North Lakes Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2>Learn the basics of using your Android tablet including apps, email and the internet.</H2>

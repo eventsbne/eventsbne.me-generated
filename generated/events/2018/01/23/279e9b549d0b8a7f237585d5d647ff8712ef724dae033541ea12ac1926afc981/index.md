@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1516696200000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
-countAttending: '24'
+timeCreated: '1516622493675.0'
+timeUpdated: '1516622493675.0'
+countAttending: '30'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ venue:
   contactPhone: 3403 2590
 layout: event
 title: BrisRuby.com Monthly  Meetup
-date: '1516535300751.0'
+date: '1516622493675.0'
 
 ---
 <p>Monthly BrisRuby meetup (4th Tuesday of each month)</p> <p>Dr Nic Williams - Testing and deploying Ruby with Concourse CI</p> <p>Andrew McCluskey - Functional programming and Ruby</p> <p>6:30PM start, arrive any time after 5:30pm</p> <p>Dinner afterwards at 8pm</p> 

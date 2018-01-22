@@ -2,15 +2,15 @@
 title: Events for 2018/02/18
 layout: event-index
 events:
-  - name: '3D Printer: Build to Keep across 4 weekly workshops'
-    uri: >-
-      /events/2018/02/18/f73b3433d6d41a633bff49383c01d469bb76b3d92d9172ec1033af6cb6d54e6e
-    organizer: Startup Ipswich
-    timeStart: 1518912000000
   - name: '3D Printer: Build to Keep'
     uri: >-
       /events/2018/02/18/7b51f33e5831a17a822dc2310d6e4e592f61f11aca8d79f55370cbdfd701d06a
     organizer: HS Ipswich Inc.
+    timeStart: 1518912000000
+  - name: '3D Printer: Build to Keep across 4 weekly workshops'
+    uri: >-
+      /events/2018/02/18/f73b3433d6d41a633bff49383c01d469bb76b3d92d9172ec1033af6cb6d54e6e
+    organizer: Startup Ipswich
     timeStart: 1518912000000
   - name: >-
       Let's discuss Bitcoin and cryptocurrencies and if you're new how to get

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516316400000.0'
 timeEnd: '1516327200000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '13'
 countWaitlist: null
@@ -40,7 +40,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Minecraft - Friday 19th January
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>Come together to help us build a shared Minecraft world in this Minecraft engineering session. You'll need to work as a team and co-operate with other participants to build a great city. We'll setup a shared server that all members can use and build on. We will have our server setup with land claims, this allows you to mark out a space that only you can build on (unless you grant rights to others).</P>

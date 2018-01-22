@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517353200000.0'
 timeEnd: '1517374800000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -53,7 +53,7 @@ venue:
   contactPhone: null
 layout: event
 title: Career Development Workshop for IT Undergraduates 2018
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>In conjunction with Australian Computer Science Week 2018, The University of Queensland will host an industry-focused workshop, aimed at boosting your employability when entering the competitive global IT industry.</P>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517011200000.0'
 timeEnd: null
-timeCreated: '1516535300751.0'
-timeUpdated: '1516535300751.0'
-countAttending: '3'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Hack and Race
-date: '1516535300751.0'
+date: '1516622493676.0'
 
 ---
 No description was provided.

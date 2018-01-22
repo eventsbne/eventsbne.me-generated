@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-3D-Printing-Meetup/events/246473807/'
 image: null
-organizer:
-  id: 37ab319adf2a1f8a6155e70c0fda6462414dcbdef758b625cf7f6b8dda632ec0
-  remoteId: '12801472'
-  remoteIdType: meetup
-  name: Brisbane 3D Printing Meetup
-  url: 'https://meetup.com/Brisbane-3D-Printing-Meetup'
-  description: null
-  codeOfConduct: null
 venue:
   id: e5821d91f6b03372f920b4ec1f2feb5e1790f7d8961439a8fce0bd4c349500ca
   remoteId: '25679906'
@@ -34,6 +26,14 @@ venue:
   contactCity: Fortitude Valley
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 37ab319adf2a1f8a6155e70c0fda6462414dcbdef758b625cf7f6b8dda632ec0
+  remoteId: '12801472'
+  remoteIdType: meetup
+  name: Brisbane 3D Printing Meetup
+  url: 'https://meetup.com/Brisbane-3D-Printing-Meetup'
+  description: null
+  codeOfConduct: null
 layout: event
 title: 'Starting 2018 with a Bang! '
 date: '1516109951366.0'

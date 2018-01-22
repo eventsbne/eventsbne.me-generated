@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517468400000.0'
 timeEnd: '1517472000000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '200'
 countWaitlist: null
@@ -47,7 +47,7 @@ venue:
   contactPhone: null
 layout: event
 title: GAMSAT Brisbane Free Seminar | Gold Standard GAMSAT
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>Gold Standard GAMSAT is coming to a campus near you! Dr. Brett Ferdinand will be holding a free GAMSAT problem-based learning session (approximately 1 hour) at the University of Queensland on February 1, 2018, at 5:00 pm.</P>

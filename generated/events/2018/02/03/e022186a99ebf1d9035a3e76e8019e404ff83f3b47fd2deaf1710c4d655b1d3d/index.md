@@ -15,6 +15,14 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-html-css-code-a-website-in-a-day-tickets-39240108220?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38443534%2F206754696318%2F1%2Foriginal.jpg?s=3abd96b174ab2e954e2ac07cfe200b7b
+organizer:
+  id: c09d3930b7bec67d99bf88ac9fdcf1a7a03637e60b62120ab862fb5897761477
+  remoteId: meeum-14111147392
+  remoteIdType: eventbrite
+  name: Meeum
+  url: 'https://www.eventbrite.com.au/o/meeum-14111147392'
+  description: "Coding is our business\\r\\nAt meeum, we believe that coding is for everyone. Our mission is getting you started in programming in the best possible way.\\r\\nWe are passionate about teaching the foundations of coding, teaching it well and giving you the confidence to take it where you want. We don\\u2019t make things complicated when they can be easily understood.\\r\\nThis is a world, a skill-set and an opportunity that is open to everyone. We\\u2019re ready to get you started, we\\u2019re serious about how a little bit of code knowledge can go a long way.\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 venue:
   id: a29946a91b2d5bcb6605ed25a1721dc083379cf3d4ac912e7d6500ec81351499
   remoteId: '21791583'
@@ -28,14 +36,6 @@ venue:
   contactCity: West End
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: c09d3930b7bec67d99bf88ac9fdcf1a7a03637e60b62120ab862fb5897761477
-  remoteId: meeum-14111147392
-  remoteIdType: eventbrite
-  name: Meeum
-  url: 'https://www.eventbrite.com.au/o/meeum-14111147392'
-  description: "Coding is our business\\r\\nAt meeum, we believe that coding is for everyone. Our mission is getting you started in programming in the best possible way.\\r\\nWe are passionate about teaching the foundations of coding, teaching it well and giving you the confidence to take it where you want. We don\\u2019t make things complicated when they can be easily understood.\\r\\nThis is a world, a skill-set and an opportunity that is open to everyone. We\\u2019re ready to get you started, we\\u2019re serious about how a little bit of code knowledge can go a long way.\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 layout: event
 title: Introduction to HTML & CSS – Code a website in a day
 date: '1516106511226.0'

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519786800000.0'
 timeEnd: '1519794000000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '55'
 countWaitlist: null
@@ -46,7 +46,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Medical Research and Innovation – Strategies for Success | Brisbane
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H3><STRONG>Medical Research and Innovation – <BR></STRONG><STRONG>strategies for success</STRONG></H3>

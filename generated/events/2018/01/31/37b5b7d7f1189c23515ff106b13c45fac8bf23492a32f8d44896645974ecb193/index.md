@@ -5,22 +5,14 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517385600000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
-countAttending: '15'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Ipswich-WordPress-Meetup/events/246893230/'
 image: null
-organizer:
-  id: fb82e174261afef4e9e9a5e69fa43309df778ac62a7c10a33eadca6108dd0f4c
-  remoteId: '20631498'
-  remoteIdType: meetup
-  name: Ipswich WordPress Meetup
-  url: 'https://meetup.com/Ipswich-WordPress-Meetup'
-  description: null
-  codeOfConduct: null
 venue:
   id: bfad061d4896a4405683107358ece427775f87f4289cb171fe9cd9fc229d4fa6
   remoteId: '24394056'
@@ -34,9 +26,17 @@ venue:
   contactCity: Ipswich
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: fb82e174261afef4e9e9a5e69fa43309df778ac62a7c10a33eadca6108dd0f4c
+  remoteId: '20631498'
+  remoteIdType: meetup
+  name: Ipswich WordPress Meetup
+  url: 'https://meetup.com/Ipswich-WordPress-Meetup'
+  description: null
+  codeOfConduct: null
 layout: event
 title: WordPress Ipswich January Meetup
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 <p>Welcome everyone to 2018! To kick off the year we'll have Ricky Blacker from WP Engine coming to talk about the new features of the WordPress Customizer, which has made updating and previewing changes to your theme even easier. If you don't know what the Customizer is, then this will also be a perfect opportunity to see it in action and see what's possible.</p> <p>A reminder also that WordPress 4.9.2 has just been released, which patches a security vulnerability. We recommend ensuring you have a backup and update regularly.</p> <p>Drinks and pizza are also provided, thanks to our gracious sponsors Fire Station 101, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p> <p>The WordPress Meetups are community driven and focused. Anyone with an interest in WordPress is very welcome to attend, we have members who range from bloggers and basic business owners who use WordPress through to designers and developers who have high levels of knowledge.</p> 

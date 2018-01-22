@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519790400000.0'
 timeEnd: '1519794000000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '4'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to Social Media - Burpengary Library
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <H2>Learn how to connect with family and friends on Facebook, Twitter, Pinterest and more.</H2>

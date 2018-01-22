@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1518593400000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
-countAttending: '33'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '35'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ venue:
   contactPhone: null
 layout: event
 title: Transformation Achieved - Windows Nanoserver Container Toolchain on Azure
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 <p>This session will have <i>"aha!"</i> moments for everybody, sysadmins and developers alike. During this session we will go from nothing to a functioning deployment pipeline in <b>VSTS</b> to <b>Kubernetes</b> on Azure hosting a highly flexible and resilient application running on <b>Windows Nanoserver</b>. </p> <p>• How do we build the container? </p> <p>• How do we build the pipeline?</p> <p>• How do we monitor our application once it is deployed? </p> <p> Also, a bit of a critical look at Nanoserver itself. Be prepared for some strong opinions on everything.</p> <p><i>About the Presenter</i></p> <p><b>David O'Brien</b> is a Senior DevOps Consultant in Melbourne focusing on mainly Microsoft stacks in the cloud. He has held a Microsoft MVP award for 5 years and lately got awarded MVP for Azure. The founder and organiser of the Melbourne PowerShell Meetup, he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's blog can be found on <a href="https://david-obrien.net" class="linkified">https://david-obrien.net</a> . In addition to blogging he has also published online training courses on Pluralsight.</p> 

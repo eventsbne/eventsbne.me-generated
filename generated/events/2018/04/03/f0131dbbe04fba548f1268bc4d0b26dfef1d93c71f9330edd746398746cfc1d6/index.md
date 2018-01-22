@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1522753200000.0'
 timeEnd: '1522823400000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -15,14 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/indonesia-in-an-era-of-global-change-tickets-41100326182?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38479734%2F92902099135%2F1%2Foriginal.jpg?s=ba070a31e39573703d6e3da9ea4bed73
-organizer:
-  id: 3a32eb532e02a84817b10ba4e83a099c4745a104b57da26e33c8cbaaf7e6830b
-  remoteId: lee-wilson-15944911511
-  remoteIdType: eventbrite
-  name: Lee Wilson
-  url: 'https://www.eventbrite.com.au/o/lee-wilson-15944911511'
-  description: E.l.wilson7@uq.edu.au T. +61 7 3443 3155
-  codeOfConduct: null
 venue:
   id: dd72b8c1a54ea71306f8d73eb47756a327a06013110a09c1bf7ec230db43cfc5
   remoteId: '22413270'
@@ -36,9 +28,17 @@ venue:
   contactCity: Saint Lucia
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 3a32eb532e02a84817b10ba4e83a099c4745a104b57da26e33c8cbaaf7e6830b
+  remoteId: lee-wilson-15944911511
+  remoteIdType: eventbrite
+  name: Lee Wilson
+  url: 'https://www.eventbrite.com.au/o/lee-wilson-15944911511'
+  description: E.l.wilson7@uq.edu.au T. +61 7 3443 3155
+  codeOfConduct: null
 layout: event
 title: Indonesia in an era of Global Change
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P><STRONG>We are living in an age of unparalleled global change.</STRONG></P>

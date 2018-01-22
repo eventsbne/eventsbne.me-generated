@@ -1,4 +1,5 @@
 {
+  "timezone": "Australia/Brisbane",
   "lat": -27.466667,
   "lon": 153.033333,
   "cacheTime": 2592000000,

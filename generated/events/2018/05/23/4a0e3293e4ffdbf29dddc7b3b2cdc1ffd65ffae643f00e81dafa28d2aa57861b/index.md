@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.co.nz/e/data-vault-20-boot-camp-certification-brisbane-feb-27th-2018-tickets-41200528891?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38580156%2F199814216680%2F1%2Foriginal.jpg?s=0a9434403c426249dce5162886e6586b
-venue:
-  id: d3c2366db463ec74a22bdcb4ce9d1bf924e75f7f385a19cb1f9a3ae792495f3a
-  remoteId: '19722453'
-  remoteIdType: eventbrite
-  name: Certus Solutions
-  url: null
-  description: null
-  lat: '-27.4674011'
-  lon: '153.0286516'
-  contactAddress: 'Level 19, 307 Queen Street, Brisbane, Queensland 4000'
-  contactCity: Brisbane
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: 3a72c1ae116ef855ef9a5cb3b95d2527b7b6129dee53a5dd9ba0d417121f7b80
   remoteId: certus-solutions-12736800841
@@ -42,6 +29,19 @@ organizer:
     are the only authorised supplier of Data vault 2.0 training in Australia and
     New Zealand.\u00a0
   codeOfConduct: null
+venue:
+  id: d3c2366db463ec74a22bdcb4ce9d1bf924e75f7f385a19cb1f9a3ae792495f3a
+  remoteId: '19722453'
+  remoteIdType: eventbrite
+  name: Certus Solutions
+  url: null
+  description: null
+  lat: '-27.4674011'
+  lon: '153.0286516'
+  contactAddress: 'Level 19, 307 Queen Street, Brisbane, Queensland 4000'
+  contactCity: Brisbane
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Data Vault 2.0 Boot Camp & Certification - BRISBANE FEB 27TH 2018
 date: '1516106511226.0'

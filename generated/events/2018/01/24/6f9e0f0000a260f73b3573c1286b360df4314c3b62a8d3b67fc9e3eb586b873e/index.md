@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1516784400000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
-countAttending: '100'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
+countAttending: '132'
 countCapacity: null
-countWaitlist: '7'
+countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Ethereum-Brisbane/events/246693946/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Blockchain Deep Dive. BTC, XMR, LTC, IOTA + Ethlend Presentation'
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 <p>Hey Everyone,</p> <p>This will be a dedicated Ethereum Brisbane meetup, with Jack Tanner taking us deeper down the rabbit hole &amp; exploring the different kinds of crypto currencies &amp; the blockchain variants they're built on.</p> <p>This will be a more technical overview, so be prepared to learn some new things.</p> <p>We're also going to have a presentation at the end from the EthLend guys.<br/>Be sure to hang around for that too!</p> <p>Venue is TBC right now. It will either be Thoughtworks in the city or Valley Iconic in the Valley,<br/>Speak soon!</p> <p>Aleks &amp; Tom</p> 

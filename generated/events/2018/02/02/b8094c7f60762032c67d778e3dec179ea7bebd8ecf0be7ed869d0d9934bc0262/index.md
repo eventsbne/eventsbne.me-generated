@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517526000000.0'
 timeEnd: '1517551200000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -15,14 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/river-city-labs-open-co-working-day-tickets-41802278741?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32687368%2F36156522302%2F1%2Foriginal.jpg?s=9b6c60e2bbad32560b635539269965dc
-organizer:
-  id: ba9f209ed3e149877388a1beee87f4344bac6e6153246b2d661e0efdaeac7fd0
-  remoteId: river-city-labs-2478778836
-  remoteIdType: eventbrite
-  name: River City Labs
-  url: 'https://www.eventbrite.com.au/o/river-city-labs-2478778836'
-  description: "River City Labs is a not for profit company formed to promote and develop early stage and start-up businesses and entrepreneurial activity in the mobile, Internet, telecoms and technology sector in Brisbane and surrounding regions in Australia.\\u00a0\\r\\n\\u00a0\\r\\n\\u00a0\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 venue:
   id: rcl
   remoteId: '25313549'
@@ -40,9 +32,17 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: ba9f209ed3e149877388a1beee87f4344bac6e6153246b2d661e0efdaeac7fd0
+  remoteId: river-city-labs-2478778836
+  remoteIdType: eventbrite
+  name: River City Labs
+  url: 'https://www.eventbrite.com.au/o/river-city-labs-2478778836'
+  description: "River City Labs is a not for profit company formed to promote and develop early stage and start-up businesses and entrepreneurial activity in the mobile, Internet, telecoms and technology sector in Brisbane and surrounding regions in Australia.\\u00a0\\r\\n\\u00a0\\r\\n\\u00a0\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 layout: event
 title: River City Labs Open Co-Working Day
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P>What is it like to work at River City Labs? Come in and find out.</P>

@@ -5,22 +5,14 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517904000000.0'
 timeEnd: null
-timeCreated: '1516535300752.0'
-timeUpdated: '1516535300752.0'
+timeCreated: '1516622493676.0'
+timeUpdated: '1516622493676.0'
 countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/cocoaheads/events/245457980/'
 image: null
-organizer:
-  id: 53a2922618215d8fdb2399bfa1745a280616cb16bd4e971158dc4413eda32c50
-  remoteId: '1461050'
-  remoteIdType: meetup
-  name: CocoaHeads
-  url: 'https://meetup.com/cocoaheads'
-  description: null
-  codeOfConduct: null
 venue:
   id: 6543b9ad19bb37d307d7ed9c434f1b4c139312c28f6642eeb0d95815eb204559
   remoteId: '25216904'
@@ -34,9 +26,17 @@ venue:
   contactCity: Fortitude Valley
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 53a2922618215d8fdb2399bfa1745a280616cb16bd4e971158dc4413eda32c50
+  remoteId: '1461050'
+  remoteIdType: meetup
+  name: CocoaHeads
+  url: 'https://meetup.com/cocoaheads'
+  description: null
+  codeOfConduct: null
 layout: event
 title: CocoaHeads Brisbane Meetup
-date: '1516535300752.0'
+date: '1516622493676.0'
 
 ---
 <p>Join iOS/macOS/swift developers for pizza, drinks, news and talks about what we're working on.</p> 

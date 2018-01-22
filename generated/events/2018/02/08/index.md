@@ -12,16 +12,16 @@ events:
       /events/2018/02/08/53ab9dd1702026a5ec2c4b6db37d297331e2b4c0082d59d462339926374e3f72
     organizer: Moreton Bay Region Libraries
     timeStart: 1518062400000
-  - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
-    uri: >-
-      /events/2018/02/08/6d5d20a6395a055555eb4014c10987036daa3b14c114b4a3c9bca5c70b043b2a
-    organizer: Brisbane AWS Security User Group
-    timeStart: 1518075000000
   - name: Women's Cocktail Hour
     uri: >-
       /events/2018/02/08/75ebcd16585e67fae315ee5969541d97754f644919900c968b1e2708d708008b
     organizer: Brisbane Artificial Intelligence
     timeStart: 1518073200000
+  - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
+    uri: >-
+      /events/2018/02/08/6d5d20a6395a055555eb4014c10987036daa3b14c114b4a3c9bca5c70b043b2a
+    organizer: Brisbane AWS Security User Group
+    timeStart: 1518075000000
   - name: '[Fortitude Valley] WordPress Brisbane Feb TBA'
     uri: >-
       /events/2018/02/08/713906f807f248e16f95eaacc9f449670535439bd4632dd1584c4abf33f7c890

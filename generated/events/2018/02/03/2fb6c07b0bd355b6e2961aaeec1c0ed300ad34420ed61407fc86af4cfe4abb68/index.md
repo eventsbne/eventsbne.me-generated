@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517612400000.0'
 timeEnd: '1517641200000.0'
-timeCreated: '1516535297508.0'
-timeUpdated: '1516535297508.0'
+timeCreated: '1516622491269.0'
+timeUpdated: '1516622491269.0'
 countAttending: null
 countCapacity: '80'
 countWaitlist: null
@@ -15,6 +15,17 @@ url: >-
   https://www.eventbrite.com.au/e/elixir-girls-brisbane-2018-tickets-41636449742?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39064735%2F143875277057%2F1%2Foriginal.jpg?s=bcdd52d35e1f874d007546e5994db621
+organizer:
+  id: 8208208d6215c9dc904441637e339e2b10371512eb82e43476707b8047deb3e7
+  remoteId: rails-girls-brisbane-8197509682
+  remoteIdType: eventbrite
+  name: Rails Girls Brisbane
+  url: 'https://www.eventbrite.com.au/o/rails-girls-brisbane-8197509682'
+  description: >-
+    Rails Girls Brisbane is a team of two Rails Girls alumni who are now working
+    in the industry. Rails Girls gave us a fantastic head start and now we are
+    giving back.
+  codeOfConduct: null
 venue:
   id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
   remoteId: null
@@ -28,20 +39,9 @@ venue:
   contactCity: null
   contactCountry: null
   contactPhone: null
-organizer:
-  id: 8208208d6215c9dc904441637e339e2b10371512eb82e43476707b8047deb3e7
-  remoteId: rails-girls-brisbane-8197509682
-  remoteIdType: eventbrite
-  name: Rails Girls Brisbane
-  url: 'https://www.eventbrite.com.au/o/rails-girls-brisbane-8197509682'
-  description: >-
-    Rails Girls Brisbane is a team of two Rails Girls alumni who are now working
-    in the industry. Rails Girls gave us a fantastic head start and now we are
-    giving back.
-  codeOfConduct: null
 layout: event
 title: Elixir Girls Brisbane 2018
-date: '1516535297508.0'
+date: '1516622491269.0'
 
 ---
 <P><SPAN><SPAN><SPAN><SPAN>Become a part of history: the very first Elixir Girls Brisbane!</SPAN></SPAN></SPAN></SPAN></P>
