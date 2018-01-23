@@ -13,6 +13,14 @@ countWaitlist: '37'
 price: null
 url: 'https://www.meetup.com/Ethereum-Brisbane/events/246638604/'
 image: null
+organizer:
+  id: 4b7b7c8df265e3e16d0ed7e62819499ce157821ec8ac1d33844da2a5ebb11243
+  remoteId: '18870029'
+  remoteIdType: meetup
+  name: Ethereum Brisbane
+  url: 'https://meetup.com/Ethereum-Brisbane'
+  description: null
+  codeOfConduct: null
 venue:
   id: 411882d068b2e9b02e0f66bd0dd5e600f9efcb5c8dadab1fd63a94123a36d833
   remoteId: '25564528'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 4b7b7c8df265e3e16d0ed7e62819499ce157821ec8ac1d33844da2a5ebb11243
-  remoteId: '18870029'
-  remoteIdType: meetup
-  name: Ethereum Brisbane
-  url: 'https://meetup.com/Ethereum-Brisbane'
-  description: null
-  codeOfConduct: null
 layout: event
 title: >-
   Bitcoin and Blockchain explained for non-technicals (RSVP's open 3 days

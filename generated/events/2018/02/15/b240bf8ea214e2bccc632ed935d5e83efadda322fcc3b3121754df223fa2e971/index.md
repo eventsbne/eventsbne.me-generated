@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1518656400000.0'
 timeEnd: null
-timeCreated: '1516622493676.0'
-timeUpdated: '1516622493676.0'
+timeCreated: null
+timeUpdated: '1516710148859.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -39,7 +39,7 @@ layout: event
 title: >-
   Let's discuss Bitcoin and cryptocurrencies and if you're new how to get
   started
-date: '1516622493676.0'
+date: null
 
 ---
 <p>• What we'll do<br/>sharing and discussing news, tips, insights and helping newbies</p> <p>• What to bring<br/>pen and paper and money for a cup of coffee</p> <p>• Important to know</p> 

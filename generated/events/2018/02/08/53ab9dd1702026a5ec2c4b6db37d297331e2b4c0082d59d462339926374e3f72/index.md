@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1518062400000.0'
 timeEnd: '1518069600000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -43,7 +43,7 @@ venue:
   contactPhone: null
 layout: event
 title: Introduction to iPads - Albany Creek Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2><SPAN><SPAN>Learn the basics of using the iPad in this hands-on workshop, including getting started, downloading apps, email and the internet, and how to get the most out of your iPad.</SPAN> </SPAN></H2>

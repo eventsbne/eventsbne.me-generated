@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516780800000.0'
 timeEnd: '1516788000000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '20'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
     https://www.facebook.com/notes/brisbane-lgbt-allies-in-tech/code-of-conduct/350106142084029/
 layout: event
 title: January LGBT & Allies in Tech networking drinks
-date: '1516622491269.0'
+date: null
 
 ---
 <P>It's that time again. Come join the Brisbane LGBT &amp; Allies in Tech crew for drinks and chatting at the third of what's to become monthly pub meets!</P>

@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Gold-Coast-Azure-NET-User-Group/events/246038403/'
 image: null
-organizer:
-  id: bdfc73c3f1983624c680a7dae207a3f943ff81c06008b62c218ce21afe37224d
-  remoteId: '25139790'
-  remoteIdType: meetup
-  name: Gold Coast Azure / .NET User Group
-  url: 'https://meetup.com/Gold-Coast-Azure-NET-User-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: d59b304df66a94692cbf42980b93e95bbb728e669b22040ca5a117883facff07
   remoteId: '25390933'
@@ -34,6 +26,14 @@ venue:
   contactCity: Broadbeach
   contactCountry: Australia
   contactPhone: +61 424 506 717
+organizer:
+  id: bdfc73c3f1983624c680a7dae207a3f943ff81c06008b62c218ce21afe37224d
+  remoteId: '25139790'
+  remoteIdType: meetup
+  name: Gold Coast Azure / .NET User Group
+  url: 'https://meetup.com/Gold-Coast-Azure-NET-User-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: January Double Header - ASP.NET Core On Linux + Using Cortana to Manage Azure
 date: '1516541596328.0'

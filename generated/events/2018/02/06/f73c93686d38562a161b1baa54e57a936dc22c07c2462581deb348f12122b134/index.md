@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517907600000.0'
 timeEnd: null
-timeCreated: '1516622493676.0'
-timeUpdated: '1516622493676.0'
+timeCreated: null
+timeUpdated: '1516710148859.0'
 countAttending: '10'
 countCapacity: null
 countWaitlist: '3'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
-date: '1516622493676.0'
+date: null
 
 ---
 <p>• What we'll do<br/>Hi we would love to talk crypto with some people with experience of 2 or 3 or more currencies. Discuss ICO's, mining and security etc. We will hold some larger scale events for beginners soon too.<br/>Excited to meet you<br/>Michael and Yoriko</p> <p>• What to bring<br/>Laptop and favorite beverage (if you wish).</p> 

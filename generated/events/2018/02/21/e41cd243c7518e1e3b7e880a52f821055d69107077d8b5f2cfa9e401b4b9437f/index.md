@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1519200000000.0'
 timeEnd: null
-timeCreated: '1516622493676.0'
-timeUpdated: '1516622493676.0'
-countAttending: '6'
+timeCreated: null
+timeUpdated: '1516710148859.0'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -23,7 +23,7 @@ organizer:
   codeOfConduct: null
 venue:
   id: rcl
-  remoteId: '25313549'
+  remoteId: '25506825'
   remoteIdType: meetup
   name: River City Labs
   url: 'https://www.rivercitylabs.net/'
@@ -32,15 +32,15 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4529113769531'
-  lon: '153.029159545898'
-  contactAddress: 'Level 3, 315 Brunswick St  FORTITUDE VALLEY, QLD 4000'
+  lat: '-27.4583797454834'
+  lon: '153.034164428711'
+  contactAddress: 'Level 3 TCB Building, 315 Brunswick Street, Fortitude Valley '
   contactCity: Brisbane
   contactCountry: Australia
-  contactPhone: null
+  contactPhone: '+61490021800'
 layout: event
 title: Web Scraping with R
-date: '1516622493676.0'
+date: null
 
 ---
 <p>• What we'll do<br/>We'll discuss the ins and outs of these two web scraping themed R blog posts:</p> <p><a href="http://www.masalmon.eu/2017/10/02/guardian-experience/" class="linkified">http://www.masalmon.eu/2017/10/02/guardian-experience/</a><br/><a href="http://www.masalmon.eu/2017/04/30/radioedit/" class="linkified">http://www.masalmon.eu/2017/04/30/radioedit/</a></p> <p>After that there'll be some time for people to have a hack at a scraping themselves.</p> <p>• What to bring<br/>Your laptop with R &amp; RStudio installed.</p> <p>• Important to know<br/>Make an effort to read the blog posts on web scraping ahead of time so you can participate in the discussion. You don't need to understand them fully, bring your quesitons along!</p> 

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516263300000.0'
 timeEnd: '1516272300000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146392.0'
 countAttending: null
 countCapacity: '240'
 countWaitlist: null
@@ -79,7 +79,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Bitcoin and Blockchain explained for non-technicals
-date: '1516622491269.0'
+date: null
 
 ---
 <P><STRONG>NOTE: Only registrations through the Eventbrite page will be considered as attendees. Please go to <A HREF="https://www.eventbrite.com/e/bitcoin-and-blockchain-exlplained-for-non-technicals-tickets-41480722959" TARGET="_blank" REL="noopener noreferrer noopener noreferrer">https://www.eventbrite.com/e/bitcoin-and-blockchain-exlplained-for-non-technicals-tickets-41480722959</A> to sign up for this event.</STRONG></P>

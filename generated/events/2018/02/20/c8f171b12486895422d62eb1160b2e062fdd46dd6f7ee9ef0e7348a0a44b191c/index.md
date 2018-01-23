@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1519081200000.0'
 timeEnd: null
-timeCreated: '1516622493676.0'
-timeUpdated: '1516622493676.0'
+timeCreated: null
+timeUpdated: '1516710148859.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Turning Clients into Contacts: How to Rock at Networking Workshop'
-date: '1516622493676.0'
+date: null
 
 ---
 <p><b>Learn How to Build Connections, Rapport and Business </b></p> <p><b>through Live Events &amp; Online Strategies</b></p> <p><br/>Isn't it time you made the most out of attending Netoworking events?</p> <p>Instead of just heading out to event, talking all night, then coming home with no new connections or opportunities, let's work on the strategies that will save you time and money.</p> <p>Call it Networking or Business Relationship Building - either way creating effective connections to create repeat business and referrals is a must.</p> <p>No matter whether you class yourself as an Introvert or Extrovert, you CAN grow your business through networking, and... in a way that you FEEL comfortable.</p> <p>So, let's develop a plan and leverage your network using both at live events and with online platforms. With techniques on what to do at events, as well as the use of social media strategies, come and learn how to connect to the 'right people'.</p> <p>

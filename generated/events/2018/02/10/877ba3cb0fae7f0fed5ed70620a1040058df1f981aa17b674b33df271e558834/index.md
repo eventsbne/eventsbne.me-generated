@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1518220800000.0'
 timeEnd: '1518246000000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '40'
 countWaitlist: null
@@ -40,7 +40,7 @@ venue:
   contactPhone: null
 layout: event
 title: Assemble your own 3D printer and learn how to use it
-date: '1516622491269.0'
+date: null
 
 ---
 <P><SPAN></SPAN>Learn about the fast-growing world of 3D printing.   Create your own artworks, storage solutions, replacement parts for appliances, or whatever you can imagine.</P>

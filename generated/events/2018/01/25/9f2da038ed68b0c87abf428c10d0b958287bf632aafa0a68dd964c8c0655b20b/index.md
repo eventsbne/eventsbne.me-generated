@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516869000000.0'
 timeEnd: '1516872600000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/discover-emagazines-strathpine-library-tickets-37898083187?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31302234%2F175653860817%2F1%2Foriginal.jpg?s=e7145521492ae2eaf406e12de3eb5de5
-venue:
-  id: 76b471c3c5f3eb6cc429be270c5e3d187682580dd22ebe16c4827ec71165be28
-  remoteId: '22819739'
-  remoteIdType: eventbrite
-  name: Strathpine Library
-  url: null
-  description: null
-  lat: '-27.311878'
-  lon: '152.99065199999995'
-  contactAddress: '1 Station Street, Strathpine, QLD 4500'
-  contactCity: Strathpine
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
   remoteId: moreton-bay-region-libraries-10771695726
@@ -41,9 +28,22 @@ organizer:
     experience or current skill level. Bookings are essential for all computer
     and technology classes.
   codeOfConduct: null
+venue:
+  id: 76b471c3c5f3eb6cc429be270c5e3d187682580dd22ebe16c4827ec71165be28
+  remoteId: '22819739'
+  remoteIdType: eventbrite
+  name: Strathpine Library
+  url: null
+  description: null
+  lat: '-27.311878'
+  lon: '152.99065199999995'
+  contactAddress: '1 Station Street, Strathpine, QLD 4500'
+  contactCity: Strathpine
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Discover eMagazines - Strathpine Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2>Learn how to browse, download and read free eMagazines from the library. BYO tablet or smartphone.</H2>

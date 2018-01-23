@@ -13,6 +13,14 @@ countWaitlist: '1'
 price: null
 url: 'https://www.meetup.com/Brisbane-Coder-Club/events/246281435/'
 image: null
+organizer:
+  id: 28372ee905aa1c204c0e104606eee0c33baaae42eb3614400035d5c127b093e7
+  remoteId: '14346892'
+  remoteIdType: meetup
+  name: Brisbane Coder Club
+  url: 'https://meetup.com/Brisbane-Coder-Club'
+  description: null
+  codeOfConduct: null
 venue:
   id: 8756d83edcf259e4b700643a0499533543a24c8c7f9c77ed4167adeba89c03e0
   remoteId: '4520862'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 28372ee905aa1c204c0e104606eee0c33baaae42eb3614400035d5c127b093e7
-  remoteId: '14346892'
-  remoteIdType: meetup
-  name: Brisbane Coder Club
-  url: 'https://meetup.com/Brisbane-Coder-Club'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Sunday Coder Club (bring your laptop)
 date: '1516432806673.0'

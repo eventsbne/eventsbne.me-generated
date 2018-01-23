@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519257600000.0'
 timeEnd: '1519263000000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-smartphones-caboolture-library-tickets-37904537492?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31265855%2F175653860817%2F1%2Foriginal.jpg?s=73d9d7f4c42fd3a8394e49ba35189127
-organizer:
-  id: moreton-bay-region-libraries
-  remoteId: moreton-bay-region-libraries-10771695726
-  remoteIdType: eventbrite
-  name: Moreton Bay Region Libraries
-  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
-  description: >-
-    From our Computers for Beginners course which covers all the basics you need
-    to get going online, through to sessions introducing you to our eLibrary,
-    iPads and social media, there is something for everyone, no matter your past
-    experience or current skill level. Bookings are essential for all computer
-    and technology classes.
-  codeOfConduct: null
 venue:
   id: c1c666ba6b63b0efcaba8a30587601437bce48ece272772ba7313988a33ca736
   remoteId: '15430668'
@@ -41,9 +28,22 @@ venue:
   contactCity: Caboolture
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: moreton-bay-region-libraries
+  remoteId: moreton-bay-region-libraries-10771695726
+  remoteIdType: eventbrite
+  name: Moreton Bay Region Libraries
+  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
+  description: >-
+    From our Computers for Beginners course which covers all the basics you need
+    to get going online, through to sessions introducing you to our eLibrary,
+    iPads and social media, there is something for everyone, no matter your past
+    experience or current skill level. Bookings are essential for all computer
+    and technology classes.
+  codeOfConduct: null
 layout: event
 title: Introduction to Smartphones - Caboolture Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2>Learn tips and tricks to help use your device to its full potential.</H2>

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519426800000.0'
 timeEnd: '1519459200000.0'
-timeCreated: '1516622491268.0'
-timeUpdated: '1516622491268.0'
+timeCreated: null
+timeUpdated: '1516710146392.0'
 countAttending: null
 countCapacity: '525'
 countWaitlist: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: 'https://www.crikeycon.com/'
 layout: event
 title: CrikeyCon V - 2018
-date: '1516622491268.0'
+date: null
 
 ---
 <P>CrikeyCon is a community-led conference targeting those with an interest in information security around South-East Queensland and beyond.</P>

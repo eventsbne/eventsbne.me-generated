@@ -13,6 +13,14 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Fishburners-Brisbane/events/246703620/'
 image: null
+organizer:
+  id: 091dd6af2d48c6c4edd17d82e0e76069b112b6d786fc896188b0a8d37077fa7b
+  remoteId: '21156484'
+  remoteIdType: meetup
+  name: Fishburners Brisbane
+  url: 'https://meetup.com/Fishburners-Brisbane'
+  description: null
+  codeOfConduct: null
 venue:
   id: fishburners
   remoteId: '25001871'
@@ -30,14 +38,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 091dd6af2d48c6c4edd17d82e0e76069b112b6d786fc896188b0a8d37077fa7b
-  remoteId: '21156484'
-  remoteIdType: meetup
-  name: Fishburners Brisbane
-  url: 'https://meetup.com/Fishburners-Brisbane'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Fishburners Weekly Tour
 date: '1516109951366.0'

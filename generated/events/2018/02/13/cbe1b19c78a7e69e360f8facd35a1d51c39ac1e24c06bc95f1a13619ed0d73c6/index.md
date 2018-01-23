@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1518508800000.0'
 timeEnd: null
-timeCreated: '1516622493676.0'
-timeUpdated: '1516622493676.0'
-countAttending: '3'
+timeCreated: null
+timeUpdated: '1516710148859.0'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ venue:
   contactPhone: null
 layout: event
 title: BrisJVM February - Call for Speakers!
-date: '1516622493676.0'
+date: null
 
 ---
 <p>This is a placeholder for the regular meetup which is held on the 2nd Tuesday of every month.</p> <p>Get in touch with either Rafael or Harold if you're keen to give a talk on any interesting or insightful discoveries you've made in your explorations of the JVM.</p> <p>You're also welcome to get in touch with Harold ([masked]) regarding any questions you might have.</p> <p>Details for the talks will be published closer to the date.</p> 

@@ -7,16 +7,16 @@ events:
       /events/2018/02/07/60172b159197f13424ee8f9ea296f327f27ab9453f18079cd0b4e6f3ba95d1f7
     organizer: Interactive Minds Brisbane - Events about Digital Marketing
     timeStart: 1517954400000
-  - name: Feb Power BI User Group - The Three Modes of Power BI Desktop
-    uri: >-
-      /events/2018/02/07/ef2bef389d2922c333be9181477d23144e65da72196046e6315eaecd0b3f8e14
-    organizer: Queensland Power BI User Group
-    timeStart: 1517988600000
   - name: Introduction to Tablets - North Lakes Library
     uri: >-
       /events/2018/02/07/81c01c176648fb86aaafb4c113afe7f078e4d3859ab66e95d25e44f26996c3f1
     organizer: Moreton Bay Region Libraries
     timeStart: 1517976000000
+  - name: Feb Power BI User Group - The Three Modes of Power BI Desktop
+    uri: >-
+      /events/2018/02/07/ef2bef389d2922c333be9181477d23144e65da72196046e6315eaecd0b3f8e14
+    organizer: Queensland Power BI User Group
+    timeStart: 1517988600000
   - name: SAVE THE DATE FOR THE NEXT BRAZILIANS IN IT MEETING.
     uri: >-
       /events/2018/02/07/53aa6f38e3028a16c1e5c88bc615e8bcff3d581fd18183cc97a3ce7ff4a82a6e

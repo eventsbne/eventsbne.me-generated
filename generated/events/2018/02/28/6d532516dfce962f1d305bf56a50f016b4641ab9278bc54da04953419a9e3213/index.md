@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519786800000.0'
 timeEnd: '1519794000000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146392.0'
 countAttending: null
 countCapacity: '55'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/medical-research-and-innovation-strategies-for-success-brisbane-registration-40830158102?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38724982%2F183034962368%2F1%2Foriginal.jpg?s=3f10c8ed349339bc5329037093055f43
-venue:
-  id: 8d71cd41b0d5ce175e2d09edf5d4aa4d84bb243ef88fdc4b4c43e3c594c448a0
-  remoteId: '22303173'
-  remoteIdType: eventbrite
-  name: Thomson Geer
-  url: null
-  description: null
-  lat: '-27.4702728'
-  lon: '153.03050740000003'
-  contactAddress: 'Level 16 Waterfront Place 1 Eagle Street, Brisbane City, QLD 4000'
-  contactCity: Brisbane City
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: fc943195c2327a7ca9b589e85f8e865adcd0bf1dbf7e5f5b58cd93099d38f2c3
   remoteId: life-sciences-queensland-limited-11178531782
@@ -44,9 +31,22 @@ organizer:
     and innovation plays as a key driver of State, and global, economic
     development and sustainability.
   codeOfConduct: null
+venue:
+  id: 8d71cd41b0d5ce175e2d09edf5d4aa4d84bb243ef88fdc4b4c43e3c594c448a0
+  remoteId: '22303173'
+  remoteIdType: eventbrite
+  name: Thomson Geer
+  url: null
+  description: null
+  lat: '-27.4702728'
+  lon: '153.03050740000003'
+  contactAddress: 'Level 16 Waterfront Place 1 Eagle Street, Brisbane City, QLD 4000'
+  contactCity: Brisbane City
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Medical Research and Innovation – Strategies for Success | Brisbane
-date: '1516622491269.0'
+date: null
 
 ---
 <H3><STRONG>Medical Research and Innovation – <BR></STRONG><STRONG>strategies for success</STRONG></H3>

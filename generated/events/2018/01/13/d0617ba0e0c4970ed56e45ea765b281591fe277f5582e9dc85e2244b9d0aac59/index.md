@@ -15,14 +15,6 @@ url: >-
   https://www.eventbrite.com/e/osm-completethemap-photo-mapping-party-tickets-41298321391?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38692067%2F31155751239%2F1%2Foriginal.jpg?s=9f346a49284d65bcc9c5c86a2a34acd8
-organizer:
-  id: fbafbd574b7a7f0cc2b57a4a77dad2338ca89a45106a7402a0d555f51b91b8a8
-  remoteId: david-dean-15095586564
-  remoteIdType: eventbrite
-  name: David Dean
-  url: 'https://www.eventbrite.com/o/david-dean-15095586564'
-  description: "David Dean is a local mapper.\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 venue:
   id: f0d32b0b2526a9a25c7d422907399dc2a300e4e274647064ea8b61105ff9326a
   remoteId: '22500155'
@@ -36,6 +28,14 @@ venue:
   contactCity: Brisbane City
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: fbafbd574b7a7f0cc2b57a4a77dad2338ca89a45106a7402a0d555f51b91b8a8
+  remoteId: david-dean-15095586564
+  remoteIdType: eventbrite
+  name: David Dean
+  url: 'https://www.eventbrite.com/o/david-dean-15095586564'
+  description: "David Dean is a local mapper.\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 layout: event
 title: 'OSM #CompleteTheMap Photo Mapping Party'
 date: '1516106511226.0'

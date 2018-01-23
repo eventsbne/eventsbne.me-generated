@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519288200000.0'
 timeEnd: '1519293600000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '200'
 countWaitlist: null
@@ -38,7 +38,7 @@ venue:
   contactPhone: null
 layout: event
 title: SMRT ANZ presents Frank Shellock "MRI Safety Update 2018"
-date: '1516622491269.0'
+date: null
 
 ---
 <P CLASS="MsoNormal"><STRONG>MRI Safety and Patient Management Update 2018</STRONG></P>

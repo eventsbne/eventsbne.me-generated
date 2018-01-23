@@ -13,17 +13,9 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Lean-Business-Strategies/events/246263423/'
 image: null
-organizer:
-  id: 341b7f826c8b55aa36a75d48d8e8a80e10f36100713c70b182880551eaa5c3de
-  remoteId: '10015642'
-  remoteIdType: meetup
-  name: Lean Business Strategies
-  url: 'https://meetup.com/Lean-Business-Strategies'
-  description: null
-  codeOfConduct: null
 venue:
   id: rcl
-  remoteId: '25313549'
+  remoteId: '25506825'
   remoteIdType: meetup
   name: River City Labs
   url: 'https://www.rivercitylabs.net/'
@@ -32,12 +24,20 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4529113769531'
-  lon: '153.029159545898'
-  contactAddress: 'Level 3, 315 Brunswick St  FORTITUDE VALLEY, QLD 4000'
+  lat: '-27.4583797454834'
+  lon: '153.034164428711'
+  contactAddress: 'Level 3 TCB Building, 315 Brunswick Street, Fortitude Valley '
   contactCity: Brisbane
   contactCountry: Australia
-  contactPhone: null
+  contactPhone: '+61490021800'
+organizer:
+  id: 341b7f826c8b55aa36a75d48d8e8a80e10f36100713c70b182880551eaa5c3de
+  remoteId: '10015642'
+  remoteIdType: meetup
+  name: Lean Business Strategies
+  url: 'https://meetup.com/Lean-Business-Strategies'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Platform Strategies for Startups (Part 1)
 date: '1516184053247.0'

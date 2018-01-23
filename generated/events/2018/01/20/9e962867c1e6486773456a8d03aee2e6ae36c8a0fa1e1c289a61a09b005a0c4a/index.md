@@ -14,6 +14,14 @@ price: null
 url: >-
   https://www.meetup.com/Western-Corridor-Technology-Enthusiasts/events/246792818/
 image: null
+organizer:
+  id: 023bfa1a7a90e7fd694a44e98bbb6a15ea4f377836aa3b1890d347315f6061e2
+  remoteId: '21240205'
+  remoteIdType: meetup
+  name: Western Corridor Technology Enthusiasts
+  url: 'https://meetup.com/Western-Corridor-Technology-Enthusiasts'
+  description: null
+  codeOfConduct: null
 venue:
   id: d09a513f86804ff7b7e07339b47e05a43468b4f98753caa778912418735a0b90
   remoteId: '24409009'
@@ -27,14 +35,6 @@ venue:
   contactCity: Ipswich
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 023bfa1a7a90e7fd694a44e98bbb6a15ea4f377836aa3b1890d347315f6061e2
-  remoteId: '21240205'
-  remoteIdType: meetup
-  name: Western Corridor Technology Enthusiasts
-  url: 'https://meetup.com/Western-Corridor-Technology-Enthusiasts'
-  description: null
-  codeOfConduct: null
 layout: event
 title: codeSwich is in Ipswich!
 date: '1516184053247.0'

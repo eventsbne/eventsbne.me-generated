@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516766400000.0'
 timeEnd: '1516770000000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '4'
 countWaitlist: null
@@ -43,7 +43,7 @@ venue:
   contactPhone: null
 layout: event
 title: Discover eMagazines - Burpengary Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2>Learn how to browse, download and read free eMagazines from the library. BYO tablet or smartphone.</H2>

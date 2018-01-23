@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517616000000.0'
 timeEnd: '1517716800000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -41,7 +41,7 @@ venue:
   contactPhone: null
 layout: event
 title: EnergyLab Brisbane CleanTech Hackathon
-date: '1516622491269.0'
+date: null
 
 ---
 <H3>The way we power our cities, move people around, and produce goods and services is changing. Increasingly, we're electrifying our transport, reducing the resource intensity of industry, and producing energy from renewable sources.</H3>

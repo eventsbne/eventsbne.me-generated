@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/hackbne/events/246895460/'
 image: null
-organizer:
-  id: 3bf94e0172d2ad3339943d183d6d76c680e103f795b4c7ea579046499353f71d
-  remoteId: '1681546'
-  remoteIdType: meetup
-  name: Hackerspace Brisbane
-  url: 'https://meetup.com/hackbne'
-  description: null
-  codeOfConduct: null
 venue:
   id: 928e49a3686d4b7c621da1406d5a61ed7166be7341daf4e459c615ad1a2eb0f6
   remoteId: '6016632'
@@ -34,6 +26,14 @@ venue:
   contactCity: Eagle Farm
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 3bf94e0172d2ad3339943d183d6d76c680e103f795b4c7ea579046499353f71d
+  remoteId: '1681546'
+  remoteIdType: meetup
+  name: Hackerspace Brisbane
+  url: 'https://meetup.com/hackbne'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Open Night Tuesdays
 date: '1516622493675.0'

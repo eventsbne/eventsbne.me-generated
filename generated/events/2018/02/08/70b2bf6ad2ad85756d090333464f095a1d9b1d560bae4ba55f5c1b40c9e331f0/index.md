@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1518058800000.0'
 timeEnd: '1518062400000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-tablets-arana-hills-library-tickets-37904857449?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31265256%2F175653860817%2F1%2Foriginal.jpg?s=a2275c14801df656002a4bc0c0b062f1
-venue:
-  id: 1863b53d5ce505b6af079f57cf2009ae30645b3e9fa3245328dfd335b6879a01
-  remoteId: '15306708'
-  remoteIdType: eventbrite
-  name: Arana Hills Library
-  url: null
-  description: null
-  lat: '-27.394612'
-  lon: '152.94897400000002'
-  contactAddress: '63 Cobbity Crescent, Arana Hills, QLD 4054'
-  contactCity: Arana Hills
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
   remoteId: moreton-bay-region-libraries-10771695726
@@ -41,9 +28,22 @@ organizer:
     experience or current skill level. Bookings are essential for all computer
     and technology classes.
   codeOfConduct: null
+venue:
+  id: 1863b53d5ce505b6af079f57cf2009ae30645b3e9fa3245328dfd335b6879a01
+  remoteId: '15306708'
+  remoteIdType: eventbrite
+  name: Arana Hills Library
+  url: null
+  description: null
+  lat: '-27.394612'
+  lon: '152.94897400000002'
+  contactAddress: '63 Cobbity Crescent, Arana Hills, QLD 4054'
+  contactCity: Arana Hills
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Introduction to Tablets - Arana Hills Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2>Learn the basics of using your Android tablet including apps, email, and the internet.</H2>

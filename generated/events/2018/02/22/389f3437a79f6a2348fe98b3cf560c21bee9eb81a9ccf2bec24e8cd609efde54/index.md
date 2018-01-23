@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519282800000.0'
 timeEnd: '1519291800000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '30'
 countWaitlist: null
@@ -43,7 +43,7 @@ venue:
   contactPhone: null
 layout: event
 title: SAP Inside Track Brisbane February
-date: '1516622491269.0'
+date: null
 
 ---
 <DIV STYLE="color: #212121; font-family: sans-serif; font-size: 13px;"><BR></DIV>

@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1518220800000.0'
 timeEnd: null
-timeCreated: '1516622493675.0'
-timeUpdated: '1516622493675.0'
+timeCreated: null
+timeUpdated: '1516710148859.0'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
@@ -37,7 +37,7 @@ venue:
   contactPhone: null
 layout: event
 title: Weekend Workshop - Assemble your own 3D Printer
-date: '1516622493675.0'
+date: null
 
 ---
 <p>• What we'll do<br/>Assemble your own 3D printer from a commercial kit. It's not hard, some screwing, and plugging, and zip-tying. Experts will be on hand to guide you.</p> <p>• What to bring<br/>Bring a laptop computer, and an inquiring mind. Kids are very welcome.</p> <p>• Important to know<br/>There will be a cost for this event that covers equipment and catering. The printer will be yours to take home, and we will make sure it is working and tuned.</p> <p>Please book your ticket here: </p> <p><a href="https://www.eventbrite.com/e/assemble-your-own-3d-printer-and-learn-how-to-use-it-tickets-41531868938" class="linkified">https://www.eventbrite.com/e/assemble-your-own-3d-printer-and-learn-how-to-use-it-tickets-41531868938</a></p> <p>Children are welcome both to build or accompany; a safe play room is available. Attendance will be limited to 10 families, but register now if you are interested. We will repeat on a following weekend if oversubscribed. Please choose which printer you want to take home when you register.</p> <p>SMALL $325 - 15x15cm capacity, prints PLA plastic, plus one roll of filament</p> <p>MEDIUM $420 - 22x22cm capacity, prints PLA or ABS plastic, plus two rolls of PLA filament</p> <p>LARGE $650 - 30x30cm capacity, prints PLA or ABS plastic, plus three rolls of PLA filament</p> <p>You are welcome to come out to Accelerando and look at some printers.</p> <p>Please register by the 15th January, to allow time for delivery of the parts for your printer.</p> 

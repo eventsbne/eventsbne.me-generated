@@ -15,6 +15,16 @@ url: >-
   https://www.eventbrite.com.au/e/roblox-world-and-game-design-wednesday-10th-january-tickets-40086243032?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37908052%2F176389313197%2F1%2Foriginal.jpg?s=c4439997f81e0630c6774ccbdf82b93b
+organizer:
+  id: fdde33d5d75131bcc8708aefd0b2e9fab05954bc102417b2336f8be160be24c5
+  remoteId: building-block-studio-10800600654
+  remoteIdType: eventbrite
+  name: Building Block Studio
+  url: 'https://www.eventbrite.com.au/o/building-block-studio-10800600654'
+  description: >-
+    Building Block Studio is a modern\u00a0learning activity centre\u00a0where
+    people of all ages can come to learn about coding, robotics and electronics.
+  codeOfConduct: null
 venue:
   id: 0d64e0c67a5c73a94e42f03463c882497bc78eadb211a064f1b17ba5c430eda6
   remoteId: '15415886'
@@ -28,16 +38,6 @@ venue:
   contactCity: Sandgate
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: fdde33d5d75131bcc8708aefd0b2e9fab05954bc102417b2336f8be160be24c5
-  remoteId: building-block-studio-10800600654
-  remoteIdType: eventbrite
-  name: Building Block Studio
-  url: 'https://www.eventbrite.com.au/o/building-block-studio-10800600654'
-  description: >-
-    Building Block Studio is a modern\u00a0learning activity centre\u00a0where
-    people of all ages can come to learn about coding, robotics and electronics.
-  codeOfConduct: null
 layout: event
 title: 'Roblox: World and Game Design - Wednesday 10th January'
 date: '1516106511226.0'

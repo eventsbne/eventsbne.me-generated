@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517032800000.0'
 timeEnd: null
-timeCreated: '1516622493677.0'
-timeUpdated: '1516622493677.0'
+timeCreated: null
+timeUpdated: '1516710148859.0'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 6 DoF Arm Robot- Complete Design And Development- Melbourne
-date: '1516622493677.0'
+date: null
 
 ---
 <p>-Introduction-Meet and Greet<br/>-Project Overview<br/>-Level- Intermediate to Advanced<br/>-At least 5 person required.</p> 

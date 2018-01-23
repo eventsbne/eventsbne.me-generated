@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517988600000.0'
 timeEnd: null
-timeCreated: '1516622493676.0'
-timeUpdated: '1516622493676.0'
+timeCreated: null
+timeUpdated: '1516710148859.0'
 countAttending: '34'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ venue:
   contactPhone: null
 layout: event
 title: SAVE THE DATE FOR THE NEXT BRAZILIANS IN IT MEETING.
-date: '1516622493676.0'
+date: null
 
 ---
 <p><img src="https://secure.meetupstatic.com/photos/event/6/6/f/4/600_466706356.jpeg" /></p> <p>

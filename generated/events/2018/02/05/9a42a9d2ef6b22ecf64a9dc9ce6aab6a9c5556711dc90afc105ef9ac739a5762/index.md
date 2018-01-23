@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '1517819400000.0'
 timeEnd: null
-timeCreated: '1516622493673.0'
-timeUpdated: '1516622493673.0'
-countAttending: '36'
+timeCreated: null
+timeUpdated: '1516710148858.0'
+countAttending: '46'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -38,8 +38,8 @@ organizer:
     technology community.
   codeOfConduct: 'https://brisjs.org/#conduct'
 layout: event
-title: The Next BrisJS - Call For Speakers
-date: '1516622493673.0'
+title: "Junior dev Josh does D3, Anna's awesome API adventures, and lightning talks \U0001F329"
+date: null
 
 ---
-<p>This is a placeholder for our regular meetup on the first Monday of each month, which celebrates everything JS.</p> <p>Please get in touch for presenting interesting or insightful discoveries in the rapidly developing frontend or backend javascript world.</p> <p><br/>Also check our github issues page for upcoming topics or make requests. <a href="https://github.com/BrisJS/meetups/issues"><a href="https://github.com/BrisJS/meetups/issues" class="linkified">https://github.com/BrisJS/meetups/issues</a></a></p> <p>You're also welcome to get in touch with me at me@kevinv.org for any information.</p> <p>Details for the talks will be published toward the final date.</p> 
+<p>👉🌏 How I learned to stop worrying and love charting North Korean missile ranges in D3.js - Josh Byrd</p> <p>Josh joined the ABC's Digital Storytelling Team a little over 6<br/>months ago as his first proper programming gig. Since then he's learned a<br/>bunch of stuff, and published one of last year's most impressive<br/>stories, drawing acclaim from Reddit and around the world. In this talk we'll be taken on Josh's learning journey and go through how to get off the ground with D3.</p> <p>👉✨ 6 ways to an Awesome API - Anna Gerber</p> <p>Anna has been working at Console Connect as the sole seniorNodeJS API developer for almost a year now, so she really knows her way around the ME[AR?]N stack. In this talk we'll discover the 6 simple ways to an Awesome API, and walk away with a clear idea as to how to approach our next API project.</p> <p>👉🌩 Your name here - Lightning talks!</p> <p>Are you working on something cool, or did you learn something new over the break? Share with the rest of us with a lightning talk on the night!</p> <p>It doesn't have to be polished or amazing, the point is to give it a go!</p> <p>👉 Code of Conduct</p> <p>BrisJS is dedicated to a harassment-free conference experience for everyone. Our anti-harassment policy can be found at: <a href="https://bris.js.org/#conduct" class="linkified">https://bris.js.org/#conduct</a></p> <p>👉 Food &amp; Drink</p> <p>Pizza &amp; drinks are provided by our sponsors at intermission. Pizzas include vegetarian and gluten free options and drinks include beer, soda or water. If you have specific dietary requirements, please get in touch before the event.</p> <p>👉 Accessibility</p> <p>The upper and lower car parks in Toowong Tower are open until 10:30 at night, leaving you plenty of time for you to leave after the event. BrisJS is wheelchair accessible from the taxi rank, car parks and train station, but please note the train station is only wheelchair accessible via the street after the centre closes at 9pm.</p> 

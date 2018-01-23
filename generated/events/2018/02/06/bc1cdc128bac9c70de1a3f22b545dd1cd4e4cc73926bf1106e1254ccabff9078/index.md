@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517878800000.0'
 timeEnd: '1517882400000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '5'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-ipads-north-lakes-library-tickets-37903869494?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31488926%2F175653860817%2F1%2Foriginal.jpg?s=7e3106b8c0ba12700fc8d33df5cf6603
-venue:
-  id: f77a984b7df53afff72061dc0be63d6bf376dc5d893aa23bcbf064bd62a9db7f
-  remoteId: '15283811'
-  remoteIdType: eventbrite
-  name: North Lakes Library
-  url: null
-  description: null
-  lat: '-27.238704'
-  lon: '153.01727400000004'
-  contactAddress: '10 The Corso, North Lakes, QLD 4509'
-  contactCity: North Lakes
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
   remoteId: moreton-bay-region-libraries-10771695726
@@ -41,9 +28,22 @@ organizer:
     experience or current skill level. Bookings are essential for all computer
     and technology classes.
   codeOfConduct: null
+venue:
+  id: f77a984b7df53afff72061dc0be63d6bf376dc5d893aa23bcbf064bd62a9db7f
+  remoteId: '15283811'
+  remoteIdType: eventbrite
+  name: North Lakes Library
+  url: null
+  description: null
+  lat: '-27.238704'
+  lon: '153.01727400000004'
+  contactAddress: '10 The Corso, North Lakes, QLD 4509'
+  contactCity: North Lakes
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Introduction to iPads - North Lakes Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2><SPAN><SPAN>Learn the basics of using the iPad in this hands on workshop, including getting started, downloading apps, email and the internet, and how to get the most out of your iPad.</SPAN> </SPAN></H2>

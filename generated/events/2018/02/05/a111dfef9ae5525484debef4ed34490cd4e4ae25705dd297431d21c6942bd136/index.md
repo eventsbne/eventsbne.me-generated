@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517787000000.0'
 timeEnd: '1517790600000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '4'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/discover-ebooks-eaudiobooks-bribie-island-library-tickets-37895946797?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31301865%2F175653860817%2F1%2Foriginal.jpg?s=309f5fa1d2583438b259835780e53820
-venue:
-  id: 7b959c9f2ab45bdeaab937253e08ae37b98f39cd2cf785104dd4428fb055f00c
-  remoteId: '15430954'
-  remoteIdType: eventbrite
-  name: Bribie Island Library
-  url: null
-  description: null
-  lat: '-27.0834935'
-  lon: '153.15917079999997'
-  contactAddress: '1 Welsby Parade, Bongaree, QLD 4507'
-  contactCity: Bongaree
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
   remoteId: moreton-bay-region-libraries-10771695726
@@ -41,9 +28,22 @@ organizer:
     experience or current skill level. Bookings are essential for all computer
     and technology classes.
   codeOfConduct: null
+venue:
+  id: 7b959c9f2ab45bdeaab937253e08ae37b98f39cd2cf785104dd4428fb055f00c
+  remoteId: '15430954'
+  remoteIdType: eventbrite
+  name: Bribie Island Library
+  url: null
+  description: null
+  lat: '-27.0834935'
+  lon: '153.15917079999997'
+  contactAddress: '1 Welsby Parade, Bongaree, QLD 4507'
+  contactCity: Bongaree
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Discover eBooks & eAudiobooks - Bribie Island Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2>Discover the range of free eBooks and eAudiobooks available and learn how to download them. BYO device, tablet or smartphone.</H2>

@@ -2,11 +2,6 @@
 title: Events for 2018/02/15
 layout: event-index
 events:
-  - name: Introduction to Smartphones - Arana Hills Library
-    uri: >-
-      /events/2018/02/15/d1cd803095b06f589e235f99e9c8979f225488a1a91c7333b2aea2b2e250c5ac
-    organizer: Moreton Bay Region Libraries
-    timeStart: 1518663600000
   - name: >-
       Let's discuss Bitcoin and cryptocurrencies and if you're new how to get
       started
@@ -14,6 +9,11 @@ events:
       /events/2018/02/15/b240bf8ea214e2bccc632ed935d5e83efadda322fcc3b3121754df223fa2e971
     organizer: Gold Coast and Redlands Bitcoin Simple Meetup
     timeStart: 1518656400000
+  - name: Introduction to Smartphones - Arana Hills Library
+    uri: >-
+      /events/2018/02/15/d1cd803095b06f589e235f99e9c8979f225488a1a91c7333b2aea2b2e250c5ac
+    organizer: Moreton Bay Region Libraries
+    timeStart: 1518663600000
   - name: Text Analytics Primer
     uri: >-
       /events/2018/02/15/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2

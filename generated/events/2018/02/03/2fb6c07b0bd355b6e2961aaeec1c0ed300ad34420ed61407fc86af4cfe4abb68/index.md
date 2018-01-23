@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1517612400000.0'
 timeEnd: '1517641200000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146392.0'
 countAttending: null
 countCapacity: '80'
 countWaitlist: null
@@ -41,7 +41,7 @@ venue:
   contactPhone: null
 layout: event
 title: Elixir Girls Brisbane 2018
-date: '1516622491269.0'
+date: null
 
 ---
 <P><SPAN><SPAN><SPAN><SPAN>Become a part of history: the very first Elixir Girls Brisbane!</SPAN></SPAN></SPAN></SPAN></P>

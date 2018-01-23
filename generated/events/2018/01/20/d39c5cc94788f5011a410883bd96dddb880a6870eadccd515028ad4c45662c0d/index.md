@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1516420800000.0'
 timeEnd: '1516426200000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-tablets-caboolture-library-tickets-37904911611?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31265610%2F175653860817%2F1%2Foriginal.jpg?s=d23a57af492bfb70861ba3d014096019
-venue:
-  id: c1c666ba6b63b0efcaba8a30587601437bce48ece272772ba7313988a33ca736
-  remoteId: '15430668'
-  remoteIdType: eventbrite
-  name: Caboolture Library
-  url: null
-  description: null
-  lat: '-27.083668'
-  lon: '152.95126099999993'
-  contactAddress: '4 Hasking Street, Caboolture, QLD 4510'
-  contactCity: Caboolture
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
   remoteId: moreton-bay-region-libraries-10771695726
@@ -41,9 +28,22 @@ organizer:
     experience or current skill level. Bookings are essential for all computer
     and technology classes.
   codeOfConduct: null
+venue:
+  id: c1c666ba6b63b0efcaba8a30587601437bce48ece272772ba7313988a33ca736
+  remoteId: '15430668'
+  remoteIdType: eventbrite
+  name: Caboolture Library
+  url: null
+  description: null
+  lat: '-27.083668'
+  lon: '152.95126099999993'
+  contactAddress: '4 Hasking Street, Caboolture, QLD 4510'
+  contactCity: Caboolture
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Introduction to Tablets - Caboolture Library
-date: '1516622491269.0'
+date: null
 
 ---
 <H2>Learn the basics of using your Android tablet including apps, email, and the internet.</H2>

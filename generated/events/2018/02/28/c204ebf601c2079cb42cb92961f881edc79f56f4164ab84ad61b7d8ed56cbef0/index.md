@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '1519768800000.0'
 timeEnd: '1519792200000.0'
-timeCreated: '1516622491269.0'
-timeUpdated: '1516622491269.0'
+timeCreated: null
+timeUpdated: '1516710146393.0'
 countAttending: null
 countCapacity: '25'
 countWaitlist: null
@@ -64,7 +64,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 2018 Science and Engineering Challenge Volunteers
-date: '1516622491269.0'
+date: null
 
 ---
 <P>We are currently looking for UQ engineering students to assist with the 2018 UQ Science and Engineering Challenge.<BR><BR>The three-day event will be held at the UQ Centre (St Lucia) providing Year 9-10 students from over 24 schools an opportunity to engage in engineering activities and learn problem-solving skills. <BR> <BR>Students will be divided into various teams to compete with engineering-inspired activities ranging from ‘Mission to Mars, Bridge, Flat-pack' and many more. (Click<A HREF="https://www.eait.uq.edu.au/uq-science-and-engineering-challenge-2018" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN> here</SPAN> </A>to see full activity listing)<BR> <BR>As a volunteer, you will work in teams of 2-3 to assist in the supervision of the student teams competing in the activities on each day. Volunteers are required between 8am and 2.30pm daily.<BR><BR>We will also need your help with setup at UQ Centre on Tuesday, 27 Feb from 2.30pm to 4.30pm.  <BR><BR>Benefits:<BR>•         1 volunteer t-shirt<BR>•         Lunch and refreshments on each day<BR>•         Volunteer certificate<BR>•         Your participation* can be credits counted towards the <A HREF="https://employability.uq.edu.au/award" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>UQ Employability Award</SPAN></A>.<I> (You need to volunteer for two days for credits to be eligible)</I><BR><BR>This is your chance to enrich your UQ experience by mentoring aspiring engineers of tomorrow. Your old school might even be attending!<BR> <BR>Please check with your semester time-table before committing to volunteer. To register for 1, 2 or 3 days, c<SPAN>lick the button in the top right before Monday, 12 February.</SPAN><BR>                  <BR><A HREF="http://www.newcastle.edu.au/about-uon/governance-and-leadership/faculties-and-schools/faculty-of-engineering-and-built-environment/science-and-engineering-challenge/about-us" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>Visit their website</SPAN></A> to learn more about the Challenge.</P>
