@@ -17,6 +17,11 @@ events:
       /events/2018/02/13/bcbe7c689dcf4140b11e3e182a76f10bf30a84c80a9acc2cf7694d20a27a888f
     organizer: AppDynamics Brisbane User Group
     timeStart: 1518508800000
+  - name: Creating Human-centric products & services
+    uri: >-
+      /events/2018/02/13/7654bd1e601837e5c0e382d49f51f34ea3cc918fe73cc7439c89755774cc64bc
+    organizer: Startup Ipswich
+    timeStart: 1518508800000
   - name: BrisJVM February - Call for Speakers!
     uri: >-
       /events/2018/02/13/cbe1b19c78a7e69e360f8facd35a1d51c39ac1e24c06bc95f1a13619ed0d73c6

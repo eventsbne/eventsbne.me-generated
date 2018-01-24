@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517990400000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '12'
+timeUpdated: '1516804078983.0'
+countAttending: '13'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Robotics-Interest-Group/events/246318606/'
 image: null
-organizer:
-  id: b9781023d68f7dd877386fc09698f793a8a677ee296f994948421bba76716798
-  remoteId: '19214142'
-  remoteIdType: meetup
-  name: "\U0001F916 Brisbane Robotics Interest Group"
-  url: 'https://meetup.com/Brisbane-Robotics-Interest-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: b2aa8111e1d1802fddbfaba82dd95a6986162e6506cc2a2bb5781fc16318c05e
   remoteId: '24389105'
@@ -36,6 +28,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: b9781023d68f7dd877386fc09698f793a8a677ee296f994948421bba76716798
+  remoteId: '19214142'
+  remoteIdType: meetup
+  name: "\U0001F916 Brisbane Robotics Interest Group"
+  url: 'https://meetup.com/Brisbane-Robotics-Interest-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: "\U0001F916 + \U0001F37A | Robots and Beverages"
 date: null

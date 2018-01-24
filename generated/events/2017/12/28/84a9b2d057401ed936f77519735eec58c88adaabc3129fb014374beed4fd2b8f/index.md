@@ -13,6 +13,14 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/dotMaleny/events/246111751/'
 image: null
+organizer:
+  id: 004baae14a02488328b5502d3d42401538e1b9b72e5938e20a9fcac355dc27d6
+  remoteId: '9460662'
+  remoteIdType: meetup
+  name: dotMaleny
+  url: 'https://meetup.com/dotMaleny'
+  description: null
+  codeOfConduct: null
 venue:
   id: f3e9f3e61219473dffbaf397bd91790336f799fc6cf9e60ecaebf259cbf03edc
   remoteId: '24569875'
@@ -26,14 +34,6 @@ venue:
   contactCity: Maleny
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 004baae14a02488328b5502d3d42401538e1b9b72e5938e20a9fcac355dc27d6
-  remoteId: '9460662'
-  remoteIdType: meetup
-  name: dotMaleny
-  url: 'https://meetup.com/dotMaleny'
-  description: null
-  codeOfConduct: null
 layout: event
 title: IT Lunch
 date: '1514109667661.0'

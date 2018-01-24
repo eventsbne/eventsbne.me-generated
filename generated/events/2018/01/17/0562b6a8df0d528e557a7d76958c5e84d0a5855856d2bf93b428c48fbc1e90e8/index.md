@@ -13,17 +13,9 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Fishburners-Brisbane/events/246703620/'
 image: null
-organizer:
-  id: 091dd6af2d48c6c4edd17d82e0e76069b112b6d786fc896188b0a8d37077fa7b
-  remoteId: '21156484'
-  remoteIdType: meetup
-  name: Fishburners Brisbane
-  url: 'https://meetup.com/Fishburners-Brisbane'
-  description: null
-  codeOfConduct: null
 venue:
   id: fishburners
-  remoteId: '25001871'
+  remoteId: '25150087'
   remoteIdType: meetup
   name: Fishburners Brisbane
   url: 'https://fishburners.org/brisbane-coworking-space'
@@ -32,12 +24,20 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4695243835449'
+  lat: '-27.469518661499'
   lon: '153.025939941406'
   contactAddress: 'The Capital Building, Level 3, 155 Queen St'
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 091dd6af2d48c6c4edd17d82e0e76069b112b6d786fc896188b0a8d37077fa7b
+  remoteId: '21156484'
+  remoteIdType: meetup
+  name: Fishburners Brisbane
+  url: 'https://meetup.com/Fishburners-Brisbane'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Fishburners Weekly Tour
 date: '1516109951366.0'

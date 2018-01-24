@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-ReactJS-Meetup/events/246565943/'
 image: null
-organizer:
-  id: bca91b2c19c9af4aefe52e1e6d30851ea4b060f9e9c3f33863968fae43f9c84f
-  remoteId: '22159195'
-  remoteIdType: meetup
-  name: Brisbane ReactJS Meetup
-  url: 'https://meetup.com/Brisbane-ReactJS-Meetup'
-  description: null
-  codeOfConduct: null
 venue:
   id: f0a23f80e026c1c5d053435963cfa67d7d385fc07d6d8b5f7493d49c4ab02348
   remoteId: '25602231'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: bca91b2c19c9af4aefe52e1e6d30851ea4b060f9e9c3f33863968fae43f9c84f
+  remoteId: '22159195'
+  remoteIdType: meetup
+  name: Brisbane ReactJS Meetup
+  url: 'https://meetup.com/Brisbane-ReactJS-Meetup'
+  description: null
+  codeOfConduct: null
 layout: event
 title: React Talks & Networking — January
 date: '1516541596326.0'

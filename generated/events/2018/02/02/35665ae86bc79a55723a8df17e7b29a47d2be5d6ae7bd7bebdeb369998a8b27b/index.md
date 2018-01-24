@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1517544000000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/bne-nug/events/246890794/'
 image: null
+organizer:
+  id: 5a8b45978849c9586847db85254a4d4022d38189f71156e56cce068ee1fd4ae7
+  remoteId: '20814069'
+  remoteIdType: meetup
+  name: Brisbane NetApp User Group
+  url: 'https://meetup.com/bne-nug'
+  description: null
+  codeOfConduct: null
 venue:
   id: e3d93b5ee2c6970bcfe87f3e3c18096f6eba435c6e6915b163d0c4054ba54b97
   remoteId: '24862489'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 5a8b45978849c9586847db85254a4d4022d38189f71156e56cce068ee1fd4ae7
-  remoteId: '20814069'
-  remoteIdType: meetup
-  name: Brisbane NetApp User Group
-  url: 'https://meetup.com/bne-nug'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Real World Data Management with NetApp - Griffith University - Duncan Beck
 date: null

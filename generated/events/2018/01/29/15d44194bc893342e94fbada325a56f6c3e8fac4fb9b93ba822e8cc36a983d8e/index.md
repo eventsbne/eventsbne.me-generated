@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517212800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/HS-Ipswich/events/247080310/'
 image: null
-organizer:
-  id: e9baa22ee482d09ca4567a8af964d7d7006f62abe8a99a48b3dfd5c8ba12b95b
-  remoteId: '21217183'
-  remoteIdType: meetup
-  name: HS Ipswich
-  url: 'https://meetup.com/HS-Ipswich'
-  description: null
-  codeOfConduct: null
 venue:
   id: 901a6bb28b79afcecbaa86c19ceade64d31f41b8b4aa85e717dd8c3c379d7140
   remoteId: '25520442'
@@ -34,6 +26,14 @@ venue:
   contactCity: Ipswich
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: e9baa22ee482d09ca4567a8af964d7d7006f62abe8a99a48b3dfd5c8ba12b95b
+  remoteId: '21217183'
+  remoteIdType: meetup
+  name: HS Ipswich
+  url: 'https://meetup.com/HS-Ipswich'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Public Monday Open Night
 date: null

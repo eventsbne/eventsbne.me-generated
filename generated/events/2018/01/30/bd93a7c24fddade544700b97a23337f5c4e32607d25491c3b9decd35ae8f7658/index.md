@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517299200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Augmented-Reality/events/246959711/'
 image: null
-organizer:
-  id: 5e8a39ea9bc3681b6899a387cb12a4ae4f567efcf8a8cf2830960b1b3cb616c7
-  remoteId: '24623485'
-  remoteIdType: meetup
-  name: Brisbane Augmented Reality
-  url: 'https://meetup.com/Brisbane-Augmented-Reality'
-  description: null
-  codeOfConduct: null
 venue:
   id: e46dcd09f55fe45ce35fc6c8998e848fc5a5fd4fb78eabb0ab50e4a86033390e
   remoteId: '25348025'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: (07) 3358 8600
+organizer:
+  id: 5e8a39ea9bc3681b6899a387cb12a4ae4f567efcf8a8cf2830960b1b3cb616c7
+  remoteId: '24623485'
+  remoteIdType: meetup
+  name: Brisbane Augmented Reality
+  url: 'https://meetup.com/Brisbane-Augmented-Reality'
+  description: null
+  codeOfConduct: null
 layout: event
 title: 'Brisbane VR/AR Event #32'
 date: null

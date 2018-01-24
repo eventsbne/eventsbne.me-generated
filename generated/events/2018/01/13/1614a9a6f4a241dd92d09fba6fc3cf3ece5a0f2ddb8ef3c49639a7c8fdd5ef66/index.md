@@ -15,14 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/arduino-hackathon-tickets-41459224657?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38875909%2F182397548487%2F1%2Foriginal.jpg?s=d3c960c366f178a00387cca1fde2e915
-organizer:
-  id: 3f5bcef5ab32c470dad61e2ba1dd34275245cb8907245b03096544b19c8c8b00
-  remoteId: robogals-uq-uqcs-and-uq-robotics-16063063828
-  remoteIdType: eventbrite
-  name: 'Robogals UQ, UQCS, and UQ Robotics'
-  url: 'https://www.eventbrite.com.au/o/robogals-uq-uqcs-and-uq-robotics-16063063828'
-  description: An alliance focused on bringing robotics back to the people of Brisbane
-  codeOfConduct: null
 venue:
   id: 089616dcc5df8abc32e7f7c6255bec32c4aa794eb8526d2c45f99ec02afcf851
   remoteId: '22564793'
@@ -36,6 +28,14 @@ venue:
   contactCity: null
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 3f5bcef5ab32c470dad61e2ba1dd34275245cb8907245b03096544b19c8c8b00
+  remoteId: robogals-uq-uqcs-and-uq-robotics-16063063828
+  remoteIdType: eventbrite
+  name: 'Robogals UQ, UQCS, and UQ Robotics'
+  url: 'https://www.eventbrite.com.au/o/robogals-uq-uqcs-and-uq-robotics-16063063828'
+  description: An alliance focused on bringing robotics back to the people of Brisbane
+  codeOfConduct: null
 layout: event
 title: Arduino Hackathon
 date: '1516106511226.0'

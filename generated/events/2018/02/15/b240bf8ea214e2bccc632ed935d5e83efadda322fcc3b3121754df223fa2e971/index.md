@@ -6,7 +6,7 @@ status: upcoming
 timeStart: '1518656400000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -14,14 +14,6 @@ price: null
 url: >-
   https://www.meetup.com/Gold-Coast-and-Redlands-Bitcoin-Simple-Meetup/events/246925974/
 image: null
-organizer:
-  id: 3c8384216805eddc1ef745e21536ec38398749803a7c8aff8d0f67ca9f0fafc5
-  remoteId: '26391281'
-  remoteIdType: meetup
-  name: Gold Coast and Redlands Bitcoin Simple Meetup
-  url: 'https://meetup.com/Gold-Coast-and-Redlands-Bitcoin-Simple-Meetup'
-  description: null
-  codeOfConduct: null
 venue:
   id: 0a8fdc1a8bb21f5547a0e1a508101211b00ae85c3460bd6f985a93d28a3aa28d
   remoteId: '25678580'
@@ -35,6 +27,14 @@ venue:
   contactCity: Cleveland
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 3c8384216805eddc1ef745e21536ec38398749803a7c8aff8d0f67ca9f0fafc5
+  remoteId: '26391281'
+  remoteIdType: meetup
+  name: Gold Coast and Redlands Bitcoin Simple Meetup
+  url: 'https://meetup.com/Gold-Coast-and-Redlands-Bitcoin-Simple-Meetup'
+  description: null
+  codeOfConduct: null
 layout: event
 title: >-
   Let's discuss Bitcoin and cryptocurrencies and if you're new how to get

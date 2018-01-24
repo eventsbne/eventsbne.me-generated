@@ -6,7 +6,7 @@ status: live
 timeStart: '1518682500000.0'
 timeEnd: '1518690600000.0'
 timeCreated: null
-timeUpdated: '1516710146392.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '240'
 countWaitlist: null
@@ -15,14 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/solutions-to-reverse-global-warming-public-forum-tickets-41376247470?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38786777%2F92902099135%2F1%2Foriginal.jpg?s=d95aeb3abb09780367b24b1761c24232
-organizer:
-  id: 771cf05dd6a39e25b5674fc56bfe3d8b81608b887b71dfda3cd458ccdc793364
-  remoteId: global-change-institute-2809086920
-  remoteIdType: eventbrite
-  name: Global Change Institute
-  url: 'https://www.eventbrite.com.au/o/global-change-institute-2809086920'
-  description: "The Global Change Institute at The University of Queensland, Australia, is a unique source of game-changing research, ideas and advice for addressing the challenges of global change.\\r\\nThe Global Change Institute advances discovery, creates solutions and advocates change to policies that respond to challenges presented by climate change, technological innovation and population change.\\r\\n\t\t\t\t\t\t\\r\\n"
-  codeOfConduct: null
 venue:
   id: c718d14d2ef69417824377dc70c1a039539bef4f4819195e770f09f4bc7da3b1
   remoteId: '22549025'
@@ -36,6 +28,14 @@ venue:
   contactCity: St Lucia
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 771cf05dd6a39e25b5674fc56bfe3d8b81608b887b71dfda3cd458ccdc793364
+  remoteId: global-change-institute-2809086920
+  remoteIdType: eventbrite
+  name: Global Change Institute
+  url: 'https://www.eventbrite.com.au/o/global-change-institute-2809086920'
+  description: "The Global Change Institute at The University of Queensland, Australia, is a unique source of game-changing research, ideas and advice for addressing the challenges of global change.\\r\\nThe Global Change Institute advances discovery, creates solutions and advocates change to policies that respond to challenges presented by climate change, technological innovation and population change.\\r\\n\t\t\t\t\t\t\\r\\n"
+  codeOfConduct: null
 layout: event
 title: Solutions to reverse global warming - public forum
 date: null

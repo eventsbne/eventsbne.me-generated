@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517988600000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '44'
+timeUpdated: '1516804078983.0'
+countAttending: '49'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Queensland-Power-BI-User-Group/events/247040748/'
 image: null
-organizer:
-  id: 1fcf2c8e2d91e046aa9bd9d830012cd3bad621e9db22f5358636cf577d4fa234
-  remoteId: '19231378'
-  remoteIdType: meetup
-  name: Queensland Power BI User Group
-  url: 'https://meetup.com/Queensland-Power-BI-User-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: 39511207502db1e4bb37dee47be6beb62236f67af663cb081604c89e24e36553
   remoteId: '9059942'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 1fcf2c8e2d91e046aa9bd9d830012cd3bad621e9db22f5358636cf577d4fa234
+  remoteId: '19231378'
+  remoteIdType: meetup
+  name: Queensland Power BI User Group
+  url: 'https://meetup.com/Queensland-Power-BI-User-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Feb Power BI User Group - The Three Modes of Power BI Desktop
 date: null

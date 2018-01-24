@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517868000000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '30'
 countCapacity: null
-countWaitlist: '1'
+countWaitlist: '3'
 price: null
 url: 'https://www.meetup.com/Agile-Brisbane/events/246925879/'
 image: null
-organizer:
-  id: b57a2a5ea7d339d7ce8ff83675837958b735efb879a50505ab27fc9bd7f1bbb9
-  remoteId: '1479426'
-  remoteIdType: meetup
-  name: Agile Brisbane
-  url: 'https://meetup.com/Agile-Brisbane'
-  description: null
-  codeOfConduct: null
 venue:
   id: 444a368ba0aab3ce897251c58c3ee24db0ad1d9ca154cadb089fe1b8e5999ab9
   remoteId: '24413507'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: b57a2a5ea7d339d7ce8ff83675837958b735efb879a50505ab27fc9bd7f1bbb9
+  remoteId: '1479426'
+  remoteIdType: meetup
+  name: Agile Brisbane
+  url: 'https://meetup.com/Agile-Brisbane'
+  description: null
+  codeOfConduct: null
 layout: event
 title: World Retrospective Day - Lean Coffee
 date: null

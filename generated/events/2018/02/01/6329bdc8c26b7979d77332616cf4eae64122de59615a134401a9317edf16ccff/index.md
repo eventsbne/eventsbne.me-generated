@@ -6,7 +6,7 @@ status: live
 timeStart: '1517468400000.0'
 timeEnd: '1517472000000.0'
 timeCreated: null
-timeUpdated: '1516710146392.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '200'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/gamsat-brisbane-free-seminar-gold-standard-gamsat-tickets-39719261380?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38853465%2F83159664151%2F1%2Foriginal.jpg?s=dc49eca6fcf62dc5361fe7a9d46c8398
-venue:
-  id: fded44849e021a799d7718a362c95a026674958a8913a65e505ae8f2aba5efcc
-  remoteId: '22016861'
-  remoteIdType: eventbrite
-  name: Chislehurst Room
-  url: null
-  description: null
-  lat: '-27.5011725'
-  lon: '153.01718200000005'
-  contactAddress: 'Women''s College, University of Queensland, St Lucia, QLD'
-  contactCity: St Lucia
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: 9dd74ec98f884df835cf979076eea70940ac3a09337da8ce068f521f3183d992
   remoteId: gold-standard-gamsat-5588814755
@@ -45,6 +32,19 @@ organizer:
     preparation\u00a0courses that are tailored to suit a students\u2019
     individual needs.
   codeOfConduct: null
+venue:
+  id: fded44849e021a799d7718a362c95a026674958a8913a65e505ae8f2aba5efcc
+  remoteId: '22016861'
+  remoteIdType: eventbrite
+  name: Chislehurst Room
+  url: null
+  description: null
+  lat: '-27.5011725'
+  lon: '153.01718200000005'
+  contactAddress: 'Women''s College, University of Queensland, St Lucia, QLD'
+  contactCity: St Lucia
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: GAMSAT Brisbane Free Seminar | Gold Standard GAMSAT
 date: null

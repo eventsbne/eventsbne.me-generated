@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1519279200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Salesforce-Developer-Group/events/245821688/'
 image: null
-organizer:
-  id: d89af9934b45333980ec39de725ab9bcdab84f6ce9dedd943403799c80bb00eb
-  remoteId: '15421352'
-  remoteIdType: meetup
-  name: Brisbane Salesforce Developer Group
-  url: 'https://meetup.com/Brisbane-Salesforce-Developer-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: 20339d5eb2b633c3f95f1b391385724e4d7c84f92c8365db63b0d2e26c72f271
   remoteId: '24624013'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: d89af9934b45333980ec39de725ab9bcdab84f6ce9dedd943403799c80bb00eb
+  remoteId: '15421352'
+  remoteIdType: meetup
+  name: Brisbane Salesforce Developer Group
+  url: 'https://meetup.com/Brisbane-Salesforce-Developer-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Salesforce Developer Group Meeting
 date: null

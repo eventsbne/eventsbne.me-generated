@@ -15,6 +15,19 @@ url: >-
   https://www.eventbrite.com.au/e/stem-speed-dating-national-youth-science-forum-session-b-registration-37681804291?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35022198%2F129918502765%2F1%2Foriginal.jpg?s=4f46fa8d57e93131769201ccf8da0280
+venue:
+  id: 5e096c81d065e0020b6920a9eb40382af47acf269ccc0f434053e3a7bb4e4eef
+  remoteId: '22380247'
+  remoteIdType: eventbrite
+  name: Building 67 (Priestly Building)
+  url: null
+  description: null
+  lat: '-27.4954'
+  lon: '153.012'
+  contactAddress: UQ St Lucia
+  contactCity: null
+  contactCountry: null
+  contactPhone: null
 organizer:
   id: 06c6578d7d653724c9a5dab5174c38d742e02a34d4122eb9bc8f881db86faeb1
   remoteId: the-national-youth-science-forum-8389155880
@@ -40,19 +53,6 @@ organizer:
     invaluable for knowledge and understanding of ancient volcano-sedimentary
     successions.\nDr Carey attended the National Youth Science Forum in 1997.
   codeOfConduct: null
-venue:
-  id: 5e096c81d065e0020b6920a9eb40382af47acf269ccc0f434053e3a7bb4e4eef
-  remoteId: '22380247'
-  remoteIdType: eventbrite
-  name: Building 67 (Priestly Building)
-  url: null
-  description: null
-  lat: '-27.4954'
-  lon: '153.012'
-  contactAddress: UQ St Lucia
-  contactCity: null
-  contactCountry: null
-  contactPhone: null
 layout: event
 title: STEM "Speed Dating" - National Youth Science Forum Session B
 date: '1516106511226.0'

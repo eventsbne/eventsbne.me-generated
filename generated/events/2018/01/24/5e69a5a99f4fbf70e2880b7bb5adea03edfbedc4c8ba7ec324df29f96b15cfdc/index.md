@@ -6,7 +6,7 @@ status: live
 timeStart: '1516766400000.0'
 timeEnd: '1516770000000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '4'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/discover-emagazines-burpengary-library-tickets-37896976878?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31302035%2F175653860817%2F1%2Foriginal.jpg?s=daff5f33d8fba85615866b47380cbe54
-organizer:
-  id: moreton-bay-region-libraries
-  remoteId: moreton-bay-region-libraries-10771695726
-  remoteIdType: eventbrite
-  name: Moreton Bay Region Libraries
-  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
-  description: >-
-    From our Computers for Beginners course which covers all the basics you need
-    to get going online, through to sessions introducing you to our eLibrary,
-    iPads and social media, there is something for everyone, no matter your past
-    experience or current skill level. Bookings are essential for all computer
-    and technology classes.
-  codeOfConduct: null
 venue:
   id: 58d8652def513411a7942799617b806648bb94a81c18b6e093e332f8e9ded977
   remoteId: '15922714'
@@ -41,6 +28,19 @@ venue:
   contactCity: Burpengary
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: moreton-bay-region-libraries
+  remoteId: moreton-bay-region-libraries-10771695726
+  remoteIdType: eventbrite
+  name: Moreton Bay Region Libraries
+  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
+  description: >-
+    From our Computers for Beginners course which covers all the basics you need
+    to get going online, through to sessions introducing you to our eLibrary,
+    iPads and social media, there is something for everyone, no matter your past
+    experience or current skill level. Bookings are essential for all computer
+    and technology classes.
+  codeOfConduct: null
 layout: event
 title: Discover eMagazines - Burpengary Library
 date: null

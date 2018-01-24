@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1519288200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '9'
+timeUpdated: '1516804078984.0'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Gold-Coast-ICO-Discussion-Group/events/246690076/'
 image: null
-organizer:
-  id: bfc927796274c1f6d41e05e9be20d1c12d02d18f53994bed3c9775e9645b6dbe
-  remoteId: '26680041'
-  remoteIdType: meetup
-  name: Gold Coast ICO Discussion Group
-  url: 'https://meetup.com/Gold-Coast-ICO-Discussion-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: 552b2d53439a5f2433285b07c2a15df8254719f361ab8c95e8209ec197abf2fa
   remoteId: '25635398'
@@ -34,6 +26,14 @@ venue:
   contactCity: Gold Coast
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: bfc927796274c1f6d41e05e9be20d1c12d02d18f53994bed3c9775e9645b6dbe
+  remoteId: '26680041'
+  remoteIdType: meetup
+  name: Gold Coast ICO Discussion Group
+  url: 'https://meetup.com/Gold-Coast-ICO-Discussion-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: February ICO Meetup
 date: null

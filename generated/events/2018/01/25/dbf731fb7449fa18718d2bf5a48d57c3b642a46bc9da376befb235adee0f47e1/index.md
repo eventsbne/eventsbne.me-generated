@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1516867200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '89'
+timeUpdated: '1516804078984.0'
+countAttending: '96'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/SecTalks-Brisbane/events/246728185/'
 image: null
-organizer:
-  id: 1b96a45f226b384e5760b26636918be1dfc1a42513aabbc185596067eeb2a760
-  remoteId: '18619092'
-  remoteIdType: meetup
-  name: SecTalks Brisbane
-  url: 'https://meetup.com/SecTalks-Brisbane'
-  description: null
-  codeOfConduct: null
 venue:
   id: c8f5cbb4369cac77f114d8fa996bc15480b9bee9cef11caaf1ee97d81daec087
   remoteId: '23840756'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 1b96a45f226b384e5760b26636918be1dfc1a42513aabbc185596067eeb2a760
+  remoteId: '18619092'
+  remoteIdType: meetup
+  name: SecTalks Brisbane
+  url: 'https://meetup.com/SecTalks-Brisbane'
+  description: null
+  codeOfConduct: null
 layout: event
 title: BNE0x1C (29th Session)
 date: null

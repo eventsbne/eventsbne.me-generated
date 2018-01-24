@@ -6,7 +6,7 @@ status: live
 timeStart: '1517353200000.0'
 timeEnd: '1517374800000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/career-development-workshop-for-it-undergraduates-2018-tickets-40176757764?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38008072%2F12353546711%2F1%2Foriginal.jpg?s=17f8016dd8c0115c12152250042f1f22
-venue:
-  id: 9ebc90a24045e2944d749d5e2b9c034bb5b761e601fe32397e3b349512c9d886
-  remoteId: '22214238'
-  remoteIdType: eventbrite
-  name: The University of Queensland
-  url: null
-  description: null
-  lat: '-27.4995096'
-  lon: '153.01520849999997'
-  contactAddress: 'Level 3, Advanced Engineering Building, Saint Lucia, QLD 4072'
-  contactCity: Saint Lucia
-  contactCountry: Australia
-  contactPhone: null
 organizer:
   id: 0c75a9fa59f9a809a5fbbc6fb074badd20cc2b6ed4bb4e25dcce3c0b473c8669
   remoteId: uq-school-of-information-technology-amp-electrical-engineering-8578633000
@@ -51,6 +38,19 @@ organizer:
     visitors.\nTickets: $20 (including lunch)\nFor catering requirements, please
     secure your tickets by 5pm on Sunday, January 28, 2018.
   codeOfConduct: null
+venue:
+  id: 9ebc90a24045e2944d749d5e2b9c034bb5b761e601fe32397e3b349512c9d886
+  remoteId: '22214238'
+  remoteIdType: eventbrite
+  name: The University of Queensland
+  url: null
+  description: null
+  lat: '-27.4995096'
+  lon: '153.01520849999997'
+  contactAddress: 'Level 3, Advanced Engineering Building, Saint Lucia, QLD 4072'
+  contactCity: Saint Lucia
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: Career Development Workshop for IT Undergraduates 2018
 date: null

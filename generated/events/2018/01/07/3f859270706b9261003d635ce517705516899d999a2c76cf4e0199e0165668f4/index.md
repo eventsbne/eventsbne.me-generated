@@ -13,7 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Coder-Club/events/245795754/'
 image: null
-venue: null
 organizer:
   id: 28372ee905aa1c204c0e104606eee0c33baaae42eb3614400035d5c127b093e7
   remoteId: '14346892'
@@ -22,6 +21,7 @@ organizer:
   url: 'https://meetup.com/Brisbane-Coder-Club'
   description: null
   codeOfConduct: null
+venue: null
 layout: event
 title: Sunday Coder Club (bring your laptop)
 date: '1514109667657.0'

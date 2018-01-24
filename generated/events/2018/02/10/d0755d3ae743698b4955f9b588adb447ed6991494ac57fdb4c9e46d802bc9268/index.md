@@ -6,10 +6,10 @@ status: upcoming
 timeStart: '1518215400000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '1'
 countCapacity: null
-countWaitlist: '0'
+countWaitlist: '1'
 price: null
 url: 'https://www.meetup.com/HackerNestBNE/events/242388454/'
 image: null

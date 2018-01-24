@@ -6,7 +6,7 @@ status: live
 timeStart: '1516766400000.0'
 timeEnd: '1516770000000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-social-media-north-lakes-library-tickets-37901823374?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33593994%2F175653860817%2F1%2Foriginal.jpg?s=ae5ec3e75bf291630a7153c387f107b5
-organizer:
-  id: moreton-bay-region-libraries
-  remoteId: moreton-bay-region-libraries-10771695726
-  remoteIdType: eventbrite
-  name: Moreton Bay Region Libraries
-  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
-  description: >-
-    From our Computers for Beginners course which covers all the basics you need
-    to get going online, through to sessions introducing you to our eLibrary,
-    iPads and social media, there is something for everyone, no matter your past
-    experience or current skill level. Bookings are essential for all computer
-    and technology classes.
-  codeOfConduct: null
 venue:
   id: f77a984b7df53afff72061dc0be63d6bf376dc5d893aa23bcbf064bd62a9db7f
   remoteId: '15283811'
@@ -41,6 +28,19 @@ venue:
   contactCity: North Lakes
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: moreton-bay-region-libraries
+  remoteId: moreton-bay-region-libraries-10771695726
+  remoteIdType: eventbrite
+  name: Moreton Bay Region Libraries
+  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
+  description: >-
+    From our Computers for Beginners course which covers all the basics you need
+    to get going online, through to sessions introducing you to our eLibrary,
+    iPads and social media, there is something for everyone, no matter your past
+    experience or current skill level. Bookings are essential for all computer
+    and technology classes.
+  codeOfConduct: null
 layout: event
 title: Introduction to Social Media - North Lakes Library
 date: null

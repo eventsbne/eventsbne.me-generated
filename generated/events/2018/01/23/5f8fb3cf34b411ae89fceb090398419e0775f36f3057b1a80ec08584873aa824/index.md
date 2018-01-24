@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/GCAIML/events/246027027/'
 image: null
-organizer:
-  id: 419ea79c53df54c3f5142d61d4c2161413605fda5a4adb1b222e3c4789d21211
-  remoteId: '22583661'
-  remoteIdType: meetup
-  name: GCAIML
-  url: 'https://meetup.com/GCAIML'
-  description: null
-  codeOfConduct: null
 venue:
   id: 1340740d0d3488acecb247f66423bd2839b030c0ff42f11daa59604489bf61fe
   remoteId: '25069002'
@@ -34,6 +26,14 @@ venue:
   contactCity: Mudgeeraba
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 419ea79c53df54c3f5142d61d4c2161413605fda5a4adb1b222e3c4789d21211
+  remoteId: '22583661'
+  remoteIdType: meetup
+  name: GCAIML
+  url: 'https://meetup.com/GCAIML'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Intelligentsia
 date: '1514109667661.0'

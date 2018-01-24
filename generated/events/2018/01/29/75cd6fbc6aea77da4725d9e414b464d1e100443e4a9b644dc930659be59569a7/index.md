@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1517212800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148858.0'
+timeUpdated: '1516804078983.0'
 countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-EmberJS/events/246629685/'
 image: null
+organizer:
+  id: e20771cd26ee1459a7790e2fff069d3bfe5f905b41ae5d1252b9a86a79547826
+  remoteId: '25562755'
+  remoteIdType: meetup
+  name: Brisbane EmberJS Community
+  url: 'https://meetup.com/Brisbane-EmberJS'
+  description: null
+  codeOfConduct: null
 venue:
   id: dede78ab45596267e78e175eae9791a74f9d73ea4f5e66ff9a637924045d2419
   remoteId: '25442196'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: e20771cd26ee1459a7790e2fff069d3bfe5f905b41ae5d1252b9a86a79547826
-  remoteId: '25562755'
-  remoteIdType: meetup
-  name: Brisbane EmberJS Community
-  url: 'https://meetup.com/Brisbane-EmberJS'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Meet and Greet - Brisbane EmberJS Community
 date: null

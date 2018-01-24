@@ -6,7 +6,7 @@ status: live
 timeStart: '1517551200000.0'
 timeEnd: '1517558400000.0'
 timeCreated: null
-timeUpdated: '1516710146392.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -17,7 +17,7 @@ image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38251345%2F36156522302%2F1%2Foriginal.jpg?s=e47cdd05d2ce4c279f5ec26f83e3237a
 venue:
   id: rcl
-  remoteId: '25506825'
+  remoteId: '25223518'
   remoteIdType: meetup
   name: River City Labs
   url: 'https://www.rivercitylabs.net/'
@@ -26,12 +26,12 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4583797454834'
-  lon: '153.034164428711'
-  contactAddress: 'Level 3 TCB Building, 315 Brunswick Street, Fortitude Valley '
-  contactCity: Brisbane
+  lat: '-27.4580612182617'
+  lon: '153.034484863281'
+  contactAddress: 'Level 3, 315 Brunswick Street, '
+  contactCity: Fortitude Valley
   contactCountry: Australia
-  contactPhone: '+61490021800'
+  contactPhone: null
 organizer:
   id: ba9f209ed3e149877388a1beee87f4344bac6e6153246b2d661e0efdaeac7fd0
   remoteId: river-city-labs-2478778836

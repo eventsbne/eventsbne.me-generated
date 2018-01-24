@@ -22,16 +22,16 @@ events:
       /events/2018/02/06/e57ac390aea828ca515e5cc5b5d5574a7b42e43e099dfe460bbf67306d6b7557
     organizer: Moreton Bay Region Libraries
     timeStart: 1517886000000
-  - name: Discover the eLibrary - Redcliffe Library
-    uri: >-
-      /events/2018/02/06/76b85fcf03e50d49fbb15f2a5e73f13b01490e672ef68766c6f61601f9f27c7a
-    organizer: Moreton Bay Region Libraries
-    timeStart: 1517889600000
   - name: CocoaHeads Brisbane Meetup
     uri: >-
       /events/2018/02/06/fb00ad501c3b8d9cfd376e1f82808aefba244cd7dc4bc19242d74f263728b99c
     organizer: CocoaHeads
     timeStart: 1517904000000
+  - name: Discover the eLibrary - Redcliffe Library
+    uri: >-
+      /events/2018/02/06/76b85fcf03e50d49fbb15f2a5e73f13b01490e672ef68766c6f61601f9f27c7a
+    organizer: Moreton Bay Region Libraries
+    timeStart: 1517889600000
   - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
     uri: >-
       /events/2018/02/06/f73c93686d38562a161b1baa54e57a936dc22c07c2462581deb348f12122b134

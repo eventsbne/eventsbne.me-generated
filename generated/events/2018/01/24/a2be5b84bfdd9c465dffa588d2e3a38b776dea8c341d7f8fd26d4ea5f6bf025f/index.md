@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Savvy-Australian-Bloggers/events/246960362/'
 image: null
-organizer:
-  id: c92e7eb83f4d214f1fa40f5b8bf8d289e9d69d031ca3d53fa8db5de5e2a85c14
-  remoteId: '2909942'
-  remoteIdType: meetup
-  name: Savvy Australian Bloggers
-  url: 'https://meetup.com/Savvy-Australian-Bloggers'
-  description: null
-  codeOfConduct: null
 venue:
   id: b46f3af0711829dc4e18002408a11791623ecb769b5597d4c460b3329a476731
   remoteId: '25241543'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: c92e7eb83f4d214f1fa40f5b8bf8d289e9d69d031ca3d53fa8db5de5e2a85c14
+  remoteId: '2909942'
+  remoteIdType: meetup
+  name: Savvy Australian Bloggers
+  url: 'https://meetup.com/Savvy-Australian-Bloggers'
+  description: null
+  codeOfConduct: null
 layout: event
 title: >-
   1 DAY LEFT! The Ideas Entrepreneur joins forces with The Word Stylist. Join

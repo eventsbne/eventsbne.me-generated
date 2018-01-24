@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1518915600000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Bitcoin-for-Newbies-Meetup/events/246925907/'
 image: null
+organizer:
+  id: b5d40f5377fd0818085b875013ae20771219bc688653450958d45aaca147bdc4
+  remoteId: '25521402'
+  remoteIdType: meetup
+  name: Bitcoin Simple Meetup
+  url: 'https://meetup.com/Bitcoin-for-Newbies-Meetup'
+  description: null
+  codeOfConduct: null
 venue:
   id: 9e25b6ff9ff5bc8708e3f15b10aba9b3eab2a68d77210bd45f0cfc837b619ce6
   remoteId: '25478018'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: b5d40f5377fd0818085b875013ae20771219bc688653450958d45aaca147bdc4
-  remoteId: '25521402'
-  remoteIdType: meetup
-  name: Bitcoin Simple Meetup
-  url: 'https://meetup.com/Bitcoin-for-Newbies-Meetup'
-  description: null
-  codeOfConduct: null
 layout: event
 title: >-
   Let's discuss Bitcoin and cryptocurrencies and if you're new how to get

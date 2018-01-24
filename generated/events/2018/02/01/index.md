@@ -7,16 +7,16 @@ events:
       /events/2018/02/01/4854017d3142333aa86954a81c410ead25ae4a1cd991d380dc13112b9ffbfc4c
     organizer: UQ School of Information Technology \u0026 Electrical Engineering
     timeStart: 1517439600000
-  - name: Introduction to iPads - Arana Hills Library
-    uri: >-
-      /events/2018/02/01/c3677cba3f707c47853cd343c8eb38f6e808d3439b7cb1fc6e59dfbbe97b9fcf
-    organizer: Moreton Bay Region Libraries
-    timeStart: 1517454000000
   - name: Computers for Beginners - Bribie Island Library
     uri: >-
       /events/2018/02/01/48548040e9b07f62a28b92c523666ca9f09d4385f53974ffa71b5401747bac70
     organizer: Moreton Bay Region Libraries
     timeStart: 1517457600000
+  - name: Introduction to iPads - Arana Hills Library
+    uri: >-
+      /events/2018/02/01/c3677cba3f707c47853cd343c8eb38f6e808d3439b7cb1fc6e59dfbbe97b9fcf
+    organizer: Moreton Bay Region Libraries
+    timeStart: 1517454000000
   - name: GAMSAT Brisbane Free Seminar | Gold Standard GAMSAT
     uri: >-
       /events/2018/02/01/6329bdc8c26b7979d77332616cf4eae64122de59615a134401a9317edf16ccff

@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1517173200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '7'
+timeUpdated: '1516804078984.0'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/The-Beauty-of-Bitcoin-Gold-Coast-free/events/246859780/'
 image: null
+organizer:
+  id: e36f3140f426f83bea84850921607c1ce8bab2b709a9412e700387daeea7e75e
+  remoteId: '26611224'
+  remoteIdType: meetup
+  name: The Beauty of Bitcoin Gold Coast (free)
+  url: 'https://meetup.com/The-Beauty-of-Bitcoin-Gold-Coast-free'
+  description: null
+  codeOfConduct: null
 venue:
   id: 2786657b5e8486253cbd13eb7345d97938686401ba0b897853f5a656ac4cbb73
   remoteId: '25615110'
@@ -26,14 +34,6 @@ venue:
   contactCity: Gold Coast
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: e36f3140f426f83bea84850921607c1ce8bab2b709a9412e700387daeea7e75e
-  remoteId: '26611224'
-  remoteIdType: meetup
-  name: The Beauty of Bitcoin Gold Coast (free)
-  url: 'https://meetup.com/The-Beauty-of-Bitcoin-Gold-Coast-free'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Bitcoin for Beginners Gold Coast (FREE)
 date: null

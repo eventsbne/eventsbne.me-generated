@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1518843600000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148860.0'
+timeUpdated: '1516804078984.0'
 countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/StartupIpswich/events/246630608/'
 image: null
+organizer:
+  id: e1c241cb7bb7e7e31412f9d7aa8134042d5d43f11141c34f2168a5a21bfc9386
+  remoteId: '18507374'
+  remoteIdType: meetup
+  name: Startup Ipswich
+  url: 'https://meetup.com/StartupIpswich'
+  description: null
+  codeOfConduct: null
 venue:
   id: d09a513f86804ff7b7e07339b47e05a43468b4f98753caa778912418735a0b90
   remoteId: '24409009'
@@ -26,14 +34,6 @@ venue:
   contactCity: Ipswich
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: e1c241cb7bb7e7e31412f9d7aa8134042d5d43f11141c34f2168a5a21bfc9386
-  remoteId: '18507374'
-  remoteIdType: meetup
-  name: Startup Ipswich
-  url: 'https://meetup.com/StartupIpswich'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Intro to Electronics (Week 1) by HS Ipswich
 date: null

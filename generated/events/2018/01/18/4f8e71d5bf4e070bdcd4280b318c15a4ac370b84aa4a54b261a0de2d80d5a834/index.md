@@ -14,6 +14,14 @@ price: null
 url: >-
   https://www.meetup.com/Cryptocurrency-Training-Support-and-Assistance/events/246259967/
 image: null
+organizer:
+  id: 73694987a059beef165211056c0fbb58d0618a36e6db51224b1d21b5cc3d44c6
+  remoteId: '26821380'
+  remoteIdType: meetup
+  name: 'Cryptocurrency Training, Support and Assistance'
+  url: 'https://meetup.com/Cryptocurrency-Training-Support-and-Assistance'
+  description: null
+  codeOfConduct: null
 venue:
   id: 9e1e258c2e13349bdbc29ea9afe7085d16f793174df4703c9ec84875b854c7a7
   remoteId: '23477002'
@@ -27,14 +35,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 73694987a059beef165211056c0fbb58d0618a36e6db51224b1d21b5cc3d44c6
-  remoteId: '26821380'
-  remoteIdType: meetup
-  name: 'Cryptocurrency Training, Support and Assistance'
-  url: 'https://meetup.com/Cryptocurrency-Training-Support-and-Assistance'
-  description: null
-  codeOfConduct: null
 layout: event
 title: 'Cryptocurrency Training, Support and Assistance in Brisbane'
 date: '1516184053247.0'

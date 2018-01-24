@@ -6,7 +6,7 @@ status: live
 timeStart: '1517526000000.0'
 timeEnd: '1517551200000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -25,7 +25,7 @@ organizer:
   codeOfConduct: null
 venue:
   id: rcl
-  remoteId: '25506825'
+  remoteId: '25223518'
   remoteIdType: meetup
   name: River City Labs
   url: 'https://www.rivercitylabs.net/'
@@ -34,12 +34,12 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4583797454834'
-  lon: '153.034164428711'
-  contactAddress: 'Level 3 TCB Building, 315 Brunswick Street, Fortitude Valley '
-  contactCity: Brisbane
+  lat: '-27.4580612182617'
+  lon: '153.034484863281'
+  contactAddress: 'Level 3, 315 Brunswick Street, '
+  contactCity: Fortitude Valley
   contactCountry: Australia
-  contactPhone: '+61490021800'
+  contactPhone: null
 layout: event
 title: River City Labs Open Co-Working Day
 date: null

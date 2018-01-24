@@ -6,7 +6,7 @@ status: live
 timeStart: '1517886000000.0'
 timeEnd: '1517893200000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '5'
 countWaitlist: null

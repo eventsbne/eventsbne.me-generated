@@ -23,7 +23,7 @@ organizer:
   codeOfConduct: null
 venue:
   id: fishburners
-  remoteId: '25001871'
+  remoteId: '25150087'
   remoteIdType: meetup
   name: Fishburners Brisbane
   url: 'https://fishburners.org/brisbane-coworking-space'
@@ -32,7 +32,7 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4695243835449'
+  lat: '-27.469518661499'
   lon: '153.025939941406'
   contactAddress: 'The Capital Building, Level 3, 155 Queen St'
   contactCity: Brisbane

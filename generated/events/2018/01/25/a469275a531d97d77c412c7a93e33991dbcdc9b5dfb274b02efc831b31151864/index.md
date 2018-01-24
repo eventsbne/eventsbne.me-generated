@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1516867200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '19'
+timeUpdated: '1516804078984.0'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Unreal-Engine-Meetup/events/246321504/'
 image: null
+organizer:
+  id: 707e385ed1e2ff3d4dd53ab8e848c4469837e88ba7af10ea1d1fb07b51068a4d
+  remoteId: '19218551'
+  remoteIdType: meetup
+  name: Brisbane Unreal Engine
+  url: 'https://meetup.com/Brisbane-Unreal-Engine-Meetup'
+  description: null
+  codeOfConduct: null
 venue:
   id: 63db7bebc4b8a347be53ee635ff7a56f8c2fdc2cc2b37a55128a0667429d0d38
   remoteId: '24356590'
@@ -26,14 +34,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 707e385ed1e2ff3d4dd53ab8e848c4469837e88ba7af10ea1d1fb07b51068a4d
-  remoteId: '19218551'
-  remoteIdType: meetup
-  name: Brisbane Unreal Engine
-  url: 'https://meetup.com/Brisbane-Unreal-Engine-Meetup'
-  description: null
-  codeOfConduct: null
 layout: event
 title: 'VR Surprise Session and Mobile Game Episode #4'
 date: null

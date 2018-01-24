@@ -13,6 +13,14 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/The-Beauty-of-Bitcoin-Gold-Coast-free/events/246333853/'
 image: null
+organizer:
+  id: e36f3140f426f83bea84850921607c1ce8bab2b709a9412e700387daeea7e75e
+  remoteId: '26611224'
+  remoteIdType: meetup
+  name: The Beauty of Bitcoin Gold Coast (free)
+  url: 'https://meetup.com/The-Beauty-of-Bitcoin-Gold-Coast-free'
+  description: null
+  codeOfConduct: null
 venue:
   id: e3f0a7d1c6b25d0a4b273c073069980943ecbc72833340b4fe1ba70754dc6c32
   remoteId: '24586103'
@@ -26,14 +34,6 @@ venue:
   contactCity: Gold Coast
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: e36f3140f426f83bea84850921607c1ce8bab2b709a9412e700387daeea7e75e
-  remoteId: '26611224'
-  remoteIdType: meetup
-  name: The Beauty of Bitcoin Gold Coast (free)
-  url: 'https://meetup.com/The-Beauty-of-Bitcoin-Gold-Coast-free'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Bitcoin for WOMEN Gold Coast (FREE)
 date: '1516109951367.0'

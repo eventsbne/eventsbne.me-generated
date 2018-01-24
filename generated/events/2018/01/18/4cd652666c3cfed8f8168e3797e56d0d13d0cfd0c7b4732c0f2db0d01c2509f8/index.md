@@ -13,23 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-WooCommerce-Meetup/events/246596134/'
 image: null
-venue:
-  id: rcl
-  remoteId: '25506825'
-  remoteIdType: meetup
-  name: River City Labs
-  url: 'https://www.rivercitylabs.net/'
-  description: >-
-    River City Labs is a not for profit company formed to promote and develop
-    early stage and start-up businesses and entrepreneurial activity in the
-    mobile, Internet, telecoms and technology sector in Brisbane and surrounding
-    regions in Australia.
-  lat: '-27.4583797454834'
-  lon: '153.034164428711'
-  contactAddress: 'Level 3 TCB Building, 315 Brunswick Street, Fortitude Valley '
-  contactCity: Brisbane
-  contactCountry: Australia
-  contactPhone: '+61490021800'
 organizer:
   id: bd4f47c3357e36ca80bb9061cb72ee8fb1ed6471ef9f8a857bb02eb909b28748
   remoteId: '24804911'
@@ -38,6 +21,23 @@ organizer:
   url: 'https://meetup.com/Brisbane-WooCommerce-Meetup'
   description: null
   codeOfConduct: null
+venue:
+  id: rcl
+  remoteId: '25223518'
+  remoteIdType: meetup
+  name: River City Labs
+  url: 'https://www.rivercitylabs.net/'
+  description: >-
+    River City Labs is a not for profit company formed to promote and develop
+    early stage and start-up businesses and entrepreneurial activity in the
+    mobile, Internet, telecoms and technology sector in Brisbane and surrounding
+    regions in Australia.
+  lat: '-27.4580612182617'
+  lon: '153.034484863281'
+  contactAddress: 'Level 3, 315 Brunswick Street, '
+  contactCity: Fortitude Valley
+  contactCountry: Australia
+  contactPhone: null
 layout: event
 title: 'January Meetup - Gutenberg, Page Builders and WooCommerce'
 date: '1516184053247.0'

@@ -22,5 +22,10 @@ events:
       /events/2018/02/02/6a4b8ff531cb213fb533c9bd1cb49f014ccf45fc1182da74672132623d8cf5a3
     organizer: River City Labs
     timeStart: 1517551200000
+  - name: Fishburners Community Friday Pitches & Drinks
+    uri: >-
+      /events/2018/02/02/0d8473718f052a72ab63b83c28c182b096fcdab454b9ec12e817ebdfd3c93c17
+    organizer: Fishburners Brisbane
+    timeStart: 1517554800000
 
 ---

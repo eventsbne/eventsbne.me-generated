@@ -6,7 +6,7 @@ status: live
 timeStart: '1516690800000.0'
 timeEnd: '1516708800000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -14,16 +14,6 @@ price: Free
 url: 'https://www.eventbrite.com.au/e/open-night-tickets-41549368279?aff=ebapi'
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F23555275%2F64082425769%2F1%2Foriginal.jpg?s=21620fda83aa952d6f6a51bb7dff3afa
-organizer:
-  id: 7cc62fccabeb9ff66ae90b42ce69d65daa0fdb163eb66cbfc8e75267909d23a1
-  remoteId: hsbne-inc-4654630925
-  remoteIdType: eventbrite
-  name: HSBNE Inc
-  url: 'https://www.eventbrite.com.au/o/hsbne-inc-4654630925'
-  description: >-
-    HSBNE is a community workshop run by an enthusiastic group of like-minded
-    members, located in Brisbane.\r\nLet's build something amazing.\r\n\u00a0
-  codeOfConduct: null
 venue:
   id: c9feb5cad8b0bd0be0c4984db680fec067c8fa29070e41afe44acce97b7d9b8f
   remoteId: '16313634'
@@ -37,6 +27,16 @@ venue:
   contactCity: Eagle Farm
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 7cc62fccabeb9ff66ae90b42ce69d65daa0fdb163eb66cbfc8e75267909d23a1
+  remoteId: hsbne-inc-4654630925
+  remoteIdType: eventbrite
+  name: HSBNE Inc
+  url: 'https://www.eventbrite.com.au/o/hsbne-inc-4654630925'
+  description: >-
+    HSBNE is a community workshop run by an enthusiastic group of like-minded
+    members, located in Brisbane.\r\nLet's build something amazing.\r\n\u00a0
+  codeOfConduct: null
 layout: event
 title: Open Night
 date: null

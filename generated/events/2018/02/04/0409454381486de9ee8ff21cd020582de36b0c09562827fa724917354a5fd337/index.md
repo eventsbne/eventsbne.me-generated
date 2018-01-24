@@ -6,8 +6,8 @@ status: upcoming
 timeStart: '1517715000000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '9'
+timeUpdated: '1516804078983.0'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null

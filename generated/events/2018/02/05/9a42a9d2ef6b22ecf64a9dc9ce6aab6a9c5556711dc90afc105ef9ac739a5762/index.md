@@ -6,13 +6,24 @@ status: upcoming
 timeStart: '1517819400000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148858.0'
-countAttending: '46'
+timeUpdated: '1516804078982.0'
+countAttending: '55'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/BrisJS/events/244067756/'
 image: null
+organizer:
+  id: brisjs
+  remoteId: '1648226'
+  remoteIdType: meetup
+  name: Brisbane Javascript
+  url: 'https://brisjs.org/'
+  description: >-
+    We're the Brisbane JavaScript programming group - BrisJS for short. Our
+    mission is to provide a community and a voice for Brisbane's JavaScript
+    technology community.
+  codeOfConduct: 'https://brisjs.org/#conduct'
 venue:
   id: d1784a21b5bc9d6b1686c8dd1c6c0f55320f16317b7538ace8a0c7a86f018d0d
   remoteId: '23801955'
@@ -26,17 +37,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: brisjs
-  remoteId: '1648226'
-  remoteIdType: meetup
-  name: Brisbane Javascript
-  url: 'https://brisjs.org/'
-  description: >-
-    We're the Brisbane JavaScript programming group - BrisJS for short. Our
-    mission is to provide a community and a voice for Brisbane's JavaScript
-    technology community.
-  codeOfConduct: 'https://brisjs.org/#conduct'
 layout: event
 title: "Junior dev Josh does D3, Anna's awesome API adventures, and lightning talks \U0001F329"
 date: null

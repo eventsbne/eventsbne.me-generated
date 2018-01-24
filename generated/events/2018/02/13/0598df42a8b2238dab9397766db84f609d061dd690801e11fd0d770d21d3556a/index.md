@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1518505200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Sitecore-Brisbane-User-Group/events/246852343/'
 image: null
-organizer:
-  id: 962f16fa9bd461b0527f2c13a738f6c9c4abee7660454278f86f24cd68e6e4a7
-  remoteId: '12629902'
-  remoteIdType: meetup
-  name: Sitecore Brisbane User Group
-  url: 'https://meetup.com/Sitecore-Brisbane-User-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: 83703a4cf9c3aa367f6e2a16e65851436fcb63553284eaadb7a511ef9a733583
   remoteId: '25694878'
@@ -34,6 +26,14 @@ venue:
   contactCity: Queensland
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 962f16fa9bd461b0527f2c13a738f6c9c4abee7660454278f86f24cd68e6e4a7
+  remoteId: '12629902'
+  remoteIdType: meetup
+  name: Sitecore Brisbane User Group
+  url: 'https://meetup.com/Sitecore-Brisbane-User-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Sitecore Queensland User Group
 date: null

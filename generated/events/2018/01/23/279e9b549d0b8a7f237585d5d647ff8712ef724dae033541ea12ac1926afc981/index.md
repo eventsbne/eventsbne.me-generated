@@ -13,14 +13,6 @@ countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/BrisRuby/events/246360359/'
 image: null
-organizer:
-  id: 6ca03c21d99a55058b1349065f8e1392a09cd18a75821f799b3514b133083a36
-  remoteId: '280030'
-  remoteIdType: meetup
-  name: The Brisbane Ruby and Rails
-  url: 'https://meetup.com/BrisRuby'
-  description: null
-  codeOfConduct: null
 venue:
   id: 46d0ca1e44d1aa5f533939970e404ce297c7daa16d6e917d28b219bfb8d3ea12
   remoteId: '235836'
@@ -34,6 +26,14 @@ venue:
   contactCity: Toowong
   contactCountry: Australia
   contactPhone: 3403 2590
+organizer:
+  id: 6ca03c21d99a55058b1349065f8e1392a09cd18a75821f799b3514b133083a36
+  remoteId: '280030'
+  remoteIdType: meetup
+  name: The Brisbane Ruby and Rails
+  url: 'https://meetup.com/BrisRuby'
+  description: null
+  codeOfConduct: null
 layout: event
 title: BrisRuby.com Monthly  Meetup
 date: '1516622493675.0'

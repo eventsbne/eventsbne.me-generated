@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1518593400000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
-countAttending: '35'
+timeUpdated: '1516804078983.0'
+countAttending: '37'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Azure-User-Group/events/246636849/'
 image: null
-organizer:
-  id: d37e481b6f91b2f2f912c5d080a3702409d9f7b9468a3d18e2b5b8f625c06702
-  remoteId: '3523812'
-  remoteIdType: meetup
-  name: Brisbane Azure User Group
-  url: 'https://meetup.com/Brisbane-Azure-User-Group'
-  description: null
-  codeOfConduct: null
 venue:
   id: d56deaec9035d47dce009ca756b804352175aa9dd569fc1ad02b0b312cf798d7
   remoteId: '1712731'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: d37e481b6f91b2f2f912c5d080a3702409d9f7b9468a3d18e2b5b8f625c06702
+  remoteId: '3523812'
+  remoteIdType: meetup
+  name: Brisbane Azure User Group
+  url: 'https://meetup.com/Brisbane-Azure-User-Group'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Transformation Achieved - Windows Nanoserver Container Toolchain on Azure
 date: null

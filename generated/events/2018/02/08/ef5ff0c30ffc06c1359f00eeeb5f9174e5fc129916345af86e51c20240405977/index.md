@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1518076800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148858.0'
-countAttending: '13'
+timeUpdated: '1516804078983.0'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Artificial-Intelligence/events/246952190/'
 image: null
-organizer:
-  id: a065fa98f3bddc9464be12a5df6a32485f5eecbe14b7d724e57c836d42bdba52
-  remoteId: '21561998'
-  remoteIdType: meetup
-  name: Brisbane Artificial Intelligence
-  url: 'https://meetup.com/Brisbane-Artificial-Intelligence'
-  description: null
-  codeOfConduct: null
 venue:
   id: 59ed64c81c5b8c7cd03f8517bf61e6696c199c3f927a52362371a76270e45cde
   remoteId: '25270613'
@@ -34,6 +26,14 @@ venue:
   contactCity: Fortitude Valley
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: a065fa98f3bddc9464be12a5df6a32485f5eecbe14b7d724e57c836d42bdba52
+  remoteId: '21561998'
+  remoteIdType: meetup
+  name: Brisbane Artificial Intelligence
+  url: 'https://meetup.com/Brisbane-Artificial-Intelligence'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Kick off 2018
 date: null

@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1518238800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148858.0'
+timeUpdated: '1516804078983.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Humbug/events/247014296/'
 image: null
-organizer:
-  id: 064bc2e87a8a26e8e7835e11132a8e7e1fc2276be30d7d7bba649d0ade692bc5
-  remoteId: '1654756'
-  remoteIdType: meetup
-  name: Humbug
-  url: 'https://meetup.com/Humbug'
-  description: null
-  codeOfConduct: null
 venue:
   id: 2393bf922b8aea2f766bad65e5a68731284978c728b9607537f19be7780f5313
   remoteId: '1287603'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 064bc2e87a8a26e8e7835e11132a8e7e1fc2276be30d7d7bba649d0ade692bc5
+  remoteId: '1654756'
+  remoteIdType: meetup
+  name: Humbug
+  url: 'https://meetup.com/Humbug'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Humbug - Regular Meeting
 date: null

@@ -6,24 +6,16 @@ status: upcoming
 timeStart: '1518595200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/meetup-group-QuCYWLSo/events/246961408/'
 image: null
-organizer:
-  id: af34c5811a7233c542295e643fa005ff09d62efc3dcc66e77237a989e984e75d
-  remoteId: '26439630'
-  remoteIdType: meetup
-  name: Blockchain Reserve Brisbane
-  url: 'https://meetup.com/meetup-group-QuCYWLSo'
-  description: null
-  codeOfConduct: null
 venue:
   id: rcl
-  remoteId: '25506825'
+  remoteId: '25223518'
   remoteIdType: meetup
   name: River City Labs
   url: 'https://www.rivercitylabs.net/'
@@ -32,12 +24,20 @@ venue:
     early stage and start-up businesses and entrepreneurial activity in the
     mobile, Internet, telecoms and technology sector in Brisbane and surrounding
     regions in Australia.
-  lat: '-27.4583797454834'
-  lon: '153.034164428711'
-  contactAddress: 'Level 3 TCB Building, 315 Brunswick Street, Fortitude Valley '
-  contactCity: Brisbane
+  lat: '-27.4580612182617'
+  lon: '153.034484863281'
+  contactAddress: 'Level 3, 315 Brunswick Street, '
+  contactCity: Fortitude Valley
   contactCountry: Australia
-  contactPhone: '+61490021800'
+  contactPhone: null
+organizer:
+  id: af34c5811a7233c542295e643fa005ff09d62efc3dcc66e77237a989e984e75d
+  remoteId: '26439630'
+  remoteIdType: meetup
+  name: Blockchain Reserve Brisbane
+  url: 'https://meetup.com/meetup-group-QuCYWLSo'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Blockchain Reserve - Brisbane Investment Analysis
 date: null

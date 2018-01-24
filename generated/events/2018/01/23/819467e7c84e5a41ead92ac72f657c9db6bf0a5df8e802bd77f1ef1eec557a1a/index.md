@@ -6,7 +6,7 @@ status: live
 timeStart: '1516692600000.0'
 timeEnd: '1516696200000.0'
 timeCreated: null
-timeUpdated: '1516710146392.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '40'
 countWaitlist: null
@@ -14,6 +14,18 @@ price: Free
 url: >-
   https://www.eventbrite.com.au/e/coderdojo-term-1-mentor-meeting-information-evening-2018-tickets-38420044387?aff=ebapi
 image: null
+organizer:
+  id: 689af8e6c1f9d0b0371830d5a1d239ee91b875d450cb74700b342bc0e1edf435
+  remoteId: coderdojo-brisbane-3890402513
+  remoteIdType: eventbrite
+  name: CoderDojo Brisbane
+  url: 'https://www.eventbrite.com.au/o/coderdojo-brisbane-3890402513'
+  description: >-
+    CoderDojo Brisbane is a Brisbane Marketing inititiative of the Digital
+    Brisbane Strategy. CoderDojo is a global program founded by James Whelton
+    and Bill Liao in Ireland in 2011. To find out more about the CoderDojo
+    Brisbane program or the origins of CoderDojo, click here.
+  codeOfConduct: null
 venue:
   id: 1c591f9a8643d3a52db239e91bdeafed35e27d76db80a6a554693da3ce952aa9
   remoteId: '17736186'
@@ -29,18 +41,6 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 689af8e6c1f9d0b0371830d5a1d239ee91b875d450cb74700b342bc0e1edf435
-  remoteId: coderdojo-brisbane-3890402513
-  remoteIdType: eventbrite
-  name: CoderDojo Brisbane
-  url: 'https://www.eventbrite.com.au/o/coderdojo-brisbane-3890402513'
-  description: >-
-    CoderDojo Brisbane is a Brisbane Marketing inititiative of the Digital
-    Brisbane Strategy. CoderDojo is a global program founded by James Whelton
-    and Bill Liao in Ireland in 2011. To find out more about the CoderDojo
-    Brisbane program or the origins of CoderDojo, click here.
-  codeOfConduct: null
 layout: event
 title: CoderDojo Term 1 Mentor Meeting & Information Evening 2018
 date: null

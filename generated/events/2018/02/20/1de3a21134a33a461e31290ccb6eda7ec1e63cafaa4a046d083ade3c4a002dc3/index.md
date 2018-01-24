@@ -6,7 +6,7 @@ status: upcoming
 timeStart: '1519109100000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
@@ -14,14 +14,6 @@ price: null
 url: >-
   https://www.meetup.com/Queensland-Branch-of-the-Statistical-Society-of-Australia/events/246772373/
 image: null
-organizer:
-  id: b52d4214a99c5097ea94f39e557cf99a9f29c1fef902006e8fa2373fb155e5cd
-  remoteId: '19543439'
-  remoteIdType: meetup
-  name: Queensland Branch of the Statistical Society of Australia
-  url: 'https://meetup.com/Queensland-Branch-of-the-Statistical-Society-of-Australia'
-  description: null
-  codeOfConduct: null
 venue:
   id: dd8a884986b97c77efb4141887bf2a44371f9a42e15bb75a98579d1da3ea4808
   remoteId: '25691717'
@@ -35,6 +27,14 @@ venue:
   contactCity: Kelvin Grove
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: b52d4214a99c5097ea94f39e557cf99a9f29c1fef902006e8fa2373fb155e5cd
+  remoteId: '19543439'
+  remoteIdType: meetup
+  name: Queensland Branch of the Statistical Society of Australia
+  url: 'https://meetup.com/Queensland-Branch-of-the-Statistical-Society-of-Australia'
+  description: null
+  codeOfConduct: null
 layout: event
 title: >-
   Evolution of the WHO Product Testing Program for Malaria Rapid Diagnostic

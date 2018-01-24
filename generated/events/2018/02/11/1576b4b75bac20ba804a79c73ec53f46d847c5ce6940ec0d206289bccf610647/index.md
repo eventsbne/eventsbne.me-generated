@@ -6,7 +6,7 @@ status: live
 timeStart: '1518328800000.0'
 timeEnd: '1518339600000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -14,6 +14,19 @@ price: Free
 url: 'https://www.eventbrite.com.au/e/darwin-day-2018-tickets-41930263547?aff=ebapi'
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39321083%2F240298828003%2F1%2Foriginal.jpg?s=0afff7bfb9eb61b7739c9a2941e0f062
+venue:
+  id: 3305747c272237c2da672ebf8dca356f98805300f9c8f1ca389e80300a78f958
+  remoteId: '22715582'
+  remoteIdType: eventbrite
+  name: Moorooka Community Centre
+  url: null
+  description: null
+  lat: '-27.535569'
+  lon: '153.02083300000004'
+  contactAddress: '40 Gainsborough Street, Moorooka, QLD 4105'
+  contactCity: Moorooka
+  contactCountry: Australia
+  contactPhone: null
 organizer:
   id: 9660b26a49cd211a0da9a5fcd531884ccc7814e90f7802ba5fe22e47d9c3219c
   remoteId: gold-coast-skeptics-16465637253
@@ -33,19 +46,6 @@ organizer:
     that makes decisions based on evidence, reason and critical
     thinking.\r\nwww.gcskeptics.com
   codeOfConduct: null
-venue:
-  id: 3305747c272237c2da672ebf8dca356f98805300f9c8f1ca389e80300a78f958
-  remoteId: '22715582'
-  remoteIdType: eventbrite
-  name: Moorooka Community Centre
-  url: null
-  description: null
-  lat: '-27.535569'
-  lon: '153.02083300000004'
-  contactAddress: '40 Gainsborough Street, Moorooka, QLD 4105'
-  contactCity: Moorooka
-  contactCountry: Australia
-  contactPhone: null
 layout: event
 title: Darwin Day 2018
 date: null

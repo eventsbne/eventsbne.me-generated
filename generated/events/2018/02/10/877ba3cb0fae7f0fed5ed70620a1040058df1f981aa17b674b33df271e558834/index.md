@@ -6,7 +6,7 @@ status: live
 timeStart: '1518220800000.0'
 timeEnd: '1518246000000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '40'
 countWaitlist: null
@@ -15,16 +15,6 @@ url: >-
   https://www.eventbrite.com/e/assemble-your-own-3d-printer-and-learn-how-to-use-it-tickets-41531868938?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38952692%2F18174719667%2F1%2Foriginal.jpg?s=2a4900e18e13d95ab0eda93dd8900c9c
-organizer:
-  id: 5ebc42e968d31212e9b7f1d9af2bf4fd870dd909499d3609fb54fdd7e8773401
-  remoteId: christopher-biggs-16019272419
-  remoteIdType: eventbrite
-  name: Christopher Biggs
-  url: 'https://www.eventbrite.com/o/christopher-biggs-16019272419'
-  description: >-
-    Convenor of the Brisbane Internet of Things interest group. \u00a0
-    \u00a0Founder of Accelerando.
-  codeOfConduct: null
 venue:
   id: 97515d7dab8f6848459038e968e7dc284054e6dfe22db36757d21665af30c5cd
   remoteId: '22590830'
@@ -38,6 +28,16 @@ venue:
   contactCity: Sumner Park
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 5ebc42e968d31212e9b7f1d9af2bf4fd870dd909499d3609fb54fdd7e8773401
+  remoteId: christopher-biggs-16019272419
+  remoteIdType: eventbrite
+  name: Christopher Biggs
+  url: 'https://www.eventbrite.com/o/christopher-biggs-16019272419'
+  description: >-
+    Convenor of the Brisbane Internet of Things interest group. \u00a0
+    \u00a0Founder of Accelerando.
+  codeOfConduct: null
 layout: event
 title: Assemble your own 3D printer and learn how to use it
 date: null

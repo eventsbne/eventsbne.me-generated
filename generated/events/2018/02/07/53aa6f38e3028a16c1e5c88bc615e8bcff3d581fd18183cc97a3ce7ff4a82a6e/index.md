@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517988600000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '34'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brazilians-in-IT-Brisbane/events/245718056/'
 image: null
-organizer:
-  id: 5d4357f75782c0d2d7f6d4d4f1184818443863ededa09e462986d9dfe8bcd152
-  remoteId: '20199568'
-  remoteIdType: meetup
-  name: Brazilians in IT - Brisbane
-  url: 'https://meetup.com/Brazilians-in-IT-Brisbane'
-  description: null
-  codeOfConduct: null
 venue:
   id: 16d3262e809615b294826db6e2bab90cfc3d02d6d3195e7a879313bc55898803
   remoteId: '24995302'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 5d4357f75782c0d2d7f6d4d4f1184818443863ededa09e462986d9dfe8bcd152
+  remoteId: '20199568'
+  remoteIdType: meetup
+  name: Brazilians in IT - Brisbane
+  url: 'https://meetup.com/Brazilians-in-IT-Brisbane'
+  description: null
+  codeOfConduct: null
 layout: event
 title: SAVE THE DATE FOR THE NEXT BRAZILIANS IN IT MEETING.
 date: null

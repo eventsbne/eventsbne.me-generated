@@ -22,15 +22,15 @@ events:
       /events/2018/01/25/dbf731fb7449fa18718d2bf5a48d57c3b642a46bc9da376befb235adee0f47e1
     organizer: SecTalks Brisbane
     timeStart: 1516867200000
-  - name: Discover eMagazines - Strathpine Library
-    uri: >-
-      /events/2018/01/25/9f2da038ed68b0c87abf428c10d0b958287bf632aafa0a68dd964c8c0655b20b
-    organizer: Moreton Bay Region Libraries
-    timeStart: 1516869000000
   - name: Cryptocurrency Trading Basics + Live Price Analysis - by Crypto Strategies
     uri: >-
       /events/2018/01/25/eb8e3c734cd66d0a6d3ac8666d0ad980fbc79813c6e6f76a17765412f2ed0631
     organizer: Bitcoin and Cryptocurrency Learning and Experience Centre
     timeStart: 1516867200000
+  - name: Discover eMagazines - Strathpine Library
+    uri: >-
+      /events/2018/01/25/9f2da038ed68b0c87abf428c10d0b958287bf632aafa0a68dd964c8c0655b20b
+    organizer: Moreton Bay Region Libraries
+    timeStart: 1516869000000
 
 ---

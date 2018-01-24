@@ -6,7 +6,7 @@ status: upcoming
 timeStart: '1518076800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '17'
 countCapacity: null
 countWaitlist: '0'

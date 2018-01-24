@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1518679800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Microsoft-Advanced-Analytics-Brisbane/events/246960399/'
 image: null
-organizer:
-  id: 3b0826d98b0c213ed20ba77a112ea5d155227e06aad2426afe10772983ca3325
-  remoteId: '25488568'
-  remoteIdType: meetup
-  name: Microsoft Advanced Analytics Brisbane
-  url: 'https://meetup.com/Microsoft-Advanced-Analytics-Brisbane'
-  description: null
-  codeOfConduct: null
 venue:
   id: 9b78da52a6ffd3604f22f869aa54503e6d4b68bcbd57af53d97c43b83931940d
   remoteId: '25428399'
@@ -34,6 +26,14 @@ venue:
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 3b0826d98b0c213ed20ba77a112ea5d155227e06aad2426afe10772983ca3325
+  remoteId: '25488568'
+  remoteIdType: meetup
+  name: Microsoft Advanced Analytics Brisbane
+  url: 'https://meetup.com/Microsoft-Advanced-Analytics-Brisbane'
+  description: null
+  codeOfConduct: null
 layout: event
 title: Text Analytics Primer
 date: null

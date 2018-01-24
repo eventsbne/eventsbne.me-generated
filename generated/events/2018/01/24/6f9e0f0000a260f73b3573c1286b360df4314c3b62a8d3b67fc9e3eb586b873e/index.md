@@ -13,6 +13,14 @@ countWaitlist: '3'
 price: null
 url: 'https://www.meetup.com/Ethereum-Brisbane/events/246693946/'
 image: null
+organizer:
+  id: 4b7b7c8df265e3e16d0ed7e62819499ce157821ec8ac1d33844da2a5ebb11243
+  remoteId: '18870029'
+  remoteIdType: meetup
+  name: Ethereum Brisbane
+  url: 'https://meetup.com/Ethereum-Brisbane'
+  description: null
+  codeOfConduct: null
 venue:
   id: 61f0cb3988f46c2d8f38f2544d5c6271930340c0b2e267ea7d3fb657bdd6127c
   remoteId: '25614878'
@@ -26,14 +34,6 @@ venue:
   contactCity: 'FORTITUDE VALLEY, QLD 4000'
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 4b7b7c8df265e3e16d0ed7e62819499ce157821ec8ac1d33844da2a5ebb11243
-  remoteId: '18870029'
-  remoteIdType: meetup
-  name: Ethereum Brisbane
-  url: 'https://meetup.com/Ethereum-Brisbane'
-  description: null
-  codeOfConduct: null
 layout: event
 title: 'Blockchain Deep Dive. BTC, XMR, LTC, IOTA + Ethlend Presentation'
 date: null

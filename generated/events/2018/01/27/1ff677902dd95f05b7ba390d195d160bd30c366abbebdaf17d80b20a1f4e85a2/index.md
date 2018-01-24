@@ -6,21 +6,13 @@ status: upcoming
 timeStart: '1517011200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078983.0'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '1'
 price: null
 url: 'https://www.meetup.com/gctechspace/events/246772481/'
 image: null
-organizer:
-  id: 3ac480cc30c9485e37f04ca39569063f4de9a8a2aa443fc18fbd512311de09c7
-  remoteId: '1674750'
-  remoteIdType: meetup
-  name: Gold Coast Techspace
-  url: 'https://meetup.com/gctechspace'
-  description: null
-  codeOfConduct: null
 venue:
   id: c2dea40491ea82e44414687cb0e103f1f87910b966a2fec3cade627cd720fe41
   remoteId: '6715392'
@@ -34,6 +26,14 @@ venue:
   contactCity: Mudgeeraba
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 3ac480cc30c9485e37f04ca39569063f4de9a8a2aa443fc18fbd512311de09c7
+  remoteId: '1674750'
+  remoteIdType: meetup
+  name: Gold Coast Techspace
+  url: 'https://meetup.com/gctechspace'
+  description: null
+  codeOfConduct: null
 layout: event
 title: 'KidHack: Arduino Electronics, Robotics & More'
 date: null

@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1519081200000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/EntrepreneursScaleYourBusiness/events/246983679/'
 image: null
+organizer:
+  id: 985f01d6ef02e1e50fdb4f110fac654c9af0e3dca60e94ab6b6e61cf32b25618
+  remoteId: '21023712'
+  remoteIdType: meetup
+  name: Entrepreneurs Scale Your Business Brisbane
+  url: 'https://meetup.com/EntrepreneursScaleYourBusiness'
+  description: null
+  codeOfConduct: null
 venue:
   id: 105d886734bd8044c22e39bb75d2df93f7834c99feca59a73cd74e601aaf2197
   remoteId: '24836172'
@@ -26,14 +34,6 @@ venue:
   contactCity: Gold Coast
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: 985f01d6ef02e1e50fdb4f110fac654c9af0e3dca60e94ab6b6e61cf32b25618
-  remoteId: '21023712'
-  remoteIdType: meetup
-  name: Entrepreneurs Scale Your Business Brisbane
-  url: 'https://meetup.com/EntrepreneursScaleYourBusiness'
-  description: null
-  codeOfConduct: null
 layout: event
 title: 'Turning Clients into Contacts: How to Rock at Networking Workshop'
 date: null

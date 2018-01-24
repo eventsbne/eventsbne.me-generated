@@ -6,7 +6,7 @@ status: live
 timeStart: '1522103400000.0'
 timeEnd: '1522130400000.0'
 timeCreated: null
-timeUpdated: '1516710146392.0'
+timeUpdated: '1516804076432.0'
 countAttending: null
 countCapacity: '350'
 countWaitlist: null
@@ -15,6 +15,19 @@ url: >-
   https://www.eventbrite.com.au/e/australian-e-health-research-centre-colloquium-2018-tickets-41036465172?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38403155%2F23991259416%2F1%2Foriginal.jpg?s=4033445d04215de2dba792d1e51a1b3c
+venue:
+  id: 7e85d50b87c84cd9bf48cda475adfa0855f128f15477d8eb7b7b0462eb76111c
+  remoteId: '22834070'
+  remoteIdType: eventbrite
+  name: RBWH EDUCATION CENTRE
+  url: null
+  description: null
+  lat: '-27.4467129'
+  lon: '153.0287449'
+  contactAddress: 'Royal Brisbane and Women''s Hospital, Herston, Qld 4029'
+  contactCity: Herston
+  contactCountry: Australia
+  contactPhone: null
 organizer:
   id: 9234487ba57337483059d5f82fe92a1323755c01a81bce9c6311fb08d7998852
   remoteId: the-australian-e-health-research-centre-1697483788
@@ -37,19 +50,6 @@ organizer:
     Australia, with an expanding tele-health group in Western Australia and
     project staff in Sydney and Melbourne.\r\nwww.aehrc.com
   codeOfConduct: null
-venue:
-  id: 7e85d50b87c84cd9bf48cda475adfa0855f128f15477d8eb7b7b0462eb76111c
-  remoteId: '22834070'
-  remoteIdType: eventbrite
-  name: RBWH EDUCATION CENTRE
-  url: null
-  description: null
-  lat: '-27.4467129'
-  lon: '153.0287449'
-  contactAddress: 'Royal Brisbane and Women''s Hospital, Herston, Qld 4029'
-  contactCity: Herston
-  contactCountry: Australia
-  contactPhone: null
 layout: event
 title: Australian e-Health Research Centre Colloquium 2018
 date: null

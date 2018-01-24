@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1517473800000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-WordPress-Learners-Meetup/events/246205860/'
 image: null
+organizer:
+  id: d39994e77e984f8b16e54e4a066bc63e537e90183edce99b18333b231cbf00c8
+  remoteId: '20200018'
+  remoteIdType: meetup
+  name: Brisbane WordPress Learners Meetup
+  url: 'https://meetup.com/Brisbane-WordPress-Learners-Meetup'
+  description: null
+  codeOfConduct: null
 venue:
   id: 988e307b2bbf90f631a7c1a2536a317a7c96799e9020c02286b92f192b3dbff1
   remoteId: '24664517'
@@ -26,14 +34,6 @@ venue:
   contactCity: Clayfield
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: d39994e77e984f8b16e54e4a066bc63e537e90183edce99b18333b231cbf00c8
-  remoteId: '20200018'
-  remoteIdType: meetup
-  name: Brisbane WordPress Learners Meetup
-  url: 'https://meetup.com/Brisbane-WordPress-Learners-Meetup'
-  description: null
-  codeOfConduct: null
 layout: event
 title: Let's meetup and learn about Wordpress (including DIVI)
 date: null

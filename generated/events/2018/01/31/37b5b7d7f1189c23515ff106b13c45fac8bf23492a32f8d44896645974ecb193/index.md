@@ -6,13 +6,21 @@ status: upcoming
 timeStart: '1517385600000.0'
 timeEnd: null
 timeCreated: null
-timeUpdated: '1516710148859.0'
+timeUpdated: '1516804078984.0'
 countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Ipswich-WordPress-Meetup/events/246893230/'
 image: null
+organizer:
+  id: fb82e174261afef4e9e9a5e69fa43309df778ac62a7c10a33eadca6108dd0f4c
+  remoteId: '20631498'
+  remoteIdType: meetup
+  name: Ipswich WordPress Meetup
+  url: 'https://meetup.com/Ipswich-WordPress-Meetup'
+  description: null
+  codeOfConduct: null
 venue:
   id: bfad061d4896a4405683107358ece427775f87f4289cb171fe9cd9fc229d4fa6
   remoteId: '24394056'
@@ -26,14 +34,6 @@ venue:
   contactCity: Ipswich
   contactCountry: Australia
   contactPhone: null
-organizer:
-  id: fb82e174261afef4e9e9a5e69fa43309df778ac62a7c10a33eadca6108dd0f4c
-  remoteId: '20631498'
-  remoteIdType: meetup
-  name: Ipswich WordPress Meetup
-  url: 'https://meetup.com/Ipswich-WordPress-Meetup'
-  description: null
-  codeOfConduct: null
 layout: event
 title: WordPress Ipswich January Meetup
 date: null

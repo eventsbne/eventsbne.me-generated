@@ -14,20 +14,20 @@ events:
       /events/2018/01/31/d2be6198384dc8c040cbe20dddf1f8d8bc339c6e7faadae34c6f7c9524c3e53f
     organizer: CIBSE QLD Chapter
     timeStart: 1517378400000
-  - name: Blockchain Reserve - Brisbane Investment Analysis
+  - name: Unlock your superpower and your STEM potential!
     uri: >-
-      /events/2018/01/31/c030c9baef725186b05c821990e75e16abb3bb9dab127798a32d2fa204387f6e
-    organizer: Blockchain Reserve Brisbane
+      /events/2018/01/31/91471982d4952ccfbfa695b2cb045af30b623ff2758cf8c38e64fbf9b8b14363
+    organizer: Women Who Code Brisbane
     timeStart: 1517385600000
   - name: WordPress Ipswich January Meetup
     uri: >-
       /events/2018/01/31/37b5b7d7f1189c23515ff106b13c45fac8bf23492a32f8d44896645974ecb193
     organizer: Ipswich WordPress Meetup
     timeStart: 1517385600000
-  - name: Unlock your superpower and your STEM potential!
+  - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
-      /events/2018/01/31/91471982d4952ccfbfa695b2cb045af30b623ff2758cf8c38e64fbf9b8b14363
-    organizer: Women Who Code Brisbane
+      /events/2018/01/31/c030c9baef725186b05c821990e75e16abb3bb9dab127798a32d2fa204387f6e
+    organizer: Blockchain Reserve Brisbane
     timeStart: 1517385600000
 
 ---

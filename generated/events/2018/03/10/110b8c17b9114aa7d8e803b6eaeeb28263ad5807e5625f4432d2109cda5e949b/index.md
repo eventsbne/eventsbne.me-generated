@@ -6,7 +6,7 @@ status: live
 timeStart: '1520636400000.0'
 timeEnd: '1520663400000.0'
 timeCreated: null
-timeUpdated: '1516710146393.0'
+timeUpdated: '1516804076433.0'
 countAttending: null
 countCapacity: '200'
 countWaitlist: null
@@ -15,6 +15,19 @@ url: >-
   https://www.eventbrite.com.au/e/queensland-clinical-science-symposium-foundations-and-frontiers-tickets-36849116700?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39608537%2F234684746611%2F1%2Foriginal.jpg?s=defd87b1485c4859b1911806bc3a8adc
+venue:
+  id: 0579f56dcd1f0ba46ce01f0736238e2680b06b6b63110c0818dbce23dde10eab
+  remoteId: '22428783'
+  remoteIdType: eventbrite
+  name: Translational Research Institute
+  url: null
+  description: null
+  lat: '-27.499063'
+  lon: '153.03122099999996'
+  contactAddress: '37 Kent Street, Woolloongabba, QLD 4102'
+  contactCity: Woolloongabba
+  contactCountry: Australia
+  contactPhone: null
 organizer:
   id: 2a88539810e37949fd1ccbd06b75de2698957037b937ee02deab6cd154b0ac91
   remoteId: australian-academy-of-health-and-medical-sciences-9864584084
@@ -31,19 +44,6 @@ organizer:
     health and medical research. The Academy will also focus on the development
     of future generations of health and medical researchers.
   codeOfConduct: null
-venue:
-  id: 0579f56dcd1f0ba46ce01f0736238e2680b06b6b63110c0818dbce23dde10eab
-  remoteId: '22428783'
-  remoteIdType: eventbrite
-  name: Translational Research Institute
-  url: null
-  description: null
-  lat: '-27.499063'
-  lon: '153.03122099999996'
-  contactAddress: '37 Kent Street, Woolloongabba, QLD 4102'
-  contactCity: Woolloongabba
-  contactCountry: Australia
-  contactPhone: null
 layout: event
 title: 'Queensland Clinical Science Symposium: Foundations and Frontiers'
 date: null
