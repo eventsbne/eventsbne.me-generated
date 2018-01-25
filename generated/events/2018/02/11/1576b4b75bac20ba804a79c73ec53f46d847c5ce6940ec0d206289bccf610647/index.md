@@ -3,10 +3,10 @@ id: 1576b4b75bac20ba804a79c73ec53f46d847c5ce6940ec0d206289bccf610647
 remoteId: '41930263547'
 remoteIdType: eventbrite
 status: live
-timeStart: '1518328800000.0'
-timeEnd: '1518339600000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-11T06:00:00.000Z'
+timeEnd: '2018-02-11T09:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -48,7 +48,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Darwin Day 2018
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <P>Come and celebrate science, skepticism and the life works of Charles Darwin.</P>

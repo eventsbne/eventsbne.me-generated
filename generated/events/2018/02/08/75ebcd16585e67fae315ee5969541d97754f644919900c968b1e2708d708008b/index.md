@@ -3,11 +3,11 @@ id: 75ebcd16585e67fae315ee5969541d97754f644919900c968b1e2708d708008b
 remoteId: '246952417'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518073200000.0'
+timeStart: '2018-02-08T07:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
-countAttending: '23'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
+countAttending: '25'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -20,8 +20,8 @@ venue:
   name: 'The Precinct, Startup Stadium'
   url: null
   description: null
-  lat: '-27.4580612182617'
-  lon: '153.034484863281'
+  lat: '-27.45806121826172'
+  lon: '153.03448486328125'
   contactAddress: 'Level 2, 315 Brunswick St'
   contactCity: Fortitude Valley
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Women's Cocktail Hour
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>This meetup is intended to give women a space to discuss the latest tech and AI news and to connect with other women in the network.<br/>We acknowledge that women in technology are a minority and this is a small step to boost the number of women engaged in the tech network!</p> <p>Come and meet other female tech enthusiasts and entrepreneurs over a cocktail from 5-6pm 🍸</p> <p>This event is proudly supported by the Office of the Queensland Chief Entrepreneur.</p> 
+<p>This meetup is intended to give women a space to discuss the latest tech and AI news and to connect with other women in the network.<br/>We acknowledge that women in technology are a minority and this is a small step to boost the number of women engaged in the tech network!</p> <p>Come and meet other female tech enthusiasts and entrepreneurs over a cocktail from 5-6pm 🍸</p> <p>This event is proudly supported by the Office of the Queensland Chief Entrepreneur.</p>

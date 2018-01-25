@@ -3,10 +3,10 @@ id: 1ff677902dd95f05b7ba390d195d160bd30c366abbebdaf17d80b20a1f4e85a2
 remoteId: wmffmmyxcbkc
 remoteIdType: meetup
 status: upcoming
-timeStart: '1517011200000.0'
+timeStart: '2018-01-27T00:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '1'
@@ -20,8 +20,8 @@ venue:
   name: Gold Coast TechSpace Mudgeeraba
   url: null
   description: null
-  lat: '-28.0805416107178'
-  lon: '153.365905761719'
+  lat: '-28.080541610717773'
+  lon: '153.36590576171875'
   contactAddress: Mudgeeraba Old Post Office
   contactCity: Mudgeeraba
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'KidHack: Arduino Electronics, Robotics & More'
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p><b>UPDATE: Please purchase your entry ticket at our new KidHack website located here:</b> <a href="https://gctechspace.org/kidhack/"><a href="https://gctechspace.org/kidhack/" class="linkified">https://gctechspace.org/kidhack/</a></a></p> <p>The session running every 2 weeks was originally a Minecraft LAN party - but this has now expanded into a richer "KidHack" club. <b>$15 entry - Booking via our GCTechspace website is essential </b></p> <p>For those that may be participating in our Discovery workshops during the holidays we have opened up the TechSpace for kids that want to drop in and work on their projects during this time. This is generally self-paced but TechSpace mentors will be around to help you with any problems you might have.</p> <p>Some things you might want to work on:</p> <p>• Arduino Projects</p> <p>• Robotics using GCDuino and MiniMoto</p> <p>• Soldering (older kids only)</p> <p>Cost is $15 each (you <i>must</i> pre-book on gctechspace.org to attend).</p> 
+<p><b>UPDATE: Please purchase your entry ticket at our new KidHack website located here:</b> <a href="https://gctechspace.org/kidhack/"><a href="https://gctechspace.org/kidhack/" class="linkified">https://gctechspace.org/kidhack/</a></a></p> <p>The session running every 2 weeks was originally a Minecraft LAN party - but this has now expanded into a richer "KidHack" club. <b>$15 entry - Booking via our GCTechspace website is essential </b></p> <p>For those that may be participating in our Discovery workshops during the holidays we have opened up the TechSpace for kids that want to drop in and work on their projects during this time. This is generally self-paced but TechSpace mentors will be around to help you with any problems you might have.</p> <p>Some things you might want to work on:</p> <p>• Arduino Projects</p> <p>• Robotics using GCDuino and MiniMoto</p> <p>• Soldering (older kids only)</p> <p>Cost is $15 each (you <i>must</i> pre-book on gctechspace.org to attend).</p>

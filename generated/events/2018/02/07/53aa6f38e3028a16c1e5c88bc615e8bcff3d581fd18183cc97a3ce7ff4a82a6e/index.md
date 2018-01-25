@@ -3,10 +3,10 @@ id: 53aa6f38e3028a16c1e5c88bc615e8bcff3d581fd18183cc97a3ce7ff4a82a6e
 remoteId: '245718056'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1517988600000.0'
+timeStart: '2018-02-07T07:30:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '34'
 countCapacity: null
 countWaitlist: '0'
@@ -20,8 +20,8 @@ venue:
   name: Little Tokyo Two - The Capital (entrance via the Regent Theatre)
   url: null
   description: null
-  lat: '-27.4695243835449'
-  lon: '153.025939941406'
+  lat: '-27.469524383544922'
+  lon: '153.02593994140625'
   contactAddress: 155 Queen Street
   contactCity: Brisbane
   contactCountry: Australia
@@ -36,10 +36,10 @@ organizer:
   codeOfConduct: null
 layout: event
 title: SAVE THE DATE FOR THE NEXT BRAZILIANS IN IT MEETING.
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
 <p><img src="https://secure.meetupstatic.com/photos/event/6/6/f/4/600_466706356.jpeg" /></p> <p>
 
 
-Ola pessoal!</p> <p>Espero que estejam bem!</p> <p>Consegui agendar nosso proximo encontro para dia 07/02/2018 - quarta-feira - 05:30PM!</p> <p>Sera no mesmo local onde nos encontramos das ultimas vezes, Little Tokyo Two, e teremos cerveja, pizza, coxinhas e o sorteio de premios!</p> <p>Sobre o assunto deste encontro, gostaria de sugestoes sobre topicos para falarmos, afinal o encontro e de TODOS nos!! Fiquem a vontade para dividir as ideias aqui.</p> <p>AH! Por favor clique no RSVP aqui embaixo para a gente se organizar referente ao numero de participantes que irao comparecer, ok?</p> <p>Espero ver todos la!</p> <p>Um abraco!</p> <p>Carol Ferraz.</p> 
+Ola pessoal!</p> <p>Espero que estejam bem!</p> <p>Consegui agendar nosso proximo encontro para dia 07/02/2018 - quarta-feira - 05:30PM!</p> <p>Sera no mesmo local onde nos encontramos das ultimas vezes, Little Tokyo Two, e teremos cerveja, pizza, coxinhas e o sorteio de premios!</p> <p>Sobre o assunto deste encontro, gostaria de sugestoes sobre topicos para falarmos, afinal o encontro e de TODOS nos!! Fiquem a vontade para dividir as ideias aqui.</p> <p>AH! Por favor clique no RSVP aqui embaixo para a gente se organizar referente ao numero de participantes que irao comparecer, ok?</p> <p>Espero ver todos la!</p> <p>Um abraco!</p> <p>Carol Ferraz.</p>

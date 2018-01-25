@@ -3,11 +3,11 @@ id: ef5ff0c30ffc06c1359f00eeeb5f9174e5fc129916345af86e51c20240405977
 remoteId: '246952190'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518076800000.0'
+timeStart: '2018-02-08T08:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
-countAttending: '15'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -20,8 +20,8 @@ venue:
   name: 'The Precinct, Startup Stadium'
   url: null
   description: null
-  lat: '-27.4580612182617'
-  lon: '153.034484863281'
+  lat: '-27.45806121826172'
+  lon: '153.03448486328125'
   contactAddress: 'Level 2, 315 Brunswick St'
   contactCity: Fortitude Valley
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Kick off 2018
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>Great things are brewing for the year ahead. Check back soon!</p> 
+<p>Great things are brewing for the year ahead. Check back soon!</p>

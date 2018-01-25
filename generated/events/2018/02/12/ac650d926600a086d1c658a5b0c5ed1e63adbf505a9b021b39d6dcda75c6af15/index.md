@@ -3,17 +3,17 @@ id: ac650d926600a086d1c658a5b0c5ed1e63adbf505a9b021b39d6dcda75c6af15
 remoteId: qbsgfpyxdbzb
 remoteIdType: meetup
 status: null
-timeStart: '1518424200000.0'
+timeStart: '2018-02-12T08:30:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078984.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-ICO/events/246664324/'
 image: null
-venue: null
+venue: {}
 organizer:
   id: 4d90e4a7902591f4b73e148e70ae9aba5e3d29ff1f057a89c30202c9d913d7d8
   remoteId: '25866782'
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Meetup 0x005
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
 No description was provided.

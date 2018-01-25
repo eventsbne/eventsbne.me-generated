@@ -3,10 +3,10 @@ id: a12f7afb935fd106a64e37253039416a42895a4b9effc5028fd4da8a723318f5
 remoteId: '246925945'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518570000000.0'
+timeStart: '2018-02-14T01:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078984.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
@@ -21,8 +21,8 @@ venue:
   name: 'CAPRI ON VIA ROMA, Isle of Capri'
   url: null
   description: null
-  lat: '-28.0108394622803'
-  lon: '153.424621582031'
+  lat: '-28.010839462280273'
+  lon: '153.42462158203125'
   contactAddress: '15 Via Roma, Isle of Capri QLD 421'
   contactCity: Gold Coast
   contactCountry: Australia
@@ -39,7 +39,7 @@ layout: event
 title: >-
   Let's discuss Bitcoin and cryptocurrencies and if you're new how to get
   started
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>• What we'll do<br/>sharing and discussing news, tips, insights and helping newbies</p> <p>• What to bring<br/>pen and paper and money for a cup of coffee</p> <p>• Important to know</p> 
+<p>• What we'll do<br/>sharing and discussing news, tips, insights and helping newbies</p> <p>• What to bring<br/>pen and paper and money for a cup of coffee</p> <p>• Important to know</p>

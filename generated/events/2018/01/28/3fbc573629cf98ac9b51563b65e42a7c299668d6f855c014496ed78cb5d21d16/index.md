@@ -3,10 +3,10 @@ id: 3fbc573629cf98ac9b51563b65e42a7c299668d6f855c014496ed78cb5d21d16
 remoteId: vggjgpyxcblc
 remoteIdType: meetup
 status: upcoming
-timeStart: '1517097600000.0'
+timeStart: '2018-01-28T00:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -20,10 +20,10 @@ venue:
   name: '231-315 Plunkett Rd,  Tamborine QLD 4270'
   url: null
   description: null
-  lat: '-27.8521938323975'
-  lon: '153.140899658203'
+  lat: '-27.85219383239746'
+  lon: '153.14089965820312'
   contactAddress: '231-315 Plunkett Rd,  Tamborine QLD 4270'
-  contactCity: 'brisbane '
+  contactCity: brisbane
   contactCountry: Australia
   contactPhone: null
 organizer:
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Build a Real Self Driving Car in 72 Hours
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>• What we'll do</p> <p>We will teach you to build self-driving cars from the ground up in 72 hours. Open to applicants with Engineering and Computer Science backgrounds. All materials and lodging provided.<br/>Bring your computor and lets hack • For more info</p> <p><a href="https://www.theroboticsclub.org/72hr-challenge-intro" class="linkified">https://www.theroboticsclub.org/72hr-challenge-intro</a><br/><a href="https://www.facebook.com/theroboticsclub.org/" class="linkified">https://www.facebook.com/theroboticsclub.org/</a></p> <p>linda+[masked]<br/>[masked]</p> 
+<p>• What we'll do</p> <p>We will teach you to build self-driving cars from the ground up in 72 hours. Open to applicants with Engineering and Computer Science backgrounds. All materials and lodging provided.<br/>Bring your computor and lets hack • For more info</p> <p><a href="https://www.theroboticsclub.org/72hr-challenge-intro" class="linkified">https://www.theroboticsclub.org/72hr-challenge-intro</a><br/><a href="https://www.facebook.com/theroboticsclub.org/" class="linkified">https://www.facebook.com/theroboticsclub.org/</a></p> <p>linda+[masked]<br/>[masked]</p>

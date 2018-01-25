@@ -8,21 +8,26 @@ events:
     uri: >-
       /events/2018/02/14/a12f7afb935fd106a64e37253039416a42895a4b9effc5028fd4da8a723318f5
     organizer: Gold Coast and Redlands Bitcoin Simple Meetup
-    timeStart: 1518570000000
-  - name: Discover eBooks & eAudiobooks - Burpengary Library
+    timeStart: '2018-02-14T01:00:00.000Z'
+  - name: Kids Code Club - Beginners
     uri: >-
-      /events/2018/02/14/827354db6051b46c7f5ba7ec080f0f00f44176e45cf4ef7f925fa69788c92615
-    organizer: Moreton Bay Region Libraries
-    timeStart: 1518580800000
+      /events/2018/02/14/7b2a9d8f7e0eff134b8a8f73fd1796f630b141a04dfe6ba0b5e31af85bd5b84e
+    organizer: Ipswich Libraries
+    timeStart: '2018-02-14T05:30:00.000Z'
   - name: Transformation Achieved - Windows Nanoserver Container Toolchain on Azure
     uri: >-
       /events/2018/02/14/5d34e706207ab72598a121ddedca16e8456754f922d52e730f2566e91fe69608
     organizer: Brisbane Azure User Group
-    timeStart: 1518593400000
+    timeStart: '2018-02-14T07:30:00.000Z'
+  - name: Bitcoin for WOMEN Gold Coast (FREE)
+    uri: >-
+      /events/2018/02/14/6a1a04d7d868ed47b51b075f559792b0ea6ce3256b22f5b3ee197bc13b56c761
+    organizer: The Beauty of Bitcoin Gold Coast (free)
+    timeStart: '2018-02-14T09:00:00.000Z'
   - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
       /events/2018/02/14/43d334a2a43a3b2442031ce6b827d24f587966a070e07ad420770eb818df13b2
     organizer: Blockchain Reserve Brisbane
-    timeStart: 1518595200000
+    timeStart: '2018-02-14T08:00:00.000Z'
 
 ---

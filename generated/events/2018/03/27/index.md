@@ -6,6 +6,6 @@ events:
     uri: >-
       /events/2018/03/27/5e8a5c15eafd0b59c3c0bdf3e63918836ec532d802d1b0404041d6459a7c2fb1
     organizer: The Australian e-Health Research Centre
-    timeStart: 1522103400000
+    timeStart: '2018-03-26T22:30:00.000Z'
 
 ---

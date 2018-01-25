@@ -3,10 +3,10 @@ id: 23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
 remoteId: '246960399'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518679800000.0'
+timeStart: '2018-02-15T07:30:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
@@ -20,8 +20,8 @@ venue:
   name: Microsoft Brisbane
   url: null
   description: null
-  lat: '-27.4686050415039'
-  lon: '153.020797729492'
+  lat: '-27.468605041503906'
+  lon: '153.0207977294922'
   contactAddress: 'Level 28, 400 George Street'
   contactCity: Brisbane
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Text Analytics Primer
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
 No description was provided.

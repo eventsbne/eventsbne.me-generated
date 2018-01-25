@@ -12,7 +12,13 @@
     "moment-timezone": "^0.5.14",
     "sqlite3": "^3.1.13"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.5.1"
+  },
   "scripts": {
     "build": "npm run refresh-from-server && node ./export-to-hexo;",
     "refresh-from-server": "event-db-builder -c config.json -d state.db -o overrides",

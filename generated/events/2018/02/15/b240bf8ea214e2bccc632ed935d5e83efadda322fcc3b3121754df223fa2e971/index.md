@@ -3,10 +3,10 @@ id: b240bf8ea214e2bccc632ed935d5e83efadda322fcc3b3121754df223fa2e971
 remoteId: '246925974'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518656400000.0'
+timeStart: '2018-02-15T01:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078984.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -21,8 +21,8 @@ venue:
   name: The Coffee Club
   url: null
   description: null
-  lat: '-27.5260543823242'
-  lon: '153.268539428711'
+  lat: '-27.52605438232422'
+  lon: '153.26853942871094'
   contactAddress: 91 - 92 Middle Street
   contactCity: Cleveland
   contactCountry: Australia
@@ -39,7 +39,7 @@ layout: event
 title: >-
   Let's discuss Bitcoin and cryptocurrencies and if you're new how to get
   started
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>• What we'll do<br/>sharing and discussing news, tips, insights and helping newbies</p> <p>• What to bring<br/>pen and paper and money for a cup of coffee</p> <p>• Important to know</p> 
+<p>• What we'll do<br/>sharing and discussing news, tips, insights and helping newbies</p> <p>• What to bring<br/>pen and paper and money for a cup of coffee</p> <p>• Important to know</p>

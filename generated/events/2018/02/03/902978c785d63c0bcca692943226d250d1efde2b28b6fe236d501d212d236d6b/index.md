@@ -3,29 +3,18 @@ id: 902978c785d63c0bcca692943226d250d1efde2b28b6fe236d501d212d236d6b
 remoteId: '41801392089'
 remoteIdType: eventbrite
 status: live
-timeStart: '1517616000000.0'
-timeEnd: '1517716800000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-03T00:00:00.000Z'
+timeEnd: '2018-02-04T04:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
 price: Paid
 url: >-
-  https://www.eventbrite.com.au/e/energylab-brisbane-cleantech-hackathon-tickets-41801392089?aff=ebapi
+  https://www.eventbrite.com.au/e/the-brisbane-cleantech-hackathon-tickets-41801392089?aff=ebapi
 image: >-
-  https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39189820%2F214946533569%2F1%2Foriginal.jpg?s=4f323d05ec24e80aee2009ea28157ee6
-organizer:
-  id: 54b699aa17ec0e2e6a5ce53306acb6933d8932d87f709128094c0a1b6bb18454
-  remoteId: energylab-11932335730
-  remoteIdType: eventbrite
-  name: EnergyLab
-  url: 'https://www.eventbrite.com.au/o/energylab-11932335730'
-  description: >-
-    EnergyLab supports clean energy innovation by organising events like these,
-    running programs for clean energy startups, and collaborating with others,
-    supporting Australia's transition to 100% clean energy.\r\n
-  codeOfConduct: null
+  https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39879709%2F214946533569%2F1%2Foriginal.jpg?s=2adfcfe4e26c3232cb8e274517fde18e
 venue:
   id: ad743b585047dc782f6ad1aaed951a0d3d682a4cd4cb9b7c86de679a10863703
   remoteId: '22669754'
@@ -39,15 +28,25 @@ venue:
   contactCity: Fortitude Valley
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: 54b699aa17ec0e2e6a5ce53306acb6933d8932d87f709128094c0a1b6bb18454
+  remoteId: energylab-11932335730
+  remoteIdType: eventbrite
+  name: EnergyLab
+  url: 'https://www.eventbrite.com.au/o/energylab-11932335730'
+  description: >-
+    EnergyLab supports clean energy innovation by organising events like these,
+    running programs for clean energy startups, and collaborating with others,
+    supporting Australia's transition to 100% clean energy.\r\n
+  codeOfConduct: null
 layout: event
-title: EnergyLab Brisbane CleanTech Hackathon
-date: null
+title: The Brisbane CleanTech Hackathon
+date: '2018-01-25T13:30:29.245Z'
 
 ---
-<H3>The way we power our cities, move people around, and produce goods and services is changing. Increasingly, we're electrifying our transport, reducing the resource intensity of industry, and producing energy from renewable sources.</H3>
-<H3><STRONG>At the heart of this transition are cleantech <SPAN>entrepreneurs </SPAN>building profitable businesses that improve lives while reducing our environmental footprint. If you're interested in joining this growing group, then we hope you'll come along to EnergyLab's CleanTech Hackathon!</STRONG></H3>
-<H3><BR></H3>
-<P>This event is designed to bring people interested in cleantech startups together to brainstorm, develop and demonstrate new business concepts. Over the course of a weekend we'll help you find teammates (if you don't have a team already), come up with a cleantech startup idea, and refine it ready to present to a panel of judges. The winning team will receive a support package to help them make their ideas a reality.</P>
+<H3>Are you interested in the potential of business and technology to address challenges such as decarbonising our electricity grid and making transport more sustainable? Then we hope you will join us and other like-minded people for the Brisbane CleanTech Hackathon. </H3>
+<P>EnergyLab and the Brisbane CleanTech Network have teamed up to organise this two-day event to bring together a diverse group of people to come up with and develop cleantech startup and social enterprise ideas. This will be a great opportunity to meet new people, work on an interesting idea, learn something new, and have some fun. The winning team will receive prizes and support to help them make their idea a reality. </P>
+<P>Everyone is welcome to participate, so whether you're a cleantech expert or new to the area, can code or not, are a hackathon junkie or a first-timer, we hope we'll see you there.</P>
 <P><BR></P>
 <P><BR></P>
 <HR>
@@ -82,6 +81,7 @@ date: null
 <P><STRONG>When:</STRONG><SPAN><SPAN CLASS="Apple-tab-span"> 10:00am on Saturday 3rd February to 1:00pm on Sunday 4th February</SPAN></SPAN><SPAN><BR></SPAN></P>
 <P><STRONG>Who:</STRONG> <SPAN CLASS="Apple-tab-span"> </SPAN>Students, entrepreneurs, designers, engineers, hackers, professionals, and anyone else interested in cleantech startups. You can register as an individual or as a team.</P>
 <P><STRONG>Cost:</STRONG> $20, including all meals, snacks and drinks</P>
+<P><EM><STRONG>Register by midnight, Sunday 28th January</STRONG></EM></P>
 <P><BR></P>
 <P><BR></P>
 <HR>
@@ -100,7 +100,21 @@ date: null
 </LI>
 </UL>
 <P>* Requires submitting an eligible application by the deadline</P>
+<P><BR></P>
 <P><SPAN><SPAN><BR></SPAN></SPAN></P>
+<HR>
+<H2><BR></H2>
+<H2>Judges</H2>
+<UL>
+<LI><A HREF="https://www.linkedin.com/in/bill-truscott-657b0735/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Bill Truscott</A><SPAN>, Strategy Manager, Origin Energy</SPAN></LI>
+<LI>
+<P><SPAN><A HREF="https://www.linkedin.com/in/heather-bone-0ab192b/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Heather Bone</A>, Director of the Board, Bioenergy Australia</SPAN></P>
+</LI>
+<LI>
+<P><A HREF="https://www.linkedin.com/in/nick-lake-b3b2142a/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Nick Lake</A>, Co-Founder &amp; Executive Director, EnergyLab</P>
+</LI>
+</UL>
+<P><BR></P>
 <P><BR></P>
 <HR>
 <P><BR></P>
@@ -189,11 +203,11 @@ date: null
 <P><STRONG>How many people are allowed in a team?</STRONG></P>
 <P>Teams must contain 2, 3 or 4 people. Teams with 5 or more people in them must break into two or more smaller teams. Individuals can't compete but we will help you find at least one other person to form a team with (see below).</P>
 <P><BR></P>
-<P><STRONG>I already have teammates, can I just participate with them?</STRONG></P>
+<P><STRONG>I already have teammates; can I just participate with them?</STRONG></P>
 <P>Yes! As long as you have at least one other person on your team (and your team doesn't have more than four people in it).</P>
 <P><BR></P>
 <P><STRONG>I don't know anyone else attending, how will I form a team? </STRONG></P>
-<P>We have your back! We have built in lots of ways for you to meet other people in the same boat and will help you form a team with people you want to spend the weekend with. Before the event you will be invited to a Facebook Group so you can start to get to know other people attending. The start of the event will includes a few different networking opportunities, both casual and structured. During the lunch, we'll help match individuals together and make sure no one is left out. If you have any questions or concerns please send an email to james@energylab.org.au.</P>
+<P>We have your back! We have built in lots of ways for you to meet other people in the same boat and will help you form a team with people you want to spend the weekend with. Before the event you will be invited to a Facebook Group so you can start to get to know other people attending. The start of the event will include a few different networking opportunities, both casual and structured. During the lunch, we'll help match individuals together and make sure no one is left out. If you have any questions or concerns please send an email to james@energylab.org.au.</P>
 <P><BR></P>
 <P><STRONG>Can I still participate if I don't have an idea?</STRONG></P>
 <P>You can! We'll help your team find something interesting to work on over the weekend. </P>
@@ -213,8 +227,15 @@ date: null
 <P><BR></P>
 <HR>
 <P><BR></P>
+<H2>About the Brisbane CleanTech Network</H2>
+<P>The Brisbane CleanTech Network (BCN) is the Brisbane based operation of the Australian CleanTech Network. It provides a forum for investors, companies, government and academia to meet, learn about the sector and collaborate. The BCN is a non-profit making venture and provides a forum for the organising partners to increase their industry profile whilst providing a useful forum for industry participants. The BCN has evolved into the single connection point in Queensland for those interested in the cleantech sector. <A HREF="http://www.auscleantech.com.au/pages/ACT_Brisbane_Cleantech_Network.php" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Click here</A> for more information.</P>
+<P><BR></P>
+<P><BR></P>
+<HR>
+<P><BR></P>
 <H2><SPAN>Our Partners</SPAN></H2>
 <P><SPAN><SPAN>This event would not be possible without the generous support of our partners, <A HREF="https://advance.qld.gov.au/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Advance Queensland</A></SPAN><SPAN>,</SPAN><SPAN> </SPAN><A HREF="http://www.marquelawyers.com.au/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Marque Lawyers</A><SPAN> and </SPAN><A HREF="https://hackathonsaustralia.com/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Hackathons Australia</A><SPAN>.</SPAN></SPAN></P>
 <P><BR></P>
 <P><IMG SRC="https://cdn.evbuc.com/eventlogos/213452367/partnerlogosqld.png"></P>
 <P><BR></P>
+<P><SPAN>The Brisbane CleanTech Network (BCN) is the Brisbane based operation of the Australian CleanTech Network.</SPAN><BR><BR><SPAN>It provides a forum for investors, companies, government and academia to meet, learn about the sector and collaborate. The BCN is a non-profit making venture and provides a forum for the organising partners to increase their industry profile whilst providing a useful forum for industry participants.</SPAN><BR><BR><SPAN>The BCN has evolved into the single connection point in Queensland for those interested in the cleantech sector.</SPAN></P>

@@ -3,10 +3,10 @@ id: 2fb6c07b0bd355b6e2961aaeec1c0ed300ad34420ed61407fc86af4cfe4abb68
 remoteId: '41636449742'
 remoteIdType: eventbrite
 status: live
-timeStart: '1517612400000.0'
-timeEnd: '1517641200000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-02T23:00:00.000Z'
+timeEnd: '2018-02-03T07:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '80'
 countWaitlist: null
@@ -15,19 +15,7 @@ url: >-
   https://www.eventbrite.com.au/e/elixir-girls-brisbane-2018-tickets-41636449742?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39064735%2F143875277057%2F1%2Foriginal.jpg?s=bcdd52d35e1f874d007546e5994db621
-venue:
-  id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
-  remoteId: null
-  remoteIdType: eventbrite
-  name: null
-  url: null
-  description: null
-  lat: null
-  lon: null
-  contactAddress: null
-  contactCity: null
-  contactCountry: null
-  contactPhone: null
+venue: {}
 organizer:
   id: 8208208d6215c9dc904441637e339e2b10371512eb82e43476707b8047deb3e7
   remoteId: rails-girls-brisbane-8197509682
@@ -41,7 +29,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Elixir Girls Brisbane 2018
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <P><SPAN><SPAN><SPAN><SPAN>Become a part of history: the very first Elixir Girls Brisbane!</SPAN></SPAN></SPAN></SPAN></P>

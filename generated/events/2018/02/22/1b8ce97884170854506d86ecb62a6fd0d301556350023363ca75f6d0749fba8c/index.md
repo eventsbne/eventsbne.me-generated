@@ -3,10 +3,10 @@ id: 1b8ce97884170854506d86ecb62a6fd0d301556350023363ca75f6d0749fba8c
 remoteId: '245269577'
 remoteIdType: meetup
 status: upcoming
-timeStart: '1519282800000.0'
+timeStart: '2018-02-22T07:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078984.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
@@ -20,8 +20,8 @@ venue:
   name: BRISBANE CBD (EXACT LOCATION TBC)
   url: null
   description: null
-  lat: '-27.4709339141846'
-  lon: '153.023498535156'
+  lat: '-27.47093391418457'
+  lon: '153.02349853515625'
   contactAddress: BRISBANE CBD
   contactCity: Brisbane
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Delicious DataOps Discussion - INAUGURAL KICKOFF Feb 22nd!
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>We're feverishly putting together this kick off event, where we're planning to discuss the mysterious intersection between Devops and Data Science.</p> <p>If you're interested in speaking or sponsoring, please get in touch :)</p> <p>RSVP to assure you're spot!</p> <p>Stephen &amp; Mick</p> 
+<p>We're feverishly putting together this kick off event, where we're planning to discuss the mysterious intersection between Devops and Data Science.</p> <p>If you're interested in speaking or sponsoring, please get in touch :)</p> <p>RSVP to assure you're spot!</p> <p>Stephen &amp; Mick</p>

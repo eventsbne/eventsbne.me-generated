@@ -3,10 +3,10 @@ id: c74a43fee8fb342bb6cf22874d9b8f52f88f65572c15bce97fd3af8c3424103d
 remoteId: cfmrwlyxdbrb
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518507900000.0'
+timeStart: '2018-02-13T07:45:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
@@ -21,7 +21,7 @@ venue:
   url: null
   description: null
   lat: '-27.4583797454834'
-  lon: '153.034164428711'
+  lon: '153.03416442871094'
   contactAddress: 'Level 2, T C Beirne Centre, 315 Brunswick Street, Fortitude Valley 4006 QLD'
   contactCity: Brisbane
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BFPG Monthly Meetup
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>TBA</p> 
+<p>TBA</p>

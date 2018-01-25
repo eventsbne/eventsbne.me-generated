@@ -3,10 +3,10 @@ id: 81cbf86ace69857b0eb14fa6292fd62713f1523986e3cd1cc31dae40dd092de2
 remoteId: '37831681578'
 remoteIdType: eventbrite
 status: live
-timeStart: '1519790400000.0'
-timeEnd: '1519794000000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-28T04:00:00.000Z'
+timeEnd: '2018-02-28T05:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '4'
 countWaitlist: null
@@ -30,8 +30,8 @@ venue:
   contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
-  remoteId: moreton-bay-region-libraries-10771695726
-  remoteIdType: eventbrite
+  remoteId: null
+  remoteIdType: null
   name: Moreton Bay Region Libraries
   url: 'https://www.moretonbay.qld.gov.au/techtraining/'
   description: >-
@@ -43,11 +43,19 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to Social Media - Burpengary Library
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
-<H2>Learn how to connect with family and friends on Facebook, Twitter, Pinterest and more.</H2>
-<P CLASS="MsoNormal">Want to practice your computer skills before attending sessions? Check out the library's <A HREF="https://www.moretonbay.qld.gov.au/lol" TARGET="_blank" TITLE="Learn Online" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Learn Online</A> resources.</P>
+<H2>Learn the basics of how to connect with family and friends on Facebook, Twitter and Pinterest.</H2>
+<P CLASS="MsoNormal">This class runs from on the dates below:</P>
+<UL>
+<LI CLASS="MsoNormal">Wednesday, 28 February, 2.00pm -3.00pm</LI>
+</UL>
+<P CLASS="MsoNormal"><SPAN>Sessions are approximately 2 hours.  Class size and participant skill level may impact duration.  Evening sessions are typically only 1 hour.</SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Places are strictly limited so register now.</SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Sessions may not run during peak holiday times i.e. December to February.</SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Want to improve your computer skills before attending sessions? Check out the library's </SPAN><A HREF="https://www.moretonbay.qld.gov.au/libraries/eresources/learn/" TARGET="_blank" TITLE="Learn Online" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>eLearning</SPAN></A><SPAN> resources. </SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Find more </SPAN><A HREF="https://www.moretonbay.qld.gov.au/techtraining/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>Computer and Technology classes</SPAN></A><SPAN>.</SPAN><SPAN></SPAN></P>
 <P><EM><BR></EM></P>
 <HR>
 <P><SPAN>Access to free events is only one of the benefits of library membership. If you are not already a library member, please </SPAN><A HREF="https://www.moretonbay.qld.gov.au/libraries/join" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>join</SPAN></A><SPAN>!</SPAN></P>

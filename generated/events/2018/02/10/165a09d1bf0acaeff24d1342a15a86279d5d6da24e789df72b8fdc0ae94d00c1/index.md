@@ -3,10 +3,10 @@ id: 165a09d1bf0acaeff24d1342a15a86279d5d6da24e789df72b8fdc0ae94d00c1
 remoteId: tqsgfpyxdbnb
 remoteIdType: meetup
 status: upcoming
-timeStart: '1518238800000.0'
+timeStart: '2018-02-10T05:00:00.000Z'
 timeEnd: null
-timeCreated: null
-timeUpdated: '1516804078983.0'
+timeCreated: '2018-01-25T13:30:29.243Z'
+timeUpdated: '2018-01-25T13:30:29.243Z'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -20,8 +20,8 @@ venue:
   name: University of Queensland
   url: null
   description: null
-  lat: '-27.4938697814941'
-  lon: '153.006057739258'
+  lat: '-27.49386978149414'
+  lon: '153.0060577392578'
   contactAddress: St Lucia
   contactCity: Brisbane
   contactCountry: Australia
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Humbug - Regular Meeting
-date: null
+date: '2018-01-25T13:30:29.243Z'
 
 ---
-<p>This is one of our regular fortnightly meetings. We meet to discuss and help with computer problems to do with Unix like operating systems (bsd, linux, darwin etc).</p> <p>We head off for dinner at the St Lucia Village around six thirty, the common destination is the Curry Connection.</p> <p>Occasionally we have talks, we generally start those around five.</p> 
+<p>This is one of our regular fortnightly meetings. We meet to discuss and help with computer problems to do with Unix like operating systems (bsd, linux, darwin etc).</p> <p>We head off for dinner at the St Lucia Village around six thirty, the common destination is the Curry Connection.</p> <p>Occasionally we have talks, we generally start those around five.</p>

@@ -3,10 +3,10 @@ id: 877ba3cb0fae7f0fed5ed70620a1040058df1f981aa17b674b33df271e558834
 remoteId: '41531868938'
 remoteIdType: eventbrite
 status: live
-timeStart: '1518220800000.0'
-timeEnd: '1518246000000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-10T00:00:00.000Z'
+timeEnd: '2018-02-10T07:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '40'
 countWaitlist: null
@@ -40,7 +40,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Assemble your own 3D printer and learn how to use it
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <P><SPAN></SPAN>Learn about the fast-growing world of 3D printing.   Create your own artworks, storage solutions, replacement parts for appliances, or whatever you can imagine.</P>

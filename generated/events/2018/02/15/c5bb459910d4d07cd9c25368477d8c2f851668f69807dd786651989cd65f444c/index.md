@@ -3,12 +3,12 @@ id: c5bb459910d4d07cd9c25368477d8c2f851668f69807dd786651989cd65f444c
 remoteId: '41376247470'
 remoteIdType: eventbrite
 status: live
-timeStart: '1518682500000.0'
-timeEnd: '1518690600000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-15T08:15:00.000Z'
+timeEnd: '2018-02-15T10:30:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
-countCapacity: '240'
+countCapacity: '380'
 countWaitlist: null
 price: Free
 url: >-
@@ -16,16 +16,16 @@ url: >-
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F38786777%2F92902099135%2F1%2Foriginal.jpg?s=d95aeb3abb09780367b24b1761c24232
 venue:
-  id: c718d14d2ef69417824377dc70c1a039539bef4f4819195e770f09f4bc7da3b1
-  remoteId: '22549025'
+  id: 157c3f6874bf40bba877abacdffc7581f5b815b49a927eab51657bd4a72c35d3
+  remoteId: '22874580'
   remoteIdType: eventbrite
-  name: 'Atrium, Level 2, Global Change Institute'
+  name: The University of Queensland
   url: null
   description: null
-  lat: '-27.4964988'
-  lon: '153.01202030000002'
-  contactAddress: 'Building 20 University of Queensland, St Lucia, QLD 4072'
-  contactCity: St Lucia
+  lat: '-27.497238'
+  lon: '153.01457959999993'
+  contactAddress: 'Steele Building  St Lucia, Brisbane, Qld'
+  contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
 organizer:
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Solutions to reverse global warming - public forum
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <DIV CLASS="field field-name-body field-type-text-with-summary field-label-hidden">
@@ -56,7 +56,8 @@ date: null
 <P>The objective of the solutions list is to be inclusive, presenting an extensive array of impactful measures already in existence. The list is comprised primarily of “no regrets” solutions—actions that make sense to take regardless of their climate impact since they have intrinsic benefits to communities and economies. These initiatives improve lives, create jobs, restore the environment, enhance security, generate resilience, and advance human health.</P>
 <P>In <EM>Drawdown</EM>, each solution is measured and modelled to determine its carbon impact through to 2050, the total and net cost to society, and the total lifetime savings (or cost). The exception to this are the "Coming Attraction" solutions, which are a window into what is still emerging. For these solutions, Hawken did not measure cost, savings, or atmospheric impact, but he illuminates technologies and concepts whose growth the world will continue to watch.</P>
 <HR>
-<P>After the presentation, Paul Hawken will be joined by GCI's Prof. Ove Hoegh-Guldberg on stage for a 20-minute Q&A session with audience members. As places are limited for this unique event, please only reserve seats if you  are sure you can attend. Limit of two seats per registration.<BR></P>
+<P CLASS="MsoNormal">After the presentation, Paul Hawken will be joined by GCI's Prof. Ove Hoegh-Guldberg on stage for a 20-minute Q&A session with audience members. As places are limited for this unique event, please only reserve seats if you are sure you can attend. Limit of two seats per registration.</P>
+<P CLASS="MsoNormal">Due to higher-than-anticipated demand, this event has been transferred to Lecture Room 206 of the Steele Building, a venue directly adjacent the Global Change Institute. See UQ Maps: https://maps.uq.edu.au/st-lucia/search/steele%20building/location/2149<BR></P>
 </DIV>
 </DIV>
 </DIV>

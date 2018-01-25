@@ -3,10 +3,10 @@ id: 53ab9dd1702026a5ec2c4b6db37d297331e2b4c0082d59d462339926374e3f72
 remoteId: '37902263691'
 remoteIdType: eventbrite
 status: live
-timeStart: '1518062400000.0'
-timeEnd: '1518069600000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-02-08T04:00:00.000Z'
+timeEnd: '2018-02-08T06:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -15,19 +15,6 @@ url: >-
   https://www.eventbrite.com.au/e/introduction-to-ipads-albany-creek-library-tickets-37902263691?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31488707%2F175653860817%2F1%2Foriginal.jpg?s=886efbcb5e4ef98cbab03a63d556e478
-organizer:
-  id: moreton-bay-region-libraries
-  remoteId: moreton-bay-region-libraries-10771695726
-  remoteIdType: eventbrite
-  name: Moreton Bay Region Libraries
-  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
-  description: >-
-    From our Computers for Beginners course which covers all the basics you need
-    to get going online, through to sessions introducing you to our eLibrary,
-    iPads and social media, there is something for everyone, no matter your past
-    experience or current skill level. Bookings are essential for all computer
-    and technology classes.
-  codeOfConduct: null
 venue:
   id: c246750672495d0277cf577c3eff7d686f06c6de5860eeb5c93c24fe0cb12cd3
   remoteId: '15279906'
@@ -41,23 +28,35 @@ venue:
   contactCity: Albany Creek
   contactCountry: Australia
   contactPhone: null
+organizer:
+  id: moreton-bay-region-libraries
+  remoteId: null
+  remoteIdType: null
+  name: Moreton Bay Region Libraries
+  url: 'https://www.moretonbay.qld.gov.au/techtraining/'
+  description: >-
+    From our Computers for Beginners course which covers all the basics you need
+    to get going online, through to sessions introducing you to our eLibrary,
+    iPads and social media, there is something for everyone, no matter your past
+    experience or current skill level. Bookings are essential for all computer
+    and technology classes.
+  codeOfConduct: null
 layout: event
 title: Introduction to iPads - Albany Creek Library
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <H2><SPAN><SPAN>Learn the basics of using the iPad in this hands-on workshop, including getting started, downloading apps, email and the internet, and how to get the most out of your iPad.</SPAN> </SPAN></H2>
 <P><SPAN><EM>BYO iPad. Not suitable for Android tablet users.</EM></SPAN></P>
 <H4><STRONG><SPAN></SPAN></STRONG>This class is offered on the Second Thursday of the month. Dates include:</H4>
 <UL>
-<LI>Thursday, 14 September, 2.00pm - 4.00pm</LI>
-<LI>Thursday, 12 October, 2.00pm - 4.00pm</LI>
-<LI>Thursday, 9 November, 2.00pm - 4.00pm</LI>
-<LI>Thursday, 14 December, 2.00pm - 4.00pm</LI>
-<LI>Thursday, 11 January, 2.00pm - 4.00pm</LI>
-<LI>Thursday, 8 February, 2.00pm - 4.00pm</LI>
+<LI>Thursday, 8 February, 8 March, 12 April and 10 May 2.00pm - 4.00pm</LI>
 </UL>
-<P><BR></P>
+<P CLASS="MsoNormal"><STRONG>Sessions are approximately 2 hours.  Class size and participant skill level may impact duration.  Evening sessions are typically only 1 hour.</STRONG></P>
+<P CLASS="MsoNormal"><SPAN>Places are strictly limited so register now.</SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Sessions may not run during peak holiday times i.e. December to February.</SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Want to improve your computer skills before attending sessions? Check out the library's </SPAN><A HREF="https://www.moretonbay.qld.gov.au/libraries/eresources/learn/" TARGET="_blank" TITLE="Learn Online" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>eLearning</SPAN></A><SPAN> resources. </SPAN></P>
+<P CLASS="MsoNormal"><SPAN>Find more </SPAN><A HREF="https://www.moretonbay.qld.gov.au/techtraining/" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>Computer and Technology classes</SPAN></A><SPAN>.</SPAN><SPAN></SPAN></P>
 <HR>
 <P><SPAN>Access to free events is only one of the benefits of library membership. If you are not already a library member, please </SPAN><A HREF="https://www.moretonbay.qld.gov.au/libraries/join" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow"><SPAN>join</SPAN></A><SPAN>!</SPAN></P>
 <H3 CLASS="MsoNormal"><STRONG>EVENT TIPS</STRONG>:</H3>

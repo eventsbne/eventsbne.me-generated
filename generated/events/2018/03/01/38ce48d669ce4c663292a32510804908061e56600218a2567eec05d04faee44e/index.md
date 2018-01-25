@@ -3,10 +3,10 @@ id: 38ce48d669ce4c663292a32510804908061e56600218a2567eec05d04faee44e
 remoteId: '42114468509'
 remoteIdType: eventbrite
 status: live
-timeStart: '1519876800000.0'
-timeEnd: '1519884000000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-03-01T04:00:00.000Z'
+timeEnd: '2018-03-01T06:00:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -30,8 +30,8 @@ venue:
   contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
-  remoteId: moreton-bay-region-libraries-10771695726
-  remoteIdType: eventbrite
+  remoteId: null
+  remoteIdType: null
   name: Moreton Bay Region Libraries
   url: 'https://www.moretonbay.qld.gov.au/techtraining/'
   description: >-
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Computers for Beginners - Bribie Island Library
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <H2><SPAN>Are you interested in learning to use computers or the internet, but not sure where to start?</SPAN></H2>

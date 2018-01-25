@@ -3,10 +3,10 @@ id: d2be6198384dc8c040cbe20dddf1f8d8bc339c6e7faadae34c6f7c9524c3e53f
 remoteId: '38803203426'
 remoteIdType: eventbrite
 status: live
-timeStart: '1517378400000.0'
-timeEnd: '1517383800000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-01-31T06:00:00.000Z'
+timeEnd: '2018-01-31T07:30:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'CIBSE QLD | Fire Stopping of Services Penetrations: Getting Compliance Right'
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <P><SPAN>The Chartered Institution of Building Services Engineers, Queensland Chapter, invite you to attend an information evening on Fire and Smoke Dampers.</SPAN><BR></P>

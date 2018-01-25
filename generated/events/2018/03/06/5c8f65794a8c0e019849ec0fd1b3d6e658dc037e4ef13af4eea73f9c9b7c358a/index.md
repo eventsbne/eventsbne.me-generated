@@ -3,10 +3,10 @@ id: 5c8f65794a8c0e019849ec0fd1b3d6e658dc037e4ef13af4eea73f9c9b7c358a
 remoteId: '37798238549'
 remoteIdType: eventbrite
 status: live
-timeStart: '1520294400000.0'
-timeEnd: '1520487000000.0'
-timeCreated: null
-timeUpdated: '1516804076433.0'
+timeStart: '2018-03-06T00:00:00.000Z'
+timeEnd: '2018-03-08T05:30:00.000Z'
+timeCreated: '2018-01-25T13:30:29.245Z'
+timeUpdated: '2018-01-25T13:30:29.245Z'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -15,19 +15,7 @@ url: >-
   https://www.eventbrite.com.au/e/canon-medical-vitrea-advanced-version-69-course-in-queensland-registration-37798238549?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39476871%2F185894324770%2F1%2Foriginal.jpg?s=3cf5385d78ca3a015e53d52c05ff581f
-venue:
-  id: 2b99e9cc378c8efdfb8894b601269fe58cd7544d1585ce5912c31bdb59a88140
-  remoteId: null
-  remoteIdType: eventbrite
-  name: null
-  url: null
-  description: null
-  lat: null
-  lon: null
-  contactAddress: null
-  contactCity: null
-  contactCountry: null
-  contactPhone: null
+venue: {}
 organizer:
   id: dc8b63c84923a4f6d26f46a363d760dcec1e35138c2ee9342d91067fd02936f4
   remoteId: canon-medical-learning-centre-11315141402
@@ -35,16 +23,15 @@ organizer:
   name: Canon Medical Learning Centre
   url: 'https://www.eventbrite.com.au/o/canon-medical-learning-centre-11315141402'
   description: >-
-    With over 100 years of history in the medical imaging industry, Toshiba
-    Medical is excited to enter into this new era of innovation as Canon Medical
-    Systems. Canon has a strong vision for building a world-class healthcare
-    enterprise with the \u201cMade for Life\u201d philosophy prevailing as our
-    ongoing commitment to humanity. Generations of inherited passion creates a
-    legacy of medical innovation and service that continues to evolve as we do.
+    For over 100 years, we have\u00a0been at the forefront of the medical device
+    industry with cutting-edge technologies and systems that are transforming
+    patient care. We engineer in partnership with our customers and that is why
+    all of our technologies are aimed at solving real-world clinical challenges.
+    At Canon Medical, everything we do is Made For life.
   codeOfConduct: null
 layout: event
 title: Canon Medical Vitrea Advanced Version 6.9 Course in Queensland
-date: null
+date: '2018-01-25T13:30:29.245Z'
 
 ---
 <P>This three-day post-processing course teaches the fundamentals of Vital Images’ advanced visualisation software. Participants receive an overview of the variety of applications and disciplines within the software including CT angiography, lung, tumour, MSK, perfusion, pulmonary and renal. Learn to manipulate 2D and 3D images, including multi-planar reformatting (MPR), maximum intensity projection (MIP) and volumes, through hands-on exercises delivered by experienced clinical applications instructors.<BR>Each course module reinforces standardised learning methodology with step-by-step instruction for image acquisition, protocol assignment, case analysis and image distribution. <BR></P>

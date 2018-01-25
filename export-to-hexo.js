@@ -24,7 +24,7 @@ function toFrontMatter(row){
 }
 
 function localDatestamp(date){
-  return moment(Number(date)).tz(config.timezone).format('YYYY/MM/DD');
+  return moment(new Date(date)).tz(config.timezone).format('YYYY/MM/DD');
 }
 
 const dates = {};
@@ -36,29 +36,30 @@ function allEvents(callback){
     const uri = `/events/${datestamp}/${row.id}`;
     const thisOutDir = path.join(outDir, uri);
     const outFile = path.join(thisOutDir,'index.md');
-    console.log(thisOutDir);
     mkdirp.sync(thisOutDir);
 
-    console.log('fetching related')
-    async.parallel([
+    async.series([
       (done) => db.get('select * from venues where id = ?', row.venueId, (error, venue) => {
-        row.venue = venue || null
+        row.venue = venue || {}
         done(error);
       }),
       (done) => db.get('select * from organizers where id = ?', row.organizerId, (error, organizer) => {
-        row.organizer = organizer || null
+        row.organizer = organizer || {}
+        if(!organizer) {
+          console.log(row);
+          throw new Error(`missing organizer for ${row.organizerId}, ${row.id}`)
+        }
         done(error);
       }),
     ], function(error){
       if(error) throw error;
-      console.log('done fetch, adding to dates')
-      if(row.timeStart > Date.now() - (1000 * 60 * 60 * 24)){
+      if(new Date(row.timeStart) > Date.now() - (1000 * 60 * 60 * 24)){
         if(!dates[datestamp]) dates[datestamp] = [];
         const entry = {
           name: row.name,
           uri,
           organizer: row.organizer.name,
-          timeStart: Number(row.timeStart),
+          timeStart: row.timeStart,
         };
         dates[datestamp].push(entry);
         datesLinear.push(entry);
