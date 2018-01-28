@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-15T08:15:00.000Z'
 timeEnd: '2018-02-15T10:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '380'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Solutions to reverse global warming - public forum
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <DIV CLASS="field field-name-body field-type-text-with-summary field-label-hidden">

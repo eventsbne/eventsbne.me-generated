@@ -17,10 +17,5 @@ events:
       /events/2018/01/29/65de84fa130fa3c0bfafa7740f846eb1fb007714b8a868ddedfe0314186fbeff
     organizer: Brisbane Software Testers
     timeStart: '2018-01-29T08:00:00.000Z'
-  - name: Public Monday Open Night
-    uri: >-
-      /events/2018/01/29/15d44194bc893342e94fbada325a56f6c3e8fac4fb9b93ba822e8cc36a983d8e
-    organizer: HS Ipswich
-    timeStart: '2018-01-29T08:00:00.000Z'
 
 ---

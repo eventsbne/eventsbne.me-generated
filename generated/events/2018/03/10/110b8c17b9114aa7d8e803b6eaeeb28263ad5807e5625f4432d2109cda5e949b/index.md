@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-09T23:00:00.000Z'
 timeEnd: '2018-03-10T06:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '200'
 countWaitlist: null
@@ -46,7 +46,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Queensland Clinical Science Symposium: Foundations and Frontiers'
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P><SPAN>Following the success of sold-out events in New South Wales and Victoria, the Queensland Clinical Science Symposium will inspire and encourage clinicians, researchers, junior doctors and medical students to pursue excellence in clinical practice and medical research. Don’t miss this exciting day of presentations and panel discussions from esteemed clinician-scientists. </SPAN></P>

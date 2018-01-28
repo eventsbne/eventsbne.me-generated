@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-04T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Build a Real Self Driving Car in 72 Hours
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>• What we'll do</p> <p>We will teach you to build self-driving cars from the ground up in 72 hours. Open to applicants with Engineering and Computer Science backgrounds. All materials and lodging provided.<br/>Bring your computor and lets hack • For more info</p> <p><a href="https://www.theroboticsclub.org/72hr-challenge-intro" class="linkified">https://www.theroboticsclub.org/72hr-challenge-intro</a><br/><a href="https://www.facebook.com/theroboticsclub.org/" class="linkified">https://www.facebook.com/theroboticsclub.org/</a></p> <p>linda+[masked]<br/>[masked]</p>

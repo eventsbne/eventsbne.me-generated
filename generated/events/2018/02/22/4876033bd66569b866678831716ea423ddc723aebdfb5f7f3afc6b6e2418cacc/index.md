@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
 countAttending: '10'
 countCapacity: null
-countWaitlist: '2'
+countWaitlist: '3'
 price: null
 url: 'https://www.meetup.com/Gold-Coast-ICO-Discussion-Group/events/246690076/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: February ICO Meetup
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>Hi all, Looks like we are starting to see a large amount of interest in the space. With so many people I am looking into a new format for these, will likely need to find a larger private space with a projector. Quite incredible that Ian Ballina (One of the biggest Youtube ICO personalities) was on the Today show on the weekend ( <a href="https://www.youtube.com/watch?v=eeLfsY1Xbwg" class="embedded">https://www.youtube.com/watch?v=eeLfsY1Xbwg</a> ).</p> <p>Anyway will update everything once I sort a better, more organised way of doing things.</p> <p><br/>• What we'll do<br/>Talk about some upcoming ICOs as well as ones past and how they are doing. Will be interesting to see how Crypto in general is doing in the new year. Feel free to pick a couple of ICO's that you find interesting and we can look at them. It's tough to go through them all on our own so if we can share ideas and information it helps us all. There are websites such as <a href="https://icodrops.com/" class="linkified">https://icodrops.com/</a> which you can browse through and see whats coming up.</p> <p>• What to bring</p> <p>• Important to know</p>

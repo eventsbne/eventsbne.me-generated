@@ -2,6 +2,11 @@
 title: Events for 2018/02/13
 layout: event-index
 events:
+  - name: 'Women in Blockchain: Talking with Sonja Bernhardt OAM, CEO of ThoughtWare'
+    uri: >-
+      /events/2018/02/13/25e02d6e5d0003500bac739265172e056494f24caef7983647fdc1380f96ae25
+    organizer: Brisbane Women in Blockchain
+    timeStart: '2018-02-13T02:00:00.000Z'
   - name: Sitecore Queensland User Group
     uri: >-
       /events/2018/02/13/0598df42a8b2238dab9397766db84f609d061dd690801e11fd0d770d21d3556a
@@ -17,15 +22,20 @@ events:
       /events/2018/02/13/bcbe7c689dcf4140b11e3e182a76f10bf30a84c80a9acc2cf7694d20a27a888f
     organizer: AppDynamics Brisbane User Group
     timeStart: '2018-02-13T08:00:00.000Z'
-  - name: Creating Human-centric products & services
+  - name: 'Google Developer Group [Cloud] meetup'
     uri: >-
-      /events/2018/02/13/7654bd1e601837e5c0e382d49f51f34ea3cc918fe73cc7439c89755774cc64bc
-    organizer: Startup Ipswich
+      /events/2018/02/13/915877a09e5c238979669c04840ccf99297eaa987c83ee11a4a1f259c70ab43b
+    organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-02-13T08:00:00.000Z'
   - name: BrisJVM February - Call for Speakers!
     uri: >-
       /events/2018/02/13/cbe1b19c78a7e69e360f8facd35a1d51c39ac1e24c06bc95f1a13619ed0d73c6
     organizer: BrisJVM Group
+    timeStart: '2018-02-13T08:00:00.000Z'
+  - name: Creating Human-centric products & services
+    uri: >-
+      /events/2018/02/13/7654bd1e601837e5c0e382d49f51f34ea3cc918fe73cc7439c89755774cc64bc
+    organizer: Startup Ipswich
     timeStart: '2018-02-13T08:00:00.000Z'
   - name: Drupal Brisbane Monthly Meetup
     uri: >-

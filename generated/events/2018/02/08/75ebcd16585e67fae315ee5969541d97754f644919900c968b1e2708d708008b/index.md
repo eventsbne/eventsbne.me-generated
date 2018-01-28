@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-08T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
-countAttending: '25'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
+countAttending: '26'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Women's Cocktail Hour
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>This meetup is intended to give women a space to discuss the latest tech and AI news and to connect with other women in the network.<br/>We acknowledge that women in technology are a minority and this is a small step to boost the number of women engaged in the tech network!</p> <p>Come and meet other female tech enthusiasts and entrepreneurs over a cocktail from 5-6pm 🍸</p> <p>This event is proudly supported by the Office of the Queensland Chief Entrepreneur.</p>

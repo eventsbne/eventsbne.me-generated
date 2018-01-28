@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-06T01:00:00.000Z'
 timeEnd: '2018-02-06T02:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '5'
 countWaitlist: null
@@ -30,8 +30,8 @@ venue:
   contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
-  remoteId: null
-  remoteIdType: null
+  remoteId: moreton-bay-region-libraries-10771695726
+  remoteIdType: eventbrite
   name: Moreton Bay Region Libraries
   url: 'https://www.moretonbay.qld.gov.au/techtraining/'
   description: >-
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to iPads - North Lakes Library
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <H2><SPAN><SPAN>Learn the basics of using the iPad in this hands on workshop, including getting started, downloading apps, email and the internet, and how to get the most out of your iPad.</SPAN> </SPAN></H2>

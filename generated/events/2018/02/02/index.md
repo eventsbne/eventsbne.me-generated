@@ -17,15 +17,15 @@ events:
       /events/2018/02/02/b1d0a22b12a3c2bbc4f12e9f7ef0ae6f6ac1405488c15e1b5024b345fcabb89a
     organizer: Ipswich Libraries
     timeStart: '2018-02-02T05:30:00.000Z'
-  - name: Fishburners Community Friday Pitches & Drinks
-    uri: >-
-      /events/2018/02/02/0d8473718f052a72ab63b83c28c182b096fcdab454b9ec12e817ebdfd3c93c17
-    organizer: Fishburners Brisbane
-    timeStart: '2018-02-02T07:00:00.000Z'
   - name: River City Labs Friday Open House
     uri: >-
       /events/2018/02/02/6a4b8ff531cb213fb533c9bd1cb49f014ccf45fc1182da74672132623d8cf5a3
     organizer: River City Labs
     timeStart: '2018-02-02T06:00:00.000Z'
+  - name: Fishburners Community Friday Pitches & Drinks
+    uri: >-
+      /events/2018/02/02/0d8473718f052a72ab63b83c28c182b096fcdab454b9ec12e817ebdfd3c93c17
+    organizer: Fishburners Brisbane
+    timeStart: '2018-02-02T07:00:00.000Z'
 
 ---

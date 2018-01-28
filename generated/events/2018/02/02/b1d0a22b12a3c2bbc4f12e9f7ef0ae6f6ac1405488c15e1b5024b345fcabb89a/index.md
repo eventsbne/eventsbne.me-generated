@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-02T05:30:00.000Z'
 timeEnd: '2018-02-02T06:45:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '40'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: First Friday Fun - Paper Plane Olympics
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P CLASS="MsoNormal"><SPAN>Design your own aircraft or use our templates for an afternoon of flying fun.</SPAN></P>

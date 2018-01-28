@@ -32,5 +32,10 @@ events:
       /events/2018/02/06/fb00ad501c3b8d9cfd376e1f82808aefba244cd7dc4bc19242d74f263728b99c
     organizer: CocoaHeads
     timeStart: '2018-02-06T08:00:00.000Z'
+  - name: 'Generate 5x more leads, become an online STAR and live the #WOWlife'
+    uri: >-
+      /events/2018/02/06/bea60ce9d0d8198790e2fe8eaa35c755ef845970f092b04f6dd4d8978dda4804
+    organizer: Savvy Australian Bloggers
+    timeStart: '2018-02-06T09:00:00.000Z'
 
 ---

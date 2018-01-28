@@ -17,6 +17,11 @@ events:
       /events/2018/02/10/c0e5a234026b029066075a33dd31c63981ed32d6e64d813f8596c2881b4198a2
     organizer: Brisbane Internet of Things (IOT) Meetup
     timeStart: '2018-02-10T00:00:00.000Z'
+  - name: Monthly Hack and Race
+    uri: >-
+      /events/2018/02/10/36c74fb8e9fda0a38dedd4561d200679380e69447d5829986083ee38b398882a
+    organizer: DIY Robocars Brisbane
+    timeStart: '2018-02-10T00:00:00.000Z'
   - name: Humbug - Regular Meeting
     uri: >-
       /events/2018/02/10/165a09d1bf0acaeff24d1342a15a86279d5d6da24e789df72b8fdc0ae94d00c1

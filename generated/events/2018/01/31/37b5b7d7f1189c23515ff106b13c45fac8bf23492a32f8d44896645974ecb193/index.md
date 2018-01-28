@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-01-31T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
 countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress Ipswich January Meetup
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>Welcome everyone to 2018! To kick off the year we'll have Ricky Blacker from WP Engine coming to talk about the new features of the WordPress Customizer, which has made updating and previewing changes to your theme even easier. If you don't know what the Customizer is, then this will also be a perfect opportunity to see it in action and see what's possible.</p> <p>A reminder also that WordPress 4.9.2 has just been released, which patches a security vulnerability. We recommend ensuring you have a backup and update regularly.</p> <p>Drinks and pizza are also provided, thanks to our gracious sponsors Fire Station 101, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p> <p>The WordPress Meetups are community driven and focused. Anyone with an interest in WordPress is very welcome to attend, we have members who range from bloggers and basic business owners who use WordPress through to designers and developers who have high levels of knowledge.</p>

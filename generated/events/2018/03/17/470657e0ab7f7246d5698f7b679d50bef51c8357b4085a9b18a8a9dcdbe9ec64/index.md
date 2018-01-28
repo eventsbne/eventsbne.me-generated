@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-16T23:00:00.000Z'
 timeEnd: '2018-03-18T07:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -41,7 +41,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Science Hack Day Brisbane 2018
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P><SPAN><STRONG>Science Hack Day</STRONG> is a weekend event where anyone excited about making things with science comes together in the same physical space to see what they can prototype within 24 consecutive hours. Scientists, engineers, designers, developers, artists, and anyone who is excited about making things with science are welcome to attend – <EM>no experience in science or hacking is necessary</EM>. People organically form multidisciplinary teams over the course of the weekend.</SPAN></P>

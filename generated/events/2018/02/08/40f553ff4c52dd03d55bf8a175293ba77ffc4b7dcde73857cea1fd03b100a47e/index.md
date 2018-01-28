@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-07T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
-countAttending: '8'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Sustainable Future Forum
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>Do you have an innovative, tangible idea that can help protect and enhance our environment and its liveability?</p> <p>Come along to Fire Station 101 to join in a full day forum and help create solutions that make a difference by addressing questions such as:</p> <p>1. How can Ipswich City (the community) be more sustainable?<br/>2. How can Ipswich City (the community) be carbon neutral?<br/>3. How does Ipswich City (the community) use waste as a resource?<br/>4. What role does technology and being a smart city play in being sustainable?<br/>5. How can Ipswich City (the community) best educate and raise awareness around sustainability in our city?<br/>6. How can Ipswich City (the community) better plan and protect our natural environment?</p> <p>Join us to:<br/>- Learn about Ipswich City Council’s current commitment to sustainability<br/>- As a community, understand what our goals are and the challenges we face<br/>- Help connect and create long-term partnerships between Council and the community<br/>- Discover and develop solutions through technology and innovation</p> <p>Meet like-minded people, and engage with an enthusiastic team from Ipswich City Council.</p>

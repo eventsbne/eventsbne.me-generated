@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-08T22:30:00.000Z'
 timeEnd: '2018-03-09T07:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '155'
 countWaitlist: null
@@ -57,7 +57,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: SOFTWARE MASTERY - University Edition
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P CLASS="MsoNormal"><SPAN>It's that time of the year to get your skills refreshed, up to date and upskilled!</SPAN></P>

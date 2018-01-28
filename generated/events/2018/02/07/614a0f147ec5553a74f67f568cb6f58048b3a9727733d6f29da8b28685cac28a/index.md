@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-07T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
-countAttending: '21'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
+countAttending: '24'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'People driven, business success - Business driven, people success'
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>Beyond a great idea; talented and passionate people are key to any successful business. While many believe they understand what it takes to attract and hire a high performing team, knowing what you don’t know (or not knowing what you don’t know), are issues companies face in their recruitment process, and subsequent on boarding. Technical skills are not necessarily king, and considering factors such as; clearly defining what problem you’re looking to solve, what your value proposition is, how personalities work and what your management style is, will benefit your organisation.</p> <p>Identifying hiring criteria can be a tricky process, and Carrah Jordan, State Manager for Professional Recruitment Australia will share with us her thoughts &amp; experience on refining the above to ensure business success. Carrah is an experienced and engaging technology based recruitment specialist. With qualifications in Human Resource Management, Psychology and Training, and a proven history of matching best technical talent to QLD based businesses, Carrah’s insights will provide food for thought and actionable steps to help you improve and master your hiring process.</p>

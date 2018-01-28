@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-01T23:00:00.000Z'
 timeEnd: '2018-02-02T06:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -26,7 +26,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: River City Labs Open Co-Working Day
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P>What is it like to work at River City Labs? Come in and find out.</P>

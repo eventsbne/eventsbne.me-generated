@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-26T22:30:00.000Z'
 timeEnd: '2018-03-27T06:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '350'
 countWaitlist: null
@@ -52,7 +52,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Australian e-Health Research Centre Colloquium 2018
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P CLASS="MsoNormal"><SPAN>The Australian e-Health Research Centre (AEHRC) is pleased to invite you to the 14th annual e-Health Research Colloquium on Tuesday, 27 March 2018 at the Royal Brisbane &amp; Women's Hospital, Herston, Brisbane.</SPAN></P>

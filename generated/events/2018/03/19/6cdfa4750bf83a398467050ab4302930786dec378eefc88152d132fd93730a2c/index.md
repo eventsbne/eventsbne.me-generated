@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-18T23:30:00.000Z'
 timeEnd: '2018-03-19T01:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -30,8 +30,8 @@ venue:
   contactPhone: null
 organizer:
   id: moreton-bay-region-libraries
-  remoteId: null
-  remoteIdType: null
+  remoteId: moreton-bay-region-libraries-10771695726
+  remoteIdType: eventbrite
   name: Moreton Bay Region Libraries
   url: 'https://www.moretonbay.qld.gov.au/techtraining/'
   description: >-
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to Smartphones - Bribie Island Library
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <H2>Learn tips and tricks to help use your device to its full potential.</H2>

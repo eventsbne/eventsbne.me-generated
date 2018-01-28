@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-01-29T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
-countAttending: '15'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Meet and Greet - Brisbane EmberJS Community
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>• What we'll do<br/>Social meet and greet to kick off 2018 for Brisbane EmberJS. We'll have interesting and brief talks from some EmberJS practitioners, eat some gourmet pizza, drink some beverages and get to know the community. Get in touch if you'd like to present a topic!</p> <p>• What to bring<br/>Just yourself. We'll have a giveaway of our cryptotokens (if we can get them working!) so install an ERC20 compatible Ethereum wallet on your phone.</p> <p>• Important to know<br/>We'll be in the GBST office so please stay in the meeting space and don't wander around the desks. You're welcome to bring a friend, but please ask them to RSVP on Meetup.com in advance so we have enough food.</p> <p>Talk 1 - James Radvan (GM, GBST Digital)<br/>James will take us through the GBST's business and why GBST chose Ember for their enterprise front end framework from a list of the number of frameworks available. (20 minutes)</p> <p>Talk 2 - Kartik Gupta (Software Dev, GBST Digital)<br/>Kartik, one of GBST Digitals resident Ember devs will talk about Ember 3.0, What's New and the upgrade path from Ember 2.0. He will compare this with the upgrade paths of some of the other JS frameworks out there. (20 minutes)</p> <p>Talk 3 - Geoffrey Donaldson on Ember Addons (20 minutes) (TBC)</p> <p><br/>If you want to give a talk at the next meetup, just let one of the organisers and we will get the ball rolling!</p>

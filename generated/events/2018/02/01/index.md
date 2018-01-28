@@ -2,6 +2,11 @@
 title: Events for 2018/02/01
 layout: event-index
 events:
+  - name: IT Lunch
+    uri: >-
+      /events/2018/02/01/a3a3d63897e1f98e0d71f48a38064b64ef84849ef8f8e7e6cdcf671f9094b521
+    organizer: dotMaleny
+    timeStart: '2018-02-01T02:30:00.000Z'
   - name: Introduction to Tablets - Caboolture Library
     uri: >-
       /events/2018/02/01/c89017ddc71a903b51eca9a2f244a87d09af38ebd4ddf25bb45fcd36d38fb6ef

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-01-30T07:00:00.000Z'
 timeEnd: '2018-01-30T12:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -39,7 +39,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Open Night
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P><SPAN>Hackerspaces are about community, and we'd like to invite you to come visit ours. There's no restrictions, no fee and no "right" kind of person, just remember to bring enclosed footwear so you can see the entire campus.</SPAN><BR><BR><SPAN>Have a look at what our members have built and come show off anything you have made. </SPAN><BR><BR><SPAN>Get inspired, if you don’t have anything in the pipeline, have a look at other peoples projects, see what tools we have that could be of use. </SPAN><BR><BR><SPAN>We could always use a helping hand, just ask about how you can help around the space, this is a great way to meet new people, make new friends, and just have a good time.</SPAN><BR><BR><SPAN>Have a chat about what we're creating, and talk about what you want to make, people are always willing to give advice and might even give you a helping hand.</SPAN><BR><BR><SPAN>We generally open from about 5pm onwards and will have dinner at around 7pm.</SPAN><BR><BR><SPAN>You don't need to be a member to attend this, feel free to come along and socialize, meet people and talk about awesome ideas.</SPAN></P>

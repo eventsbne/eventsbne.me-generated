@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-03T00:00:00.000Z'
 timeEnd: '2018-02-04T04:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -41,7 +41,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: The Brisbane CleanTech Hackathon
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <H3>Are you interested in the potential of business and technology to address challenges such as decarbonising our electricity grid and making transport more sustainable? Then we hope you will join us and other like-minded people for the Brisbane CleanTech Hackathon. </H3>
@@ -81,7 +81,6 @@ date: '2018-01-25T13:30:29.245Z'
 <P><STRONG>When:</STRONG><SPAN><SPAN CLASS="Apple-tab-span"> 10:00am on Saturday 3rd February to 1:00pm on Sunday 4th February</SPAN></SPAN><SPAN><BR></SPAN></P>
 <P><STRONG>Who:</STRONG> <SPAN CLASS="Apple-tab-span"> </SPAN>Students, entrepreneurs, designers, engineers, hackers, professionals, and anyone else interested in cleantech startups. You can register as an individual or as a team.</P>
 <P><STRONG>Cost:</STRONG> $20, including all meals, snacks and drinks</P>
-<P><EM><STRONG>Register by midnight, Sunday 28th January</STRONG></EM></P>
 <P><BR></P>
 <P><BR></P>
 <HR>
@@ -157,7 +156,7 @@ date: '2018-01-25T13:30:29.245Z'
 <P>Work in your teams and optional pitch practice</P>
 </LI>
 <LI>
-<P>11:00m: Submissions due</P>
+<P>11:00am: Submissions due</P>
 </LI>
 <LI>
 <P>11:30am: 5-minute presentation by each team followed by questions from the judges</P>

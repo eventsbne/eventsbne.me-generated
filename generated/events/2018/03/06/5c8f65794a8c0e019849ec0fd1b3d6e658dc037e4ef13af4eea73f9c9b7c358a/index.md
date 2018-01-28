@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-06T00:00:00.000Z'
 timeEnd: '2018-03-08T05:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '6'
 countWaitlist: null
@@ -31,7 +31,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Canon Medical Vitrea Advanced Version 6.9 Course in Queensland
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P>This three-day post-processing course teaches the fundamentals of Vital Images’ advanced visualisation software. Participants receive an overview of the variety of applications and disciplines within the software including CT angiography, lung, tumour, MSK, perfusion, pulmonary and renal. Learn to manipulate 2D and 3D images, including multi-planar reformatting (MPR), maximum intensity projection (MIP) and volumes, through hands-on exercises delivered by experienced clinical applications instructors.<BR>Each course module reinforces standardised learning methodology with step-by-step instruction for image acquisition, protocol assignment, case analysis and image distribution. <BR></P>

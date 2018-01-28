@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-24T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Crash Course: Raspberry Pi (Week 2) by HS Ipswich'
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>Looking to get into the Raspberry Pi scene? Got one but don’t where to start?</p> <p>Join HS Ipswich for our 2-week crash course into Raspberry Pi, with a focus on programming and hardware control.</p> <p>Whether you're a software or hardware developer, maker, product manager, designer, technologist, or entrepreneur, this class will be incredibly useful to those interested in learning more about this amazing hardware.</p> <p>In 2 x 5-hour sessions, we aim to cover:</p> <p>Overview of the Raspberry Pi<br/>How to Install a Raspberry Pi image to Micro SD card<br/>Intro to Linux Commands<br/>Intro to Raspberry Pi Hardware Control with Python<br/>Intro to Web Services on Raspberry Pi<br/>About Raspberry Pi</p> <p>The Raspberry Pi is a credit card-sized computer that plugs into your TV and a keyboard. It can be used as a standalone computer, in electronics projects, games, and can also play HD video as a media centre.</p> <p>After entering the scene 5 years ago, the Raspberry Pi has become the de facto leader and go to small-scale computer for hobbyists and professionals alike.</p> <p>Need a Pi?<br/>If you are interested in taking a Raspberry Pi 3 home with you, are taking orders for a Raspberry Pi 3 kit:</p> <p>Raspberry Pi 3<br/>Official Case<br/>Power Supply (5.1V 2.5A)<br/>16GB Micro SD Card<br/>Be sure to book early to make sure your Pi is ordered in time.</p> <p>Pricing<br/>Workshop: $50 per Person (ex GST) plus Eventbrite Fees</p> <p>Raspberry Pi Kit: $100 (ex GST) plus Eventbrite Fees</p> <p>Dates &amp; Times<br/>This workshop runs over 2 weeks on Saturdays, starting on the 17th of February 2018, and finishing on the 24th of February 2018.</p> <p>The workshop will start at 10AM on each Saturday, and run for 5 hours per session.</p> <p>A 1-hour break is included in each 5-hour session.</p> <p>Refunds will be offered up until 14 days prior to the workshops. After this point, all the costs incurred with running these workshops are locked in, including materials and fees. (Eventbrite only provides 7 and 30-day options for refunds. If you fall between these dates, please contact us directly to discuss refunds.)</p> <p>Refunds will not be offered if workshop is not completed.</p> <p>We thank everyone for their understanding with this.</p> <p>Important to know</p> <p>A minimum of 4 persons is required for this workshop. If we do not have the minimum 4 persons for this workshop 14 days prior to the workshop, we will be required to cancel.</p> <p>Attendance to both Saturdays is required to complete the workshop.</p>

@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-05T22:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-25T13:30:29.243Z'
-timeUpdated: '2018-01-25T13:30:29.243Z'
+timeCreated: '2018-01-28T11:34:06.092Z'
+timeUpdated: '2018-01-28T11:34:06.092Z'
 countAttending: '30'
 countCapacity: null
-countWaitlist: '6'
+countWaitlist: '9'
 price: null
 url: 'https://www.meetup.com/Agile-Brisbane/events/246925879/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: World Retrospective Day - Lean Coffee
-date: '2018-01-25T13:30:29.243Z'
+date: '2018-01-28T11:34:06.092Z'
 
 ---
 <p>Hi all,</p> <p>It's world retrospective day on Tuesday 6th February. Check out - <a href="http://worldretroday.com/" class="linkified">http://worldretroday.com/</a></p> <p>For this auspicious day we are going to move our February Lean Coffee to Tuesday 6th and have a special Retrospective theme.</p> <p>------------------------------</p> <p>What is Lean Coffee?</p> <p>Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated. More info via: <a href="http://leancoffee.org/" class="linkified">http://leancoffee.org/</a></p> <p>What do I need to bring?</p> <p>Yourself :-) Post-it notes and pens will be provided. Elabor8 (<a href="https://elabor8.com.au/" class="linkified">https://elabor8.com.au/</a>) provides coffees and hot chocolates for all.</p>

@@ -29,15 +29,15 @@ events:
       /events/2018/01/31/37b5b7d7f1189c23515ff106b13c45fac8bf23492a32f8d44896645974ecb193
     organizer: Ipswich WordPress Meetup
     timeStart: '2018-01-31T08:00:00.000Z'
-  - name: Blockchain Reserve - Brisbane Investment Analysis
-    uri: >-
-      /events/2018/01/31/c030c9baef725186b05c821990e75e16abb3bb9dab127798a32d2fa204387f6e
-    organizer: Blockchain Reserve Brisbane
-    timeStart: '2018-01-31T08:00:00.000Z'
   - name: Regular Wednesday Open Hack.
     uri: >-
       /events/2018/01/31/7810de7652d49a5d39f773eaec2c52720acb091c1ae4c4fd4a6a74555e34dcf6
     organizer: Gold Coast Techspace
     timeStart: '2018-01-31T09:00:00.000Z'
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/01/31/c030c9baef725186b05c821990e75e16abb3bb9dab127798a32d2fa204387f6e
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-01-31T08:00:00.000Z'
 
 ---

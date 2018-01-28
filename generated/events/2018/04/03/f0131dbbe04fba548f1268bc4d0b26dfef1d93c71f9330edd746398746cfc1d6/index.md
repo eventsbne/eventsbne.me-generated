@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-03T11:00:00.000Z'
 timeEnd: '2018-04-04T06:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Indonesia in an era of Global Change
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P><STRONG>We are living in an age of unparalleled global change.</STRONG></P>

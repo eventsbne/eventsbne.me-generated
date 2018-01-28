@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-11T06:00:00.000Z'
 timeEnd: '2018-02-11T09:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -48,7 +48,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Darwin Day 2018
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P>Come and celebrate science, skepticism and the life works of Charles Darwin.</P>

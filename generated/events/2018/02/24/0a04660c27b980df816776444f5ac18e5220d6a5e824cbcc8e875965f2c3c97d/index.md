@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-24T09:00:00.000Z'
 timeEnd: '2018-02-24T12:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '150'
 countWaitlist: null
@@ -30,15 +30,15 @@ venue:
   contactPhone: null
 organizer:
   id: crikeycon
-  remoteId: null
-  remoteIdType: null
+  remoteId: the-crikeycon-crew-8248844528
+  remoteIdType: eventbrite
   name: The CrikeyCon Crew
   url: 'https://www.crikeycon.com/'
   description: "CrikeyCon is a community-led conference targeting those with an interest in information security around South-East Queensland and beyond.\nThe informal style of the event is designed to facilitate knowledge sharing between all participants. The event consists of presentations and demonstrations by industry professionals, security wizards, and enthusiasts alike.\nCheck out full details at\_www.CrikeyCon.com\nT-Shirts and other swag are optional add-ons once you've picked your ticket type. \_Retro gear is available on\_https://crikeycon.secure-decoration.com\_(or if you like certificate mismatches,\_swag.CrikeyCon.com).\nEach year, CrikeyCon donates excess profits to local charities."
   codeOfConduct: 'https://www.crikeycon.com/'
 layout: event
 title: CrikeyCon 2018 Notworking
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P>Post conference snacks and social!</P>

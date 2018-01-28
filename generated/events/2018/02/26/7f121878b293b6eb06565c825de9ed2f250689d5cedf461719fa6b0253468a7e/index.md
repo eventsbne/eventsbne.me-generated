@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-26T05:00:00.000Z'
 timeEnd: '2018-02-26T06:30:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '80'
 countWaitlist: null
@@ -42,7 +42,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'SEMINAR: Realising transformative innovation in Northern Australia'
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <P CLASS="MsoNormal">Northern Australia is a highly productive part of the country with substantial opportunities for further targeted development. This region makes a substantial contribution to the Australian economy, particularly through the agriculture, mining and tourism industries. <BR>The region is also characterised by pristine environments, including the World Heritage listed Great Barrier Reef, and provides a gateway to broader markets and opportunities in Asia. <BR><BR>Key priorities for this region include the development of this northern trade gateway, a diversified economy which supports Indigenous entrepreneurs and business, world-class infrastructure, and world leading research and innovation. But realizing this future requires strategies that will improve collaboration between multiple stakeholders, and effective methods for using these multi-stakeholder perspectives to co-create solutions to complex regional challenges.</P>

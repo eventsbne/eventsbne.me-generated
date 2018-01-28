@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-07T07:00:00.000Z'
 timeEnd: '2018-02-07T09:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -46,7 +46,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Geospatial Network - Wed 7 Feb 2018
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <H3 CLASS="label-primary">DESCRIPTION</H3>

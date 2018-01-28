@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-02-01T07:30:00.000Z'
 timeEnd: '2018-02-01T10:00:00.000Z'
-timeCreated: '2018-01-25T13:30:29.245Z'
-timeUpdated: '2018-01-25T13:30:29.245Z'
+timeCreated: '2018-01-28T11:34:06.093Z'
+timeUpdated: '2018-01-28T11:34:06.093Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -41,7 +41,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: EnergyLab Acceleration Program Info Night (Brisbane)
-date: '2018-01-25T13:30:29.245Z'
+date: '2018-01-28T11:34:06.093Z'
 
 ---
 <H2>Are you setting up a business or social enterprise related to cleantech or energy? Then come along to the EnergyLab Acceleration Program Info Night and learn how we can help you succeed.</H2>
