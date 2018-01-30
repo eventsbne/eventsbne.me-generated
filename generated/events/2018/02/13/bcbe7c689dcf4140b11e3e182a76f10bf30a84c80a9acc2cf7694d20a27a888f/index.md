@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-13T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-28T11:34:06.092Z'
-timeUpdated: '2018-01-28T11:34:06.092Z'
-countAttending: '4'
+timeCreated: '2018-01-30T14:37:36.987Z'
+timeUpdated: '2018-01-30T14:37:36.987Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AppDynamics Summer 2018 Meet-up
-date: '2018-01-28T11:34:06.092Z'
+date: '2018-01-30T14:37:36.987Z'
 
 ---
 <p>Join the AppDynamics team for our upcoming Brisbane AppJam!</p> <p>The topics we will be discussing include -</p> <p>- What's new in 4.4? - We will provide an overview of the awesome new features that were delivered in the 4.4 release</p> <p>- Product Management Update - Harish Nataraj and Mark Prichard from the AppDynamics Product team will be discussing how AppDynamics can easily give you visibility into Docker and Kubernetes in your technology stack. They will also be discussing some of the upcoming roadmap features including Machine Learning</p> <p>- Tips + Tricks for building Synthetic scripts - Are you using the AppDynamics Synthetic offering? We will show you tips + tricks to quickly create synthetic scripts Share experiences, connect with your peers &amp; invite your team members to register.</p> <p>Food, drinks and AppDynamics giveaways provided!</p>

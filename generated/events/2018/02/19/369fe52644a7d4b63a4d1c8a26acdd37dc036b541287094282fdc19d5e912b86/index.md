@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-19T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-28T11:34:06.092Z'
-timeUpdated: '2018-01-28T11:34:06.092Z'
-countAttending: '4'
+timeCreated: '2018-01-30T14:37:36.987Z'
+timeUpdated: '2018-01-30T14:37:36.987Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: February Double Header - MS Bot Framework + Azure Machine Learning
-date: '2018-01-28T11:34:06.092Z'
+date: '2018-01-30T14:37:36.987Z'
 
 ---
 <p>Bots - the next UI revolution<br/>================================================================<br/>Presenter: Adam Stephensen (@AdamStephensen)</p> <p>The last decade saw an explosion in mobile applications. Today's customers expect an amazing mobile experience. Bots are the new UI frontier. Siri, Google Assistant and Alexa started the trend, but no-UI is the future of UI. Users are going to expect to be able to have conversations with companies and organisations in the client that they have on hand - their phone, a website they are on, Facebook messenger, via a phone call or even email or text message. Don't believe me? Gartner predicts that by[masked]% of HTTP requests will be via bots. In this session, we will explore how the Microsoft Bot Framework makes it easy to build and connect intelligent bots to interact with users and services. Take your existing applications, your FAQ or a great new idea you have and build a bot that will run from your website or from Cortana, Skype, Teams, Slack, Facebook Messenger, Skype for Business and more.</p> <p>If you missed the mobile revolution - why not lead in the bot wars?<br/>_________________________</p> <p>Machine Learning and Deep Learning<br/>=====================================================================<br/>Presenter: Zhenyu<br/>. .<br/>In this talk, Zhenyu will cover the general mathematics of machine learning and deep learning. And he will also give a bit in-depth introduction to Azure Machine Learning.</p>

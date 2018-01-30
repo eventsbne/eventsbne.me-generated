@@ -3,11 +3,11 @@ id: ac650d926600a086d1c658a5b0c5ed1e63adbf505a9b021b39d6dcda75c6af15
 remoteId: qbsgfpyxdbzb
 remoteIdType: meetup
 status: null
-timeStart: '2018-02-12T08:30:00.000Z'
+timeStart: '2018-02-12T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-28T11:34:06.092Z'
-timeUpdated: '2018-01-28T11:34:06.092Z'
-countAttending: '34'
+timeCreated: '2018-01-30T14:37:36.987Z'
+timeUpdated: '2018-01-30T14:37:36.987Z'
+countAttending: '45'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Meetup 0x005
-date: '2018-01-28T11:34:06.092Z'
+title: 'Meetup 0x005 - Category Spotlight: Passive Income + Navigating EtherDelta'
+date: '2018-01-30T14:37:36.987Z'
 
 ---
 No description was provided.

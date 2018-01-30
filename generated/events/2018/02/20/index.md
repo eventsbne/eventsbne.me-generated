@@ -7,6 +7,11 @@ events:
       /events/2018/02/20/c8f171b12486895422d62eb1160b2e062fdd46dd6f7ee9ef0e7348a0a44b191c
     organizer: Entrepreneurs Scale Your Business Brisbane
     timeStart: '2018-02-19T23:00:00.000Z'
+  - name: Drupal Gold Coast Monthly Meetup
+    uri: >-
+      /events/2018/02/20/41eb255950148d81e98d684920ff9cbdb5f5592dfb405706f6cd6b2d914be3d0
+    organizer: Drupal Gold Coast
+    timeStart: '2018-02-20T09:00:00.000Z'
   - name: >-
       Evolution of the WHO Product Testing Program for Malaria Rapid Diagnostic
       Tests

@@ -22,25 +22,25 @@ events:
       /events/2018/02/07/273bf2df35020292549386f1390ae877ee08a7b724f89309d2d940546a148a07
     organizer: PolyGeo
     timeStart: '2018-02-07T07:00:00.000Z'
-  - name: Feb Power BI User Group - The Three Modes of Power BI Desktop
-    uri: >-
-      /events/2018/02/07/ef2bef389d2922c333be9181477d23144e65da72196046e6315eaecd0b3f8e14
-    organizer: Queensland Power BI User Group
-    timeStart: '2018-02-07T07:30:00.000Z'
   - name: SAVE THE DATE FOR THE NEXT BRAZILIANS IN IT MEETING.
     uri: >-
       /events/2018/02/07/53aa6f38e3028a16c1e5c88bc615e8bcff3d581fd18183cc97a3ce7ff4a82a6e
     organizer: Brazilians in IT - Brisbane
     timeStart: '2018-02-07T07:30:00.000Z'
-  - name: 'People driven, business success - Business driven, people success'
+  - name: Feb Power BI User Group - The Three Modes of Power BI Desktop
     uri: >-
-      /events/2018/02/07/614a0f147ec5553a74f67f568cb6f58048b3a9727733d6f29da8b28685cac28a
-    organizer: CTO School Brisbane
-    timeStart: '2018-02-07T08:00:00.000Z'
+      /events/2018/02/07/ef2bef389d2922c333be9181477d23144e65da72196046e6315eaecd0b3f8e14
+    organizer: Queensland Power BI User Group
+    timeStart: '2018-02-07T07:30:00.000Z'
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/02/07/26fb5dd8506b22cbb8e7a49a45d27fb1af12652ac656ca690c90f0c1c3e654c4
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-02-07T08:00:00.000Z'
+  - name: 'People driven, business success - Business driven, people success'
+    uri: >-
+      /events/2018/02/07/614a0f147ec5553a74f67f568cb6f58048b3a9727733d6f29da8b28685cac28a
+    organizer: CTO School Brisbane
     timeStart: '2018-02-07T08:00:00.000Z'
   - name: Accelerating the Commercialisation of your Business
     uri: >-
