@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-15T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
-countAttending: '12'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Text Analytics Primer
-date: '2018-01-30T14:37:36.987Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
 No description was provided.

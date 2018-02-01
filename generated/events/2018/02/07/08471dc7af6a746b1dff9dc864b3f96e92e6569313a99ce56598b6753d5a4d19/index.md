@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-07T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
-countAttending: '17'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Accelerating the Commercialisation of your Business
-date: '2018-01-30T14:37:36.987Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
 <p>What does it take to step up the commercialisation of your idea or enterprise?</p> <p>Is there any government support to help you accelerate your business?</p> <p>Accelerating Commercialisation (AC) is a part of the Federal Government’s Entrepreneurs’ Programme, which encourages and assists small and medium businesses, entrepreneurs and researchers to commercialise novel products, processes and services.</p> <p>AC works by providing expert guidance and connections through Commercialisation Advisers to help you to find the right commercialisation solution through<br/>• Commercialisation Guidance<br/>• Accelerating Commercialisation Grant<br/>• Portfolio Services.</p> <p>Our presenter Dr Stuart Hazell has more than 35 years’ experience in life science including biomedical and veterinary research, consulting and senior management roles in the public and private sectors. Stuart has provided advice to a range of large and small enterprises on commercialisation and business development.</p> <p>Stuart is the Managing Director and Principal Consultant of Fusidium Pty Ltd and through Fusidium, Stuart is also a Commercialisation Adviser to the Accelerating Commercialisation (AC) scheme and a registered tax agent with respect to recording keeping and activity registration for the Australian R&amp;D Tax Incentive scheme.</p>

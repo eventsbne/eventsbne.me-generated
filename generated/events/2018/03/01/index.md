@@ -19,5 +19,10 @@ events:
       /events/2018/03/01/347dff35236343ffbb4271777f5b65acff90ed7d50d10299c2ad8f0a91daf407
     organizer: Startup Ipswich
     timeStart: '2018-03-01T08:00:00.000Z'
+  - name: BrisPHP Q1 2018
+    uri: >-
+      /events/2018/03/01/c007294476374a4e687830577e617920ea48b2219d40a4f7b81cdceb2ad63c0e
+    organizer: use \BNE\PHP;
+    timeStart: '2018-03-01T08:00:00.000Z'
 
 ---

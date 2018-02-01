@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-08T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
-countAttending: '34'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '38'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BCDG February Meetup (COX Architecture)
-date: '2018-01-30T14:37:36.987Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
 <p>• What we'll do<br/>Alex Leese and the other COX Architecture Computational Design Aficionados will run through some of their recent work and computational developments.</p> <p>• What to bring</p> <p>• Important to know</p>

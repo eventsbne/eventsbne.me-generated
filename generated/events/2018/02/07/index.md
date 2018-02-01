@@ -2,6 +2,11 @@
 title: Events for 2018/02/07
 layout: event-index
 events:
+  - name: Fishburners Weekly Tour
+    uri: >-
+      /events/2018/02/07/2a9e6550c3f1b7876ddcb2402b327e650b01943e9f4ecda7c633a9cd4175ae09
+    organizer: Fishburners Brisbane
+    timeStart: '2018-02-07T03:00:00.000Z'
   - name: 'What’s Next: Marketing in 2018'
     uri: >-
       /events/2018/02/07/60172b159197f13424ee8f9ea296f327f27ab9453f18079cd0b4e6f3ba95d1f7
@@ -32,6 +37,11 @@ events:
       /events/2018/02/07/ef2bef389d2922c333be9181477d23144e65da72196046e6315eaecd0b3f8e14
     organizer: Queensland Power BI User Group
     timeStart: '2018-02-07T07:30:00.000Z'
+  - name: February Brisbane Dynamics 365 User Group!
+    uri: >-
+      /events/2018/02/07/36d099de3112c5764d3ee180eeae7cdcc29670c6c6f0cae7a9c9bd54169e1db0
+    organizer: Brisbane Dynamics 365 User Group
+    timeStart: '2018-02-07T07:30:00.000Z'
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/02/07/26fb5dd8506b22cbb8e7a49a45d27fb1af12652ac656ca690c90f0c1c3e654c4
@@ -51,6 +61,11 @@ events:
     uri: >-
       /events/2018/02/07/356dd0cdc9a145bf6a16ab5160a4e5b047bc7f7645570251bb1b8a81c79fe71e
     organizer: Gold Coast Techspace
+    timeStart: '2018-02-07T09:00:00.000Z'
+  - name: Bitcoin for WOMEN Gold Coast (FREE)
+    uri: >-
+      /events/2018/02/07/8570c1cbf62fb656a3d149c5b7f3233a488425e33200c72ec9f2eb5ddb84d838
+    organizer: The Beauty of Bitcoin Gold Coast (free)
     timeStart: '2018-02-07T09:00:00.000Z'
 
 ---

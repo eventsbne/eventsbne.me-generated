@@ -17,20 +17,25 @@ events:
       /events/2018/02/28/709e31683fb52b2c79b6c1c99ee313b6021c078cbbe90cc245d8b1feb7d716d2
     organizer: Ipswich Libraries
     timeStart: '2018-02-28T05:30:00.000Z'
-  - name: Monthly Meetup
-    uri: >-
-      /events/2018/02/28/52409da2b29234ff33dcd11f675af46c2a01a524a97751198115538a25a2243d
-    organizer: Women Who Code Brisbane
-    timeStart: '2018-02-28T08:00:00.000Z'
   - name: Adobe Experience Cloud Meetup - 4th Edition
     uri: >-
       /events/2018/02/28/245ceb5a39a533cc9fc55a83f238eddfc96dc71a4fccc229fed70ce1d69402ba
     organizer: Melbourne Adobe Experience Cloud Meetup
     timeStart: '2018-02-28T07:15:00.000Z'
+  - name: Monthly Meetup
+    uri: >-
+      /events/2018/02/28/52409da2b29234ff33dcd11f675af46c2a01a524a97751198115538a25a2243d
+    organizer: Women Who Code Brisbane
+    timeStart: '2018-02-28T08:00:00.000Z'
   - name: 'APIs and Microservices, Talks & Networking - February'
     uri: >-
       /events/2018/02/28/66666bee86fae79c0d4121c056ef2e0a464b31bd6fb8e1bf5e46c9322895046b
     organizer: Brisbane API's and Microservices Meetup
+    timeStart: '2018-02-28T08:00:00.000Z'
+  - name: February Meetup
+    uri: >-
+      /events/2018/02/28/394d32e94e6a1bbec223e212040ff309df7cd77309a500115d5e0660419e57b6
+    organizer: Brisbane Gophers
     timeStart: '2018-02-28T08:00:00.000Z'
   - name: WordPress Ipswich February Meetup
     uri: >-

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-06T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-28T11:34:06.092Z'
-timeUpdated: '2018-01-28T11:34:06.092Z'
-countAttending: '16'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: CocoaHeads Brisbane Meetup
-date: '2018-01-28T11:34:06.092Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
 <p>Join iOS/macOS/swift developers for pizza, drinks, news and talks about what we're working on.</p>

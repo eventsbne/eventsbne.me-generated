@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T07:15:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
-countAttending: '31'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '35'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Adobe Experience Cloud Meetup - 4th Edition
-date: '2018-01-30T14:37:36.987Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
 <p>Hello Everyone,</p> <p>Hope you are all doing well and having a fantastic 2018 !!!</p> <p>We are excited to bring you the next edition of the Adobe Experience Cloud Meetup this year on the <b>Wednesday 28th February</b>. NAB has kindly accepted to host us this time (Thanks, Pravesh Balgobin from NAB for helping organize this).</p> <p>There are some exciting topics and great speakers we are working with and planning for this Meetup. We will keep you posted as this becomes finalized. As always, the sessions will be across a number of product suites in the Adobe Experience Cloud !!!</p> <p>Places are limited, so please RSVP ASAP.</p> <p>Meetup Program (rough overview - subjected to change)</p> <p>• Meet, Greet &amp; Mingle</p> <p>• Session 1</p> <p>• Session 2</p> <p>• Session 3</p> <p>There will be plenty of time for networking, to ask questions, and bring up discussion topics of interest.</p> <p>Regards</p> <p>Organisers</p>

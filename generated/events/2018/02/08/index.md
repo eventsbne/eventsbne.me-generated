@@ -22,20 +22,20 @@ events:
       /events/2018/02/08/75ebcd16585e67fae315ee5969541d97754f644919900c968b1e2708d708008b
     organizer: Brisbane Artificial Intelligence
     timeStart: '2018-02-08T07:00:00.000Z'
-  - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
+  - name: AWS Security Meetup - 8th of Feb!!!
     uri: >-
       /events/2018/02/08/6d5d20a6395a055555eb4014c10987036daa3b14c114b4a3c9bca5c70b043b2a
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-02-08T07:30:00.000Z'
-  - name: '[Fortitude Valley] WordPress Brisbane Feb TBA'
-    uri: >-
-      /events/2018/02/08/713906f807f248e16f95eaacc9f449670535439bd4632dd1584c4abf33f7c890
-    organizer: WordPress Brisbane
-    timeStart: '2018-02-08T08:00:00.000Z'
   - name: Queensland's Intelligent Healthcare System
     uri: >-
       /events/2018/02/08/ef5ff0c30ffc06c1359f00eeeb5f9174e5fc129916345af86e51c20240405977
     organizer: Brisbane Artificial Intelligence
+    timeStart: '2018-02-08T08:00:00.000Z'
+  - name: '[Fortitude Valley] WordPress Brisbane Feb TBA'
+    uri: >-
+      /events/2018/02/08/713906f807f248e16f95eaacc9f449670535439bd4632dd1584c4abf33f7c890
+    organizer: WordPress Brisbane
     timeStart: '2018-02-08T08:00:00.000Z'
   - name: 'Call for speakers, finalising event details.'
     uri: >-

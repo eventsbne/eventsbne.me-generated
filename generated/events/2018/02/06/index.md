@@ -17,25 +17,30 @@ events:
       /events/2018/02/06/bc1cdc128bac9c70de1a3f22b545dd1cd4e4cc73926bf1106e1254ccabff9078
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-02-06T01:00:00.000Z'
-  - name: Discover the eLibrary - Redcliffe Library
-    uri: >-
-      /events/2018/02/06/76b85fcf03e50d49fbb15f2a5e73f13b01490e672ef68766c6f61601f9f27c7a
-    organizer: Moreton Bay Region Libraries
-    timeStart: '2018-02-06T04:00:00.000Z'
   - name: Computers for Beginners - Arana Hills Library
     uri: >-
       /events/2018/02/06/e57ac390aea828ca515e5cc5b5d5574a7b42e43e099dfe460bbf67306d6b7557
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-02-06T03:00:00.000Z'
-  - name: 'Generate 5x more leads, become an online STAR and live the #WOWlife'
+  - name: Discover the eLibrary - Redcliffe Library
     uri: >-
-      /events/2018/02/06/bea60ce9d0d8198790e2fe8eaa35c755ef845970f092b04f6dd4d8978dda4804
-    organizer: Savvy Australian Bloggers
-    timeStart: '2018-02-06T09:00:00.000Z'
+      /events/2018/02/06/76b85fcf03e50d49fbb15f2a5e73f13b01490e672ef68766c6f61601f9f27c7a
+    organizer: Moreton Bay Region Libraries
+    timeStart: '2018-02-06T04:00:00.000Z'
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/02/06/381d7acf1e8040539e82e0d04d1bb9ef853d6e60058d99325c85ff680dd5aa7f
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-02-06T08:00:00.000Z'
   - name: CocoaHeads Brisbane Meetup
     uri: >-
       /events/2018/02/06/fb00ad501c3b8d9cfd376e1f82808aefba244cd7dc4bc19242d74f263728b99c
     organizer: CocoaHeads
     timeStart: '2018-02-06T08:00:00.000Z'
+  - name: 'Generate 5x more leads, become an online STAR and live the #WOWlife'
+    uri: >-
+      /events/2018/02/06/bea60ce9d0d8198790e2fe8eaa35c755ef845970f092b04f6dd4d8978dda4804
+    organizer: Savvy Australian Bloggers
+    timeStart: '2018-02-06T09:00:00.000Z'
 
 ---
