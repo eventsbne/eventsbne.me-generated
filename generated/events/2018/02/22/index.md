@@ -17,6 +17,11 @@ events:
       /events/2018/02/22/1b8ce97884170854506d86ecb62a6fd0d301556350023363ca75f6d0749fba8c
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-02-22T07:00:00.000Z'
+  - name: Brisbane Tableau User Group February 2018
+    uri: >-
+      /events/2018/02/22/3f5545b186081afdb32396d532575c51ad814d1b9a3b381be0249b36a9224c70
+    organizer: Brisbane Tableau User Group
+    timeStart: '2018-02-22T07:00:00.000Z'
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/02/22/b3167ae03b939b6e93655e6cea6142a300f738304e07f3af010a8e9db0c342f5
@@ -32,15 +37,15 @@ events:
       /events/2018/02/22/b8592a8a224ed975c24ddc4c2a29db602af2282e8138007cff67df07c589a4e7
     organizer: SMRT ANZ
     timeStart: '2018-02-22T08:30:00.000Z'
-  - name: February ICO Meetup
-    uri: >-
-      /events/2018/02/22/4876033bd66569b866678831716ea423ddc723aebdfb5f7f3afc6b6e2418cacc
-    organizer: Gold Coast ICO Discussion Group
-    timeStart: '2018-02-22T08:30:00.000Z'
   - name: Discover the eLibrary - Strathpine Library
     uri: >-
       /events/2018/02/22/8f0a0f9f6b306fee5559d53ab5e468b5af9dd0e9a04aeac708c12bf9ba1321ce
     organizer: Moreton Bay Region Libraries
+    timeStart: '2018-02-22T08:30:00.000Z'
+  - name: February ICO Meetup
+    uri: >-
+      /events/2018/02/22/4876033bd66569b866678831716ea423ddc723aebdfb5f7f3afc6b6e2418cacc
+    organizer: Gold Coast ICO Discussion Group
     timeStart: '2018-02-22T08:30:00.000Z'
 
 ---

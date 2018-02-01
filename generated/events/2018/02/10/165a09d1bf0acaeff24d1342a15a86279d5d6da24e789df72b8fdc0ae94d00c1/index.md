@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-10T05:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-28T11:34:06.092Z'
-timeUpdated: '2018-01-28T11:34:06.092Z'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Humbug - Regular Meeting
-date: '2018-01-28T11:34:06.092Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
-<p>This is one of our regular fortnightly meetings. We meet to discuss and help with computer problems to do with Unix like operating systems (bsd, linux, darwin etc).</p> <p>We head off for dinner at the St Lucia Village around six thirty, the common destination is the Curry Connection.</p> <p>Occasionally we have talks, we generally start those around five.</p>
+<p>This is one of our regular fortnightly meetings. We meet to discuss and help with computer problems to do with Unix like operating systems (bsd, linux, darwin etc).</p> <p>We head off for dinner at the St Lucia Village around six thirty, the common destination is the Curry Connection.</p> <p>This meeting we have a group talk starting at 5pm, a debrief of the recent linux.conf.au conference down in Sydney. Anyone who went to the conference, or has watched any of the recordings, are encouraged to give a brief (two/three sentence) overview of talks, such that other members can be informed about what talks to catch up on.</p>

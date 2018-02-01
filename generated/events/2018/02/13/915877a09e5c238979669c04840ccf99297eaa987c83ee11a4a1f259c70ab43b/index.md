@@ -5,27 +5,15 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-13T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
-countAttending: '28'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '32'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/GDG-Cloud-Brisbane/events/237326171/'
 image: null
-venue:
-  id: 65a2d2d695ae8cf443f716a1dae234faa9d7c323e106d28bd51da6e379615049
-  remoteId: '24675523'
-  remoteIdType: meetup
-  name: Location to be confirmed
-  url: null
-  description: null
-  lat: '-27.469770431518555'
-  lon: '153.02511596679688'
-  contactAddress: Location to be confirmed
-  contactCity: Brisbane
-  contactCountry: Australia
-  contactPhone: null
+venue: {}
 organizer:
   id: c1e175688f884898ccd5b339765be1e19f57fb68b754b5cd99af5f29809af102
   remoteId: '20706157'
@@ -35,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: 'Google Developer Group [Cloud] meetup'
-date: '2018-01-30T14:37:36.987Z'
+title: 'Google Developer Group [Cloud] - Kubernetes and Containers - Session 2'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
-<p>We're organising session content and will update details closer to the time. If you have content suggestions please let us know!</p>
+<p>Join us for the first meetup of 2018. Ruben Slabbert from AginicX will be sharing his experience with containers and kubernetes on the Google Cloud Platform.</p> <p>Join us for great content, networking and pizza.</p>

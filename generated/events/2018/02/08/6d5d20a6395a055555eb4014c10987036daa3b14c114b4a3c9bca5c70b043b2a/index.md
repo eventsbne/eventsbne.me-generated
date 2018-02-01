@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-08T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
-countAttending: '21'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
+countAttending: '25'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
-date: '2018-01-30T14:37:36.987Z'
+title: AWS Security Meetup - 8th of Feb!!!
+date: '2018-02-01T13:27:01.657Z'
 
 ---
-<p><img src="https://secure.meetupstatic.com/photos/event/4/4/8/2/600_461597538.jpeg" /></p> <p><b><i>Welcome to the Brisvegas AWS Security Meetup!</i></b></p> <p><br/>We have some great speakers we're lining up for this extra special event. Details to follow.</p> <p>Big shout out for <a href="https://aws.amazon.com/">AWS</a> who are sponsoring this event.</p> <p>Get the RSVPs rolling as we only have a limited number of tickets.</p> <p>See you there.</p> <p>Stephen</p>
+<p>** MEETUP MADNESS TICKETS ONLY. NO RSVPS HERE PLEASE **</p> <p>REGISTER HERE (<a href="https://meetupmadness.io/events/feb-2018-aws-security-tri-state-meetup/" class="linkified">https://meetupmadness.io/events/feb-2018-aws-security-tri-state-meetup/</a>)</p> <p>Hi AWS Security Fans!</p> <p>Here are our AWS Security talks for Feb 2018:</p> <p>SPEAKER 1: Ashish Rajan - Security Architect, Versent</p> <p>TALK TOPIC: GuardDuty is Enabled, now What?</p> <p>I will be talking about the service itself and what we found after running the service for over a month in our environments. Learnings from the gotchas.</p> <p>SPEAKER 2:TBD</p> <p>TALK TOPIC: TBD</p> <p>To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite in the registration box below. Note, you need to be a member to register. Its simple, join for free here.</p> <p>Big thanks again to the host &amp; sponsor of the event: AWS</p> <p>Schedule:</p> <p>BRISBANE – Registration, food and drinks starts at 5:00 PM / Presentation starts 5:30 PM</p> <p>Grab your ticket, and see you there!</p> <p>The MeetupMadness Team</p>

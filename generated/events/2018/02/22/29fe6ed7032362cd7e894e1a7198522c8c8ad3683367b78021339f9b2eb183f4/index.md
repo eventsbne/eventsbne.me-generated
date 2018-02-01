@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T06:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-01-30T14:37:36.987Z'
-timeUpdated: '2018-01-30T14:37:36.987Z'
+timeCreated: '2018-02-01T13:27:01.657Z'
+timeUpdated: '2018-02-01T13:27:01.657Z'
 countAttending: '13'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Salesforce Developer Group Meeting
-date: '2018-01-30T14:37:36.987Z'
+date: '2018-02-01T13:27:01.657Z'
 
 ---
-<p>Draft agenda as follows: </p> <p>• 4:00pm Food and Drinks </p> <p>• 4:30pm MC opens event &amp; House Keeping </p> <p>• 4:40pm Notice Board – SFDC and Group Announcements </p> <p>• 4:45pm Presentation/Topic TBA</p> <p>• 5:20pm Open Mic – Q&amp;A time, not just for the speaker but also general Q&amp;A </p> <p>• 5:30pm Close and network (finish food and drinks ;)) </p> <p>• 6:00pm Exit </p> <p><br/>If you have any ideas or suggestions please let us know on the </p> <p><a href="http://www.meetup.com/Brisbane-Salesforce-Developer-Group/messages/boards/">Discussions page</a></p>
+<p>Draft agenda as follows:</p> <p>• 4:00pm Food and Drinks</p> <p>• 4:30pm MC opens event &amp; House Keeping</p> <p>• 4:40pm Notice Board – SFDC and Group Announcements</p> <p>• 4:45pm Presentation/Topic - The 10+ Commandments of APEX, Spring 18 Release Highlights</p> <p>• 5:20pm Open Mic – Q&amp;A time, not just for the speaker but also general Q&amp;A</p> <p>• 5:30pm Close and network (finish food and drinks ;))</p> <p>• 6:00pm Exit</p> <p>If you have any ideas or suggestions please let us know on the</p> <p>Discussions page (<a href="http://www.meetup.com/Brisbane-Salesforce-Developer-Group/messages/boards/" class="linkified">http://www.meetup.com/Brisbane-Salesforce-Developer-Group/messages/boards/</a>)</p>

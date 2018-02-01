@@ -19,16 +19,16 @@ events:
       /events/2018/02/14/5d34e706207ab72598a121ddedca16e8456754f922d52e730f2566e91fe69608
     organizer: Brisbane Azure User Group
     timeStart: '2018-02-14T07:30:00.000Z'
-  - name: Blockchain Reserve - Brisbane Investment Analysis
-    uri: >-
-      /events/2018/02/14/43d334a2a43a3b2442031ce6b827d24f587966a070e07ad420770eb818df13b2
-    organizer: Blockchain Reserve Brisbane
-    timeStart: '2018-02-14T08:00:00.000Z'
   - name: Bitcoin for WOMEN Gold Coast (FREE)
     uri: >-
       /events/2018/02/14/6a1a04d7d868ed47b51b075f559792b0ea6ce3256b22f5b3ee197bc13b56c761
     organizer: The Beauty of Bitcoin Gold Coast (free)
     timeStart: '2018-02-14T09:00:00.000Z'
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/02/14/43d334a2a43a3b2442031ce6b827d24f587966a070e07ad420770eb818df13b2
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-02-14T08:00:00.000Z'
   - name: Regular Wednesday Open Hack.
     uri: >-
       /events/2018/02/14/9fdc6632a38f8203a10a590572cc43f64bf2f134d0d1c138b098436a6274aca7
