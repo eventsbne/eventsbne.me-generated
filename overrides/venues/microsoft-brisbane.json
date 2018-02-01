@@ -1,0 +1,22 @@
+{
+  "id": "microsoft-brisbane",
+  "name": "Microsoft Brisbane",
+  "description": "The swanky Microsoft offices on level 28 of the 5 Star Green Star office at 400 George.",
+  "entry-instructions": null,
+  "transport": "400 George is a short walk from the Roma Street train station, and is well connected by bike. There is no street parking in the CBD, but you may find a nearby parking garage.",
+  "nameLike": [
+    "Microsoft.*"
+  ],
+  "url": null,
+  "lat": "-27.46868324279785",
+  "lon": "153.0210418701172",
+  "contactAddress": "Level 28, 400 George Street",
+  "contactCity": "Brisbane",
+  "contactPhone": null,
+  "contactEmail": null,
+  "contactTwitter": null,
+  "contactFacebook": null,
+  "contactLinkedIn": null,
+  "contactInstagram": null,
+  "codeOfConduct": null
+}

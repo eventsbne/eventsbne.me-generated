@@ -1,0 +1,22 @@
+{
+  "id": "auto-and-general",
+  "name": "Auto & General Meeting Spaces",
+  "description": "Auto & General Insurance Company Ltd offers highly competitive, quality products including car & home insurance in the Australian marketplace. A&G have kindly offered their meeting rooms on level 6 of Toowong Tower for the Brisbane Javascript meetup.",
+  "entry-instructions": "Meet at the Gallery Level elevators (the same level as the train station) for pickup by security.",
+  "transport": "It's a 30 second walk from the train station to the meetup. Car parking is available at Toowong Village until 10:30. Find more parking info on the Toowong Village site (https://www.toowongvillage.com.au/centre-info/getting-here/)",
+  "nameLike": [
+    "A&G Meeting Spaces"
+  ],
+  "url": "http://www.autogeneral.com.au/",
+  "lat": "-27.484989166259766",
+  "lon": "152.99252319335938",
+  "contactAddress": "Level 6 Toowong Tower, 9 Sherwood Road, Toowong",
+  "contactCity": "Brisbane",
+  "contactPhone": "1300 858 747",
+  "contactEmail": null,
+  "contactTwitter": "autoandgeneral",
+  "contactFacebook": null,
+  "contactLinkedIn": "https://www.linkedin.com/company/54375/",
+  "contactInstagram": null,
+  "codeOfConduct": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hsbne",
+  "name": "HSBNE",
+  "description": "Our campus includes two buildings with an enclosed undercover courtyard on a 3,500m2 plot. We have a general work room, a classroom, dedicated rooms for Digital Fabrication and geeky Crafts, the Boneyard full of scavengable parts, as well as dedicated Woodworking and Metal working rooms. We're located in an industrial area right next door to Eat Street Markets.",
+  "transport": "Our driveway is beside the big trees in the middle of the road, next to a big blue sign. We share our driveway with one of the car parks for Eat Street Markets. We have on-site parking plus plenty of street parking.\n\nTravel by CityCat to the Northshore Hamilton terminal, around 800m away. Once you arrive, walk up the ramp & through the park, turn left and walk about 300m past the really TALL shed and car park. The space is the first driveway on your left.\n\nThe nearest bus stop is Stop 20 at Racecourse Road, use your favourite app or website to get directions.",
+  "nameLike": [
+    "HSBNE",
+    "HSBNE Inc"
+  ],
+  "url": "https://hsbne.org/",
+  "lat": "-27.44321",
+  "lon": "153.07921199999998",
+  "contactAddress": "221c MacArthur Avenue",
+  "contactCity": "Eagle Farm",
+  "contactPhone": "(07) 3180 3142",
+  "contactEmail": "contact@hsbne.org",
+  "contactTwitter": "hsbne",
+  "contactFacebook": "http://facebook.com/HSBNE",
+  "contactLinkedIn": null,
+  "contactInstagram": null,
+  "codeOfConduct": "http://hsbne.org/admin/code.html"
+}

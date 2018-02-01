@@ -1,0 +1,22 @@
+{
+  "id": "rex-software",
+  "name": "Rex Software",
+  "description": "Rex Software makes real estate CRM software that works everywhere you do.",
+  "entry-instructions": "There is a black \"Rex Software\" sign next to the front door.",
+  "transport": "Street parking can be pretty tricky, so it would be a good idea to allow extra time if driving. There is 2 hour free parking nearby at Gasworks.\n\nIf you choose public transport, the venue is close to the Teneriffe Ferry Terminal and buses. Front door will be open for the event.",
+  "nameLike": [
+    "Rex Software"
+  ],
+  "url": "https://www.rexsoftware.com/",
+  "lat": "-27.45278549194336",
+  "lon": "153.0469970703125",
+  "contactAddress": "29b Helen Street Newstead",
+  "contactCity": "Brisbane",
+  "contactPhone": null,
+  "contactEmail": "sales@rexsoftware.com.au",
+  "contactTwitter": "rexsoftware",
+  "contactFacebook": "https://www.facebook.com/rexsoftware/",
+  "contactLinkedIn": "https://www.linkedin.com/company/1985577/",
+  "contactInstagram": "rexsoftware",
+  "codeOfConduct": null
+}
