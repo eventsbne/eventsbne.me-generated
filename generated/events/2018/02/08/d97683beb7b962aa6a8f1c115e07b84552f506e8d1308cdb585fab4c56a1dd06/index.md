@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-08T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '38'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '55'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BCDG February Meetup (COX Architecture)
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
-<p>• What we'll do<br/>Alex Leese and the other COX Architecture Computational Design Aficionados will run through some of their recent work and computational developments.</p> <p>• What to bring</p> <p>• Important to know</p>
+<p>Alex Leese and the other COX Architecture Computational Design Aficionados will run through some of their recent work and computational developments.</p> <p>Reboot. 2018<br/>• Acadia 2017 recap by Alex Leese<br/>• Application of environmental data in parametric design by QUT Landscape student, Adam McEllister<br/>• Data workflows, with an example from North Queensland Stadium, by Elizabeth Nel<br/>• New Challenge<br/>• Refreshments</p>

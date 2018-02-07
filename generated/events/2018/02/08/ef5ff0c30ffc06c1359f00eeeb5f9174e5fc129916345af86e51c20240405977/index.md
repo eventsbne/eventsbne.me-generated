@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-08T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '116'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '177'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Queensland's Intelligent Healthcare System
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>AI has the potential to drastically change the face of healthcare; tailoring diagnosis and treatment to the individual, assisting hospital care, and ultimately improving patient outcomes. Join us to hear from A/Prof Brent Richards, a specialist in critical care from Gold Coast University Hospital (GCUH), who is working hard to bring AI to Queensland hospitals.</p> <p>Brent will speak to us about the vision he sees for healthcare and the key role AI plays in every facet of patient care. Using key examples from his work at GCUH, Brent will share their ongoing projects to improve end-to-end patient care. These include models to predict intensive care outcomes, particularly survival after cardiac arrest and traumatic head injury. Wrapping this all together is the IntelliHQ platform (Intelligent Health Queensland) that launches this year to enable more people to get involved and start solving health problems.</p> <p>Speaker: <b>A/Prof Brent Richards</b></p> <p>Associate Professor Brent Richards is Director of Critical Care research and Medical Director of Innovation at Gold Coast Hospital and Health Service, and Associate Professor at Griffith and Bond Universities. He has also been previously director of GCUH ICU for 15 years, an executive director of Surgery, and chair of the state Intensive Care network. Brent has been involved in Information systems and eHealth projects since the early 1990s, including the Queensland Health Information Strategy and Investment Board, and as the Project Executive for the State Intensive Care Clinical Information System.</p> <p>Brent has joined with Dr Kelvin Ross to found IntelliHQ, a not-for-profit entity based on the Gold Coast aimed specifically to promote research, education, investment and commercialisation of AI-based technologies that will improve both patient and system outcomes in healthcare. Designed as an innovation pathway for AI startups, IntelliHQ will work with hospitals, universities, local and international companies and investors to fast-track the best technologies to market.</p> <p>Agenda:<br/>6:00pm Mingling, networking and nibbles, courtesy of AWS<br/>6:30pm A/Prof Brent Richards (Director of Critical Care/Medical Director of Innovation GCUH, IntelliHQ)<br/>7:30pm Mingling continued</p> <p>To get to the venue take the elevators from within the old TC Beirne building up to level 2. Lift access will open at 5.45pm and close at 6.30pm. Let us know if you plan on arriving later!</p> <p>A very big thank you to AWS for sponsoring this meetup!</p>

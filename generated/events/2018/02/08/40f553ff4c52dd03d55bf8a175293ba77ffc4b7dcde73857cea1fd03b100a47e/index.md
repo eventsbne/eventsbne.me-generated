@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-07T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '20'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Sustainable Future Forum
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>Ipswich City Council is the fastest growing region in Queensland.</p> <p>This growth can only be managed through involvement with community, industry, and other levels of government to protect and enhance our environment and its livability for current and future generations.</p> <p>There are many facets to developing a sustainable city. Many perspectives are required to understand the challenges and take advantage of the opportunities.</p> <p>On 8 February, Ipswich City Council and Fire Station 101 are bringing together people from diverse backgrounds in a unique sustainable future forum. The interactive workshop will allow people to hear about current Ipswich sustainability initiatives, collectively come up with ideas, and work together to develop solutions.</p> <p>Our discussion will be framed around key questions, including:<br/>• How can Ipswich be more sustainable?<br/>• How can Ipswich be carbon neutral?<br/>• How does Ipswich use waste as a resource?<br/>• What role does technology and being a smart city play in being sustainable?<br/>• How can Ipswich best educate and raise awareness around sustainability in our city?<br/>• How can Ipswich better plan and protect our natural environment?</p> <p>Join us to be a part of the conversation, with real opportunities to implement the ideas to create a more sustainable city.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '13'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Delicious DataOps Discussion - INAUGURAL KICKOFF Feb 22nd!
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>We're feverishly putting together this kick off event, where we're planning to discuss the mysterious intersection between Devops and Data Science.</p> <p>If you're interested in speaking or sponsoring, please get in touch :)</p> <p>RSVP to assure you're spot!</p> <p>Stephen &amp; Mick</p>

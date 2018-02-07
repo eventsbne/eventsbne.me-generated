@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-13T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '14'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Homebrew IoT
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>Hi Everyone!</p> <p>For first meetup of the year, we have a talk on homebuilt IoT systems and the LinkiIt IoT platform!</p> <p>Once again we appreciate having Alcorn Group sponsor pizza and beer (or soft drink) for the night. (Please RSVP so we can order the right amount.)</p> <p>See you there!<br/>Josh</p>

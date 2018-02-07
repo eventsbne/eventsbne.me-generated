@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-02T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '11'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: RHoK Brisbane Autumn '18 Hackathon
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>The aim is to spend a weekend designing and building practical, open source solutions to real world problems - with our change maker community. We need a blend of all skills to ensure viable and sustainable solutions. So if you are a designer, innovator, project manager, marketing guru, business analyst, business savvy or simply someone who is interested in being part of something great please RSVP.</p> <p>We will be releasing more details about this years projects closer to the date. Hope to see you there!</p>

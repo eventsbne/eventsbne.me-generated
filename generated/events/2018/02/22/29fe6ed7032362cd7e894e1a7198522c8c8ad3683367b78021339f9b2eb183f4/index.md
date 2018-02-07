@@ -5,24 +5,24 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T06:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '13'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Salesforce-Developer-Group/events/245821688/'
 image: null
 venue:
-  id: 20339d5eb2b633c3f95f1b391385724e4d7c84f92c8365db63b0d2e26c72f271
-  remoteId: '24624013'
+  id: 3c010d292937ddc511c0a21e4e72d74b1689274fd5457fbc41f6a1ef7c994db8
+  remoteId: '25202669'
   remoteIdType: meetup
-  name: SMS Management & Technology
+  name: PwC Brisbane
   url: null
   description: null
-  lat: '-27.468399047851562'
-  lon: '153.02772521972656'
-  contactAddress: 'Level 13, 259 Queen Street'
+  lat: '-27.464672088623047'
+  lon: '153.0310516357422'
+  contactAddress: 'Level 22, 480 Queen Street'
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Salesforce Developer Group Meeting
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>Draft agenda as follows:</p> <p>• 4:00pm Food and Drinks</p> <p>• 4:30pm MC opens event &amp; House Keeping</p> <p>• 4:40pm Notice Board – SFDC and Group Announcements</p> <p>• 4:45pm Presentation/Topic - The 10+ Commandments of APEX, Spring 18 Release Highlights</p> <p>• 5:20pm Open Mic – Q&amp;A time, not just for the speaker but also general Q&amp;A</p> <p>• 5:30pm Close and network (finish food and drinks ;))</p> <p>• 6:00pm Exit</p> <p>If you have any ideas or suggestions please let us know on the</p> <p>Discussions page (<a href="http://www.meetup.com/Brisbane-Salesforce-Developer-Group/messages/boards/" class="linkified">http://www.meetup.com/Brisbane-Salesforce-Developer-Group/messages/boards/</a>)</p>

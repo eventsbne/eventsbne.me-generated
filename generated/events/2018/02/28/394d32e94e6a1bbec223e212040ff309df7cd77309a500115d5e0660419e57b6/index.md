@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '24'
+timeCreated: '2018-02-07T09:06:20.595Z'
+timeUpdated: '2018-02-07T09:06:20.595Z'
+countAttending: '27'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: February Meetup
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-07T09:06:20.595Z'
 
 ---
 <p>The lovely people from Jumbo reminded me that at the last meetup, they offered to host. So here we are.</p> <p>As always we need speakers so if you have something you would like to show off, hit me up and I'll add you to the speaker list!</p> <p>Speakers</p> <p>Taylor Lawson, Jumbo Interactive : "Boil 'em, mash 'em, test 'em in a stew"</p>
