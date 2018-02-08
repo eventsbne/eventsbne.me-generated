@@ -37,25 +37,25 @@ events:
       /events/2018/02/22/d4930ef4412869f379145dbb09855128ea94a933d4b60b97beef13b881872438
     organizer: Brisbane Elixir
     timeStart: '2018-02-22T07:30:00.000Z'
-  - name: AWS Brisbane Meetup!
-    uri: >-
-      /events/2018/02/22/01ddb0f6fdd02d63f28faf6464999f3dea21e573012df742f30138a14511f65b
-    organizer: Amazon Web Services - Brisbane User Group
-    timeStart: '2018-02-22T07:45:00.000Z'
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/02/22/b3167ae03b939b6e93655e6cea6142a300f738304e07f3af010a8e9db0c342f5
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-02-22T08:00:00.000Z'
-  - name: 'Crypto Set Up, Storage, Security & Exchange - BTI Workshop 2'
+  - name: AWS Brisbane Meetup!
     uri: >-
-      /events/2018/02/22/e94cbe2c854c3585dab0a35372cc1bf2b56cc03e28eb7e40b1ed3e81fffb240a
-    organizer: Crypto Mining Meetup
-    timeStart: '2018-02-22T08:00:00.000Z'
+      /events/2018/02/22/01ddb0f6fdd02d63f28faf6464999f3dea21e573012df742f30138a14511f65b
+    organizer: Amazon Web Services - Brisbane User Group
+    timeStart: '2018-02-22T07:45:00.000Z'
   - name: Let's Talk WordPress!
     uri: >-
       /events/2018/02/22/8a6189c9c19af39a11a8772c83515dd174e1d00474074869326e5d6d51ad7b3f
     organizer: WordPress Gold Coast
+    timeStart: '2018-02-22T08:00:00.000Z'
+  - name: 'Crypto Set Up, Storage, Security & Exchange - BTI Workshop 2'
+    uri: >-
+      /events/2018/02/22/e94cbe2c854c3585dab0a35372cc1bf2b56cc03e28eb7e40b1ed3e81fffb240a
+    organizer: Crypto Mining Meetup
     timeStart: '2018-02-22T08:00:00.000Z'
   - name: SMRT ANZ Chapter presents Frank Shellock "MRI Safety Update 2018"
     uri: >-
@@ -67,16 +67,16 @@ events:
       /events/2018/02/22/8f0a0f9f6b306fee5559d53ab5e468b5af9dd0e9a04aeac708c12bf9ba1321ce
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-02-22T08:30:00.000Z'
-  - name: February ICO Meetup
-    uri: >-
-      /events/2018/02/22/4876033bd66569b866678831716ea423ddc723aebdfb5f7f3afc6b6e2418cacc
-    organizer: Gold Coast ICO Discussion Group
-    timeStart: '2018-02-22T08:30:00.000Z'
   - name: >-
       How to participate, storing tokens, trading tokens and review some
       upcoming ICOs
     uri: >-
       /events/2018/02/22/df221d67a2cd9cf691d8fc82da4521a5f34784ba703bb11e81f8d949d7739892
+    organizer: Gold Coast ICO Discussion Group
+    timeStart: '2018-02-22T08:30:00.000Z'
+  - name: February ICO Meetup
+    uri: >-
+      /events/2018/02/22/4876033bd66569b866678831716ea423ddc723aebdfb5f7f3afc6b6e2418cacc
     organizer: Gold Coast ICO Discussion Group
     timeStart: '2018-02-22T08:30:00.000Z'
 

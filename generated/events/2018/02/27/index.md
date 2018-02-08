@@ -14,7 +14,9 @@ events:
       /events/2018/02/27/7bb35c7845636a0596debc9a5dcf9c78e051da24f8d6ff161667fbfc9fc08f37
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-02-27T01:00:00.000Z'
-  - name: Elabor8 Lunch and Learn Brisbane (Placeholder)
+  - name: >-
+      Elabor8 Lunch & Learn Unskilled and Unaware? Higher Order Thinking to the
+      Rescue
     uri: >-
       /events/2018/02/27/63d6aab82384eaef6042647c118caaa8c28ebdeed5669a5e6b3f43cbfc857de4
     organizer: Elabor8 Lunch and Learn Brisbane

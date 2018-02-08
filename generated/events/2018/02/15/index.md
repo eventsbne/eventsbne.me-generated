@@ -24,6 +24,11 @@ events:
       /events/2018/02/15/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
     organizer: Microsoft Advanced Analytics Brisbane
     timeStart: '2018-02-15T07:30:00.000Z'
+  - name: Driving Insights & Transforming Traditional BI to Advanced Analytics
+    uri: >-
+      /events/2018/02/15/a80c79abe44fbed74ce8ecbb72aa487fcc478b564d01b708ce0e52186ba728ad
+    organizer: Microsoft Advanced Analytics Brisbane
+    timeStart: '2018-02-15T07:30:00.000Z'
   - name: Feb 2018 Gold Coast Shopify Meetup
     uri: >-
       /events/2018/02/15/6712cd4f7e291f8548fab7e31347fa3be24bf11f32c3c016717fae1ef46bf625

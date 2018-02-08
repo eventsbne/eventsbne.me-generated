@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-15T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-07T09:06:20.595Z'
-timeUpdated: '2018-02-07T09:06:20.595Z'
-countAttending: '11'
+timeCreated: '2018-02-08T22:57:21.988Z'
+timeUpdated: '2018-02-08T22:57:21.988Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Feb 2018 Gold Coast Shopify Meetup
-date: '2018-02-07T09:06:20.595Z'
+date: '2018-02-08T22:57:21.988Z'
 
 ---
 <p>Please Note - This is a limited capacity event, so you must register to attend.</p> <p>Register for FREE here - <a href="https://ti.to/gold-coast-shopify-meetup/feb-2018-gold-coast-shopify-meetup/" class="linkified">https://ti.to/gold-coast-shopify-meetup/feb-2018-gold-coast-shopify-meetup/</a></p> <p>OVERVIEW<br/>The Gold Coast’s first Shopify meetup is the ideal space for anyone interested in selling online! The meetup will be a relaxed atmosphere to discuss experiences and share ideas for ecommerce success in 2018.</p> <p>The meetup will cover a broad range of topics, including:<br/>- Learning what works from the top Shopify partners<br/>- Guest talks from the Shopify team<br/>- First steps to getting your Shopify store live<br/>- Techniques, ideas and strategies for maximizing your online revenue<br/>- Hear from market leading Shopify merchants<br/>- Connect with new people in the Shopify community.</p> <p>Please Note - This is a limited capacity event, so you must register to attend.</p> <p>Register for FREE here - <a href="https://ti.to/gold-coast-shopify-meetup/feb-2018-gold-coast-shopify-meetup/" class="linkified">https://ti.to/gold-coast-shopify-meetup/feb-2018-gold-coast-shopify-meetup/</a></p> <p>• What to bring</p> <p>• Important to know</p>

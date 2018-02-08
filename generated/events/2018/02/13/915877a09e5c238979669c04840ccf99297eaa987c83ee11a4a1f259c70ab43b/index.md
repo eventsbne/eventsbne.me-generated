@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-13T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-01T13:27:01.657Z'
-timeUpdated: '2018-02-01T13:27:01.657Z'
-countAttending: '32'
+timeCreated: '2018-02-08T22:57:21.988Z'
+timeUpdated: '2018-02-08T22:57:21.988Z'
+countAttending: '41'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Google Developer Group [Cloud] - Kubernetes and Containers - Session 2'
-date: '2018-02-01T13:27:01.657Z'
+date: '2018-02-08T22:57:21.988Z'
 
 ---
 <p>Join us for the first meetup of 2018. Ruben Slabbert from AginicX will be sharing his experience with containers and kubernetes on the Google Cloud Platform.</p> <p>Join us for great content, networking and pizza.</p>

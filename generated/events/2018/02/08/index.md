@@ -47,15 +47,15 @@ events:
       /events/2018/02/08/713906f807f248e16f95eaacc9f449670535439bd4632dd1584c4abf33f7c890
     organizer: WordPress Brisbane
     timeStart: '2018-02-08T08:00:00.000Z'
-  - name: BCDG February Meetup (COX Architecture)
-    uri: >-
-      /events/2018/02/08/d97683beb7b962aa6a8f1c115e07b84552f506e8d1308cdb585fab4c56a1dd06
-    organizer: Brisbane-computational-design-group
-    timeStart: '2018-02-08T08:00:00.000Z'
   - name: For Loop == Stats
     uri: >-
       /events/2018/02/08/d1feed60c538816309a8582a97da51e797216fe6693a98fe4fa0731286309198
     organizer: Brisbane Data Science Meetup
+    timeStart: '2018-02-08T08:00:00.000Z'
+  - name: BCDG February Meetup (COX Architecture)
+    uri: >-
+      /events/2018/02/08/d97683beb7b962aa6a8f1c115e07b84552f506e8d1308cdb585fab4c56a1dd06
+    organizer: Brisbane-computational-design-group
     timeStart: '2018-02-08T08:00:00.000Z'
 
 ---

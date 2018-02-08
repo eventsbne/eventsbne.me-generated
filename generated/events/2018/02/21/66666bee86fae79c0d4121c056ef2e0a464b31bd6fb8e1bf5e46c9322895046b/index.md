@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-21T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-07T09:06:20.595Z'
-timeUpdated: '2018-02-07T09:06:20.595Z'
+timeCreated: '2018-02-08T22:57:21.988Z'
+timeUpdated: '2018-02-08T22:57:21.988Z'
 countAttending: '60'
 countCapacity: null
-countWaitlist: '5'
+countWaitlist: '6'
 price: null
 url: 'https://www.meetup.com/Brisbane-APIs-and-Microservices/events/246576508/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'APIs and Microservices, Talks & Networking - February'
-date: '2018-02-07T09:06:20.595Z'
+date: '2018-02-08T22:57:21.988Z'
 
 ---
 <p>• What we'll do<br/>We'll have a couple of talks, get some volunteers for more content, have some drinks and Pizza's etc.</p> <p>Talks start at 6:30. Feel free to arrive any time after 6:00.</p> <p>• What to bring<br/>Yourselves!</p> <p>• Important to know<br/>Street parking can be pretty tricky, so it would be a good idea to allow extra time if driving. There is 2 hour free parking nearby at Gasworks.</p> <p>If you choose public transport, the venue is close to the Teneriffe Ferry Terminal and buses. Front door will be open for the event.</p>
