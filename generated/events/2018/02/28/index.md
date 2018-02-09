@@ -27,25 +27,10 @@ events:
       /events/2018/02/28/9ca9984d4a1bc6375dccd0299bc3ee8da4e7c693f7a7e25131036ebd69ef7edc
     organizer: Lean Business Strategies
     timeStart: '2018-02-28T07:30:00.000Z'
-  - name: 'Dan Petrie - Data Journalism, Fad or Future'
-    uri: >-
-      /events/2018/02/28/0a3573efd683886f7681cf1dd17b97c5eb205fb0afde2575ae1dde5e568d8339
-    organizer: Hacks/Hackers Brisbane
-    timeStart: '2018-02-28T08:00:00.000Z'
   - name: WordPress Ipswich February Meetup
     uri: >-
       /events/2018/02/28/4141335af198dc6967fd794a9a25ff074d4f25f051a504ec1dcac7ee74103e05
     organizer: Ipswich WordPress Meetup
-    timeStart: '2018-02-28T08:00:00.000Z'
-  - name: February Meetup
-    uri: >-
-      /events/2018/02/28/394d32e94e6a1bbec223e212040ff309df7cd77309a500115d5e0660419e57b6
-    organizer: Brisbane Gophers
-    timeStart: '2018-02-28T08:00:00.000Z'
-  - name: Monthly Meetup
-    uri: >-
-      /events/2018/02/28/52409da2b29234ff33dcd11f675af46c2a01a524a97751198115538a25a2243d
-    organizer: Women Who Code Brisbane
     timeStart: '2018-02-28T08:00:00.000Z'
   - name: Playing Lean Session
     uri: >-
@@ -56,6 +41,21 @@ events:
     uri: >-
       /events/2018/02/28/c1100be40ad403377c95e0873f74a42716674f7c8670924368ffed3f4a1e15d1
     organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-02-28T08:00:00.000Z'
+  - name: 'Dan Petrie - Data Journalism, Fad or Future'
+    uri: >-
+      /events/2018/02/28/0a3573efd683886f7681cf1dd17b97c5eb205fb0afde2575ae1dde5e568d8339
+    organizer: Hacks/Hackers Brisbane
+    timeStart: '2018-02-28T08:00:00.000Z'
+  - name: Monthly Meetup
+    uri: >-
+      /events/2018/02/28/52409da2b29234ff33dcd11f675af46c2a01a524a97751198115538a25a2243d
+    organizer: Women Who Code Brisbane
+    timeStart: '2018-02-28T08:00:00.000Z'
+  - name: February Meetup
+    uri: >-
+      /events/2018/02/28/394d32e94e6a1bbec223e212040ff309df7cd77309a500115d5e0660419e57b6
+    organizer: Brisbane Gophers
     timeStart: '2018-02-28T08:00:00.000Z'
 
 ---

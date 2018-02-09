@@ -24,5 +24,10 @@ events:
       /events/2018/03/01/c007294476374a4e687830577e617920ea48b2219d40a4f7b81cdceb2ad63c0e
     organizer: use \BNE\PHP;
     timeStart: '2018-03-01T08:00:00.000Z'
+  - name: Scrunch! Coming soon..
+    uri: >-
+      /events/2018/03/01/9f353afa8bb6987decd534469fd1119eee31c003460a4539c103111711e6a22d
+    organizer: Brisbane Artificial Intelligence
+    timeStart: '2018-03-01T08:00:00.000Z'
 
 ---

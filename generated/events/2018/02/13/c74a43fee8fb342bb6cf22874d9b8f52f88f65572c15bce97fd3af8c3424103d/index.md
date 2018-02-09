@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-13T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-08T22:57:21.988Z'
-timeUpdated: '2018-02-08T22:57:21.988Z'
-countAttending: '40'
+timeCreated: '2018-02-09T11:24:17.001Z'
+timeUpdated: '2018-02-09T11:24:17.001Z'
+countAttending: '42'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Everyday Scala & Show me the Monoids
-date: '2018-02-08T22:57:21.988Z'
+date: '2018-02-09T11:24:17.001Z'
 
 ---
 <p>Your Everyday Scala - Jacob Wang<br/>-----------------------------------------------<br/>This talk will introduce you to Scala, a hybrid OO/FP language running on the JVM. We will cover its language features, library/tooling ecosystem as well as our own experience running Skedulo's backend almost entirely in Scala.</p> <p>Show me the Monoids - Nat Dash<br/>----------------------------------------------<br/>In this talk we will discuss monoids and how they are defined. We will look at some examples of how this abstraction can make code cleaner.</p> <p>Finally, we will take a look at how monoids are used in a general purpose data structure - finger trees.</p>

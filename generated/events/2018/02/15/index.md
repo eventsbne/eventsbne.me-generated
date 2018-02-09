@@ -19,26 +19,31 @@ events:
       /events/2018/02/15/0393733ff1669b8debfde82c791ac5ee851f488b1c1e6fb50a5649c400cac385
     organizer: Lean Business Strategies
     timeStart: '2018-02-15T02:00:00.000Z'
-  - name: Text Analytics Primer
+  - name: IT Lunch
     uri: >-
-      /events/2018/02/15/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
-    organizer: Microsoft Advanced Analytics Brisbane
-    timeStart: '2018-02-15T07:30:00.000Z'
-  - name: Driving Insights & Transforming Traditional BI to Advanced Analytics
-    uri: >-
-      /events/2018/02/15/a80c79abe44fbed74ce8ecbb72aa487fcc478b564d01b708ce0e52186ba728ad
-    organizer: Microsoft Advanced Analytics Brisbane
-    timeStart: '2018-02-15T07:30:00.000Z'
+      /events/2018/02/15/758687cbfac5b4566e5e0f6bcbfe715e828b98b1bad037e4788302a9d3780301
+    organizer: dotMaleny
+    timeStart: '2018-02-15T02:30:00.000Z'
   - name: Feb 2018 Gold Coast Shopify Meetup
     uri: >-
       /events/2018/02/15/6712cd4f7e291f8548fab7e31347fa3be24bf11f32c3c016717fae1ef46bf625
     organizer: Gold Coast Shopify Meetup
+    timeStart: '2018-02-15T07:30:00.000Z'
+  - name: Text Analytics Primer
+    uri: >-
+      /events/2018/02/15/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
+    organizer: Microsoft Advanced Analytics Brisbane
     timeStart: '2018-02-15T07:30:00.000Z'
   - name: Brisbane Tech Newbies Monthly Meetup
     uri: >-
       /events/2018/02/15/327faefd71b14dcdda6431f0ff81569f1d3128129457a518b248538e4847a088
     organizer: Brisbane Tech Newbies
     timeStart: '2018-02-15T07:45:00.000Z'
+  - name: Driving Insights & Transforming Traditional BI to Advanced Analytics
+    uri: >-
+      /events/2018/02/15/a80c79abe44fbed74ce8ecbb72aa487fcc478b564d01b708ce0e52186ba728ad
+    organizer: Microsoft Advanced Analytics Brisbane
+    timeStart: '2018-02-15T07:30:00.000Z'
   - name: WooCommerce Meetup - What's new in WooCommerce 3.3 (or 3.3.1)
     uri: >-
       /events/2018/02/15/96d4fb04d03781d90b6e49fc64660411cdf138361cdae4fb136a6b61a38d9410

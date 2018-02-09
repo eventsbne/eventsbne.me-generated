@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-14T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-08T22:57:21.988Z'
-timeUpdated: '2018-02-08T22:57:21.988Z'
-countAttending: '14'
+timeCreated: '2018-02-09T11:24:17.001Z'
+timeUpdated: '2018-02-09T11:24:17.001Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -39,7 +39,7 @@ organizer:
   codeOfConduct: 'https://brisjs.org/#conduct'
 layout: event
 title: Febuary social drinks @ The Fox (Valentine's Day Special)
-date: '2018-02-08T22:57:21.988Z'
+date: '2018-02-09T11:24:17.001Z'
 
 ---
 <p>Come join the BrisJS gang for drinks and networking at the next monthly networking drinks!</p> <p>💕 Note that we organized this on Valentines Day without realising (oops). But what the heck, bring your significant other or just show up and enjoy the cheap pizza with good company 💕</p> <p>This time we'll be visiting The Fox. This is a short walk from the South Brisbane train station, across the road from the Cultural Centre busway, and there's plenty of paid parking in the area if you're driving to work for the day.</p> <p>👉 The Agenda</p> <p>There is no set agenda for the night, just show up at 5:30, swing by the bar, then socialise with similar folks in tech. If you'd like an introduction, come and find me (Ash Kyd) and I'll introduce everyone!</p> <p>This is a drinks event, but there are also a number of non-alcoholic options at the bar. We will be seated in the recently renovated restaurant area, which is an accessible venue. Let's get together for some $4 pizzas.</p> <p>👉 More info</p> <p>- We will be seated in the recently renovated restaurant area, which is an accessible venue. We're committed to making February social drinks @ The Fox a safe and enjoyable event. In short: please, behave like a decent human being. For more info, see our [code of conduct](<a href="https://brisjs.org/#conduct" class="linkified">https://brisjs.org/#conduct</a>).<br/>- For all the latest news and community info check out our twitters at twitter.com/brisjs.</p> <p>If you have any questions or issues, get in touch with Ash on ash@kyd.com.au/0457363189.</p>
