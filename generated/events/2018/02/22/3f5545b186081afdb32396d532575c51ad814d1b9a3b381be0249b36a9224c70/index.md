@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-09T11:24:17.001Z'
-timeUpdated: '2018-02-09T11:24:17.001Z'
-countAttending: '18'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Tableau User Group February 2018
-date: '2018-02-09T11:24:17.001Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
 <p>IMPORTANT:<br/>The next Tableau User Group events will be organised via EventBrite (link below).<br/><a href="https://www.eventbrite.com/e/brisbane-tableau-user-group-tickets-42447399314?aff=eac2" class="linkified">https://www.eventbrite.com/e/brisbane-tableau-user-group-tickets-42447399314?aff=eac2</a></p> <p>It will still be free, informal and include Drinks and Pizzas ;)<br/>Please try to register yourself now so you stay aware of any changes and the announcement of the next User Groups.</p> <p>We would be keen to keep running an event through this Meetup Group though, so stay tuned for any update around this. Suggestions are welcome!<br/>Follow us on LinkedIn to stay across the latest News: <a href="https://www.linkedin.com/company/3539715/" class="linkified">https://www.linkedin.com/company/3539715/</a></p> <p><br/>Join us to hear (and see) about the significant changes in the latest release from Tableau, including:</p> <p>Hyper Viz in Tooltip The Penguin! Maestro (Sneek Peek) And of course networking with like minded analysts over a beer or 2 and Pizza.</p> <p>Contacts:</p> <p>Dave Keys</p> <p>M:[masked] E: [masked]</p> <p>Adam Roberti</p> <p>M:[masked] E: [masked]</p> <p>www.keydataconsulting.com.au</p>

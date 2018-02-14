@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-19T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-07T09:06:20.595Z'
-timeUpdated: '2018-02-07T09:06:20.595Z'
-countAttending: '7'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: February Double Header - MS Bot Framework + Azure Machine Learning
-date: '2018-02-07T09:06:20.595Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
 <p>Bots - the next UI revolution<br/>================================================================<br/>Presenter: Adam Stephensen (@AdamStephensen)</p> <p>The last decade saw an explosion in mobile applications. Today's customers expect an amazing mobile experience. Bots are the new UI frontier. Siri, Google Assistant and Alexa started the trend, but no-UI is the future of UI. Users are going to expect to be able to have conversations with companies and organisations in the client that they have on hand - their phone, a website they are on, Facebook messenger, via a phone call or even email or text message. Don't believe me? Gartner predicts that by[masked]% of HTTP requests will be via bots. In this session, we will explore how the Microsoft Bot Framework makes it easy to build and connect intelligent bots to interact with users and services. Take your existing applications, your FAQ or a great new idea you have and build a bot that will run from your website or from Cortana, Skype, Teams, Slack, Facebook Messenger, Skype for Business and more.</p> <p>If you missed the mobile revolution - why not lead in the bot wars?<br/>_________________________</p> <p>From Machine Learning to AI - Algorithm Level Overview of AzureML<br/>=====================================================================<br/>Presenter: Zhenyu<br/>. .<br/>AzureML is the sugar from Azure for those who don't have much coding skill or even good understanding of machine learning. It is easy to start with. However, to master AzureML, the users still need to have some knowledge of machine learning algorithms and mechanisms. In this talk, I will provide a brief overview of the skill sets of machine learning and how much AzureML can cover the requirements for machine learning. I will also provide some easy-to-understand introductions to some classic algorithms such as NN, kNN, SVR, RF, LR, Naive Bayesian, etc that are covered by AzureML for our general audience. In addition, I will also share some of my points in Deep Learning and its influence to our future and business opportunities.</p>

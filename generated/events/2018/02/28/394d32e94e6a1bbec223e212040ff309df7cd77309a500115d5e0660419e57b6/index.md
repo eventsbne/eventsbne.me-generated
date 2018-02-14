@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-09T11:24:17.001Z'
-timeUpdated: '2018-02-09T11:24:17.001Z'
-countAttending: '29'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '30'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: February Meetup
-date: '2018-02-09T11:24:17.001Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
-<p>The lovely people from Jumbo reminded me that at the last meetup, they offered to host. So here we are.</p> <p>As always we need speakers so if you have something you would like to show off, hit me up and I'll add you to the speaker list!</p> <p>Speakers</p> <p>Taylor Lawson, Jumbo Interactive : "Boil 'em, mash 'em, test 'em in a stew"</p>
+<p>The lovely people from Jumbo reminded me that at the last meetup, they offered to host. So here we are.</p> <p>As always we need speakers so if you have something you would like to show off, hit me up and I'll add you to the speaker list!</p> <p>As an added bonus, this meetup is listed as a Go 1.10 Release Party <a href="https://github.com/golang/go/wiki/Go-1.10-Release-Party" class="linkified">https://github.com/golang/go/wiki/Go-1.10-Release-Party</a></p> <p>Speakers</p> <p>Taylor Lawson, Jumbo Interactive : "Boil 'em, mash 'em, test 'em in a stew"</p>

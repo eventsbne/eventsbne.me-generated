@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-15T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-07T09:06:20.595Z'
-timeUpdated: '2018-02-07T09:06:20.595Z'
-countAttending: '10'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Platform Strategies for Startups (Part 2)
-date: '2018-02-07T09:06:20.595Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
 <p>"Platforms are eating the world!"</p> <p>Today, platforms like Amazon, Airbnb and Uber are dominating those earlier, linear business models. Two new books by prominent economists, Matchmakers and The Platform Revolution, ably explain the dynamics of how platforms like these function as multi-sided markets.</p> <p>In Part 2 of Platform Strategies for Startups we will cover:</p> <p>• The 3 elements to design a successful platform</p> <p>• "Monetization" for Platforms</p> <p>• The 8 strategy options to successfully launch a platform</p> <p>• The future opportunities for the Platform Revolution</p> <p>The majority of the content for this presentation is based on the following book:</p> <p>For additional information can be found in the following videos:</p> <p><a href="https://www.youtube.com/watch?v=daQoVUA0wD8" class="embedded">https://www.youtube.com/watch?v=daQoVUA0wD8</a></p> <p><a href="https://www.youtube.com/watch?v=SnSpK-17V-M" class="embedded">https://www.youtube.com/watch?v=SnSpK-17V-M</a></p> <p><a href="https://www.youtube.com/watch?v=F-EJrG3J4GQ" class="embedded">https://www.youtube.com/watch?v=F-EJrG3J4GQ</a></p> <p>We are looking forward to meeting those who are interested in learning and participating in future platforms!</p>

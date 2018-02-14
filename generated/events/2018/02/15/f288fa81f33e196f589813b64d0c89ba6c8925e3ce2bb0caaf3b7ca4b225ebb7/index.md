@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-15T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-09T11:24:17.001Z'
-timeUpdated: '2018-02-09T11:24:17.001Z'
-countAttending: '7'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Gold Coast regular meetup
-date: '2018-02-09T11:24:17.001Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
-<p>TBA</p>
+<p>Neil Readshaw will be talking about AWS security. Neil is the CSO of Anonyome Labs here on the Gold Coast.</p>

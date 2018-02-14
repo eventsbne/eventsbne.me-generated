@@ -36,5 +36,10 @@ events:
       /events/2018/02/27/9a72b2993ab84a823b3a7ba1ab20ebe1459797765720bfc2194b6bdb49f71bd9
     organizer: The Brisbane Ruby and Rails
     timeStart: '2018-02-27T08:30:00.000Z'
+  - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
+    uri: >-
+      /events/2018/02/27/9b8f587d7d0faf30e722c0514ca1245e202b5520947ae748848fe1ccf8c64ada
+    organizer: Gold Coast Bitcoin and Crypto Meetup
+    timeStart: '2018-02-27T09:00:00.000Z'
 
 ---

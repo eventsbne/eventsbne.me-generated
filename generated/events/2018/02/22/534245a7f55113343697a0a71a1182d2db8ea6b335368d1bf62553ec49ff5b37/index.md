@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T05:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-07T09:06:20.595Z'
-timeUpdated: '2018-02-07T09:06:20.595Z'
-countAttending: '16'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Hosted: AWS Innovate Online Conference Special Edition - Machine Learning'
-date: '2018-02-07T09:06:20.595Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
 <p>• What we'll do<br/>We will be mingling and videocasting the AWS Innovate Online Conference focussing on machine learning advances from AWS. Come and join in, we will show different tracks in different rooms at techspace, you can mingle with others, and stay for some pizza/beer/soft drinks post the event. A good opportunity to network with others, and discuss the implications and opportunities of the technologies presented.</p> <p>• What to bring<br/>Enthusiasm and collaborative spirit.</p> <p>• More info<br/><a href="https://aws.amazon.com/events/aws-innovate/machine-learning-event-reg/" class="linkified">https://aws.amazon.com/events/aws-innovate/machine-learning-event-reg/</a></p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: null
 timeStart: '2018-02-19T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-09T11:24:17.001Z'
-timeUpdated: '2018-02-09T11:24:17.001Z'
-countAttending: '56'
+timeCreated: '2018-02-14T13:50:33.341Z'
+timeUpdated: '2018-02-14T13:50:33.341Z'
+countAttending: '53'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Meetup 0x005 - Category Spotlight: Passive Income + Navigating EtherDelta'
-date: '2018-02-09T11:24:17.001Z'
+date: '2018-02-14T13:50:33.341Z'
 
 ---
 No description was provided.
