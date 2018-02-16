@@ -3,11 +3,11 @@ id: 17a8f0a6df2c90d6085649a8e1cf299d3171ad9ccacaef17425ff349541f9aa2
 remoteId: '247447038'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-02-21T08:30:00.000Z'
+timeStart: '2018-02-21T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-14T13:50:33.341Z'
-timeUpdated: '2018-02-14T13:50:33.341Z'
-countAttending: '14'
+timeCreated: '2018-02-16T14:26:33.016Z'
+timeUpdated: '2018-02-16T14:26:33.016Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Come hear guest speaker - Frank Valks, Enterprise Agile Coach'
-date: '2018-02-14T13:50:33.341Z'
+date: '2018-02-16T14:26:33.016Z'
 
 ---
 <p>Frank Valks is an Enterprise Agile Coach with AginicDS and will be sharing from his experience in the largest global infrastructure transformation ever undertaken. Specifically service owners (in contrast to product owners) working according to service oriented design patterns were key to success. Frank uses his pragmatic approach - backed up by 30 years experience - to deliver the right solution to complex problems. His hands-on way of working has been instrumental in the successful delivery of large business and agile transformations within the Australian Public Service, Suncorp and IBM.</p> <p>If you're keen to learn more about agile in large projects, product/service ownership, or product management in general, come for a great time of networking, drinks and inspiration.</p>

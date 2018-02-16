@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-14T13:50:33.341Z'
-timeUpdated: '2018-02-14T13:50:33.341Z'
-countAttending: '26'
+timeCreated: '2018-02-16T14:26:33.016Z'
+timeUpdated: '2018-02-16T14:26:33.016Z'
+countAttending: '28'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Let's Talk WordPress!
-date: '2018-02-14T13:50:33.341Z'
+date: '2018-02-16T14:26:33.016Z'
 
 ---
 <p>We meet and talk about all things WordPress</p> <p><br/>Stay tuned for updates to this event.</p> <p><br/><b>Meeting Format:</b></p> <p><b>6:00 - 6:30pm:</b> Arrival and Networking<br/><b>6:30pm:</b> Welcome and Introduction / Overview of Meeting<br/><b>6:35pm:</b> What's New In WordPress<br/><b>7:00pm:</b> Main Topic<br/><b>7:30pm:</b> Q&amp;A<br/><b>7:45pm:</b> Conclusion and Raffle Draw<br/><b>8:00pm - 8:30pm:</b> Finish and further Networking for those who would like to stay behind.Stay tuned for updates to this event.</p> <p>Bring your business cards to go into a raffle, drawn at the end. </p> <p><b>Finger food</b> is available, kindly sponsored by our event sponsor <a href="http://wpgeni.com">WPGeni</a>.</p> <p>If you know someone who would benefit from this meetup, please let them know by sharing this with them.</p> <p>Looking forward to seeing you there.</p> <p>Best Regards</p> <p>Paul Luxford<br/>Gold Coast Business Websites<br/>[masked]</p>

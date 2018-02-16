@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-24T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-07T09:06:20.595Z'
-timeUpdated: '2018-02-07T09:06:20.595Z'
-countAttending: '46'
+timeCreated: '2018-02-16T14:26:33.016Z'
+timeUpdated: '2018-02-16T14:26:33.016Z'
+countAttending: '47'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: 'https://www.crikeycon.com/'
 layout: event
 title: CrikeyCon 2018
-date: '2018-02-07T09:06:20.595Z'
+date: '2018-02-16T14:26:33.016Z'
 
 ---
 <p>We're go go go for CrikeyCon V in 2018!</p> <p><a href="https://www.youtube.com/watch?v=Pte7KkAN7zE" class="embedded">https://www.youtube.com/watch?v=Pte7KkAN7zE</a></p> <p>Our limited discounted First In Bearst Dressed tickets are on sale now!  When they run out, you can use the following code to get $10 off the standard ticket.</p> <p>CCVMeetupLoveIn / <a href="https://crikeycon.eventbrite.com.au?discount=CCVMeetupLoveIn" class="linkified">https://crikeycon.eventbrite.com.au?discount=CCVMeetupLoveIn</a></p>

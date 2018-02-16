@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-14T13:50:33.341Z'
-timeUpdated: '2018-02-14T13:50:33.341Z'
-countAttending: '19'
+timeCreated: '2018-02-16T14:26:33.016Z'
+timeUpdated: '2018-02-16T14:26:33.016Z'
+countAttending: '40'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: February Meetup - Bot Building
-date: '2018-02-14T13:50:33.341Z'
+date: '2018-02-16T14:26:33.016Z'
 
 ---
 <p>Bots - the Next UI Revolution - Adam Stephensen</p> <p>The last decade saw an explosion in mobile applications. Today's customers expect an amazing mobile experience. Bots are the new UI frontier. Siri, Google Assistant and Alexa started the trend, but no-UI is the future of UI. Users are going to expect to be able to have conversations with companies and organisations in the client that they have on hand - their phone, a website they are on, Facebook messenger, via a phone call or even email or text message. Don't believe me ? Gartner predicts that by[masked]% of http requests will be via bots. In this session we will explore how the Microsoft Bot Framework makes it easy to build and connect intelligent bots to interact with users and services. Take your existing applications, your FAQ or a great new idea you have and build a bot that will run from your website or from Cortana, Skype, Teams, Slack, Facebook Messenger, Skype and more.</p> <p>If you missed the mobile revolution - why not lead in the bot wars ?</p>

@@ -26,6 +26,11 @@ events:
       /events/2018/02/27/367cf14d650cb959981a93777435464413bbca25c07b00113801951e468039a7
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-02-27T04:00:00.000Z'
+  - name: February Meetup
+    uri: >-
+      /events/2018/02/27/1e5f99d02e81c5ca119c8ef6a7d52251f1031c15f258e474164ccc2dcd6069c2
+    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
+    timeStart: '2018-02-27T07:45:00.000Z'
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/02/27/21bc69778f388b7867824609ecdc7d071b4f158db22092af1cdeee609b078d74

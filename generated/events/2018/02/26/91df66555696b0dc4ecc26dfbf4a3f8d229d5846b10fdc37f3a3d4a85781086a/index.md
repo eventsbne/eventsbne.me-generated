@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-26T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-14T13:50:33.341Z'
-timeUpdated: '2018-02-14T13:50:33.341Z'
-countAttending: '21'
+timeCreated: '2018-02-16T14:26:33.016Z'
+timeUpdated: '2018-02-16T14:26:33.016Z'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: A tour of the Damsel Unity project
-date: '2018-02-14T13:50:33.341Z'
+date: '2018-02-16T14:26:33.016Z'
 
 ---
 <p>Often as smaller developers we don't get to see the internals of the actual project files that other developers create. We're often stuck looking at samples that focus on specific functionality that don't take into account good design practice or make allowances for the plethora of systems that need to work together to make a complete experience.</p> <p>In this talk, Anthony will walk through the unity project for Damsel (which has just released on Steam Early Access), highlighting aspects of the project that may be of interest as well as break down and explain some of the architectural decisions that were made and how they have impacted the development of the game.<br/>While some programming will be touched on, the talk is general enough that anyone interested in the structure of a Unity project will gain some insight.</p> <p>About Anthony:</p> <p>Anthony Wood is the co-founder and de-facto technical lead at Screwtape Studios. Damsel is the studio's first game targeted for PC and consoles and has been in development for three years. Anthony has experience developing several mobile games for both Screwtape and other studios, as well as doing the console porting work on a couple of other Australian indie games, including Defiant Development's Hand of Fate.</p> <p>Get Damsel Here: <a href="http://store.steampowered.com/app/452410" class="linkified">http://store.steampowered.com/app/452410</a><br/>Early Access Trailer Video Link: <a href="https://www.youtube.com/watch?v=rpFGP_hZdcQ" class="embedded">https://www.youtube.com/watch?v=rpFGP_hZdcQ</a></p> <p>Schedule:</p> <p>5.30 pm - Arrival and welcome drinks</p> <p>5.45 pm - Pizza and networking</p> <p>6.30 pm - Talk commences</p>

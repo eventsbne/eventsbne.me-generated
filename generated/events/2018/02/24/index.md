@@ -12,11 +12,6 @@ events:
       /events/2018/02/24/44c47bd8eeec261ccd66a98f51f316dcf0c7737bbd4db4d2a4521bee1b2fd85e
     organizer: Startup Ipswich
     timeStart: '2018-02-24T00:00:00.000Z'
-  - name: Monthly Hack and Race
-    uri: >-
-      /events/2018/02/24/36c74fb8e9fda0a38dedd4561d200679380e69447d5829986083ee38b398882a
-    organizer: DIY Robocars Brisbane
-    timeStart: '2018-02-24T00:00:00.000Z'
   - name: Intro to Electronics (Week 2) by HS Ipswich
     uri: >-
       /events/2018/02/24/6fdadb7adfb539dd3550ba4500ee447f65613c492e2598cedeb3b3e7fff9e342
