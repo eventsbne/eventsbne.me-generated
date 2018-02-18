@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-02T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-16T14:26:33.016Z'
-timeUpdated: '2018-02-16T14:26:33.016Z'
-countAttending: '42'
+timeCreated: '2018-02-18T11:14:43.477Z'
+timeUpdated: '2018-02-18T11:14:43.477Z'
+countAttending: '49'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Design Thinking and the Law
-date: '2018-02-16T14:26:33.016Z'
+date: '2018-02-18T11:14:43.477Z'
 
 ---
 <p>Antti Innanen (<a href="https://www.linkedin.com/in/anttiinnanen/" class="linkified">https://www.linkedin.com/in/anttiinnanen/</a>) and Meera Sivanathan (<a href="https://www.linkedin.com/in/meera-sivanathan/" class="linkified">https://www.linkedin.com/in/meera-sivanathan/</a>) through the marvels of technology will be speaking to us from Helsinki on Design Thinking and the Law.</p> <p>'Design thinking provides the mindsets and methods that lead to greater understanding of who we are innovating for, and what (technological or not) we should be using to innovate. Design thinking offers reliable, explicit ways to identify areas for developing products, services and organisations, and to implement new ways of doing things.' Margaret Hagan</p> <p>Antti and Meera are part of Dottir Attorneys (www.dottirlaw.com). Dottir Attorneys is an agile, full-service business law firm, with focus on companies that operate in or around the fields of technology and media. Dottir's lawyers are recognized experts within their practice areas and experienced in serving clients of all sizes.</p> <p>Dottir are based in Helsinki, Berlin and San Francisco. Dottir believe that modern business is increasingly global, irrespective of industry and that the lawyers serving these businesses should be as well.</p> <p>A special thanks to Legal Hackers Brisbane sponsors LexisNexis Pacific (<a href="https://www.linkedin.com/company/lexisnexis-pacific/" class="linkified">https://www.linkedin.com/company/lexisnexis-pacific/</a>), Janders Dean (<a href="https://www.linkedin.com/company/janders-dean/" class="linkified">https://www.linkedin.com/company/janders-dean/</a>), GlobalX (<a href="https://www.linkedin.com/company/globalx/" class="linkified">https://www.linkedin.com/company/globalx/</a>), Centre for Legal Innovation (<a href="https://www.linkedin.com/company/centre-for-legal-innovation/" class="linkified">https://www.linkedin.com/company/centre-for-legal-innovation/</a>) and Gadens (<a href="https://www.linkedin.com/company/gadens-lawyers/" class="linkified">https://www.linkedin.com/company/gadens-lawyers/</a>).</p>

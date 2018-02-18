@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-16T14:26:33.016Z'
-timeUpdated: '2018-02-16T14:26:33.016Z'
-countAttending: '14'
+timeCreated: '2018-02-18T11:14:43.477Z'
+timeUpdated: '2018-02-18T11:14:43.477Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Dan Petrie - Data Journalism, Fad or Future'
-date: '2018-02-16T14:26:33.016Z'
+date: '2018-02-18T11:14:43.477Z'
 
 ---
 <p>6:00pm Arrive / Socialise / Grab a drink<br/>6:30pm Dan Petrie<br/>7:00pm Drinks / Food / Open Discussion<br/>8:00pm Close / Socialise</p> <p>Data Journalism - Fad or Future<br/>The cultural and indeed opinion generated content so many of us consume is in fact the interloper of what we consider 'news.' By exploring the earliest iterations of newspapers in England and America which focused on reporting the pricing schedules of commodities, shipping and financial information, Dan will argue that Data journalism is at its core a return to what many regard as straight news. Dan will talk about the 'Bloomberg Way', and critique the use of visualisation in journalistic practice.</p> <p>Bio<br/>Dan Petrie is a data journalist and former editor with Bloomberg LP where he covered economic, political and financial statistics for the Australia and New Zealand economies in Sydney before working in Hong Kong as Bloomberg's Commodities editor for the Asia Pacific. Dan is now heading up the Australian statistics focused website, datadigger.com.au</p> <p>Dan’s mandate at Bloomberg included overseeing the group’s heavily followed economic calendar, surveying of economists around key economic reports and being a pioneer of data journalism for the news division of Bloomberg. Dan has appeared on Sky News, Channel Nine, and 2GB radio as well as having articles published in the Australian Financial Review, The Sydney Morning Herald and news.com.au. Dan has worked at Bloomberg LP, Macquarie Bank, Queensland Government, Teradata, Reach (Telstra-PCCW JV) and British Telecom. Sponsors</p> <p>Hacks/Hackers is supported by a number of wonderful sponsors. Our presentation partner hub4101 (<a href="http://www.hub4101.com/" class="linkified">http://www.hub4101.com/</a>) provides event support and does a great job of promoting innovation, creativity and digital technology in the 4101 postcode (<a href="http://www.hub4101.com/map/" class="linkified">http://www.hub4101.com/map/</a>).</p> <p>We're very pleased to have sponsorship for this event from ThoughtWorks (<a href="https://www.thoughtworks.com/" class="linkified">https://www.thoughtworks.com/</a>) (who provide food and drink) and the Australian Broadcasting Corporation (<a href="http://www.abc.net.au/" class="linkified">http://www.abc.net.au/</a>) (who provide our venue).</p> <p>If you have any other questions or suggestions for this event or to make 2018 a great year for Hacks/Hackers Brisbane, please don't hesitate to get in touch.</p> <p>You can email us (hello@quantsquills.com) or get in touch via Twitter (@hackshackersbne (<a href="https://twitter.com/hackshackersbne" class="linkified">https://twitter.com/hackshackersbne</a>)).</p>

@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-20T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-16T14:26:33.016Z'
-timeUpdated: '2018-02-16T14:26:33.016Z'
+timeCreated: '2018-02-18T11:14:43.477Z'
+timeUpdated: '2018-02-18T11:14:43.477Z'
 countAttending: '10'
 countCapacity: null
-countWaitlist: '2'
+countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Gold-Coast-Bitcoin-and-Crypto-Meetup/events/246594855/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
-date: '2018-02-16T14:26:33.016Z'
+date: '2018-02-18T11:14:43.477Z'
 
 ---
 <p>• What we'll do<br/>Hi we would love to talk crypto with some people with experience of 2 or 3 or more currencies. Discuss ICO's, mining and security etc. We will hold some larger scale events for beginners soon too.<br/>Excited to meet you<br/>Michael and Yoriko</p> <p>• What to bring<br/>Laptop and favorite beverage (if you wish).</p>

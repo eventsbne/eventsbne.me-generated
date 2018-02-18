@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-16T14:26:33.016Z'
-timeUpdated: '2018-02-16T14:26:33.016Z'
-countAttending: '10'
+timeCreated: '2018-02-18T11:14:43.477Z'
+timeUpdated: '2018-02-18T11:14:43.477Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Get Investment and Grant Ready
-date: '2018-02-16T14:26:33.016Z'
+date: '2018-02-18T11:14:43.477Z'
 
 ---
 <p>Why is it that some ideas seem to attract investment and grant funding sooner than others?</p> <p>With Queensland and federal government programs offering unprecedented funding opportunities for businesses to grow through innovation, what do you need to know to qualify for access to these?</p> <p>In a frank and friendly fireside chat, Brian Ruddle, founder and managing director of Impact Innovation Group, will talk about what public and private investors need to know about your idea to help them decide to back it. He’ll help you understand what you can do to ensure your next pitch for a grant or to an investor has a better chance of success.</p> <p>About our Speaker:<br/>Brian Ruddle has participated on numerous assessment panels, helping government and private investors evaluate which proposals are likely to deliver the best outcomes for the funds available —commercially, economically and socially. Brian draws on more than two decades of experience across Asia, Africa and the Pacific, where he managed projects in 15 countries in sectors such as health, education, mining, agriculture, finance, trade, and water. He is a regular speaker at innovation conferences in Australia and overseas.</p>

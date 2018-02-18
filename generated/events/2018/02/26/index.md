@@ -22,6 +22,16 @@ events:
       /events/2018/02/26/9229134ad1da7019fdcc36038d80c9e1f53c87e7c0ef5687b6633f238bbe7e7c
     organizer: Brisbane Internet of Things (IOT) Meetup
     timeStart: '2018-02-26T08:00:00.000Z'
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/02/26/c1100be40ad403377c95e0873f74a42716674f7c8670924368ffed3f4a1e15d1
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-02-26T08:00:00.000Z'
+  - name: Discrimination in the recruitment process (Software Testing)
+    uri: >-
+      /events/2018/02/26/4b3ccc020cfd733786aa8bdbe94d287c7dac8d06f12cdf02a7ba6aa752ef6ca7
+    organizer: Brisbane Software Testers
+    timeStart: '2018-02-26T08:00:00.000Z'
   - name: Error-detection
     uri: >-
       /events/2018/02/26/df69cecf115427de44232ef63b5db91a07a85fd54374dfe6b6232f26eb0f5f27

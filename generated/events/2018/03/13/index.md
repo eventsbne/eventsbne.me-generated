@@ -2,15 +2,15 @@
 title: Events for 2018/03/13
 layout: event-index
 events:
-  - name: BFPG Monthly Meetup
-    uri: >-
-      /events/2018/03/13/e9c736efb43f3245bec85ff12b4a112920b02e90a939bbbcd3562cdf5939e6c2
-    organizer: Brisbane Functional Programming Group (BFPG)
-    timeStart: '2018-03-13T07:45:00.000Z'
   - name: Brisbane Tech Newbies Monthly Meetup
     uri: >-
       /events/2018/03/13/25d35e2885a57d11897fa036b2ee5a253fc24e06e73487d4958af52cb1dd6408
     organizer: Brisbane Tech Newbies
+    timeStart: '2018-03-13T07:45:00.000Z'
+  - name: BFPG Monthly Meetup
+    uri: >-
+      /events/2018/03/13/e9c736efb43f3245bec85ff12b4a112920b02e90a939bbbcd3562cdf5939e6c2
+    organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-03-13T07:45:00.000Z'
   - name: ProductTank Brisbane March Meetup
     uri: >-
