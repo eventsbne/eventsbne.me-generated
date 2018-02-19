@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-18T11:14:43.477Z'
-timeUpdated: '2018-02-18T11:14:43.477Z'
-countAttending: '89'
+timeCreated: '2018-02-19T14:04:30.540Z'
+timeUpdated: '2018-02-19T14:04:30.540Z'
+countAttending: '101'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Brisbane Meetup!
-date: '2018-02-18T11:14:43.477Z'
+date: '2018-02-19T14:04:30.540Z'
 
 ---
 <p>Come and join your AWSome peers at the Brisbane AWS User Group Meetup! This is the first meetup for the year! This event will be subject to a strict RSVP policy. Please make sure to RSVP ASAP to avoid any disappointment. Please arrive from 5:45pm for a sharp 6:00pm start.</p> <p>•• AWS Release Radar ••</p> <p>The speed of innovation and releases is huge within AWS. We will have one of the local AWS gurus running us through the key new releases and features on AWS.</p> <p>•• New Relic &amp; CreditSense ••<br/>==&gt; Successful cloud migration journey of Credit Sense - from adhoc to immutable.</p> <p>This presentation will cover Credit Sense's cloud migration journey to AWS with the help using New Relic. It covers the journey moving from a very ad-hoc/manual infrastructure deployment model to fully immutable by adopting ‘infrastructure as code’ across our entire development and production stacks.</p> <p>•• Suncorp ••<br/>==&gt; Deploying Lambda based services across multiple AWS Accounts</p> <p>Presented by: Justin Stubbs</p> <p>This presentation will cover how Suncorp created their own custom cost saving service using AWS tools such as CloudFormation, Lambda, CloudWatch &amp; custom tooling they created to help scale software deployments.</p> <p>•• IMPORTANT ••<br/>This event will be subject to a strict RSVP policy. Please make sure to RSVP ASAP to avoid any disappointment.</p>

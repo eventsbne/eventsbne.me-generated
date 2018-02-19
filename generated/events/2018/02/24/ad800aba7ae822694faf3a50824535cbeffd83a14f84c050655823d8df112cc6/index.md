@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-23T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-18T11:14:43.477Z'
-timeUpdated: '2018-02-18T11:14:43.477Z'
-countAttending: '3'
+timeCreated: '2018-02-19T14:04:30.540Z'
+timeUpdated: '2018-02-19T14:04:30.540Z'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: codeSwich is in Ipswich!
-date: '2018-02-18T11:14:43.477Z'
+date: '2018-02-19T14:04:30.540Z'
 
 ---
 <p><img src="http://photos2.meetupstatic.com/photos/event/2/0/a/e/600_456248366.jpeg" /></p> <p><b>Welcome to codeSwich! </b></p> <p>codeSwich is a 3-hour facilitated weekend coding program running out of Fire Station 101 in Ipswich, Queensland. The program is split into two sessions: codeSwich-Educate and codeSwich-Collaborate.</p> <p>codeSwich-Educate (9:00am to 10:30am) is about facilitating the training and learning of everything code. We want to break down the barriers to learning the skills needed to build the web sites and the applications that millions of people use every day. We focus on JavaScript, HTML and CSS but we will be branching out to other languages.</p> <p>codeSwich-Collaborate (10:30am to 12:00pm) is about bringing together all developers across skill levels and languages in Ipswich to collaborate, share, learn, mentor, and connect.</p> <p><b>What does it cost? </b></p> <p>codeSwich-Educate will operates on a monthly fee of $20 to support preparing and delivering training.</p> <p>codeSwich-Collaborate is free.</p> <p><b>What will I need?</b></p> <p>codeSwich-Educate: A laptop with a minimum of 2 Gig of RAM.</p> <p>Free WiFi and Coffee is available.</p> <p><b>Why join codeSwich-Educate?</b></p> <p>• You’ll get real time help from the community that we will build together.</p> <p>• You’ll get to meet up with other coders in Ipswich.</p> <p>• You’ll get to solve real-world problems at your own pace.</p> <p>• You’ll assemble your own portfolio of real apps and other assets.</p> <p>• You’ll get to learn how to create social proof of your skills and experience.</p> <p>We will cover front-end development, back-end development, data visualization, and full stack development.</p>

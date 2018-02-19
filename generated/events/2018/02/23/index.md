@@ -2,6 +2,11 @@
 title: Events for 2018/02/23
 layout: event-index
 events:
+  - name: "Community Breakfast ⛪️\U0001F64F"
+    uri: >-
+      /events/2018/02/23/af3294a62c82a15c2b2ce0d00a3435eb94709d1dadd794454d27376a7b2e94cd
+    organizer: Product of BNE
+    timeStart: '2018-02-22T21:30:00.000Z'
   - name: CrikeyCon 2018 Pre-Registration & Welcome Event
     uri: >-
       /events/2018/02/23/b7f28df596d9aea6d59f5e8164dfc2199d7347d69c77430e14da39e3e607fb22

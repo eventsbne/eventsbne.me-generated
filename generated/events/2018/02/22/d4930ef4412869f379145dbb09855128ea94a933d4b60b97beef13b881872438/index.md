@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-22T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-18T11:14:43.477Z'
-timeUpdated: '2018-02-18T11:14:43.477Z'
-countAttending: '6'
+timeCreated: '2018-02-19T14:04:30.540Z'
+timeUpdated: '2018-02-19T14:04:30.540Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: First meetup of 2018! Talks TBC
-date: '2018-02-18T11:14:43.477Z'
+title: 'First meetup of 2018! Just Functions, VS Code + Debugging and Phoenix Swagger'
+date: '2018-02-19T14:04:30.540Z'
 
 ---
-<p>• What we'll do<br/>It's a new year, time for another meetup! If you're new to elixir, are an old hand, or just curious in learning more functional programming concepts come along and say hi.</p> <p>This is the initial call for presenters. Let's ease into the year with a variety of talks so any and all ideas welcome!</p> <p>As usual drinks and pizza will be provided by our sponsor.</p> <p>• What to bring</p> <p><br/>• Important to know</p>
+<p>• What we'll do<br/>It's a new year, time for another meetup! If you're new to elixir, are an old hand, or just curious in learning more functional programming concepts come along and say hi.</p> <p>For the first talks of the year we'll kick it off with<br/>* Aaron Abrook will start with It's just a function/functions, functions everywhere! An intro into functional development in the Elixir space and why they not nearly as scary as a lot of tutorials have lead people to believe<br/>* Matt Furness will give us a walk through on how to setup and use the Elixir Debugger with VS Code. Fewer IO.inspects and more step through debugging sounds great!<br/>* Michael Buhot, our most regular presenter, will be discussing how to make a swagger spec for your Phoenix API. As usual drinks and pizza will be provided by our sponsor.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-05T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-18T11:14:43.477Z'
-timeUpdated: '2018-02-18T11:14:43.477Z'
-countAttending: '38'
+timeCreated: '2018-02-19T14:04:30.540Z'
+timeUpdated: '2018-02-19T14:04:30.540Z'
+countAttending: '42'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Women in Blockchain: Talking with Riley Kinnunen, Flux Party'
-date: '2018-02-18T11:14:43.477Z'
+date: '2018-02-19T14:04:30.540Z'
 
 ---
 <p>• What we'll do<br/>This month, Brisbane Women in Blockchain Meetup will be talking with Riley Kinnunen from the Flux Party. The Flux Party is a political movement using blockchain technology to modernise our democratic systems. <a href="https://voteflux.org/" class="linkified">https://voteflux.org/</a></p> <p>Riley is a mathematician and a technologist, an early adopter of Bitcoin and is deeply immersed in blockchain technology. When not working hard behind the scenes at Flux, Riley is involved in a number of global blockchain projects including a decentralised vetting system, the Metacurrency project and building blockchain enabled carbon marketplace for the trading of carbon-based commodities. Riley is also preparing for an Initial Coin Offering (ICO). Please come along, sit back and enjoy hearing Riley's story.</p> <p>• What to bring<br/>Complimentary lunch will be provided. Please DM me if you have any dietary requirements.</p> <p>• Important to know<br/>Brisbane Women in Blockchain Meetup has a code of conduct. I generally put aside 30 minutes from 12.00 pm to 12.30 pm for a networking lunch then from 12.30 pm to 1.30 pm for the Meetup and then 1.30 pm to 2.00 pm for more networking.</p>

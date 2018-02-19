@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-20T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-18T11:14:43.477Z'
-timeUpdated: '2018-02-18T11:14:43.477Z'
-countAttending: '14'
+timeCreated: '2018-02-19T14:04:30.540Z'
+timeUpdated: '2018-02-19T14:04:30.540Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Getting Started with Technical Art & VFX in Unreal Engine 4 with Chris Murphy
-date: '2018-02-18T11:14:43.477Z'
+date: '2018-02-19T14:04:30.540Z'
 
 ---
 <p>You're invited to join Epic Games for Getting Started with Technical Art in Unreal Engine 4, a live training tutorial where participants will learn a series of advanced techniques for creating environments and effects in UE4.</p> <p>This tutorial assumes participants have basic previous experience with UE4 and will build upon fundamentals to demonstrate how to develop effects, level tools and enhance their existing projects. These effects will be developed using Blueprints which are easily leveraged by all game development disciplines, so artists, designers, and programmers are welcome.</p> <p>Topics we'll cover include: Landscapes, Procedural foliage, Procedural spline tools, particle effects, GPU particle effects, material tesselation, material masking, world position effects, screen space particle effects and volumetric fog.</p> <p>Schedule:</p> <p>6:30 PM – Lecture begins<br/>8:00 PM – Break<br/>8:15 PM – Lecture continues<br/>9:30 PM – Lecture concludes</p> <p>COMPULSORY: Spaces are limited, so be sure to sign up to the Eventbrite page, here:<br/><a href="https://unreal-tech-art-brisbane.eventbrite.com/" class="linkified">https://unreal-tech-art-brisbane.eventbrite.com/</a></p>
