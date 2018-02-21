@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-19T14:04:30.540Z'
-timeUpdated: '2018-02-19T14:04:30.540Z'
-countAttending: '30'
+timeCreated: '2018-02-21T22:40:05.529Z'
+timeUpdated: '2018-02-21T22:40:05.529Z'
+countAttending: '32'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BrisPHP Q1 2018
-date: '2018-02-19T14:04:30.540Z'
+date: '2018-02-21T22:40:05.529Z'
 
 ---
-<p>The next installment of BrisPHP!</p> <p>We've got a couple of talks lined up but we're looking for more. If there's a topic you want to hear about or a you have something you'd like to talk about, post an issue on the GitHub page: <a href="https://github.com/BrisPHP/meetups/issues" class="linkified">https://github.com/BrisPHP/meetups/issues</a></p> <p>The talks don't have to be limited to "PHP", it can be any talk that PHP devs would find interesting. Currently scheduled talks:</p> <p>* What's new in PHP land? By Nathan Dench<br/>* Software Rewrites - The Company Killer by James Harvey</p> <p>This time we will be hosted at the CreditSense offices in the City, who have kindly offered to provide the space, drinks and food.</p> <p>Looking forward to talking about all the goodness that is PHP :)</p>
+<p>The next installment of BrisPHP!</p> <p>We've got a couple of talks lined up but we're looking for more. If there's a topic you want to hear about or a you have something you'd like to talk about, post an issue on the GitHub page: <a href="https://github.com/BrisPHP/meetups/issues" class="linkified">https://github.com/BrisPHP/meetups/issues</a></p> <p>The talks don't have to be limited to "PHP", it can be any talk that PHP devs would find interesting. Currently scheduled talks:</p> <p>* What's new in PHP land? by Nathan Dench<br/>* Caching in PHP by Joshua Conaghan<br/>* Software Rewrites - The Company Killer by James Harvey</p> <p>This time we will be hosted at the CreditSense offices in the City, who have kindly offered to provide the space, drinks and food.</p> <p>Looking forward to talking about all the goodness that is PHP :)</p>

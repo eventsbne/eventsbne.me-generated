@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-25T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-19T14:04:30.540Z'
-timeUpdated: '2018-02-19T14:04:30.540Z'
-countAttending: '1'
+timeCreated: '2018-02-21T22:40:05.529Z'
+timeUpdated: '2018-02-21T22:40:05.529Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: The Robotics Club Open Day
-date: '2018-02-19T14:04:30.540Z'
+date: '2018-02-21T22:40:05.529Z'
 
 ---
 <p>• What we'll do</p> <p>We will teach you to build self-driving cars from the ground up in 72 hours. Open to applicants with Engineering and Computer Science backgrounds. All materials and lodging provided.<br/>Bring your computor and lets hack • For more info</p> <p><a href="https://www.theroboticsclub.org/72hr-challenge-intro" class="linkified">https://www.theroboticsclub.org/72hr-challenge-intro</a><br/><a href="https://www.facebook.com/theroboticsclub.org/" class="linkified">https://www.facebook.com/theroboticsclub.org/</a><br/><a href="https://youtu.be/z6ibs-6x0t0" class="embedded">https://youtu.be/z6ibs-6x0t0</a></p> <p>linda+[masked]<br/>[masked]</p>

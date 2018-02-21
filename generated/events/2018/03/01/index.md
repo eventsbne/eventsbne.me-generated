@@ -9,6 +9,11 @@ events:
       The University of Queensland's Faculty of Engineering, Architecture \u0026
       Information Technology
     timeStart: '2018-02-28T22:00:00.000Z'
+  - name: Pricing Strategies for your Startup
+    uri: >-
+      /events/2018/03/01/723e5dd9990e8a2cc3b20dd21714f3adb6ac727b1cbd5ec08cd20c7c71809ce9
+    organizer: Lean Business Strategies
+    timeStart: '2018-03-01T02:00:00.000Z'
   - name: Computers for Beginners - Bribie Island Library
     uri: >-
       /events/2018/03/01/38ce48d669ce4c663292a32510804908061e56600218a2567eec05d04faee44e

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T07:15:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-18T11:14:43.477Z'
-timeUpdated: '2018-02-18T11:14:43.477Z'
-countAttending: '72'
+timeCreated: '2018-02-21T22:40:05.529Z'
+timeUpdated: '2018-02-21T22:40:05.529Z'
+countAttending: '73'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Adobe Experience Cloud Meetup - 4th Edition
-date: '2018-02-18T11:14:43.477Z'
+date: '2018-02-21T22:40:05.529Z'
 
 ---
 <p>Hello Everyone,</p> <p>Hope you are all doing well and having a fantastic 2018 !!!</p> <p>We are excited to bring you the next edition of the Adobe Experience Cloud Meetup this year on the Wednesday 28th February. NAB has kindly accepted to host us this time (Thanks, Pravesh Balgobin from NAB for helping organize this).</p> <p>There are some exciting topics and great speakers we are working with and planning for this Meetup. We will keep you posted as this becomes finalized. As always, the sessions will be across a number of product suites in the Adobe Experience Cloud !!!</p> <p>Places are limited, so please RSVP ASAP. There will be plenty of time for networking, to ask questions, and bring up discussion topics of interest.</p> <p>Meetup Program (rough overview - subjected to change)</p> <p>1. <b>Meet, Greet &amp; Mingle</b></p> <p>2. <b>Session 1: Advanced Security Features &amp; Rights Management - Paz Periasamy (Senior Technical Solutions Consultant - Adobe)</b>. This session will cover<br/>a. How can Business control and help information, documents, and sensitive data both inside and outside the company walls?<br/>b. How much security and permission is needed for any document you create?<br/>c. How to control who can access them and under what circumstances?</p> <p>3. <b>Session 2: Adobe Native App SDK – More than just Analytics - Aaron JONES (Director &amp; Senior Consultant, Maxis Digital)</b>. Learn about the various targeting, messaging and segmentation capability offered in the Adobe Mobile Services native app SDKs</p> <p>4. <b>Session 3: </b><b>Accessibility in Content Management Systems, the good, the bad, the ugly - Adem Cifcioglu (</b><b>Co-founder and Director of Accessible Technologies, Intopia / Senior Digital Accessibility Consultant, NAB)</b>. Content management systems are useful tools that make it easy for us to manage websites with little to know technical knowledge. I’m going to be talking about dealing with accessibility in CMS based websites. I’ll list some dos and don’ts, look at the pitfalls, and give you some tips and tricks to help make your websites more accessible.</p> <p>Regards<br/>Organisers</p>
