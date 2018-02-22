@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '29'
+timeCreated: '2018-02-22T10:15:37.066Z'
+timeUpdated: '2018-02-22T10:15:37.066Z'
+countAttending: '30'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Scrunch! Coming soon..
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-22T10:15:37.066Z'
 
 ---
 <p>Details coming soon..</p>

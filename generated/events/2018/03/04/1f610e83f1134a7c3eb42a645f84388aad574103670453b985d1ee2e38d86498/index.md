@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-04T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-19T14:04:30.540Z'
-timeUpdated: '2018-02-19T14:04:30.540Z'
-countAttending: '20'
+timeCreated: '2018-02-22T10:15:37.066Z'
+timeUpdated: '2018-02-22T10:15:37.066Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Barcamp Gold Coast #14 !'
-date: '2018-02-19T14:04:30.540Z'
+date: '2018-02-22T10:15:37.066Z'
 
 ---
 <p>It's that time of year again! Come along to the 14th Gold Coast barcamp.</p> <p>Anyone and everyone is welcome to attend Barcamps. They are fun, social, as informal as we can make them, educational in many ways; and you get to be a participant in it, perhaps helping keep it a notch away from anarchy, and leading or participating in the discussion sessions that arise.</p> <p>The next Barcamp is at Gold Coast Techspace (<a href="http://gctechspace.org" class="linkified">http://gctechspace.org</a>), right in the heart of Mudgeeraba Village. Please RSVP right here on this meetup group. The event is free to attend for everyone.</p> <p>What is barcamp?<br/>====================================</p> <p>tldr: an informal conference. Self organised short presentations or hands on workshops spread across a number of rooms through out the day.</p> <p>• Wikipedia Barcamp: <a href="http://en.wikipedia.org/wiki/BarCamp" class="linkified">http://en.wikipedia.org/wiki/BarCamp</a></p> <p>• We loosly follow some of these guidelines/rules: <a href="http://barcamp.org/w/page/405173/TheRulesOfBarCamp" class="linkified">http://barcamp.org/w/page/405173/TheRulesOfBarCamp</a> • Twitter : #barcampgc</p> <p>Getting there:<br/>====================================</p> <p>• Driving: see the Google Map (<a href="https://goo.gl/maps/Dj7feNbWwzL2" class="linkified">https://goo.gl/maps/Dj7feNbWwzL2</a>). There is plenty of parking there. If you far away and need a ride or happy to pick someone up - feel free to use comments below to arrange something.</p> <p>• Public Transport: Train to Robina Station, then get the 758 bus towards Merimac (or get an Uber (<a href="http://uber.com" class="linkified">http://uber.com</a>) - it's about a 5-10min drive away)</p> <p>• Arrive any time after 9am, to help set up, or drink coffee :-).</p>

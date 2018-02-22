@@ -2,16 +2,16 @@
 title: Events for 2018/02/22
 layout: event-index
 events:
-  - name: IT Lunch
-    uri: >-
-      /events/2018/02/22/ff9aeff6c2de638fbdd4b4eabb0ffa57200f07645f0d20091e90e623bf18d472
-    organizer: dotMaleny
-    timeStart: '2018-02-22T02:30:00.000Z'
   - name: We punch nature and it will punch us back
     uri: >-
       /events/2018/02/22/aa0db87e9e610ed675d1af14915fc954b78b4bf32fe751e3f19943388733d544
     organizer: Global Change Institute
     timeStart: '2018-02-22T04:00:00.000Z'
+  - name: IT Lunch
+    uri: >-
+      /events/2018/02/22/ff9aeff6c2de638fbdd4b4eabb0ffa57200f07645f0d20091e90e623bf18d472
+    organizer: dotMaleny
+    timeStart: '2018-02-22T02:30:00.000Z'
   - name: 'Hosted: AWS Innovate Online Conference Special Edition - Machine Learning'
     uri: >-
       /events/2018/02/22/534245a7f55113343697a0a71a1182d2db8ea6b335368d1bf62553ec49ff5b37
@@ -32,11 +32,6 @@ events:
       /events/2018/02/22/1b8ce97884170854506d86ecb62a6fd0d301556350023363ca75f6d0749fba8c
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-02-22T07:00:00.000Z'
-  - name: Brisbane Tableau User Group February 2018
-    uri: >-
-      /events/2018/02/22/3f5545b186081afdb32396d532575c51ad814d1b9a3b381be0249b36a9224c70
-    organizer: Brisbane Tableau User Group
-    timeStart: '2018-02-22T07:00:00.000Z'
   - name: >-
       DATAOPS MEETUP:Challenges with Production ML Systems & Cloud Native Data
       Science
@@ -44,6 +39,16 @@ events:
       /events/2018/02/22/e533d27881e0ce5802e7344ceb5516151be6cdf4caca041321957cc6947e4c8a
     organizer: Ansible Brisbane
     timeStart: '2018-02-22T07:00:00.000Z'
+  - name: Brisbane Tableau User Group February 2018
+    uri: >-
+      /events/2018/02/22/3f5545b186081afdb32396d532575c51ad814d1b9a3b381be0249b36a9224c70
+    organizer: Brisbane Tableau User Group
+    timeStart: '2018-02-22T07:00:00.000Z'
+  - name: Robin Mack - Characteristics of a high performing team
+    uri: >-
+      /events/2018/02/22/b3c71485b097cc3b0a2cfcfbaa97fa885e9faa9dddae9953cc0967a43963d35b
+    organizer: Agile Brisbane
+    timeStart: '2018-02-22T07:30:00.000Z'
   - name: >-
       First meetup of 2018! Just Functions, VS Code + Debugging and Phoenix
       Swagger
@@ -51,21 +56,16 @@ events:
       /events/2018/02/22/d4930ef4412869f379145dbb09855128ea94a933d4b60b97beef13b881872438
     organizer: Brisbane Elixir
     timeStart: '2018-02-22T07:30:00.000Z'
-  - name: Robin Mack - Characteristics of a high performing team
-    uri: >-
-      /events/2018/02/22/b3c71485b097cc3b0a2cfcfbaa97fa885e9faa9dddae9953cc0967a43963d35b
-    organizer: Agile Brisbane
-    timeStart: '2018-02-22T07:30:00.000Z'
-  - name: AWS Brisbane Meetup!
-    uri: >-
-      /events/2018/02/22/01ddb0f6fdd02d63f28faf6464999f3dea21e573012df742f30138a14511f65b
-    organizer: Amazon Web Services - Brisbane User Group
-    timeStart: '2018-02-22T07:45:00.000Z'
   - name: Get Investment and Grant Ready
     uri: >-
       /events/2018/02/22/6f63ad6067d229f3320324b1083fec7448e0ffaffaee7788dabc089642690985
     organizer: Startup Ipswich
     timeStart: '2018-02-22T08:00:00.000Z'
+  - name: AWS Brisbane Meetup!
+    uri: >-
+      /events/2018/02/22/01ddb0f6fdd02d63f28faf6464999f3dea21e573012df742f30138a14511f65b
+    organizer: Amazon Web Services - Brisbane User Group
+    timeStart: '2018-02-22T07:45:00.000Z'
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/02/22/b3167ae03b939b6e93655e6cea6142a300f738304e07f3af010a8e9db0c342f5

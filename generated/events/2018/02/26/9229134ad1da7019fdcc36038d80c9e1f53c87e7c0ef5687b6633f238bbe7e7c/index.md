@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '32'
+timeCreated: '2018-02-22T10:15:37.066Z'
+timeUpdated: '2018-02-22T10:15:37.066Z'
+countAttending: '34'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Evening Symposium - IoT for safety
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-22T10:15:37.066Z'
 
 ---
 <p>• What we'll do</p> <p>At our monthly evening events we begin with networking and a light dinner (finger foods, beer, wine and soft drinks), then presentations commence from 6:30.</p> <p>This month we'll have a number of short presentations from startups that focus on IoT in safety and related techologies.</p> <p>What would you like to learn about? Let us know!<br/>Is there something you would like to share? We can offer you encouragement and guidance to present to the group.</p> <p>• Important to know</p> <p>Please note this event is at UQ StLucia campus. (iLab also has a facility in neighbouring Long Pocket, it's NOT that one!)</p>

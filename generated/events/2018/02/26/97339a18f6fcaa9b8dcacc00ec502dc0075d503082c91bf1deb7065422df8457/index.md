@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-26T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '8'
+timeCreated: '2018-02-22T10:15:37.066Z'
+timeUpdated: '2018-02-22T10:15:37.066Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-22T10:15:37.066Z'
 
 ---
-No description was provided.
+<p>Robin will be giving us a follow-up from our last meetup on his progress with Citellus, a framework populated by community-contributed scripts that automates detecting OpenStack problems such as configuration issues, conflicts with package versions, and more.</p>

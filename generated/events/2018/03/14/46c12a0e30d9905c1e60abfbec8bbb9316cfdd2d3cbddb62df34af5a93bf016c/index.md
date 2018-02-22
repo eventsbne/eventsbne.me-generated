@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-14T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-19T14:04:30.540Z'
-timeUpdated: '2018-02-19T14:04:30.540Z'
-countAttending: '1'
+timeCreated: '2018-02-22T10:15:37.066Z'
+timeUpdated: '2018-02-22T10:15:37.066Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Branding You & Your Biz... Networking Event.
-date: '2018-02-19T14:04:30.540Z'
+date: '2018-02-22T10:15:37.066Z'
 
 ---
 <p><b>How do you STAND OUT from the crowd Online and In Person?</b></p> <p><br/>This month we have a panel of guest speakers covering all things BRANDING!!!!</p> <p>It's going to be an amazing night with lots of connections to be made.</p> <p>
