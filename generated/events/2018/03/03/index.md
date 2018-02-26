@@ -7,6 +7,11 @@ events:
       /events/2018/03/03/206bb13c92c05a9c0f9ca88b65e3a8575a486480cc5b5d5593642345383a1126
     organizer: Random Hacks of Kindness - Brisbane
     timeStart: '2018-03-02T23:00:00.000Z'
+  - name: codeSwich is in Ipswich!
+    uri: >-
+      /events/2018/03/03/ac8917688d2daab7b5333ecf1560db47d586698a82a0f896879c85eec17cc648
+    organizer: Western Corridor Technology Enthusiasts
+    timeStart: '2018-03-02T23:00:00.000Z'
   - name: Monthly Hack and Race
     uri: >-
       /events/2018/03/03/36c74fb8e9fda0a38dedd4561d200679380e69447d5829986083ee38b398882a

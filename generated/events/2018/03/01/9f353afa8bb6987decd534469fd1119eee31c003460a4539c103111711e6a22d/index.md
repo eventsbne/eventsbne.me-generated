@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-22T10:15:37.066Z'
-timeUpdated: '2018-02-22T10:15:37.066Z'
-countAttending: '30'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '115'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Scrunch! Coming soon..
-date: '2018-02-22T10:15:37.066Z'
+title: Machine learning for startups without PhDs
+date: '2018-02-26T10:00:13.242Z'
 
 ---
-<p>Details coming soon..</p>
+<p>Lex Toumbourou from Scrunch (<a href="https://scrunch.com" class="linkified">https://scrunch.com</a>) will talk about how the team at Scrunch uses ML/AI in development of their influencer marketing platform. Designed to give plenty of practical insights, Scrunch will impart some of their learnings on how startups can go about building ML cheaply and effectively (even without a PhD!). Lastly, Lex will also share insights on the next steps at Scrunch as they move into the future of marketing with AI.<br/>As Lex puts it, this is the talk he wishes he had heard three years ago!</p> <p>About Lex:<br/>Lex is the CTO of Scrunch and a founding engineer at Scrunch. He has over 10 years experience and been involved in some of Australia's biggest product launches.</p> <p>About Scrunch:<br/>Scrunch is a Brisbane-based Influencer Marketing platform that utilises ML and big data to help brands find and collaborate with influencers online.</p> <p>Agenda:<br/>6:00pm Mingling, networking and nibbles, courtesy of Scrunch<br/>6:30pm Lex Toumbourou (Scrunch)<br/>7:30pm Mingling continued</p> <p>To get to the venue take the elevators from within the old TC Beirne building up to level 2. Lift access will close at 6.30pm. Let us know if you plan on arriving later!</p> <p>A very big thank you to Scrunch for not only speaking but also generously sponsoring this meetup!</p>

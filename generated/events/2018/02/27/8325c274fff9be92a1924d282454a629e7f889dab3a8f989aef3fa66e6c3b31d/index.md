@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-27T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '9'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: An accessible GIF player & the things you don't consider when designing an app
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 <p>Facing the challenge of designing an accessible GIF player, the folks at ABC News discovered there's more to the problem than first appeared. Through this talk you'll learn how best to use motion on the web, and walk away with solid ideas for designing your next project.</p> <p>===</p> <p>The event will be held in the foyer of the ABC building in South Bank. Transport is 250 metres from the South Bank train station, or 300 metres the Cultural Centre busway. There is a 2 minute loading zone out the front for pick-ups and drop-offs. The venue is wheelchair friendly, with ramps from the street to the foyer. The ground floor bathroom has an accessible unisex toilet, as well as standard male &amp; female bathrooms. The automatic doors at the entrance lock at 6 PM, but we will be available to let you in if you arrive after.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-13T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '7'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: IoT and SCADA Hackers!
-date: '2018-02-21T22:40:05.529Z'
+title: Workshop Evening!
+date: '2018-02-26T10:00:13.242Z'
 
 ---
-<p>Hi Everyone!</p> <p>We will have a talk or workshop for the night, details to come. See you there!<br/>Josh</p>
+<p>Hi Everyone!</p> <p>We're having a workshop evening this meet-up! The format will be relaxed, and we'll round table ideas and approaches to some hardware hacking.</p> <p>Very lucky to have a note changing machine provided by @K1NGIE, will dig in and see how it works!</p> <p>Cheers,<br/>Josh</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-13T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '19'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '24'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: ProductTank Brisbane March Meetup
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 No description was provided.

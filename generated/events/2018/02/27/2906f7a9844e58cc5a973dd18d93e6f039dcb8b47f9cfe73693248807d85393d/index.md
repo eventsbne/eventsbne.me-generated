@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-27T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-22T10:15:37.066Z'
-timeUpdated: '2018-02-22T10:15:37.066Z'
-countAttending: '3'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Brisbane AR/VR Event #33'
-date: '2018-02-22T10:15:37.066Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 <p>• What we'll do<br/>Welcome back to the Brisbane's Virtual/Augmented Reality monthly event! With the latest announcements around wireless VR technology and higher resolution screens we are excited for 2018 and the advances the technology will bring.</p> <p>Our second meetup for the year will be hosted at Brisbane Powerhouse with special guest speaker presenting the use cases of immersive technologies in Communication and Collaboration software. Imagine a world where you are not limited to the location you live, to be able to work with anyone inside of a virtual environment.</p> <p>LOCATION: BRISBANE POWERHOUSE</p> <p>TIME: 6:00PM - 9:00PM, 27th of Feb</p> <p>PARKING: Free (get there early to secure a spot)</p> <p>PRESENTATION:</p> <p>Maxart - Immersive Communication/Collaboration and Brisbane's Future Industry</p> <p>MAXART is a company dedicated to a vision for spatial and collaborative computing. To achieve this, the company is building virtual (VR) and augmented reality (AR) training applications that transform how we interact and engage with next generation spatial computers. Peter Clowes is the founder and Creative Director at MAXART, and has worked with some of Australia’s and the World’s most recognizable brands. He will be sharing his ideas on immersive technologies at this event, and what he sees to be the future of Brisbane's VR/AR industry, happening within the next 5-10 years.</p> <p>DEMOS: We will have a number of VR/AR headsets available for demonstrations on the night. If you have any recommendations on specific experiences or would like to demo something you have been working on we would be happy to accommodate you.</p> <p>• What to bring</p> <p><br/>• Important to know</p>

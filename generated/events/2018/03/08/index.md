@@ -17,7 +17,7 @@ events:
       /events/2018/03/08/54810f6c6bbe55816ec2c7fbdd608684d032d3404e04bf148d62697cb968135e
     organizer: WordPress Brisbane
     timeStart: '2018-03-08T08:00:00.000Z'
-  - name: 'Call for speakers, finalising event details.'
+  - name: Using Bayesian Profile Regression to find groupings (clusters) within data
     uri: >-
       /events/2018/03/08/90aece9478cfd1864b3ff0196d5227b15c6d27ebabb96d071446b9bb8423fcda
     organizer: Brisbane Data Science Meetup

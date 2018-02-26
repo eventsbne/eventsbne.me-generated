@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-27T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '12'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,8 +36,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: February Meetup
-date: '2018-02-21T22:40:05.529Z'
+title: Introduction to Visual Studio App Center
+date: '2018-02-26T10:00:13.242Z'
 
 ---
-<p>Join us on the 27th for our first meetup for 2018. We'll have drinks and pizza, the usual news roundup and a main topic TBD - check back later for the scoop on that. </p> <p>Look forward to seeing you there!</p>
+<p>Join us on the 27th for our first meetup for 2018. We'll have drinks and pizza, the usual news roundup and a talk on Visual Studio App Center. App Center recently came out of preview and aims to be your one stop shop for mobile application lifecycle management. We'll give it a rundown and some demos during the session so you can see how it can make your app development life easier. Look forward to seeing you there!</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-27T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-22T10:15:37.066Z'
-timeUpdated: '2018-02-22T10:15:37.066Z'
-countAttending: '23'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '32'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BrisRuby.com Monthly  Meetup
-date: '2018-02-22T10:15:37.066Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
-<p><b>Monthly BrisRuby meetup (4th Tuesday of each month)</b></p> <p><b>Talks TBA</b></p> <p>Generally we have one intro to Ruby talk and one intermediate talk each month and then lightning talks. Offer talk suggestion or request topics <a href="https://github.com/BrisRuby/meetups/issues?state=open">here</a>.</p> <p><b>6:30PM start,</b> arrive any time after 5:30pm</p> <p>Dinner afterwards at 8pm</p>
+<p>Monthly BrisRuby meetup (4th Tuesday of each month)</p> <p>Dr Nic Williams - Adding authorization to your Rails app with Github Teams</p> <p>Erik Ecoologic - Console and debugging tips</p> <p>6:30PM start, arrive any time after 5:30pm</p> <p>Dinner afterwards at 8pm</p>

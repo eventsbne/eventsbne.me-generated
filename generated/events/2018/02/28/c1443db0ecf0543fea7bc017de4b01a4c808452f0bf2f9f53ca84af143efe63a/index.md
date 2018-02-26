@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-22T10:15:37.066Z'
-timeUpdated: '2018-02-22T10:15:37.066Z'
-countAttending: '23'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '28'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Office 365 & EMS User Group – February 2018
-date: '2018-02-22T10:15:37.066Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 <p>Hi, Everyone!</p> <p>Happy 2018! This month we are pleased to have Ben Fletcher who has graciously offered to be our guest speaker for the evening and will be presenting a session on Microsoft 365 end to end and what’s changed?</p> <p>What is Microsoft 365, and what is included in the various editions of Microsoft 365? What products and capabilities might be available to you right now that aren’t being used? And how do these fit into the vision of a ‘Modern Workplace’. This session will also provide an update on key changes, improvements and additions to the Microsoft 365 suite over the last 12 months.</p> <p>When: Wednesday Evening – 28/02/2018</p> <p>Agenda:</p> <p>5:30pm - 6:00pm = Networking with Pizza and Drinks – Sponsored by Kloud</p> <p>6:00pm - 6:10pm = Welcome – Presented by Chris Gecks</p> <p>6:10pm – 7:15pm = Microsoft 365 – Ben Fletcher</p> <p>7:15pm - 7:30pm = Questions</p> <p><a href="http://bit.ly/O365-Feb18" class="linkified">http://bit.ly/O365-Feb18</a></p> <p>If you have any questions please do not hesitate to contact me at [masked] or check out the website at <a href="https://www.365community.org" class="linkified">https://www.365community.org</a> (<a href="https://www.365community.org/" class="linkified">https://www.365community.org/</a>)</p> <p>Thank you for all your ongoing support.</p> <p>Kindest Regards,</p> <p>Chris Gecks</p>

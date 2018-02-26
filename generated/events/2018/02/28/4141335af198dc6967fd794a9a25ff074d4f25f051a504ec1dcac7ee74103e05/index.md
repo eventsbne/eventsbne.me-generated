@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-02-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-22T10:15:37.066Z'
-timeUpdated: '2018-02-22T10:15:37.066Z'
-countAttending: '22'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '25'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress Ipswich February Meetup
-date: '2018-02-22T10:15:37.066Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 <p>This month we have Tim Butler from Conetix presenting on Gutenberg, the new editing experience for WordPress. The presentation will go through what the differences are, highlight all of the good bits and ensure you're ready for it once WordPress 5.0 is released (this year).</p> <p>Drinks and pizza are also provided, thanks to our gracious sponsors Fire Station 101, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p> <p>The WordPress Meetups are community driven and focused. Anyone with an interest in WordPress is very welcome to attend, we have members who range from bloggers and basic business owners who use WordPress through to designers and developers who have high levels of knowledge.</p> <p>The WordPress Ipswich Meetup group is always looking for people to present so if you're interested, please contact the Meetup organisers.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-03T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '9'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '23'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Fundamentals of Playtesting
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 <p>• What we'll do<br/>Playtesting is at the absolute centre of game development, and all too often smaller teams let it slip by the wayside at the time when it's most important. This talk, presented by Louis Van Dyke, is a broad overview of playtesting practices with particular attention to what has and hasn't worked in Louis' experience. You can expect to leave the presentation with a broader repertoire of playtesting tools and techniques, and a renewed appreciation for the ancient proverb: "test early and often."</p> <p>Louis Van Dyke is a PhD student and sessional academic at QUT, tutoring in the areas of software technology and interaction design. Alongside his academic career, Louis is also a game developer in the Brisbane indie sphere. He has published multiple freeware titles for PC, mobile and Steam VR. In 2013, he founded the QUT Game Development Club, and remains involved as an honorary member. Louis is a generalist who works in all development roles across programming, art and design – though his key strengths are in programming and project management.</p> <p>Tea and coffee will be served on the day, and we will be heading to The Fox afterward for drinks.</p> <p>• Important to know<br/>Please note that due to JMC Academy’s OH&amp;S policy all attendees are required to wear enclosed footwear while on campus.</p>

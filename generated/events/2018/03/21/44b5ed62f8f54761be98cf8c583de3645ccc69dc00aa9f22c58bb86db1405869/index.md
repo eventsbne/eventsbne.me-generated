@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-21T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-19T14:04:30.540Z'
-timeUpdated: '2018-02-19T14:04:30.540Z'
-countAttending: '1'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Amazon Alexa Meetup at Amazon HQ
-date: '2018-02-19T14:04:30.540Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
 <p>Join us for pizza, drinks, and an awesome lineup of speakers.</p> <p>We're finalising the speaker lineup, so stay tuned!</p> <p>Do you want to develop a skill for Alexa? Please be sure to register for the Brisbane Alexa Skills Workshop for a free, hands-on learning experience on Thursday, 22nd March 2018 at Amazon: <a href="https://anzbnealexaskills101workshop.splashthat.com/" class="linkified">https://anzbnealexaskills101workshop.splashthat.com/</a></p> <p>Cheers,</p> <p>Alana@Cloudten</p> <p>**************************************************************</p> <p>Learn more about Aibiliti - <a href="http://www.aibiliti.com/" class="linkified">http://www.aibiliti.com/</a></p> <p>Learn about Cloudten - <a href="http://www.cloudten.com.au" class="linkified">http://www.cloudten.com.au</a> (<a href="http://www.cloudten.com.au/" class="linkified">http://www.cloudten.com.au/</a>)</p> <p>• What to bring</p> <p>• Important to know</p>

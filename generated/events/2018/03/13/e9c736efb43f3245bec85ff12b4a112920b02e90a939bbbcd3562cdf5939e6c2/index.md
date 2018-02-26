@@ -5,24 +5,24 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-13T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '7'
+timeCreated: '2018-02-26T10:00:13.242Z'
+timeUpdated: '2018-02-26T10:00:13.242Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-Functional-Programming-Group/events/245757004/'
 image: null
 venue:
-  id: dad4bc7cb02e027fced4532083b0124fd8eb2a34dd58e7902336739168bb54c0
-  remoteId: '25289757'
+  id: 60afb73e206e06aa20b8012a42b8571522a4576ba8cff7e73386f7bff70a9d76
+  remoteId: '10346662'
   remoteIdType: meetup
-  name: Data61/CSIRO Fortitude Valley
+  name: Red Hat
   url: null
   description: null
-  lat: '-27.4583797454834'
-  lon: '153.03416442871094'
-  contactAddress: 'Level 2, T C Beirne Centre, 315 Brunswick Street, Fortitude Valley 4006 QLD'
+  lat: '-27.4681396484375'
+  lon: '153.0189208984375'
+  contactAddress: '193 North Quay, Level 3(at the corner of Herschel and North Quay)'
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BFPG Monthly Meetup
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-26T10:00:13.242Z'
 
 ---
-<p>TBA</p>
+<p>**VENUE CHANGE** for the March meetup. Our usual home is unavailable. The meetup will be hosted at Red Hat. Attendance is capped due to capacity constraint.</p>
