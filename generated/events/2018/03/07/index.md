@@ -2,16 +2,16 @@
 title: Events for 2018/03/07
 layout: event-index
 events:
-  - name: Alteryx User Group Brisbane - March
-    uri: >-
-      /events/2018/03/07/dcb011bdd5cfc3456f74663e33bf2cbf956cdef9d9acd8929115210244b57fa3
-    organizer: Alteryx User Group Brisbane
-    timeStart: '2018-03-07T07:00:00.000Z'
   - name: Social Media Spotlight
     uri: >-
       /events/2018/03/07/e5bff176e24091e94b2194c388812da0ae4de42323d4168ec1ee6a60ac0cce05
     organizer: Interactive Minds Brisbane - Events about Digital Marketing
     timeStart: '2018-03-06T22:00:00.000Z'
+  - name: Alteryx User Group Brisbane - March
+    uri: >-
+      /events/2018/03/07/dcb011bdd5cfc3456f74663e33bf2cbf956cdef9d9acd8929115210244b57fa3
+    organizer: Alteryx User Group Brisbane
+    timeStart: '2018-03-07T07:00:00.000Z'
   - name: 'EVENING WORKSHOP:  Create Profitable Relationships & Rock at Networking'
     uri: >-
       /events/2018/03/07/2dbc6d2a3e6bc92808d95ce8966b81b83c64c79e4f5570d2ac93e6fc2c328541

@@ -2,16 +2,16 @@
 title: Events for 2018/02/28
 layout: event-index
 events:
-  - name: Medical Research and Innovation – Strategies for Success | Brisbane
-    uri: >-
-      /events/2018/02/28/6d532516dfce962f1d305bf56a50f016b4641ab9278bc54da04953419a9e3213
-    organizer: Life Sciences Queensland Limited
-    timeStart: '2018-02-28T03:00:00.000Z'
   - name: Hackday - AWS SageMaker
     uri: >-
       /events/2018/02/28/405d94df821311a51e93efdfcb090fbed63605bf2314a3cd4dd62c8fe1286ebe
     organizer: GCAIML
     timeStart: '2018-02-28T00:00:00.000Z'
+  - name: Medical Research and Innovation – Strategies for Success | Brisbane
+    uri: >-
+      /events/2018/02/28/6d532516dfce962f1d305bf56a50f016b4641ab9278bc54da04953419a9e3213
+    organizer: Life Sciences Queensland Limited
+    timeStart: '2018-02-28T03:00:00.000Z'
   - name: Fishburners Weekly Tour
     uri: >-
       /events/2018/02/28/2ef6f22ca58aad0435dca4594ba5f78e7b18a05b03ede6347f480a37359e8733
@@ -52,31 +52,26 @@ events:
       /events/2018/02/28/0a3573efd683886f7681cf1dd17b97c5eb205fb0afde2575ae1dde5e568d8339
     organizer: Hacks/Hackers Brisbane
     timeStart: '2018-02-28T08:00:00.000Z'
-  - name: February Meetup
-    uri: >-
-      /events/2018/02/28/394d32e94e6a1bbec223e212040ff309df7cd77309a500115d5e0660419e57b6
-    organizer: Brisbane Gophers
-    timeStart: '2018-02-28T08:00:00.000Z'
   - name: Functional Programming Tasting Menu
     uri: >-
       /events/2018/02/28/52409da2b29234ff33dcd11f675af46c2a01a524a97751198115538a25a2243d
     organizer: Women Who Code Brisbane
     timeStart: '2018-02-28T08:00:00.000Z'
-  - name: Playing Lean Session
+  - name: February Meetup
     uri: >-
-      /events/2018/02/28/58baa5d6894be7f9e0a35ab0f3f125e5b5e4fcb4a57ca111e1f01a1c1eeedf2e
-    organizer: Oracle Brisbane
+      /events/2018/02/28/394d32e94e6a1bbec223e212040ff309df7cd77309a500115d5e0660419e57b6
+    organizer: Brisbane Gophers
     timeStart: '2018-02-28T08:00:00.000Z'
   - name: WordPress Ipswich February Meetup
     uri: >-
       /events/2018/02/28/4141335af198dc6967fd794a9a25ff074d4f25f051a504ec1dcac7ee74103e05
     organizer: Ipswich WordPress Meetup
     timeStart: '2018-02-28T08:00:00.000Z'
-  - name: Regular Wednesday Open Hack.
+  - name: Playing Lean Session
     uri: >-
-      /events/2018/02/28/a67d61a5388c64ed66bc94266f83877057c80bff3c2d35fad84e90404c0ddc20
-    organizer: Gold Coast Techspace
-    timeStart: '2018-02-28T09:00:00.000Z'
+      /events/2018/02/28/58baa5d6894be7f9e0a35ab0f3f125e5b5e4fcb4a57ca111e1f01a1c1eeedf2e
+    organizer: Oracle Brisbane
+    timeStart: '2018-02-28T08:00:00.000Z'
   - name: >-
       Learn how Blockchain,  Cryptocurrency & NEM network boost FinTech
       innovation.
@@ -84,5 +79,10 @@ events:
       /events/2018/02/28/a9873a5c0c00a4b445b769314750d20172dd9263efb7f9e0316857ed3991c0e8
     organizer: Bitcoin and Cryptocurrency Learning and Experience Centre
     timeStart: '2018-02-28T08:00:00.000Z'
+  - name: Regular Wednesday Open Hack.
+    uri: >-
+      /events/2018/02/28/a67d61a5388c64ed66bc94266f83877057c80bff3c2d35fad84e90404c0ddc20
+    organizer: Gold Coast Techspace
+    timeStart: '2018-02-28T09:00:00.000Z'
 
 ---
