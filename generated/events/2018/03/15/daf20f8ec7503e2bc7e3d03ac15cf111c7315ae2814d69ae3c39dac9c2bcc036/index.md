@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-15T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '6'
+timeCreated: '2018-02-28T10:00:13.510Z'
+timeUpdated: '2018-02-28T10:00:13.510Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Gold Coast regular meetup
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-02-28T10:00:13.510Z'
 
 ---
 <p>TBA</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-26T10:00:13.242Z'
-timeUpdated: '2018-02-26T10:00:13.242Z'
-countAttending: '11'
+timeCreated: '2018-02-28T10:00:13.510Z'
+timeUpdated: '2018-02-28T10:00:13.510Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: The Path to Peak Performance Workshop
-date: '2018-02-26T10:00:13.242Z'
+date: '2018-02-28T10:00:13.510Z'
 
 ---
 <p>You’ve gotten your company or product off the ground, but it doesn’t seem to be performing as well as you hoped or think it should. The “Path to Peak Performance” workshop explains why this may be the case, and practical steps to get on the path to peak performance.</p> <p>Our presenter, Don McKenzie shares real-life business case studies along with tools you can apply to your own businesses to learn from his experiences. He doesn’t just talk about successes but uses his failures to illustrate concepts that have immediate takeaway value irrelevant to your business experience.</p> <p>These include;<br/>• Building companies across 4 countries in a range of industries including floating on the ASX<br/>• A $750,000 acquisition turning into nearly $55M in under 7-years<br/>• Acquisition of a $45M company that had to be placed into liquidation 2-years later</p> <p>His personal experiences combined with globally recognised content will give you practical ideas which can be applied with immediate effect for any business.</p>

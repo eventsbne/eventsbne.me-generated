@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-26T10:00:13.242Z'
-timeUpdated: '2018-02-26T10:00:13.242Z'
-countAttending: '7'
+timeCreated: '2018-02-28T10:00:13.510Z'
+timeUpdated: '2018-02-28T10:00:13.510Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Brisbane Google Developer Group [GDG] Cloud'
-date: '2018-02-26T10:00:13.242Z'
+date: '2018-02-28T10:00:13.510Z'
 
 ---
 <p>We're organising session content and will update details closer to the time. If you have content suggestions please let us know!</p>
