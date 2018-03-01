@@ -7,6 +7,11 @@ events:
       /events/2018/03/14/d9152962737e1b90982b0f60ba0f92e7dfe328efc0f87cc4e84e9fa225eed095
     organizer: Startup Grind Brisbane
     timeStart: '2018-03-14T07:00:00.000Z'
+  - name: 'Panel: Enterprise UX Trends for 2018'
+    uri: >-
+      /events/2018/03/14/1f5df60e3001f2da7efea817960426034bb781b099f58feb667fb0f5ac3585cb
+    organizer: Enterprise UX Brisbane
+    timeStart: '2018-03-14T08:00:00.000Z'
   - name: Monthly Evening Meetup
     uri: >-
       /events/2018/03/14/20ba34c9d8908e37847cded8ec7417ac5a60f84c1d097d6e19148bcafc8ac028

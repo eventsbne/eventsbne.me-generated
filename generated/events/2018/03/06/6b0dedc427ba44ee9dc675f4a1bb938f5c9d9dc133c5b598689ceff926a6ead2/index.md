@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-06T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-28T10:00:13.510Z'
-timeUpdated: '2018-02-28T10:00:13.510Z'
-countAttending: '12'
+timeCreated: '2018-03-01T10:00:13.846Z'
+timeUpdated: '2018-03-01T10:00:13.846Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: CocoaHeads Brisbane
-date: '2018-02-28T10:00:13.510Z'
+date: '2018-03-01T10:00:13.846Z'
 
 ---
 <p>Join iOS/macOS/swift developers for our 'Appstravaganza' as well as the usual pizza, drinks and news.</p> <p>This month's focusses on ways to structure apps. Simon Stiefel from Atlassian is talking about using a Dependency Injection framework in a side project and Javan Wood from ResApp Health is reviewing the currently in-progress App Architecture book from objc.io.</p>
