@@ -7,6 +7,11 @@ events:
       /events/2018/03/08/a349ccff42796f44a01dffe367ee05ab9add764b5cd394aeaebf28d143bef5a9
     organizer: Women in Digital Brisbane
     timeStart: '2018-03-07T21:30:00.000Z'
+  - name: IT Lunch
+    uri: >-
+      /events/2018/03/08/d8df6cdbc7984ac1d3bee67fff96263781c71935d6d1bafe3977258a4e855706
+    organizer: dotMaleny
+    timeStart: '2018-03-08T02:30:00.000Z'
   - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
     uri: >-
       /events/2018/03/08/894d744d1d30df10f1cdace2cd6a4d2bda6c4513d80c305decdd30c646f6fa00

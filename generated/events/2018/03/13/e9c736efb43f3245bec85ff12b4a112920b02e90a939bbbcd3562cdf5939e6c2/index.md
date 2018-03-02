@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-13T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-01T10:00:13.846Z'
-timeUpdated: '2018-03-01T10:00:13.846Z'
-countAttending: '18'
+timeCreated: '2018-03-02T10:00:13.637Z'
+timeUpdated: '2018-03-02T10:00:13.637Z'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BFPG Monthly Meetup
-date: '2018-03-01T10:00:13.846Z'
+date: '2018-03-02T10:00:13.637Z'
 
 ---
 <p>**VENUE CHANGE** for the March meetup. Our usual home is unavailable. The meetup will be hosted at Red Hat. Attendance is capped due to capacity constraint.</p>

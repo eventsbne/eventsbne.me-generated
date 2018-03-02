@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-06T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-01T10:00:13.846Z'
-timeUpdated: '2018-03-01T10:00:13.846Z'
-countAttending: '84'
+timeCreated: '2018-03-02T10:00:13.637Z'
+timeUpdated: '2018-03-02T10:00:13.637Z'
+countAttending: '90'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Let's talk about cryptocurrency and tax
-date: '2018-03-01T10:00:13.846Z'
+date: '2018-03-02T10:00:13.637Z'
 
 ---
 <p>• What we'll do<br/>Our Meetup presenter is Michaela Rankin, a Chartered Accountant. After seeing Michaela present this topic at the Sunshine Coast Blockchain Meetup, Lucas invited Michaela to present at our Brisbane Blockchain and Bitcoin Meetup.</p> <p>Michaela will present on tax and cryptocurrency and will cover areas such as GST, income tax and capital gains tax. She will discuss tax concessions to use, beneficial structures and strategies to put in place to manage tax effectively. To finish, Michaela will also cover current ATO viewpoint and information requirements.</p> <p>Look forward to seeing you all on Tuesday night - 6 March 2017 from 5.30 pm kicking off around 6.15 pm.</p> <p>• What to bring</p> <p><br/>• Important to know<br/>Lucas will be away for this Meetup so he has asked his co-organises to host in his absence.</p>

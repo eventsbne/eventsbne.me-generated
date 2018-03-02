@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-05T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-01T10:00:13.846Z'
-timeUpdated: '2018-03-01T10:00:13.846Z'
-countAttending: '17'
+timeCreated: '2018-03-02T10:00:13.637Z'
+timeUpdated: '2018-03-02T10:00:13.637Z'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: How an artist & an engineer built a startup
-date: '2018-03-01T10:00:13.846Z'
+date: '2018-03-02T10:00:13.637Z'
 
 ---
 <p>DevStart is back! Come along and meet Brisbane's software startup community, learn from others and be inspired.</p> <p>Inspiring us this month with their story are startup founders Majella Edwards and Sarah Smith with a talk about Sortal. Then we'll have some time to chat with other startup folks. Drinks and snacks are provided by the awesome Thoughtworks.</p> <p>*Agenda*<br/>6pm: Arrive, meet some folks, find a good seat, eat snacks</p> <p>6.30pm: Talk - *How an artist &amp; an engineer built a startup: the founders of Sortal discuss their team process, UX and code workflow and working in the startup landscape.* with Majella Edwards and Sarah Smith. <a href="http://sortal.io" class="linkified">http://sortal.io</a></p> <p>7.30pm: Networking - hang out with startup folks</p> <p>8.00pm: Wrap up</p> <p>*Sponsors*</p> <p>Our event will be hosted at Thoughtworks Brisbane, who are generously providing drinks and snacks for us. Thoughtworks is a software company and a community of passionate, purpose-led individuals. Thoughtworks thinks disruptively to deliver technology to address clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.</p> <p>Brisbane Software Developers' Startup meetup group ongoing costs are covered by Trish Khoo Consulting. Find out more about consulting services at <a href="http://trishkhoo.com" class="linkified">http://trishkhoo.com</a>.</p>

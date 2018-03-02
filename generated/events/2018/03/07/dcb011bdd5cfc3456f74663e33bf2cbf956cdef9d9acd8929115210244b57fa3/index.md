@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-07T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-21T22:40:05.529Z'
-timeUpdated: '2018-02-21T22:40:05.529Z'
-countAttending: '4'
+timeCreated: '2018-03-02T10:00:13.637Z'
+timeUpdated: '2018-03-02T10:00:13.637Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Alteryx User Group Brisbane - March
-date: '2018-02-21T22:40:05.529Z'
+date: '2018-03-02T10:00:13.637Z'
 
 ---
 <p>• What we'll do<br/>Wednesday 7th March 2018<br/>5:00pm: Sign in, enjoy a welcome drink and start networking</p> <p>5:30pm: Hear Alteryx success stories</p> <p>6:30pm: Enjoy canapes, drinks and another chance to networking</p> <p>7:30pm: Event ends</p> <p>We invite you to come along to a great evening. Blend with other users, talk all things Alteryx and hear Customer Case Studies and the Latest Release Information.</p> <p>Pre-registration essential: Register now at <a href="http://www.alteryxanz.com/alteryx-user-group-brisbane-march-2018/" class="linkified">http://www.alteryxanz.com/alteryx-user-group-brisbane-march-2018/</a></p> <p>• What to bring</p> <p><br/>• Important to know</p>

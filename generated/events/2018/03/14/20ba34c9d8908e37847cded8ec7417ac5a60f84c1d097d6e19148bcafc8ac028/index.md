@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-14T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-01T10:00:13.846Z'
-timeUpdated: '2018-03-01T10:00:13.846Z'
-countAttending: '12'
+timeCreated: '2018-03-02T10:00:13.637Z'
+timeUpdated: '2018-03-02T10:00:13.637Z'
+countAttending: '13'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Evening Meetup
-date: '2018-03-01T10:00:13.846Z'
+date: '2018-03-02T10:00:13.637Z'
 
 ---
 <p>Details coming soon....</p>
