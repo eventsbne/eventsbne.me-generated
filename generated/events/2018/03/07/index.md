@@ -22,15 +22,15 @@ events:
       /events/2018/03/07/2dbc6d2a3e6bc92808d95ce8966b81b83c64c79e4f5570d2ac93e6fc2c328541
     organizer: Entrepreneurs Scale Your Business Brisbane
     timeStart: '2018-03-07T08:00:00.000Z'
-  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
-    uri: >-
-      /events/2018/03/07/8b5da37992580abd44b97ea1312214586ca64017427ce0bf3d7afe6f506aaf15
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
-    timeStart: '2018-03-07T08:00:00.000Z'
   - name: How to retain great people  - Peter Day
     uri: >-
       /events/2018/03/07/14a83e49c7c68522bc4781b9ed97a7b466a911e132270535ab90f1e1eecc48d4
     organizer: CTO School Brisbane
+    timeStart: '2018-03-07T08:00:00.000Z'
+  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
+    uri: >-
+      /events/2018/03/07/8b5da37992580abd44b97ea1312214586ca64017427ce0bf3d7afe6f506aaf15
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-07T08:00:00.000Z'
   - name: Bitcoin for WOMEN Gold Coast (FREE)
     uri: >-

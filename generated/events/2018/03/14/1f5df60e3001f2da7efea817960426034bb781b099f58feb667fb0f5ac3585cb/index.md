@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-14T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-02T10:00:13.637Z'
-timeUpdated: '2018-03-02T10:00:13.637Z'
-countAttending: '25'
+timeCreated: '2018-03-03T10:00:13.624Z'
+timeUpdated: '2018-03-03T10:00:13.624Z'
+countAttending: '29'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Panel: Enterprise UX Trends for 2018'
-date: '2018-03-02T10:00:13.637Z'
+date: '2018-03-03T10:00:13.624Z'
 
 ---
 <p>Folks,</p> <p>Announcing the very first Enterprise UX for 2018! We have a new venue for this event thanks to the awesome crew at Skedulo (79 McLachlan St, Fortitude Valley) and we’ll be kicking off 2018 with a special Q&amp;A panel. The topic: Enterprise UX Trends for 2018<br/>Panelists confirmed so far (2 more coming):</p> <p>* David Isaacs (Head of Design, Skedulo, <a href="https://www.linkedin.com/in/davidgisaacs/" class="linkified">https://www.linkedin.com/in/davidgisaacs/</a>)<br/>* Grant Maskell (Freelance Digital Consultant, <a href="https://www.linkedin.com/in/grant-maskell-1249137/" class="linkified">https://www.linkedin.com/in/grant-maskell-1249137/</a>)<br/>* Bruce McGregor (CEO, Adhocracy Consulting, <a href="https://www.linkedin.com/in/brucemcgregor/" class="linkified">https://www.linkedin.com/in/brucemcgregor/</a>)<br/>* Laura Van Doore (Senior Product Designer, Fathom, <a href="https://www.linkedin.com/in/lauravandoore/" class="linkified">https://www.linkedin.com/in/lauravandoore/</a>)</p> <p>We will also have time for networking, a market update from Ambition and InFlow’s concept prototype demo for those who didn’t get a chance to attend concept testing late last year.</p> <p>Looking forward to seeing you at yet another cracker event.</p>
