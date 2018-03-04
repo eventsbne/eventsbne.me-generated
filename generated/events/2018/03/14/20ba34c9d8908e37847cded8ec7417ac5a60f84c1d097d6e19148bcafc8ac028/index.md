@@ -3,11 +3,11 @@ id: 20ba34c9d8908e37847cded8ec7417ac5a60f84c1d097d6e19148bcafc8ac028
 remoteId: qdxxblyxfbsb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-03-14T08:00:00.000Z'
+timeStart: '2018-03-14T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-02T10:00:13.637Z'
-timeUpdated: '2018-03-02T10:00:13.637Z'
-countAttending: '13'
+timeCreated: '2018-03-04T10:00:13.234Z'
+timeUpdated: '2018-03-04T10:00:13.234Z'
+countAttending: '24'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Evening Meetup
-date: '2018-03-02T10:00:13.637Z'
+date: '2018-03-04T10:00:13.234Z'
 
 ---
-<p>Details coming soon....</p>
+<p>We've got a big night planned this month, featuring four of Microsoft Brisbane's best cloud technologists!</p> <p>- Adam Stephensen joins us again to discuss Azure Application Centre.<br/>- Kris Bock will give us an introduction to Azure Databricks.<br/>- Fabrio Braga will discuss and demo the new and advanced analytic features of Power BI.<br/>- And Dale Austin will have a surprise Azure topic for us!</p> <p>NOTE: Because of renovations happening this month, this meeting will take place in the Hub instead of the theatre. Just follow the signs (and the pizza!)</p>

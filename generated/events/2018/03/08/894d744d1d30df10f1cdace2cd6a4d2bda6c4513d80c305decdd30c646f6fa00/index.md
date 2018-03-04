@@ -3,11 +3,11 @@ id: 894d744d1d30df10f1cdace2cd6a4d2bda6c4513d80c305decdd30c646f6fa00
 remoteId: mvjggnyxfblb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-03-08T07:30:00.000Z'
+timeStart: '2018-03-08T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-03T10:00:13.624Z'
-timeUpdated: '2018-03-03T10:00:13.624Z'
-countAttending: '24'
+timeCreated: '2018-03-04T10:00:13.234Z'
+timeUpdated: '2018-03-04T10:00:13.234Z'
+countAttending: '25'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
-date: '2018-03-03T10:00:13.624Z'
+title: AWS Security Dual-State Meetup - March 2018
+date: '2018-03-04T10:00:13.234Z'
 
 ---
-<p><img src="https://secure.meetupstatic.com/photos/event/4/4/8/2/600_461597538.jpeg" /></p> <p><b><i>Welcome to the Brisvegas AWS Security Meetup!</i></b></p> <p><br/>We have some great speakers we're lining up for this extra special event. Details to follow.</p> <p>Big shout out for <a href="https://aws.amazon.com/">AWS</a> who are sponsoring this event.</p> <p>Get the RSVPs rolling as we only have a limited number of tickets.</p> <p>See you there.</p> <p>Stephen</p>
+<p>*To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite.*<br/>Please REGISTER here: <a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-8-2nd-thursday-tickets-43800338993" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-8-2nd-thursday-tickets-43800338993</a></p> <p>Here are our AWS Security talks for the month of March 2018:</p> <p>SPEAKER 1:<br/>Jesus Nunez - Lead Software Engr, ING DIRECT Au</p> <p>TALK TOPIC: PII Breach Story<br/>Jesus' talk will highlight the importance of API design to prevent security hacking and the remediation solutions to restore the security health</p> <p>SPEAKER 2:<br/>TBD<br/>TALK TOPIC: TBD<br/>TBD</p> <p>SCHEDULE<br/>MELBOURNE - Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM<br/>BRISBANE - Registration, foods and drinks starts at 5:00 PM / Presentation starts 5:30 PM</p> <p>EVENT ORGANISERS<br/>Melbourne: Vincent Brouillet &amp; Andrew Brydon<br/>Brisbane: Mick Esber</p> <p>Big thanks again to the host and sponsor of the event, AWS!</p> <p>Grab your ticket, and see you there!<br/>The MeetupMadness Team</p>
