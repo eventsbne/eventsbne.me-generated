@@ -30,7 +30,7 @@ organizer:
   id: 645a1f66b8bc5a6b2f6d75d7ffec227af1a45251dd3c72c2bc269b77db64a552
   remoteId: '26787346'
   remoteIdType: meetup
-  name: Brisbane Excel Meetup
+  name: Brisbane Professional Microsoft Excel Meetup
   url: 'https://meetup.com/Brisbane-Excel-Meetup'
   description: null
   codeOfConduct: null

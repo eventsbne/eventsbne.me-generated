@@ -12,10 +12,12 @@ events:
       /events/2018/03/19/61056232ed92991d0707d35c54e0d8680b9e00d4da5210d8d60fb2549901ec8e
     organizer: Brisbane ICO
     timeStart: '2018-03-19T08:00:00.000Z'
-  - name: Meetup 0x18002
+  - name: >-
+      March Double Header - Real-time with SignalR + Lessons from the Software
+      Greats
     uri: >-
-      /events/2018/03/19/d74e49d4793030f901792ebb63d837b072b3fb74c2d81944f0c4b4056a2821d6
-    organizer: Brisbane ICO
-    timeStart: '2018-03-19T08:30:00.000Z'
+      /events/2018/03/19/29da19990772a4541f4121d9fd42a1022fa1806ca2744fc8f9fe0000cb06cd99
+    organizer: Gold Coast Azure / .NET User Group
+    timeStart: '2018-03-19T09:00:00.000Z'
 
 ---

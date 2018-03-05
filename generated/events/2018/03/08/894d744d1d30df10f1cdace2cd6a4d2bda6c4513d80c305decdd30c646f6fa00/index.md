@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-08T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-04T10:00:13.234Z'
-timeUpdated: '2018-03-04T10:00:13.234Z'
-countAttending: '25'
+timeCreated: '2018-03-05T10:00:13.567Z'
+timeUpdated: '2018-03-05T10:00:13.567Z'
+countAttending: '34'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Security Dual-State Meetup - March 2018
-date: '2018-03-04T10:00:13.234Z'
+date: '2018-03-05T10:00:13.567Z'
 
 ---
 <p>*To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite.*<br/>Please REGISTER here: <a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-8-2nd-thursday-tickets-43800338993" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-8-2nd-thursday-tickets-43800338993</a></p> <p>Here are our AWS Security talks for the month of March 2018:</p> <p>SPEAKER 1:<br/>Jesus Nunez - Lead Software Engr, ING DIRECT Au</p> <p>TALK TOPIC: PII Breach Story<br/>Jesus' talk will highlight the importance of API design to prevent security hacking and the remediation solutions to restore the security health</p> <p>SPEAKER 2:<br/>TBD<br/>TALK TOPIC: TBD<br/>TBD</p> <p>SCHEDULE<br/>MELBOURNE - Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM<br/>BRISBANE - Registration, foods and drinks starts at 5:00 PM / Presentation starts 5:30 PM</p> <p>EVENT ORGANISERS<br/>Melbourne: Vincent Brouillet &amp; Andrew Brydon<br/>Brisbane: Mick Esber</p> <p>Big thanks again to the host and sponsor of the event, AWS!</p> <p>Grab your ticket, and see you there!<br/>The MeetupMadness Team</p>

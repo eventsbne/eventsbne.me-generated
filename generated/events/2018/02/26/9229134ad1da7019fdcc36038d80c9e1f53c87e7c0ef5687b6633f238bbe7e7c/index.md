@@ -31,7 +31,7 @@ organizer:
   id: 613d376a8c0452090594ebdb5e556a08c528a5d454f3501d6ae3c5840e50438f
   remoteId: '18932349'
   remoteIdType: meetup
-  name: Brisbane Internet of Things (IOT) Meetup
+  name: Brisbane Internet of Things (IOT) Interest Group
   url: 'https://meetup.com/Brisbane-Internet-of-Things-IOT-Meetup'
   description: null
   codeOfConduct: null

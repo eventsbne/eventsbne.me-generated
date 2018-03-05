@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-14T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-04T10:00:13.234Z'
-timeUpdated: '2018-03-04T10:00:13.234Z'
-countAttending: '13'
+timeCreated: '2018-03-05T10:00:13.567Z'
+timeUpdated: '2018-03-05T10:00:13.567Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Lets talk Portainer with their lead engineer
-date: '2018-03-04T10:00:13.234Z'
+date: '2018-03-05T10:00:13.567Z'
 
 ---
 <p>Anthony Lapenna, co-founder and lead engineer of Portainer is in Brisbane.</p> <p>We'll find out how awesome Portainer is, where its going, and how awesome New Zealand is :)<br/>And hopefully convince him that our pet feature is the most important next thing needed!</p>

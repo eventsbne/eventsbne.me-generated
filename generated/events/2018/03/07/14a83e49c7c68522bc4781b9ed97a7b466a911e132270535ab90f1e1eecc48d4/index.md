@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-07T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-04T10:00:13.234Z'
-timeUpdated: '2018-03-04T10:00:13.234Z'
-countAttending: '23'
+timeCreated: '2018-03-05T10:00:13.567Z'
+timeUpdated: '2018-03-05T10:00:13.567Z'
+countAttending: '28'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: How to retain great people  - Peter Day
-date: '2018-03-04T10:00:13.234Z'
+date: '2018-03-05T10:00:13.567Z'
 
 ---
 <p>So you’ve identified a business opportunity, hired great people and have started developing a solution. What next? How do you retain these people and keep them working with you?</p> <p>Peter Day used to be a lawyer, solving his clients’ problems through a combination of analysis, communication and coffee. However, after discovering he had a personality, he quit the legal profession and started working in IT. Now, with nearly a decade of experience in delivering software, he applies those same skills to lead software teams in agile environments.</p>
