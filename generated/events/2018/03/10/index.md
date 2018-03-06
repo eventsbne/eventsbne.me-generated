@@ -6,7 +6,7 @@ events:
     uri: >-
       /events/2018/03/10/110b8c17b9114aa7d8e803b6eaeeb28263ad5807e5625f4432d2109cda5e949b
     organizer: Australian Academy of Health and Medical Sciences
-    timeStart: '2018-03-09T23:00:00.000Z'
+    timeStart: '2018-03-09T22:45:00.000Z'
   - name: codeSwich is in Ipswich!
     uri: >-
       /events/2018/03/10/79d0c379054e53a6a3414a15bbce4f06b9d11db287918dc0369a9ca65395ee4a
@@ -27,6 +27,11 @@ events:
       /events/2018/03/10/8269f79bc84b89a9969444d5b98aedd66c81e26f26a67aafcbc41e4b27d36dd5
     organizer: Startup Ipswich
     timeStart: '2018-03-10T03:30:00.000Z'
+  - name: DCC & TGM Superhero Daughter Day (Brisbane)
+    uri: >-
+      /events/2018/03/10/299528cacab9a740b3481c4d7c5ccee9fee2eb141bfc7d0d3818d947c6ca9add
+    organizer: DCC Jobs
+    timeStart: '2018-03-10T04:00:00.000Z'
   - name: Humbug - Regular Meeting
     uri: >-
       /events/2018/03/10/6a0ad1f6451ac08c01325e69b089a060a3d3cfafc5fee14f0e88b53832775d9d

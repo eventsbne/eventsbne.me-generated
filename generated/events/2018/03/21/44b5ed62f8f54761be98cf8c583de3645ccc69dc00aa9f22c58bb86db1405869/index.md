@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-21T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-03T10:00:13.624Z'
-timeUpdated: '2018-03-03T10:00:13.624Z'
+timeCreated: '2018-03-06T09:51:52.755Z'
+timeUpdated: '2018-03-06T09:51:52.755Z'
 countAttending: '29'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Amazon Alexa Meetup at Amazon HQ
-date: '2018-03-03T10:00:13.624Z'
+date: '2018-03-06T09:51:52.755Z'
 
 ---
 <p>Hi Amazon Alexa Fans,</p> <p>We've been working behind the scenes to bring you a fantastic lineup of speakers, and we're pleased to announce that the first Alexa Meetup of 2018 is off with a bang! We're thrilled to welcome two of Amazon's very own Alexa Evangelists. We're looking forward to presentations from Jeff Blankenburg (Amazon US) and Azi Farjad (Amazon ANZ).</p> <p>Coming all the way from the US, Jeff is an Alexa Evangelist at Amazon HQ in Seattle. Ultra passionate about technology, for more than 15 years Jeff has enthusiastically applied his technical expertise to build industry-changing websites and marketing efforts for a number of mega brands. He’s especially proficient in user interface design, web standards and mobile application development. Azi is a Developer Evangelist of Alexa Skills at Amazon here in Sydney. With specialties in User Experience Design and Human–Computer Interaction (HCI), she also has a passion for Mobile applications and Internet of things.</p> <p>Please join us for pizza, drinks, and an awesome lineup of Amazon speakers. Please make sure to RSVP so that we can accommodate as many Alexa enthusiasts as possible. We're looking forward to a great evening!</p> <p>Cheers,</p> <p>Alana@Cloudten</p> <p>**************************************************************</p> <p>Learn more about Aibiliti - <a href="http://www.aibiliti.com/" class="linkified">http://www.aibiliti.com/</a></p> <p>Learn about Cloudten - <a href="http://www.cloudten.com.au" class="linkified">http://www.cloudten.com.au</a> (<a href="http://www.cloudten.com.au/" class="linkified">http://www.cloudten.com.au/</a>)</p> <p>Do you want to develop a skill for Alexa? Please be sure to register for the Brisbane Alexa Skills Workshop for a free, hands-on learning experience on Thursday, 22nd March 2018 at Amazon: <a href="https://anzbnealexaskills101workshop.splashthat.com/" class="linkified">https://anzbnealexaskills101workshop.splashthat.com/</a></p>

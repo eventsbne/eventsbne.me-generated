@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-02-26T10:00:13.242Z'
-timeUpdated: '2018-02-26T10:00:13.242Z'
+timeCreated: '2018-03-06T09:51:52.755Z'
+timeUpdated: '2018-03-06T09:51:52.755Z'
 countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Call for speakers: March Ember meetup'
-date: '2018-02-26T10:00:13.242Z'
+date: '2018-03-06T09:51:52.755Z'
 
 ---
 <p>• What we'll do<br/>Tentative date for our next meetup. Please get in touch if you're able to speak via <a href="https://github.com/EmberBris/meetups/issues" class="linkified">https://github.com/EmberBris/meetups/issues</a> . See you there!</p> <p>• What to bring</p> <p><br/>• Important to know</p>

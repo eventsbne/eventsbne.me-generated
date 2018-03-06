@@ -12,35 +12,45 @@ events:
       /events/2018/03/07/3350e04223fa2e060697db627a2a0a99d95cb4e22980ffbad93941d51de23b72
     organizer: Fishburners Brisbane
     timeStart: '2018-03-07T03:00:00.000Z'
+  - name: Kids Code Club - Advanced
+    uri: >-
+      /events/2018/03/07/a2a3fcd9279408f65afef78976020a5e0c0dcc0bb52d818704a011a34d843d12
+    organizer: Ipswich Libraries
+    timeStart: '2018-03-07T06:45:00.000Z'
   - name: Alteryx User Group Brisbane - March
     uri: >-
       /events/2018/03/07/dcb011bdd5cfc3456f74663e33bf2cbf956cdef9d9acd8929115210244b57fa3
     organizer: Alteryx User Group Brisbane
     timeStart: '2018-03-07T07:00:00.000Z'
-  - name: 'EVENING WORKSHOP:  Create Profitable Relationships & Rock at Networking'
+  - name: How to retain great people  - Peter Day
     uri: >-
-      /events/2018/03/07/2dbc6d2a3e6bc92808d95ce8966b81b83c64c79e4f5570d2ac93e6fc2c328541
-    organizer: Entrepreneurs Scale Your Business Brisbane
+      /events/2018/03/07/14a83e49c7c68522bc4781b9ed97a7b466a911e132270535ab90f1e1eecc48d4
+    organizer: CTO School Brisbane
     timeStart: '2018-03-07T08:00:00.000Z'
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/03/07/8b5da37992580abd44b97ea1312214586ca64017427ce0bf3d7afe6f506aaf15
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-07T08:00:00.000Z'
-  - name: How to retain great people  - Peter Day
+  - name: 'EVENING WORKSHOP:  Create Profitable Relationships & Rock at Networking'
     uri: >-
-      /events/2018/03/07/14a83e49c7c68522bc4781b9ed97a7b466a911e132270535ab90f1e1eecc48d4
-    organizer: CTO School Brisbane
+      /events/2018/03/07/2dbc6d2a3e6bc92808d95ce8966b81b83c64c79e4f5570d2ac93e6fc2c328541
+    organizer: Entrepreneurs Scale Your Business Brisbane
     timeStart: '2018-03-07T08:00:00.000Z'
-  - name: Bitcoin for WOMEN Gold Coast (FREE)
+  - name: LGBT And Allies In Tech Networking Drinks
     uri: >-
-      /events/2018/03/07/ec64cbf52843e0d28e4fab7c18530b97255eacb8bfe2d2f38234819bda2b893e
-    organizer: The Beauty of Bitcoin Gold Coast (free)
-    timeStart: '2018-03-07T09:00:00.000Z'
+      /events/2018/03/07/02af3a975522920903854fcf74d24faaac4167aff4396c0927d93e611e63200f
+    organizer: Brisbane LGBT & Allies in Tech
+    timeStart: '2018-03-07T08:00:56.000Z'
   - name: Regular Wednesday Open Hack.
     uri: >-
       /events/2018/03/07/4f4bbdc3a0bdcdbe480fd7777bc50629bee53240b2e103aa54e1e117bf24990a
     organizer: Gold Coast Techspace
+    timeStart: '2018-03-07T09:00:00.000Z'
+  - name: Bitcoin for WOMEN Gold Coast (FREE)
+    uri: >-
+      /events/2018/03/07/ec64cbf52843e0d28e4fab7c18530b97255eacb8bfe2d2f38234819bda2b893e
+    organizer: The Beauty of Bitcoin Gold Coast (free)
     timeStart: '2018-03-07T09:00:00.000Z'
 
 ---

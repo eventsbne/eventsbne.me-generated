@@ -7,11 +7,6 @@ events:
       /events/2018/03/19/6cdfa4750bf83a398467050ab4302930786dec378eefc88152d132fd93730a2c
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-03-18T23:30:00.000Z'
-  - name: 'Meetup 0x005 - Category Spotlight: Passive Income + Navigating EtherDelta'
-    uri: >-
-      /events/2018/03/19/61056232ed92991d0707d35c54e0d8680b9e00d4da5210d8d60fb2549901ec8e
-    organizer: Brisbane ICO
-    timeStart: '2018-03-19T08:00:00.000Z'
   - name: >-
       March Double Header - Real-time with SignalR + Lessons from the Software
       Greats

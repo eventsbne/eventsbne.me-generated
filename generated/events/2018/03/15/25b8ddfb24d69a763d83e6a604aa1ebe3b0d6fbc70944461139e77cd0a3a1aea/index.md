@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-15T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-05T10:00:13.567Z'
-timeUpdated: '2018-03-05T10:00:13.567Z'
+timeCreated: '2018-03-06T09:51:52.755Z'
+timeUpdated: '2018-03-06T09:51:52.755Z'
 countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WooCommerce Meetup - Topic TBD
-date: '2018-03-05T10:00:13.567Z'
+date: '2018-03-06T09:51:52.755Z'
 
 ---
 <p>• What we'll do</p> <p>Topic TBD. :)</p> <p>• What to bring</p> <p>...</p> <p>• Important to know</p> <p>...</p>

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-16T23:00:00.000Z'
 timeEnd: '2018-03-18T07:00:00.000Z'
-timeCreated: '2018-01-28T11:34:06.093Z'
-timeUpdated: '2018-01-28T11:34:06.093Z'
+timeCreated: '2018-03-06T09:51:52.758Z'
+timeUpdated: '2018-03-06T09:51:52.758Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -15,19 +15,7 @@ url: >-
   https://www.eventbrite.com/e/science-hack-day-brisbane-2018-registration-42213673233?aff=ebapi
 image: >-
   https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F40035092%2F139787410907%2F1%2Foriginal.jpg?s=8a7778b3a18c5b31ba1f8f40d7fc9327
-venue:
-  id: b1fecc02f5122f66e7027b68b0591ac1be7106c95033a29a7a8cd1878b34ec61
-  remoteId: '22832209'
-  remoteIdType: eventbrite
-  name: HSBNE
-  url: null
-  description: null
-  lat: '-27.44321'
-  lon: '153.07921199999998'
-  contactAddress: '221c MacArthur Avenue, Eagle Farm, QLD 4009'
-  contactCity: Eagle Farm
-  contactCountry: Australia
-  contactPhone: null
+venue: {}
 organizer:
   id: 2426e88f4577e30b78b3dea65303ca38e18baad5942383e851fae37e74c21924
   remoteId: david-harris-8068910747
@@ -41,7 +29,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Science Hack Day Brisbane 2018
-date: '2018-01-28T11:34:06.093Z'
+date: '2018-03-06T09:51:52.758Z'
 
 ---
 <P><SPAN><STRONG>Science Hack Day</STRONG> is a weekend event where anyone excited about making things with science comes together in the same physical space to see what they can prototype within 24 consecutive hours. Scientists, engineers, designers, developers, artists, and anyone who is excited about making things with science are welcome to attend – <EM>no experience in science or hacking is necessary</EM>. People organically form multidisciplinary teams over the course of the weekend.</SPAN></P>

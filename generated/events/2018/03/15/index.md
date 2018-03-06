@@ -2,16 +2,26 @@
 title: Events for 2018/03/15
 layout: event-index
 events:
-  - name: WooCommerce Meetup - Topic TBD
+  - name: ADIA Workshop Series at Queensland University of Technology
     uri: >-
-      /events/2018/03/15/25b8ddfb24d69a763d83e6a604aa1ebe3b0d6fbc70944461139e77cd0a3a1aea
-    organizer: Brisbane WooCommerce Meetup
-    timeStart: '2018-03-15T08:00:00.000Z'
+      /events/2018/03/15/c8af58e4a84d594eeaf0560a72bc746bc3f66fbd7c33095d29815856ef38b3e8
+    organizer: Australian Digital Inclusion Alliance
+    timeStart: '2018-03-14T22:30:00.000Z'
   - name: How to write content to boost your business in 31 days - Online Workshop
     uri: >-
       /events/2018/03/15/3e08496b301704ab0e43756f1e2afd1c7f415feb702f900bf45f848e89900733
     organizer: Savvy Australian Bloggers
     timeStart: '2018-03-15T01:30:00.000Z'
+  - name: Agile Brisbane - Lightning Talks
+    uri: >-
+      /events/2018/03/15/0f69995e8c8c394e8d298d9b4f02a7e059ecffecbfb934dd2f30e9fa9b48738c
+    organizer: Agile Brisbane
+    timeStart: '2018-03-15T07:30:00.000Z'
+  - name: WooCommerce Meetup - Topic TBD
+    uri: >-
+      /events/2018/03/15/25b8ddfb24d69a763d83e6a604aa1ebe3b0d6fbc70944461139e77cd0a3a1aea
+    organizer: Brisbane WooCommerce Meetup
+    timeStart: '2018-03-15T08:00:00.000Z'
   - name: AWS Gold Coast regular meetup
     uri: >-
       /events/2018/03/15/daf20f8ec7503e2bc7e3d03ac15cf111c7315ae2814d69ae3c39dac9c2bcc036

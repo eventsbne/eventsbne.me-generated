@@ -12,6 +12,11 @@ events:
       /events/2018/03/08/d8df6cdbc7984ac1d3bee67fff96263781c71935d6d1bafe3977258a4e855706
     organizer: dotMaleny
     timeStart: '2018-03-08T02:30:00.000Z'
+  - name: 'UQ SFPE Seminar: Fire Engineering in Practice'
+    uri: >-
+      /events/2018/03/08/cdf6c422916c0086355c4c99010527ae08c4f2d40f2956430de1dee194a4c3c5
+    organizer: The Society of Fire Protection Engineers - UQ Student Chapter
+    timeStart: '2018-03-08T05:00:00.000Z'
   - name: AWS Security Dual-State Meetup - March 2018
     uri: >-
       /events/2018/03/08/894d744d1d30df10f1cdace2cd6a4d2bda6c4513d80c305decdd30c646f6fa00
