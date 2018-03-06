@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-15T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-06T09:51:52.755Z'
-timeUpdated: '2018-03-06T09:51:52.755Z'
-countAttending: '45'
+timeCreated: '2018-03-06T10:00:13.705Z'
+timeUpdated: '2018-03-06T10:00:13.705Z'
+countAttending: '46'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Agile Brisbane - Lightning Talks
-date: '2018-03-06T09:51:52.755Z'
+date: '2018-03-06T10:00:13.705Z'
 
 ---
 <p>Summary:</p> <p>Come along for a series of Lightning Talks over the space of an hour. We'll be hearing stories from a number of Agile practitioners from different companies across Brisbane.</p> <p>Agenda:</p> <p>• 5:30 - 6pm - Arrive early for some food, a drink and a chat</p> <p>• 6 - 7pm - A series of Lightning talks</p> <p>Our sponsors:</p> <p>Thanks to Expedia (<a href="https://www.expedia.com.au/" class="linkified">https://www.expedia.com.au/</a>) for providing this month's venue, food and drinks and to Elabor8 (<a href="https://elabor8.com.au" class="linkified">https://elabor8.com.au</a>) for their ongoing sponsorship of Agile Brisbane Meetup.</p>

@@ -2,16 +2,16 @@
 title: Events for 2018/03/07
 layout: event-index
 events:
-  - name: Social Media Spotlight
-    uri: >-
-      /events/2018/03/07/e5bff176e24091e94b2194c388812da0ae4de42323d4168ec1ee6a60ac0cce05
-    organizer: Interactive Minds Brisbane - Events about Digital Marketing
-    timeStart: '2018-03-06T22:00:00.000Z'
   - name: Fishburners Weekly Tour
     uri: >-
       /events/2018/03/07/3350e04223fa2e060697db627a2a0a99d95cb4e22980ffbad93941d51de23b72
     organizer: Fishburners Brisbane
     timeStart: '2018-03-07T03:00:00.000Z'
+  - name: Social Media Spotlight
+    uri: >-
+      /events/2018/03/07/e5bff176e24091e94b2194c388812da0ae4de42323d4168ec1ee6a60ac0cce05
+    organizer: Interactive Minds Brisbane - Events about Digital Marketing
+    timeStart: '2018-03-06T22:00:00.000Z'
   - name: Kids Code Club - Advanced
     uri: >-
       /events/2018/03/07/a2a3fcd9279408f65afef78976020a5e0c0dcc0bb52d818704a011a34d843d12
@@ -22,15 +22,15 @@ events:
       /events/2018/03/07/dcb011bdd5cfc3456f74663e33bf2cbf956cdef9d9acd8929115210244b57fa3
     organizer: Alteryx User Group Brisbane
     timeStart: '2018-03-07T07:00:00.000Z'
-  - name: How to retain great people  - Peter Day
-    uri: >-
-      /events/2018/03/07/14a83e49c7c68522bc4781b9ed97a7b466a911e132270535ab90f1e1eecc48d4
-    organizer: CTO School Brisbane
-    timeStart: '2018-03-07T08:00:00.000Z'
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/03/07/8b5da37992580abd44b97ea1312214586ca64017427ce0bf3d7afe6f506aaf15
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-03-07T08:00:00.000Z'
+  - name: How to retain great people  - Peter Day
+    uri: >-
+      /events/2018/03/07/14a83e49c7c68522bc4781b9ed97a7b466a911e132270535ab90f1e1eecc48d4
+    organizer: CTO School Brisbane
     timeStart: '2018-03-07T08:00:00.000Z'
   - name: 'EVENING WORKSHOP:  Create Profitable Relationships & Rock at Networking'
     uri: >-
