@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-19T08:30:00.000Z'
 timeEnd: '2018-04-19T10:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Sunburnt Country -- Qld Launch
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><STRONG>Join the Global Change Institute and the Australian Meteorological &amp; Oceanographic Society (Qld) as we welcome the award-winning climate scientist and writer <A HREF="https://www.findanexpert.unimelb.edu.au/display/person203094" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Dr Joëlle Gergis</A> from the University of Melbourne.</STRONG></P>

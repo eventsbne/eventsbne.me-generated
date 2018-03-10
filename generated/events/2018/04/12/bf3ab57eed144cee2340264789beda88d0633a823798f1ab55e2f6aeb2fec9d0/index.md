@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-11T23:00:00.000Z'
 timeEnd: '2018-04-12T07:30:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -44,7 +44,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '3CX Product Training, Brisbane, Australia - 12th April 2018'
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN STYLE="font-size: small;">This training is open and free to all new or active 3CX Partners and is aimed at pre-sales and support technical personnel tasked with the responsibility of promoting, installing, configuring, maintaining and supporting 3CX client installations and seeking to achieve the 3CX Certification. This training will prepare attendees for the <A HREF="http://www.3cx.com/3CXAcademy/" TARGET="_blank" REL="nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow noopener noreferrer nofollow">3CX Academy Certification Exam</A>.</SPAN></P>

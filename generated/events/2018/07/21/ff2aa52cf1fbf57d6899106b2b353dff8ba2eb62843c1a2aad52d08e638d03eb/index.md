@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-07-20T23:00:00.000Z'
 timeEnd: '2018-07-21T07:00:00.000Z'
-timeCreated: '2018-03-10T14:29:19.460Z'
-timeUpdated: '2018-03-10T14:29:19.460Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '30'
 countWaitlist: null
@@ -66,7 +66,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Research Method Course - Quantitative Methods for Public Policy Analysis
-date: '2018-03-10T14:29:19.460Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><STRONG>Research Methods Courses (RMC)</STRONG></P>

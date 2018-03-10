@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-16T05:00:00.000Z'
 timeEnd: '2018-03-16T07:30:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '30'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: She Flies Teacher Professional Experience 16th March @ Victoria Point SHS
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <DIV>

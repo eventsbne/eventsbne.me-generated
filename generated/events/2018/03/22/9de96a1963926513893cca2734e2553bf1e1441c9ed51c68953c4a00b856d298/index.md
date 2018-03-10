@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Build a website in one hour!
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>Join us at Fire Station 101 to create a website in just one hour! This is a practical hands-on event so remember to:</p> <p>.... bring along your laptop</p> <p>As a workshop participant, you’ll work on your own websites, with expert step-by-step guidance and learn about search engine optimization along the way.</p> <p>The workshop includes:<br/>● Planning and setting up your website<br/>● The basics of how the Google search engine works<br/>● Elements of design to present a professional look</p> <p>Tailored for those at the beginner level in website planning, our presenters are:</p> <p>Chris Mather, CEO of HoloSpace, a tech wizard who uses the latest in technology including holographic displays to push the boundaries of what is possible in promotional software. Chris’s background in computer science has influenced HoloSpace to develop content that enables customers to learn about and engage with brands in innovative new ways.<br/><a href="http://holospace.com.au" class="linkified">http://holospace.com.au</a></p> <p>Gabi de Groen, with a degree in design from Massey University, Gabi is the “Chief Beautification Officer” of the HoloSpace team. She manages the graphic design for all visual elements of the business, along with UX/UI design for all interactive software.<br/><a href="http://holospace.com.au" class="linkified">http://holospace.com.au</a></p>

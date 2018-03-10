@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-06T06:00:00.000Z'
 timeEnd: '2018-04-06T08:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -26,7 +26,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: River City Labs Friday Open House
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P>Join us for our monthly open house drinks. On our open house Fridays we open our doors to the community to give everyone a chance to drop in, meet the founders and entrepreneurs who run the Startups that call River City Labs home. Take a tour, walk through our venue and make some new connections.</P>

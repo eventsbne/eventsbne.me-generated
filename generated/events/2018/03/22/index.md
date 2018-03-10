@@ -8,18 +8,18 @@ events:
     organizer: Savvy Australian Bloggers
     timeStart: '2018-03-22T00:00:00.000Z'
     timeEnd: null
-  - name: Griffith Sciences WIL Student Careers Evening
-    uri: >-
-      /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
-    organizer: 'Work Integrated Learning, Griffith Sciences'
-    timeStart: '2018-03-22T06:00:00.000Z'
-    timeEnd: '2018-03-22T09:00:00.000Z'
   - name: Life Sciences Industry in Parliament 2018
     uri: >-
       /events/2018/03/22/dddd5807daf4879e7bbb42c30dde2790c4457d81d88b15c4f9aba1a86850cb45
     organizer: Life Sciences Queensland Limited
     timeStart: '2018-03-22T02:30:00.000Z'
     timeEnd: '2018-03-22T04:30:00.000Z'
+  - name: Griffith Sciences WIL Student Careers Evening
+    uri: >-
+      /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
+    organizer: 'Work Integrated Learning, Griffith Sciences'
+    timeStart: '2018-03-22T06:00:00.000Z'
+    timeEnd: '2018-03-22T09:00:00.000Z'
   - name: Griffith Sciences Careers' Evening
     uri: >-
       /events/2018/03/22/3e9ae2cdd2a4c74c7344e1f8fe4788a268f187753abe61d92344a99c6e46f5e7

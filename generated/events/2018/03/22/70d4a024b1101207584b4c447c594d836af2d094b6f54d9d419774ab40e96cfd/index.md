@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-22T08:00:00.000Z'
 timeEnd: '2018-03-22T10:00:00.000Z'
-timeCreated: '2018-03-10T14:29:19.460Z'
-timeUpdated: '2018-03-10T14:29:19.460Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '70'
 countWaitlist: null
@@ -48,7 +48,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WiSA Industry Networking Night
-date: '2018-03-10T14:29:19.460Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN>Where will your science degree take you? </SPAN><BR><BR><SPAN>The UQ Women in Science Association's networking night is designed to be an opportunity for WiSA members to network with representatives from industry and governmental agencies in science fields. The purpose of this event is to highlight the pathways available to STEM graduates which do not necessarily lead to academia. The evening will consist of informal networking over drinks and canapes, where you will have the opportunity to find out about the exciting ways you can bring your scientific skills to the workforce. </SPAN><BR><BR><SPAN>This event is proudly supported by the UQ Employability Centre. We hope to see you there !</SPAN></P>

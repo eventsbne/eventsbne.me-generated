@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-23T02:00:00.000Z'
 timeEnd: '2018-03-23T04:30:00.000Z'
-timeCreated: '2018-03-10T14:29:19.460Z'
-timeUpdated: '2018-03-10T14:29:19.460Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '20'
 countWaitlist: null
@@ -83,7 +83,7 @@ layout: event
 title: >-
   Afternoon session Brisbane schools - Green Heart Schools 2018 Future BNE
   Challenge
-date: '2018-03-10T14:29:19.460Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P>Calling all student inventors and scientists! We need your help to secure our water future. Green Heart Schools invites year 7 students to the <I>Future BNE</I> Challenge on Friday 23 March 2018.</P>

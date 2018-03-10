@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-12-02T22:00:00.000Z'
 timeEnd: '2018-12-04T08:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '817'
 countWaitlist: null
@@ -39,7 +39,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: YOW! Developer Conference 2018 - Brisbane
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN><STRONG><STRONG><STRONG>YOW! 2018 Conference<BR></STRONG></STRONG></STRONG></SPAN><STRONG>Brisbane, 3-4 December 2018</STRONG></P>

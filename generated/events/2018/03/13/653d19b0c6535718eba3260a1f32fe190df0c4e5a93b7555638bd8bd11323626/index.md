@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-13T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '16'
 countCapacity: null
 countWaitlist: '2'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Workshop Evening!
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>Hi Everyone!</p> <p>We're having a workshop evening this meet-up! The format will be relaxed, and we'll round table ideas and approaches to some hardware hacking.</p> <p>Very lucky to have a note changing machine provided by @K1NGIE, will dig in and see how it works!</p> <p>Cheers,<br/>Josh</p>

@@ -14,17 +14,17 @@ events:
     organizer: 'Institue of Health and Biomedical Innovation (IHBI, QUT)'
     timeStart: '2018-03-21T04:30:00.000Z'
     timeEnd: '2018-03-21T06:00:00.000Z'
-  - name: Brisbane Amazon Alexa Meetup at Amazon HQ
-    uri: >-
-      /events/2018/03/21/44b5ed62f8f54761be98cf8c583de3645ccc69dc00aa9f22c58bb86db1405869
-    organizer: Brisbane Amazon Alexa Meetup
-    timeStart: '2018-03-21T07:30:00.000Z'
-    timeEnd: null
   - name: 'AWS Security Tri-State Meetup - March 21, 2018 (3rd Wed)'
     uri: >-
       /events/2018/03/21/894d744d1d30df10f1cdace2cd6a4d2bda6c4513d80c305decdd30c646f6fa00
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-03-21T07:00:00.000Z'
+    timeEnd: null
+  - name: Brisbane Amazon Alexa Meetup at Amazon HQ
+    uri: >-
+      /events/2018/03/21/44b5ed62f8f54761be98cf8c583de3645ccc69dc00aa9f22c58bb86db1405869
+    organizer: Brisbane Amazon Alexa Meetup
+    timeStart: '2018-03-21T07:30:00.000Z'
     timeEnd: null
   - name: Learn about startups and accelerators with Terry Gold from Techstars
     uri: >-

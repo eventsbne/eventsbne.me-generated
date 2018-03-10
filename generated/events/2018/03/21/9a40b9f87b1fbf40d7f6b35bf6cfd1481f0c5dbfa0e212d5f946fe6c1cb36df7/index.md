@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-21T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
@@ -38,7 +38,7 @@ layout: event
 title: >-
   Blockchains, Cryptocurrencies & Decentralised Exchange Protocols - BTI
   Workshop1
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>• What we'll do<br/>Hi Guys,</p> <p>Details for this event are on Eventbrite.<br/>Please follow this link:</p> <p><a href="https://www.eventbrite.com.au/e/introduction-to-blockchain-cryptocurrencies-dcps-bti-workshop-1-tickets-42739054663" class="linkified">https://www.eventbrite.com.au/e/introduction-to-blockchain-cryptocurrencies-dcps-bti-workshop-1-tickets-42739054663</a></p> <p>Thankyou!</p> <p>• What to bring<br/>Phone<br/>Laptop<br/>Notepad</p> <p>• Important to know</p>

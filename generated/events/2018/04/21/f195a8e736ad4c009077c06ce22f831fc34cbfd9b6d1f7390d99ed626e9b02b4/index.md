@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-20T22:30:00.000Z'
 timeEnd: '2018-04-21T07:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -26,7 +26,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Global Azure Bootcamp
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P>One day event where everyone, globally, talks about the expanding universe of Microsoft Azure!</P>

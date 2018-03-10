@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-28T08:00:00.000Z'
 timeEnd: '2018-03-28T10:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -40,7 +40,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Presentation by Rodolphe Gelin (Softbank Robotics Chief Scientific Officer)
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P>ST Solutions Australia hosts a special presentation by Rodolphe Gelin, Executive Vice President and Chief Scientific Officer at Softbank Robotics. Rodolphe is also the head of the Innovation Department, managing the future direction of the company's products.</P>

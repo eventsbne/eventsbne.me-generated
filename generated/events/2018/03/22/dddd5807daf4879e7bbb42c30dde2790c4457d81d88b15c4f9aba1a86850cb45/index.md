@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-22T02:30:00.000Z'
 timeEnd: '2018-03-22T04:30:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '300'
 countWaitlist: null
@@ -46,7 +46,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Life Sciences Industry in Parliament 2018
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P>LSQ will be hosting its sixth Life Sciences Industry in Parliament Event (LSIP) on Thursday 22 March 2018, where a panel of local industry leaders will discuss the role that life sciences innovation plays in Queensland’s economic and social development. </P>

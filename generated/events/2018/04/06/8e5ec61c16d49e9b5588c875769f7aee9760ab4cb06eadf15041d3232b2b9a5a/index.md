@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-06T01:00:00.000Z'
 timeEnd: '2018-04-06T02:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -53,7 +53,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: IN CONVERSATION WITH DR CHRIS BURWELL (Queensland Museum)
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN><STRONG>Flowstate presents <BR></STRONG></SPAN><STRONG>IN CONVERSATION WITH DR CHRIS BURWELL <BR>(QUEENSLAND MUSEUM)</STRONG><BR></P>

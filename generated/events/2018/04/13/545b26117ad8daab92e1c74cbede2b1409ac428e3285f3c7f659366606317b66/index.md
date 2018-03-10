@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-12T23:00:00.000Z'
 timeEnd: '2018-04-13T07:30:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '60'
 countWaitlist: null
@@ -44,7 +44,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '3CX Advanced Product Training, Brisbane, Australia - 13th April 2018'
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN STYLE="font-size: small;">This 3CX Advanced Training Workshop is open to all active 3CX Partners who have successfully achieved 3CX Certified Pro / Partner status and/or who have already successfully deployed commercial licenses of 3CX. Training is aimed at pre-sales and support technical personnel tasked with the responsibility of promoting, installing, configuring, maintaining and supporting 3CX client installations. This training will prepare attendees for the <A HREF="http://www.3cx.com/3CXAcademy/" TARGET="_blank" REL="noopener nofollow nofollow nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow nofollow nofollow noreferrer nofollow">3CX Academy Certification Exam</A><BR></SPAN></P>

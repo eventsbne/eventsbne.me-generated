@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-15T23:00:00.000Z'
 timeEnd: '2018-03-16T01:00:00.000Z'
-timeCreated: '2018-03-10T14:29:19.460Z'
-timeUpdated: '2018-03-10T14:29:19.460Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '8'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to Tablets - Redcliffe Library
-date: '2018-03-10T14:29:19.460Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <H2>Learn the basics of using your Android tablet including apps, email, and the internet.</H2>

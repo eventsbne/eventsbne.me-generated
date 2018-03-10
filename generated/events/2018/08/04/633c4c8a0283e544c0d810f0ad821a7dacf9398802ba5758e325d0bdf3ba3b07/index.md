@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-08-03T22:30:00.000Z'
 timeEnd: '2018-08-04T07:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '80'
 countWaitlist: null
@@ -40,7 +40,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Xamarin Hack Day - Brisbane
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <H2>What is Xamarin Hack Day?</H2>

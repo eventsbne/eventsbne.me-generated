@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-12T00:30:00.000Z'
 timeEnd: '2018-03-12T03:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '200'
 countWaitlist: null
@@ -48,7 +48,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Whine Club – Hosted by Chem Eng Postgraduate Leadership Team
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P CLASS="MsoNormal">The School of Chemical Engineering and your Postgraduate Leadership Team would like to invite you to Whine and Dine at the inaugural Whine Club.</P>

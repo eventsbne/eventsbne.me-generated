@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-20T02:00:00.000Z'
 timeEnd: '2018-03-20T03:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -39,7 +39,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'QUT Distinguished Visitor Lecture: Molecular design and synthesis'
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P CLASS="MsoNormal"><STRONG>OVERVIEW</STRONG></P>

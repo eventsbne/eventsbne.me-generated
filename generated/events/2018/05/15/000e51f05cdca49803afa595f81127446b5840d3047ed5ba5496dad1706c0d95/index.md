@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-05-15T09:00:00.000Z'
 timeEnd: '2018-05-15T11:00:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '100'
 countWaitlist: null
@@ -42,7 +42,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Light Play
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN><SPAN>Light is life, from the colour of flowers to the photosynthesis in plants and the production of vitamin D in humans. As science has progressed, light-driven technologies have become an integral part of everyday life and advanced technologies. Think of 3D printing, high speed communication and precision laser surgery.</SPAN></SPAN></P>

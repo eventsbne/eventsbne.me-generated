@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-22T06:00:00.000Z'
 timeEnd: '2018-03-22T09:00:00.000Z'
-timeCreated: '2018-03-10T14:29:19.460Z'
-timeUpdated: '2018-03-10T14:29:19.460Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -41,7 +41,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Griffith Sciences Careers' Evening
-date: '2018-03-10T14:29:19.460Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN>Please join us at our Student Careers' Evening!</SPAN></P>

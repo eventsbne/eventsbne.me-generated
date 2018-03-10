@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-20T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Drupal Gold Coast Monthly Meetup
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>If you're interested in Drupal or the web in general, if you're starting and want to know more or you're an expert, you are welcome, we'd love to have your vision. It's not only a good opportunity to learn something new technically, but to meet other people who are working with Drupal and interesting web ideas.</p> <p>If you have any presentations, lightning talks, or anything to do with Drupal or in conjunction with Drupal (eg web development) then please feel free to present.</p> <p>Meeting Structure Guidelines</p> <p>1) 1/2 hour: Around the table, everyone gives a very brief intro and says something interesting they've been working on/with/learnt in Drupal<br/>2) 1/2 hour: Drupal News, what's been happening in Drupal land since our last meetup.<br/>3) 1/2 hour: Ligntning talk / presentation / Drupal questions.<br/>4) 1/2 hour: Picks - please think of some "picks" to share for people, it can be software, a trick you learnt, a product, some music, whatever you think people should check out.</p> <p>I hope to see you all there!</p>

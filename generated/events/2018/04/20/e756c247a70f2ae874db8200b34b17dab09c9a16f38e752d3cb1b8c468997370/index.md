@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-19T23:00:00.000Z'
 timeEnd: '2018-04-21T05:00:00.000Z'
-timeCreated: '2018-03-10T14:29:19.460Z'
-timeUpdated: '2018-03-10T14:29:19.460Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '24'
 countWaitlist: null
@@ -85,7 +85,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: SPARQed 2-day Junior Research Immersion
-date: '2018-03-10T14:29:19.460Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <P><SPAN>SPARQ-ed 2-day Junior Research Immersions are aimed at providing Year 6-9 students from all over Queensland an opportunity to explore concepts and use techniques not normally covered in a school science laboratory. </SPAN></P>

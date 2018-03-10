@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-15T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '82'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Agile Brisbane - 3 Lightning Talks
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>Summary:</p> <p>Come along for 3 talks over the space of an hour. We'll be hearing from 3 Agile practitioners from different companies in Brisbane.</p> <p>Agenda:</p> <p>• 5:30 - 6pm - Arrive early for some food, a drink and a chat</p> <p>• 6 - 7pm - Talks</p> <p>Speakers / Talks:</p> <p>- Mike Burns - Transformation Coach: Tatts Group - "Cynefin in an Agile World"<br/>- Christian van Stom - Agile Coach: Global Payments - "Achieving more with LeSS"<br/>- TBC</p> <p>Our sponsors:</p> <p>Thanks to Expedia (<a href="https://www.expedia.com.au/" class="linkified">https://www.expedia.com.au/</a>) for providing this month's venue, food and drinks and to Elabor8 (<a href="https://elabor8.com.au" class="linkified">https://elabor8.com.au</a>) for their ongoing sponsorship of Agile Brisbane Meetup.</p>

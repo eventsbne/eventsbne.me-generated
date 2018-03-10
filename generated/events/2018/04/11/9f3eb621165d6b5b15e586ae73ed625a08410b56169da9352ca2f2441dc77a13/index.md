@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-11T03:00:00.000Z'
 timeEnd: '2018-04-12T02:30:00.000Z'
-timeCreated: '2018-03-10T14:29:09.806Z'
-timeUpdated: '2018-03-10T14:29:09.806Z'
+timeCreated: '2018-03-10T15:00:32.171Z'
+timeUpdated: '2018-03-10T15:00:32.171Z'
 countAttending: null
 countCapacity: '54'
 countWaitlist: null
@@ -39,7 +39,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Collaboration for Industry Impact – Deep Dive Workshop
-date: '2018-03-10T14:29:09.806Z'
+date: '2018-03-10T15:00:32.171Z'
 
 ---
 <H2 CLASS="MsoNormal"><SPAN><SPAN>Collaboration for Industry Impact – Deep Dive Workshop</SPAN></SPAN></H2>

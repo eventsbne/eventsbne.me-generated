@@ -20,16 +20,22 @@ events:
     organizer: Women Who Code Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: WordPress Ipswich March Meetup
-    uri: >-
-      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
-    organizer: Ipswich WordPress Meetup
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
     uri: >-
       /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
     organizer: Ethereum Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/03/28/4bcb7eaee3e4dd7172fb78932c0a77179ada45ab8b5deeb4b9e6dd593c451f39
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: WordPress Ipswich March Meetup
+    uri: >-
+      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
+    organizer: Ipswich WordPress Meetup
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
   - name: >-
@@ -40,11 +46,5 @@ events:
     organizer: ST Solutions Australia
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: '2018-03-28T10:00:00.000Z'
-  - name: Blockchain Reserve - Brisbane Investment Analysis
-    uri: >-
-      /events/2018/03/28/4bcb7eaee3e4dd7172fb78932c0a77179ada45ab8b5deeb4b9e6dd593c451f39
-    organizer: Blockchain Reserve Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
 
 ---

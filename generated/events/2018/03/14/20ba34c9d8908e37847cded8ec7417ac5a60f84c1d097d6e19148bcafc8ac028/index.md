@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-14T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '49'
 countCapacity: null
 countWaitlist: '0'
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Azure Smorgasboard
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>We've got a big night planned this month, featuring four of Microsoft Brisbane's best cloud technologists!</p> <p>- Adam Stephensen joins us again to discuss Azure Application Centre.<br/>- Kris Bock will give us an introduction to Azure Databricks.<br/>- Fabrio Braga will discuss and demo the new and advanced analytic features of Power BI.<br/>- And Dale Austin will have a surprise Azure topic for us!</p> <p>NOTE: Because of renovations happening this month, this meeting will take place in the Hub instead of the theatre. Just follow the signs (and the pizza!)</p>

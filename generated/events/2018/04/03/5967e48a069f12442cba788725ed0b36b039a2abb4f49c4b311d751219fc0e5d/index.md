@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-03T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:29:09.803Z'
-timeUpdated: '2018-03-10T14:29:09.803Z'
+timeCreated: '2018-03-10T15:00:32.170Z'
+timeUpdated: '2018-03-10T15:00:32.170Z'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Intelligentsia
-date: '2018-03-10T14:29:09.803Z'
+date: '2018-03-10T15:00:32.170Z'
 
 ---
 <p>Intelligentisia is our regular monthly meetup of GCAIML. We will kick off with a welcome and overview of what has been happening in the world of AI/ML in the past month, then switch into our presentations.</p> <p>Presentations this month:</p> <p>• Newton, the Brain, and the Search for Intelligence, Sascha Rankin</p> <p>• Introduction to RNNs - Matt Lee</p> <p>• Explaining Machine Learning Predictions - Kelvin Ross</p> <p>If you would like to speak about your interesting AI project or use case please volunteer. All welcome.</p>
