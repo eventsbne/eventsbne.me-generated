@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-27T23:00:00.000Z'
 timeEnd: '2018-04-29T08:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -42,7 +42,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: ARRBHACK
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P CLASS="MsoNormal"><STRONG>The Australian Road Research Board (ARRB) is the leading provider of applied research in the transport sphere. The first ARRBHACK  focu</STRONG><SPAN><STRONG>ses on Smart Roads and runs on the 28 – 29th  April 2018, directly before the preeminent ARRB conference 29th  April – 4th May.</STRONG></SPAN></P>

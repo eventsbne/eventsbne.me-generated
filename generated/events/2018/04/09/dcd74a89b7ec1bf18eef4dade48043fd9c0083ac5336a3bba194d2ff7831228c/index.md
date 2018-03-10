@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-08T23:00:00.000Z'
 timeEnd: '2018-04-13T05:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '24'
 countWaitlist: null
@@ -85,7 +85,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: SPARQed 5-day Senior Research Immersion
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P><SPAN>Ever wondered what life as a research scientist would be like? Do you enjoy an intellectual challenge? …performing experiments? …solving complex problems? …analysing data? …and making exciting discoveries? Here’s your opportunity to find out by becoming a scientist in a real research institute for 5 whole days! </SPAN></P>

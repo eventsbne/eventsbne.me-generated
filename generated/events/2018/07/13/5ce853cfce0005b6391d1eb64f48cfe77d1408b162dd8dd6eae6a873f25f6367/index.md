@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-07-13T08:00:00.000Z'
 timeEnd: '2018-07-13T09:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '220'
 countWaitlist: null
@@ -42,7 +42,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Public Lecture ASSAB 2018
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P>Public lecture by Prof. <SPAN>Rob Brooks from the University of New South Wales.</SPAN> For further details on lecture please check www.assab2018.org (Comming soon!). <SPAN>Doors 17.30. The venue is fully wheelchair acessible.</SPAN><BR></P>

@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-19T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:15:12.343Z'
-timeUpdated: '2018-03-10T14:15:12.343Z'
+timeCreated: '2018-03-10T14:29:09.803Z'
+timeUpdated: '2018-03-10T14:29:09.803Z'
 countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
@@ -38,7 +38,7 @@ layout: event
 title: >-
   March Double Header - Real-time with SignalR + Lessons from the Software
   Greats
-date: '2018-03-10T14:15:12.343Z'
+date: '2018-03-10T14:29:09.803Z'
 
 ---
 <p>Real-time with .NET Core, SignalR and Angular<br/>================================================================<br/>Presenter: Thiago Passos (@ThiagoSPassos)</p> <p>Creating a real-time application has become easier than ever with .NET Core, SignalR and Angular. In this demo jammed session, Thiago will show you how to get started and the bits and pieces that you need to put together to implement your own real-time.<br/>_________________________</p> <p>Lessons from the Software Greats<br/>=====================================================================<br/>Presenter: Peter Cumper</p> <p>• I have been fortunate enough to have had close encounters with some of the greats of the software industry including Juval Lowy, Jim McCarthy, Kraig Brockschmidt, Don Box, Rob Aalders and Bill and Ed from BEA. Insights from these people shaped my IT career. I will share the thoughts of the greats that have stuck with me over the years that I keep coming back to.<br/>• Topics covered include:<br/>o The state of the industry, motivations of project managers, what customers pay us to do<br/>o IT Strategy including Enterprise and Business Architecture<br/>o The Master Architect, and what it means to be an architect<br/>o Team Dynamics<br/>o Approaches to project design<br/>o Approaches to coding<br/>o Personal experiences in the IT industry locally and abroad</p>

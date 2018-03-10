@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-18T23:30:00.000Z'
 timeEnd: '2018-03-19T01:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '10'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to Smartphones - Bribie Island Library
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <H2>Learn tips and tricks to help use your device to its full potential.</H2>

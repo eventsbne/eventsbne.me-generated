@@ -11,5 +11,12 @@ events:
       International Political Science Association/Association internationale de
       science politique
     timeStart: '2018-07-20T23:00:00.000Z'
+  - name: Research Method Course - Quantitative Methods for Public Policy Analysis
+    uri: >-
+      /events/2018/07/21/ff2aa52cf1fbf57d6899106b2b353dff8ba2eb62843c1a2aad52d08e638d03eb
+    organizer: >-
+      International Political Science Association/Association internationale de
+      science politique
+    timeStart: '2018-07-20T23:00:00.000Z'
 
 ---

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-06-16T00:00:00.000Z'
 timeEnd: '2018-06-16T07:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -30,7 +30,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Global DevOps Bootcamp 2018 @ QLD ALM Users Group
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P><B>Global DevOps Bootcamp</B> is a global event that will be held on Saturday June 16th and is all about DevOps on the Microsoft Stack. Centrally organized by Xpirit and Solidify and offered to you by this local partner. During this 1-day event we will join (Microsoft) DevOps communities all around the world to talk, learn and play with DevOps concepts.</P>

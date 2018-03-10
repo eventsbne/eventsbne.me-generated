@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-11T03:00:00.000Z'
 timeEnd: '2018-04-12T02:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '54'
 countWaitlist: null
@@ -39,7 +39,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Collaboration for Industry Impact – Deep Dive Workshop
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <H2 CLASS="MsoNormal"><SPAN><SPAN>Collaboration for Industry Impact – Deep Dive Workshop</SPAN></SPAN></H2>
@@ -93,6 +93,37 @@ date: '2018-03-06T09:51:52.758Z'
 <P><SPAN>Both half-day sessions are appropriate for a general audience, as well as those developing specific bids, and we strongly encourage participants to attend both sessions.</SPAN></P>
 </LI>
 </UL>
+<H3><SPAN>Agenda </SPAN></H3>
+<UL>
+<LI>
+<P>Introductory activities and presentation: what is collaboration, and what does it mean to you? (Mark Elliott)</P>
+</LI>
+<LI>
+<P>Presentation: What is a CRC &amp; what’s in it for me? (Tony Peacock, with Q&A)</P>
+</LI>
+<LI>
+<P>Activity: analyse and define the collaborative aspects of their bid concept (Mark Elliott)</P>
+</LI>
+<LI>
+<P>Presentation on "Impact Selection Criteria" - which criteria matter most and what</P>
+arepanelistslooking for (Tony Peacock, with Q&A)</LI>
+<LI>
+<P>Activity: Developing credible industry impact scenarios for their bid (led by Mark Elliott, ideas evaluated by Tony Peacock)</P>
+</LI>
+<LI>
+<P>Presentation: How to form a sound and sustainable collaboration with industry partners (Mark Elliott, with Q&A)</P>
+</LI>
+<LI>
+<P>Presentation: The nuts and bolts of bids (Tony Peacock, with Q&A and handout)</P>
+</LI>
+<LI>
+<P>Activity: designing in detail your industry impact model and collaboration plan (led by Mark Elliott, with evaluation by Tony Peacock)</P>
+</LI>
+<LI>
+<P>Activity: Closing discussion and Q&A with Tony Peacock and Mark Elliott</P>
+</LI>
+</UL>
+<P><BR></P>
 <H3><SPAN><SPAN>About the Speakers </SPAN></SPAN></H3>
 <P CLASS="MsoNormal"><STRONG><SPAN CLASS="Heading2Char">Dr Tony Peacock, CEO, CRC Association</SPAN></STRONG><BR> Dr Tony Peacock is the Chief Executive of the Cooperative Research Centres Association. With more than two decades as CEO of industry research organisations, Tony is an expert on collaboration between industry and academia. He was a 2014 Monash University Churchill Fellow, investigating how business and universities around the world work together to create innovation.</P>
 <P><STRONG>Hailey Cooperrider, Collaboration and Strategy Lead, Collabforge</STRONG></P>

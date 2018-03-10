@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:15:12.343Z'
-timeUpdated: '2018-03-10T14:15:12.343Z'
+timeCreated: '2018-03-10T14:29:09.803Z'
+timeUpdated: '2018-03-10T14:29:09.803Z'
 countAttending: '48'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Accessibility in the digital and real worlds
-date: '2018-03-10T14:15:12.343Z'
+date: '2018-03-10T14:29:09.803Z'
 
 ---
 <p>Hot off the heels of the last meetup we have another one!</p> <p>As designer, most of us have at least some knowledge of accessibility as it applies to the digital world. But what about the real physical world? How is that handled and what can we learn from it?</p> <p>We've got two great panelists that will talk about accessibility and inclusive design - one from the digital work and one from the physical world. They'll talk about similarities, challenges, legislative hurtles &amp; successes.</p> <p>Our physical world panelist is Natasha Chee. She performs delivery of commercial workplaces, commercial base building projects and transition management - ensuring standards are adhered to for inclusive design and accessibility in the physical world. In addition, she is on the Brisbane City Council Independent Advisory Panel contributing to Brisbane's development and city-making.<br/>LinkedIn: <a href="https://www.linkedin.com/in/natasha-chee-81101687/" class="linkified">https://www.linkedin.com/in/natasha-chee-81101687/</a></p> <p>Our digital panelist is none there that Charlie Carter. Owner of Webbism (<a href="http://webbism.com/" class="linkified">http://webbism.com/</a>), the leading web accessibility expert in Australia. Understanding the needs of the user and enabling them to access websites that really work is a personal passion for Charlie.<br/>LinkedIn: <a href="https://www.linkedin.com/in/dangercharlie/" class="linkified">https://www.linkedin.com/in/dangercharlie/</a></p> <p>Hope to see you there!</p>

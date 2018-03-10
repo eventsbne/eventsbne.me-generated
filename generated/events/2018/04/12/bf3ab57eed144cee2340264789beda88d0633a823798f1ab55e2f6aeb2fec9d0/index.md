@@ -5,10 +5,10 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-11T23:00:00.000Z'
 timeEnd: '2018-04-12T07:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
-countCapacity: '40'
+countCapacity: '60'
 countWaitlist: null
 price: Free
 url: >-
@@ -44,10 +44,10 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '3CX Product Training, Brisbane, Australia - 12th April 2018'
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
-<P><SPAN STYLE="font-size: small;">This training is open and free to all new or active 3CX Partners and is aimed at pre-sales and support technical personnel tasked with the responsibility of promoting, installing, configuring, maintaining and supporting 3CX client installations and seeking to achieve the 3CX Certification. This training will prepare attendees for the <A HREF="http://www.3cx.com/3CXAcademy/" TARGET="_blank" REL="noopener nofollow noopener noreferrer nofollow nofollow nofollow nofollow noreferrer nofollow">3CX Academy Certification Exam</A>.</SPAN></P>
+<P><SPAN STYLE="font-size: small;">This training is open and free to all new or active 3CX Partners and is aimed at pre-sales and support technical personnel tasked with the responsibility of promoting, installing, configuring, maintaining and supporting 3CX client installations and seeking to achieve the 3CX Certification. This training will prepare attendees for the <A HREF="http://www.3cx.com/3CXAcademy/" TARGET="_blank" REL="nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow noopener noreferrer nofollow">3CX Academy Certification Exam</A>.</SPAN></P>
 <P><SPAN STYLE="font-size: small;"> <STRONG>Prerequisites</STRONG>: Knowledge of Microsoft networking technology and concepts.</SPAN></P>
 <P><SPAN STYLE="font-size: small;"> This training scheme will enable you to:</SPAN></P>
 <UL>
@@ -64,7 +64,7 @@ date: '2018-03-06T09:51:52.758Z'
 <LI><SPAN STYLE="font-size: small;">A 3CX Technical Supervisor will be moderator of the technical presentation and will be available to meet with you throughout the day.</SPAN></LI>
 </UL>
 <P><SPAN STYLE="font-size: small;"><STRONG>TRAINING AGENDA</STRONG></SPAN><BR></P>
-<P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:00</SPAN></SPAN></STRONG> - Doors Open / Registration</SPAN><BR><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:15</SPAN></SPAN></STRONG> - Welcome and Introduction to 3CX Phone System V15 &amp; 3CX Partner Program by Mr Yilmaz Kabaran, Account Manager.</SPAN><BR></P>
+<P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:00</SPAN></SPAN></STRONG> - Doors Open / Registration</SPAN><BR><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:15</SPAN></SPAN></STRONG> - Welcome and Introduction to 3CX Phone System V15.5 &amp; 3CX Partner Program by Mr Yilmaz Kabaran, Account Manager.</SPAN><BR></P>
 <P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">10:00</SPAN></SPAN></STRONG> - Mr Nicholas Paras, 3CX Technical Trainer:</SPAN><BR><SPAN STYLE="font-size: small;"><STRONG>Course 1: Get Up and Running</STRONG></SPAN><BR></P>
 <UL>
 <LI><SPAN STYLE="font-size: small;">1.0 Install 3CX</SPAN></LI>

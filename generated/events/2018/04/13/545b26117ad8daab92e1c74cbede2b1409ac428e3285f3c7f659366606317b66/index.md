@@ -5,10 +5,10 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-12T23:00:00.000Z'
 timeEnd: '2018-04-13T07:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
-countCapacity: '40'
+countCapacity: '60'
 countWaitlist: null
 price: Free
 url: >-
@@ -44,11 +44,11 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '3CX Advanced Product Training, Brisbane, Australia - 13th April 2018'
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
-<P><SPAN STYLE="font-size: small;">This 3CX Advanced Training Workshop is open to all active 3CX Partners who have successfully achieved 3CX Certified Pro / Partner status and/or who have already successfully deployed commercial licenses of 3CX. Training is aimed at pre-sales and support technical personnel tasked with the responsibility of promoting, installing, configuring, maintaining and supporting 3CX client installations. This training will prepare attendees for the <A HREF="http://www.3cx.com/3CXAcademy/" TARGET="_blank" REL="noopener noreferrer nofollow nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow nofollow">3CX Academy Certification Exam</A><BR></SPAN></P>
-<P><SPAN STYLE="font-size: small;"><STRONG>Prerequisites</STRONG>: Knowledge of Microsoft networking technology and concepts, and preferably <A TITLE="3CX Certified Engineer" HREF="http://www.3cx.com/3CXAcademy" TARGET="_blank" REL="noopener noreferrer nofollow nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow nofollow">3CX Certified Engineer</A> or demonstrable proven ability to sell and install basic 3CX systems.</SPAN></P>
+<P><SPAN STYLE="font-size: small;">This 3CX Advanced Training Workshop is open to all active 3CX Partners who have successfully achieved 3CX Certified Pro / Partner status and/or who have already successfully deployed commercial licenses of 3CX. Training is aimed at pre-sales and support technical personnel tasked with the responsibility of promoting, installing, configuring, maintaining and supporting 3CX client installations. This training will prepare attendees for the <A HREF="http://www.3cx.com/3CXAcademy/" TARGET="_blank" REL="noopener nofollow nofollow nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow nofollow nofollow noreferrer nofollow">3CX Academy Certification Exam</A><BR></SPAN></P>
+<P><SPAN STYLE="font-size: small;"><STRONG>Prerequisites</STRONG>: Knowledge of Microsoft networking technology and concepts, and preferably <A TITLE="3CX Certified Engineer" HREF="http://www.3cx.com/3CXAcademy" TARGET="_blank" REL="noopener nofollow nofollow nofollow noopener noreferrer nofollow nofollow nofollow nofollow nofollow nofollow nofollow nofollow noreferrer nofollow">3CX Certified Engineer</A> or demonstrable proven ability to sell and install basic 3CX systems.</SPAN></P>
 <P><SPAN STYLE="font-size: small;"><STRONG>This training scheme will enable you to</STRONG>:</SPAN></P>
 <UL>
 <LI><SPAN STYLE="font-size: small;">Understand further the mechanisms of IP phone Provisioning with 3CX</SPAN></LI>
@@ -64,7 +64,7 @@ date: '2018-03-06T09:51:52.758Z'
 </UL>
 <P><SPAN STYLE="font-size: small;"><STRONG>TRAINING AGENDA</STRONG></SPAN></P>
 <P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:00</SPAN></SPAN> </STRONG>- Doors Open / Registration</SPAN></P>
-<P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:15</SPAN></SPAN></STRONG> - Welcome and "<STRONG>What's New in 3CX V15</STRONG>" by Mr Yilmaz Kabaran, Account Manager.</SPAN></P>
+<P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">09:15</SPAN></SPAN></STRONG> - Welcome and "<STRONG>What's New in 3CX V15.5</STRONG>" by Mr Yilmaz Kabaran, Account Manager.</SPAN></P>
 <P><SPAN STYLE="font-size: small;"><STRONG><SPAN CLASS="aBn"><SPAN CLASS="aQJ">10:00</SPAN></SPAN></STRONG> - Mr Nicholas Paras, 3CX Technical Trainer:</SPAN></P>
 <P><SPAN STYLE="font-size: small;"><STRONG>Course 3.0: Extended System Services </STRONG></SPAN></P>
 <UL>
