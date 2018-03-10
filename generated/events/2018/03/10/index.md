@@ -22,16 +22,16 @@ events:
       /events/2018/03/10/233d35adbaeec513f8b8a0425948d7d4179cbe64a45f2dbf0d8c6c9b7cbdcfe5
     organizer: Brisbane Internet of Things (IOT) Interest Group
     timeStart: '2018-03-10T03:00:00.000Z'
-  - name: Intro to Electronics (Week 4) by HS Ipswich
-    uri: >-
-      /events/2018/03/10/8269f79bc84b89a9969444d5b98aedd66c81e26f26a67aafcbc41e4b27d36dd5
-    organizer: Startup Ipswich
-    timeStart: '2018-03-10T03:30:00.000Z'
   - name: DCC & TGM Superhero Daughter Day (Brisbane)
     uri: >-
       /events/2018/03/10/299528cacab9a740b3481c4d7c5ccee9fee2eb141bfc7d0d3818d947c6ca9add
     organizer: DCC Jobs
     timeStart: '2018-03-10T04:00:00.000Z'
+  - name: Intro to Electronics (Week 4) by HS Ipswich
+    uri: >-
+      /events/2018/03/10/8269f79bc84b89a9969444d5b98aedd66c81e26f26a67aafcbc41e4b27d36dd5
+    organizer: Startup Ipswich
+    timeStart: '2018-03-10T03:30:00.000Z'
   - name: Humbug - Regular Meeting
     uri: >-
       /events/2018/03/10/6a0ad1f6451ac08c01325e69b089a060a3d3cfafc5fee14f0e88b53832775d9d
