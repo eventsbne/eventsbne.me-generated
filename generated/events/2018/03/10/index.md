@@ -12,16 +12,16 @@ events:
       /events/2018/03/10/79d0c379054e53a6a3414a15bbce4f06b9d11db287918dc0369a9ca65395ee4a
     organizer: Western Corridor Technology Enthusiasts
     timeStart: '2018-03-09T23:00:00.000Z'
-  - name: 'KidHack: Arduino Electronics, Robotics & More'
-    uri: >-
-      /events/2018/03/10/b705fcce782a0d108f0612404e02fa47e70b59b63030da2744584aee23a61667
-    organizer: Gold Coast Techspace
-    timeStart: '2018-03-10T00:00:00.000Z'
   - name: Saturday Workshop - Build your first Internet Thing
     uri: >-
       /events/2018/03/10/233d35adbaeec513f8b8a0425948d7d4179cbe64a45f2dbf0d8c6c9b7cbdcfe5
     organizer: Brisbane Internet of Things (IOT) Interest Group
     timeStart: '2018-03-10T03:00:00.000Z'
+  - name: 'KidHack: Arduino Electronics, Robotics & More'
+    uri: >-
+      /events/2018/03/10/b705fcce782a0d108f0612404e02fa47e70b59b63030da2744584aee23a61667
+    organizer: Gold Coast Techspace
+    timeStart: '2018-03-10T00:00:00.000Z'
   - name: DCC & TGM Superhero Daughter Day (Brisbane)
     uri: >-
       /events/2018/03/10/299528cacab9a740b3481c4d7c5ccee9fee2eb141bfc7d0d3818d947c6ca9add

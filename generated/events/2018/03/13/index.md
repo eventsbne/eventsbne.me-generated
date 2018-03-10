@@ -7,26 +7,26 @@ events:
       /events/2018/03/13/fb3e150f2603975d821298c10005949b4716b997a76ea950e83779f5221991cc
     organizer: Ipswich Libraries
     timeStart: '2018-03-13T00:00:00.000Z'
-  - name: Brisbane Tech Newbies Monthly Meetup
-    uri: >-
-      /events/2018/03/13/25d35e2885a57d11897fa036b2ee5a253fc24e06e73487d4958af52cb1dd6408
-    organizer: Brisbane Tech Newbies
-    timeStart: '2018-03-13T07:45:00.000Z'
   - name: CyberHound QLD Customer Forum - John Paul College
     uri: >-
       /events/2018/03/13/11dc747e0c562947d006d55120e313299cd22dd263f9902f52e2e42d6d419c51
     organizer: CyberHound
     timeStart: '2018-03-13T02:00:00.000Z'
-  - name: Open Night Tuesdays
+  - name: Brisbane Tech Newbies Monthly Meetup
     uri: >-
-      /events/2018/03/13/3d1f2b4cefc5baef6025b1ebf8b48a51c9f86cf882766510ed9d51fbb9413811
-    organizer: Hackerspace Brisbane
-    timeStart: '2018-03-13T08:00:00.000Z'
+      /events/2018/03/13/25d35e2885a57d11897fa036b2ee5a253fc24e06e73487d4958af52cb1dd6408
+    organizer: Brisbane Tech Newbies
+    timeStart: '2018-03-13T07:45:00.000Z'
   - name: BFPG Monthly Meetup
     uri: >-
       /events/2018/03/13/e9c736efb43f3245bec85ff12b4a112920b02e90a939bbbcd3562cdf5939e6c2
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-03-13T07:45:00.000Z'
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/03/13/3d1f2b4cefc5baef6025b1ebf8b48a51c9f86cf882766510ed9d51fbb9413811
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-03-13T08:00:00.000Z'
   - name: Gain an edge to your crypto investing by understanding market cycles
     uri: >-
       /events/2018/03/13/6ee1554a0f9167c6ab25631fec618535d5168d47a14802eaf47b926b8b84f35c
