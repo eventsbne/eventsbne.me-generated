@@ -45,9 +45,8 @@ function allEvents(callback){
       }),
       (done) => db.get('select * from organizers where id = ?', row.organizerId, (error, organizer) => {
         row.organizer = organizer || {}
-        if(!organizer) {
-          console.log(row);
-          throw new Error(`missing organizer for ${row.organizerId}, ${row.id}`)
+        if(row.organizerId && !organizer) {
+          throw new Error(`missing organizer for ${row.organizerId}, ${row.id}`);
         }
         done(error);
       }),
@@ -57,9 +56,10 @@ function allEvents(callback){
         if(!dates[datestamp]) dates[datestamp] = [];
         const entry = {
           name: row.name,
-          uri,
-          organizer: row.organizer.name,
+          uri: uri || null,
+          organizer: row.organizer && row.organizer.name || null,
           timeStart: row.timeStart,
+          timeEnd: row.timeEnd,
         };
         dates[datestamp].push(entry);
         datesLinear.push(entry);
@@ -92,7 +92,6 @@ function dateIndexes(callback){
     const thisOutDir = path.join(outDir, 'events', date);
     const outFile = path.join(thisOutDir,'index.md');
     console.log('writing index to', outFile)
-
     fs.writeFileSync(outFile, `---
 ${yaml.safeDump({
   title: `Events for ${date}`,
