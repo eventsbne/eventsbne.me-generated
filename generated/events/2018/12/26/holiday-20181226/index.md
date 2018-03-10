@@ -5,8 +5,8 @@ remoteIdType: holiday
 status: null
 timeStart: '2018-12-25T14:00:00.000Z'
 timeEnd: '2018-12-26T14:00:00.000Z'
-timeCreated: '2018-03-10T14:50:39.798Z'
-timeUpdated: '2018-03-10T14:50:39.798Z'
+timeCreated: '2018-03-10T14:53:14.141Z'
+timeUpdated: '2018-03-10T14:53:14.141Z'
 countAttending: null
 countCapacity: null
 countWaitlist: null
@@ -17,7 +17,7 @@ venue: {}
 organizer: {}
 layout: event
 title: Boxing Day
-date: '2018-03-10T14:50:39.798Z'
+date: '2018-03-10T14:53:14.141Z'
 
 ---
 Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.
