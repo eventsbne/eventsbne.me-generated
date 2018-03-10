@@ -27,15 +27,20 @@ events:
       /events/2018/03/22/c203f9912d5315a9ff47eb844c6e7b43ce891a94ce8c572677c79a89a698f478
     organizer: YOW! Australia - Conferences \u0026 Workshops
     timeStart: '2018-03-22T07:30:00.000Z'
-  - name: Delicious DataOps Discussion - 4th Thursday
-    uri: >-
-      /events/2018/03/22/e8a74ed5810f4da28ef2af5c2a46a3ee218d0b15db09c87e96e80707501b6ab3
-    organizer: Brisbane Data and Stuff Meetup
-    timeStart: '2018-03-22T08:00:00.000Z'
   - name: Build a website in one hour!
     uri: >-
       /events/2018/03/22/9de96a1963926513893cca2734e2553bf1e1441c9ed51c68953c4a00b856d298
     organizer: Startup Ipswich
+    timeStart: '2018-03-22T08:00:00.000Z'
+  - name: BNE0x1D (30th Session)
+    uri: >-
+      /events/2018/03/22/ad2213f885eb80cc1ddbf1eab648b61bc20380fd5c0d01895caab38abe5bc0da
+    organizer: SecTalks Brisbane
+    timeStart: '2018-03-22T08:00:00.000Z'
+  - name: Delicious DataOps Discussion - 4th Thursday
+    uri: >-
+      /events/2018/03/22/e8a74ed5810f4da28ef2af5c2a46a3ee218d0b15db09c87e96e80707501b6ab3
+    organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-03-22T08:00:00.000Z'
 
 ---

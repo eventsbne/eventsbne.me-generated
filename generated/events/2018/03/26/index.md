@@ -7,6 +7,11 @@ events:
       /events/2018/03/26/eb524571b5a0202ceac264ed99f4bd64bfa309bcebb6295ef236e02061e8fa2a
     organizer: Brisbane EmberJS Community
     timeStart: '2018-03-26T08:00:00.000Z'
+  - name: Brisbane Indie Game Showcase
+    uri: >-
+      /events/2018/03/26/13a9c57bb9f587060a0ddba4fd7f3a9c34fce7b4256ebe9fb58fe373faf37222
+    organizer: Brisbane Unity Developers
+    timeStart: '2018-03-26T07:30:00.000Z'
   - name: Monthly Evening Symposium - Call For Speakers
     uri: >-
       /events/2018/03/26/718512d346b9c23827736ab0b2f415b5d409d5177489ebd483e5c735c0c2ccfc

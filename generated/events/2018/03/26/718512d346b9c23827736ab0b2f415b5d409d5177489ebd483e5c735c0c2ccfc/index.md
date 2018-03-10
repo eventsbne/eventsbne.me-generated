@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-06T09:51:52.755Z'
-timeUpdated: '2018-03-06T09:51:52.755Z'
-countAttending: '3'
+timeCreated: '2018-03-10T14:15:12.343Z'
+timeUpdated: '2018-03-10T14:15:12.343Z'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -25,7 +25,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Evening Symposium - Call For Speakers
-date: '2018-03-06T09:51:52.755Z'
+date: '2018-03-10T14:15:12.343Z'
 
 ---
 <p>• What we'll do<br/>At our monthly evening events we begin with networking and a light dinner (finger foods, beer, wine and soft drinks), then presentations commence from 6:30.</p> <p>What would you like to learn about? Let us know!<br/>Is there something you would like to share? We can offer you encouragement and guidance to present to the group.</p> <p>• What to bring</p> <p><br/>• Important to know</p>

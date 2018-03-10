@@ -46,15 +46,15 @@ date: '2018-03-06T09:51:52.758Z'
 
 ---
 <P>Superhero Daughter Day is coming to Brisbane! Join us as we explore the exciting world of STEM through a range of activities including Hour of Code, Ozobots, UX Design, Escape Room, Photoshop Tutorial, Magformers free play and VR! See the <A HREF="https://static1.squarespace.com/static/53040435e4b0c7c348ba3b1e/t/5a7c334e4192029bc4b032df/1518089047099/FAQ+Superhero+Daughter+Day+Parents+2018+%281%29.pdf" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">FAQs</A> for more information.</P>
-<P><SPAN><STRONG>What is Superhero Daughter Day?</STRONG></SPAN></P>
+<P><SPAN><STRONG>What is Superhero Daughter Day? </STRONG></SPAN></P>
 <P>Superhero Daughter Day is an event organised by DCC Jobs and Tech Girls Movement. Since its inception in 2016, the event has engaged over 1,000 superheroes and their parents/guardians. Beginning as a one-off event in Brisbane in 2016, Superhero Daughter Day took place in 9 cities in Australia and in Auckland, NZ in 2017. The event is now part of our yearly International Women’s Day celebration and this year, our goal is to have 3000 girls participate in Superhero Daughter Day across Australia!</P>
 <P>Apart from participating in engaging workshops, the girls also have an opportunity to meet inspiring female role models, enjoy cupcakes and receive a goodie bag to take home. Why not check out the photos from our 2017 events on <A HREF="https://www.facebook.com/diversecitycareers/photos/?tab=albums" TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">Facebook</A>?</P>
-<P><SPAN><STRONG>Details</STRONG></SPAN></P>
+<P><SPAN><STRONG>Details </STRONG></SPAN></P>
 <P>Who: Girls aged 5 - 12</P>
 <P>When: 10th March 2018 | 2 - 4 pm</P>
 <P>Where: TechnologyOne, Level 4.</P>
 <P><IMG SRC="https://cdn.evbuc.com/eventlogos/238896181/technologyonelogo.png"></P>
-<P>How much: $20 for girls / adults come free<BR></P>
+<P> How much: $20 for girls / adults come free<BR></P>
 <P><STRONG>Note: All materials will be provided. No laptop or tablet is required.</STRONG></P>
 <P>Note: limited tickets on sale, please grab your tickets as soon as possible as they will sell out fast. Please keep to one adult per child. Feel free to come dressed up as superheroes!</P>
 <P><STRONG>Thank you to our partners, supporters and host, TechnologyOne</STRONG><BR>Superhero Daughter Day would not be possible without our wonderful partners and volunteers. <BR></P>

@@ -2,10 +2,15 @@
 title: Events for 2018/04/03
 layout: event-index
 events:
-  - name: Indonesia in an era of Global Change
+  - name: CocoaHeads Brisbane Meetup
     uri: >-
-      /events/2018/04/03/f0131dbbe04fba548f1268bc4d0b26dfef1d93c71f9330edd746398746cfc1d6
-    organizer: Lee Wilson
-    timeStart: '2018-04-03T11:00:00.000Z'
+      /events/2018/04/03/dfa909408d9128898305857ce0f0600eb3bef12d29a8420cd03a6620f6717458
+    organizer: CocoaHeads
+    timeStart: '2018-04-03T08:00:00.000Z'
+  - name: Intelligentsia
+    uri: >-
+      /events/2018/04/03/5967e48a069f12442cba788725ed0b36b039a2abb4f49c4b311d751219fc0e5d
+    organizer: GCAIML
+    timeStart: '2018-04-03T08:30:00.000Z'
 
 ---
