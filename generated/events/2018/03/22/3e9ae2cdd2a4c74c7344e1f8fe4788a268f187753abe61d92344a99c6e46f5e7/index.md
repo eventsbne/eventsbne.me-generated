@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-22T06:00:00.000Z'
 timeEnd: '2018-03-22T09:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:19.460Z'
+timeUpdated: '2018-03-10T14:29:19.460Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -14,7 +14,7 @@ price: Free
 url: >-
   https://www.eventbrite.com.au/e/griffith-sciences-careers-evening-tickets-42109702253?aff=ebapi
 image: >-
-  https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39525787%2F18724739039%2F1%2Foriginal.jpg?s=63c24b740a1bf7c506ca48304408cadf
+  https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F41969949%2F18724739039%2F1%2Foriginal.jpg?s=822beee5c1d35d9ca04f63376accd5fb
 venue:
   id: 1c54e48e03ef54da9dae643f59598fbd1d51e15c90970b1becc887f97d3f4147
   remoteId: '23317469'
@@ -41,7 +41,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Griffith Sciences Careers' Evening
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:19.460Z'
 
 ---
 <P><SPAN>Please join us at our Student Careers' Evening!</SPAN></P>

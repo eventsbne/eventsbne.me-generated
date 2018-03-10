@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-04-05T04:00:00.000Z'
 timeEnd: '2018-04-05T06:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:19.460Z'
+timeUpdated: '2018-03-10T14:29:19.460Z'
 countAttending: null
 countCapacity: '8'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Computers for Beginners - Bribie Island Library
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:19.460Z'
 
 ---
 <H2><SPAN>Are you interested in learning to use computers or the internet, but not sure where to start?</SPAN></H2>
@@ -58,10 +58,12 @@ date: '2018-03-06T09:51:52.758Z'
 <H3><STRONG><SPAN>Please remember when booking for Lesson 1 there is an ongoing commitment to attend all 4 lessons.</SPAN></STRONG></H3>
 <H4>This class runs from 2.00pm - 4.00pm on the dates below:</H4>
 <UL>
-<LI>Thursdays, 1, 8, 15, 22 February </LI>
 <LI>Thursdays, 1, 8, 15, 22 March</LI>
 <LI>Thursdays, 5, 12, 19, 26 April</LI>
 <LI>Thursdays, 3, 10, 17, 24 May</LI>
+<LI>Thursdays, 7, 14, 21 and 28 June</LI>
+<LI>Thursdays, 5, 12, 19 and 26 July</LI>
+<LI>Thursdays, 2, 9, 16 and 23 August</LI>
 </UL>
 <P CLASS="MsoNormal"><STRONG><SPAN>Sessions are approximately 2 hours.  Class size and participant skill level may impact duration.  Evening sessions are typically only 1 hour.</SPAN></STRONG></P>
 <P><SPAN>Places are strictly limited so register now.</SPAN></P>

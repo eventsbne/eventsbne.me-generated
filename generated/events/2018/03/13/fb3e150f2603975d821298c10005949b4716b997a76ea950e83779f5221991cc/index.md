@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-13T00:00:00.000Z'
 timeEnd: '2018-03-13T01:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '110'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Learn for Life: Wild Weather'
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P>Thunderstorms in Ipswich</P>

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-20T08:00:00.000Z'
 timeEnd: '2018-03-20T10:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '120'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: FameLab 2018 Queensland Semi-Final
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P>Fancy a night of laughs, drama, surprises and stories as you've never seen them told before? Then head to the FameLab Queensland semi-final on Tuesday 20 March at Queensland Museum! </P>

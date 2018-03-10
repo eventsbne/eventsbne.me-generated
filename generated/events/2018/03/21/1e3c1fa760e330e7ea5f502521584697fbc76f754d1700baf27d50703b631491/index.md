@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-21T03:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T14:15:12.343Z'
-timeUpdated: '2018-03-10T14:15:12.343Z'
+timeCreated: '2018-03-10T14:29:09.803Z'
+timeUpdated: '2018-03-10T14:29:09.803Z'
 countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Fishburners Weekly Tour
-date: '2018-03-10T14:15:12.343Z'
+date: '2018-03-10T14:29:09.803Z'
 
 ---
 <p>Want to get the official tour of Fishburners Brisbane? Come and join us at 1pm on Wednesdays! This is your chance to meet the community, learn about Fishburners and how we got started, and find out if we're the right fit for you and your startup. We also welcome anyone who's interested in learning more about Fishburners to join the tour. Simply register here: <a href="https://fishburners.org/tour/" class="linkified">https://fishburners.org/tour/</a></p>

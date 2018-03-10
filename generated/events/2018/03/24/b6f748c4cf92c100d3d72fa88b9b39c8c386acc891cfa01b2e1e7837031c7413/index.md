@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-23T22:00:00.000Z'
 timeEnd: '2018-03-24T07:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:19.460Z'
+timeUpdated: '2018-03-10T14:29:19.460Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Global Integration Bootcamp
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:19.460Z'
 
 ---
 <P>Welcome to the registration page for the 2nd annual <STRONG>Global Integration Bootcamp</STRONG> on <STRONG>Saturday, 24th March 2018</STRONG>! Brisbane is one of 18 locations around the world that will be hosting this event, which is a great opportunity to get some hands-on experience with Microsoft's outstanding integration stack!</P>

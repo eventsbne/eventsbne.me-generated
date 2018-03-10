@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-21T04:30:00.000Z'
 timeEnd: '2018-03-21T06:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '120'
 countWaitlist: null
@@ -75,7 +75,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Professor David Franklin @ IHBI Visiting Seminar
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <H2><STRONG><IMG ALT="Professor David Franklin" SRC="https://cdn.evbuc.com/eventlogos/72765417/davidfranklin20181902picture1.png">Professor David Franklin @ IHBI </STRONG></H2>

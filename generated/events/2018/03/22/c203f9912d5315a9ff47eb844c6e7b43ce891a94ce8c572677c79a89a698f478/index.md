@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-22T07:30:00.000Z'
 timeEnd: '2018-03-22T10:30:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:19.460Z'
+timeUpdated: '2018-03-10T14:29:19.460Z'
 countAttending: null
 countCapacity: '155'
 countWaitlist: null
@@ -27,7 +27,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: YOW! Night 2018 Brisbane - Manuel Chakravarty - Mar 22
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:19.460Z'
 
 ---
 <P><SPAN STYLE="font-size: medium;"><STRONG>Demystifying functional programming and what that means for learning &amp; teaching</STRONG></SPAN></P>

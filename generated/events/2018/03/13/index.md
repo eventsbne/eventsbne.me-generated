@@ -22,15 +22,15 @@ events:
       /events/2018/03/13/e9c736efb43f3245bec85ff12b4a112920b02e90a939bbbcd3562cdf5939e6c2
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-03-13T07:45:00.000Z'
-  - name: Open Night Tuesdays
-    uri: >-
-      /events/2018/03/13/3d1f2b4cefc5baef6025b1ebf8b48a51c9f86cf882766510ed9d51fbb9413811
-    organizer: Hackerspace Brisbane
-    timeStart: '2018-03-13T08:00:00.000Z'
   - name: Gain an edge to your crypto investing by understanding market cycles
     uri: >-
       /events/2018/03/13/6ee1554a0f9167c6ab25631fec618535d5168d47a14802eaf47b926b8b84f35c
     organizer: Brisbane ICO
+    timeStart: '2018-03-13T08:00:00.000Z'
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/03/13/3d1f2b4cefc5baef6025b1ebf8b48a51c9f86cf882766510ed9d51fbb9413811
+    organizer: Hackerspace Brisbane
     timeStart: '2018-03-13T08:00:00.000Z'
   - name: Drupal Brisbane Monthly Meetup
     uri: >-

@@ -5,8 +5,8 @@ remoteIdType: eventbrite
 status: live
 timeStart: '2018-03-14T22:30:00.000Z'
 timeEnd: '2018-03-15T03:00:00.000Z'
-timeCreated: '2018-03-06T09:51:52.758Z'
-timeUpdated: '2018-03-06T09:51:52.758Z'
+timeCreated: '2018-03-10T14:29:09.806Z'
+timeUpdated: '2018-03-10T14:29:09.806Z'
 countAttending: null
 countCapacity: '50'
 countWaitlist: null
@@ -43,7 +43,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: ADIA Workshop Series at Queensland University of Technology
-date: '2018-03-06T09:51:52.758Z'
+date: '2018-03-10T14:29:09.806Z'
 
 ---
 <P CLASS="MsoNormal"><STRONG>You are invited to the Australian Digital Inclusion Alliance (ADIA) Workshop Series held at Queensland University of Technology (QUT) from 8.30am – 1.00pm AEST Thursday March 15.</STRONG></P>

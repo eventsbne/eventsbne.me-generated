@@ -3,13 +3,6 @@ title: Events for 2018/03/23
 layout: event-index
 events:
   - name: >-
-      Morning session Brisbane schools - Green Heart Schools 2018 Future BNE
-      Challenge
-    uri: >-
-      /events/2018/03/23/e0abfcfa33aa0adabdb34b0a8509bf417ccda251cd768854c6313e569d33a695
-    organizer: Brisbane City Council
-    timeStart: '2018-03-22T23:00:00.000Z'
-  - name: >-
       Afternoon session Brisbane schools - Green Heart Schools 2018 Future BNE
       Challenge
     uri: >-
