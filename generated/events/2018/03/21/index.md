@@ -20,17 +20,23 @@ events:
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-03-21T07:00:00.000Z'
     timeEnd: null
+  - name: Learn about startups and accelerators with Terry Gold from Techstars
+    uri: >-
+      /events/2018/03/21/34b3fe4daf55f811777fc850133ecec0529c26a8ce81ed48c40e6ba116a88b67
+    organizer: Brisbane DevStart
+    timeStart: '2018-03-21T08:00:00.000Z'
+    timeEnd: null
   - name: Brisbane Amazon Alexa Meetup at Amazon HQ
     uri: >-
       /events/2018/03/21/44b5ed62f8f54761be98cf8c583de3645ccc69dc00aa9f22c58bb86db1405869
     organizer: Brisbane Amazon Alexa Meetup
     timeStart: '2018-03-21T07:30:00.000Z'
     timeEnd: null
-  - name: Learn about startups and accelerators with Terry Gold from Techstars
+  - name: Bitcoin for WOMEN Gold Coast (FREE)
     uri: >-
-      /events/2018/03/21/34b3fe4daf55f811777fc850133ecec0529c26a8ce81ed48c40e6ba116a88b67
-    organizer: Brisbane DevStart
-    timeStart: '2018-03-21T08:00:00.000Z'
+      /events/2018/03/21/fc8c10ae7c90d3124e8375b5dfc55fbfdb5631d93f7628f14dbfb0313d74700f
+    organizer: The Beauty of Bitcoin Gold Coast (free)
+    timeStart: '2018-03-21T09:00:00.000Z'
     timeEnd: null
   - name: >-
       Blockchains, Cryptocurrencies & Decentralised Exchange Protocols - BTI
@@ -39,12 +45,6 @@ events:
       /events/2018/03/21/9a40b9f87b1fbf40d7f6b35bf6cfd1481f0c5dbfa0e212d5f946fe6c1cb36df7
     organizer: Crypto Mining Meetup
     timeStart: '2018-03-21T08:00:00.000Z'
-    timeEnd: null
-  - name: Bitcoin for WOMEN Gold Coast (FREE)
-    uri: >-
-      /events/2018/03/21/fc8c10ae7c90d3124e8375b5dfc55fbfdb5631d93f7628f14dbfb0313d74700f
-    organizer: The Beauty of Bitcoin Gold Coast (free)
-    timeStart: '2018-03-21T09:00:00.000Z'
     timeEnd: null
 
 ---

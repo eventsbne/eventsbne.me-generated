@@ -20,16 +20,16 @@ events:
     organizer: Brisbane Internet of Things (IOT) Interest Group
     timeStart: '2018-03-26T08:00:00.000Z'
     timeEnd: null
-  - name: React Talks & Networking — March
-    uri: >-
-      /events/2018/03/26/c3e084b13aa47e58d55784f237de784b3f1184e0d3b77f403f576bb49cc53f94
-    organizer: Brisbane ReactJS Meetup
-    timeStart: '2018-03-26T08:30:00.000Z'
-    timeEnd: null
   - name: Meetup 0x18002
     uri: >-
       /events/2018/03/26/d74e49d4793030f901792ebb63d837b072b3fb74c2d81944f0c4b4056a2821d6
     organizer: Brisbane ICO
+    timeStart: '2018-03-26T08:30:00.000Z'
+    timeEnd: null
+  - name: React Talks & Networking — March
+    uri: >-
+      /events/2018/03/26/c3e084b13aa47e58d55784f237de784b3f1184e0d3b77f403f576bb49cc53f94
+    organizer: Brisbane ReactJS Meetup
     timeStart: '2018-03-26T08:30:00.000Z'
     timeEnd: null
 

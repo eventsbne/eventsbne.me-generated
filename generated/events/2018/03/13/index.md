@@ -8,6 +8,12 @@ events:
     organizer: Ipswich Libraries
     timeStart: '2018-03-13T00:00:00.000Z'
     timeEnd: '2018-03-13T01:30:00.000Z'
+  - name: BFPG Monthly Meetup
+    uri: >-
+      /events/2018/03/13/e9c736efb43f3245bec85ff12b4a112920b02e90a939bbbcd3562cdf5939e6c2
+    organizer: Brisbane Functional Programming Group (BFPG)
+    timeStart: '2018-03-13T07:45:00.000Z'
+    timeEnd: null
   - name: CyberHound QLD Customer Forum - John Paul College
     uri: >-
       /events/2018/03/13/11dc747e0c562947d006d55120e313299cd22dd263f9902f52e2e42d6d419c51
@@ -20,22 +26,10 @@ events:
     organizer: Brisbane Tech Newbies
     timeStart: '2018-03-13T07:45:00.000Z'
     timeEnd: null
-  - name: BFPG Monthly Meetup
-    uri: >-
-      /events/2018/03/13/e9c736efb43f3245bec85ff12b4a112920b02e90a939bbbcd3562cdf5939e6c2
-    organizer: Brisbane Functional Programming Group (BFPG)
-    timeStart: '2018-03-13T07:45:00.000Z'
-    timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/03/13/3d1f2b4cefc5baef6025b1ebf8b48a51c9f86cf882766510ed9d51fbb9413811
     organizer: Hackerspace Brisbane
-    timeStart: '2018-03-13T08:00:00.000Z'
-    timeEnd: null
-  - name: Gain an edge to your crypto investing by understanding market cycles
-    uri: >-
-      /events/2018/03/13/6ee1554a0f9167c6ab25631fec618535d5168d47a14802eaf47b926b8b84f35c
-    organizer: Brisbane ICO
     timeStart: '2018-03-13T08:00:00.000Z'
     timeEnd: null
   - name: Drupal Brisbane Monthly Meetup
@@ -44,16 +38,22 @@ events:
     organizer: Drupal Brisbane
     timeStart: '2018-03-13T08:30:00.000Z'
     timeEnd: null
-  - name: Workshop Evening!
+  - name: Gain an edge to your crypto investing by understanding market cycles
     uri: >-
-      /events/2018/03/13/653d19b0c6535718eba3260a1f32fe190df0c4e5a93b7555638bd8bd11323626
-    organizer: IoT and SCADA Hackers Australia
-    timeStart: '2018-03-13T09:00:00.000Z'
+      /events/2018/03/13/6ee1554a0f9167c6ab25631fec618535d5168d47a14802eaf47b926b8b84f35c
+    organizer: Brisbane ICO
+    timeStart: '2018-03-13T08:00:00.000Z'
     timeEnd: null
   - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
     uri: >-
       /events/2018/03/13/f4812509b13e8abc557c7013b55b99b271d89f6b26ae2a1c79471f9d4bd68e64
     organizer: Gold Coast Bitcoin and Crypto Meetup
+    timeStart: '2018-03-13T09:00:00.000Z'
+    timeEnd: null
+  - name: Workshop Evening!
+    uri: >-
+      /events/2018/03/13/653d19b0c6535718eba3260a1f32fe190df0c4e5a93b7555638bd8bd11323626
+    organizer: IoT and SCADA Hackers Australia
     timeStart: '2018-03-13T09:00:00.000Z'
     timeEnd: null
 

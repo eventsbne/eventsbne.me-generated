@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-12T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T15:00:32.170Z'
-timeUpdated: '2018-03-10T15:00:32.170Z'
-countAttending: '11'
+timeCreated: '2018-03-11T08:12:12.399Z'
+timeUpdated: '2018-03-11T08:12:12.399Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: How to choose your co-founder/s and future team members
-date: '2018-03-10T15:00:32.170Z'
+date: '2018-03-11T08:12:12.399Z'
 
 ---
 <p>Successful businesses need to have a good product or service that potential clients are willing to pay for. Yet at times businesses with great products or services are beaten by companies with inferior products or services. Why does this happen?</p> <p>The reality is, your success will often be determined by the quality of the people you surround yourself with. However, there are specific roles required for success, it’s not just about finding people that you like or who have specific experience.</p> <p>• What are the key roles of any organisation that need to be supported?<br/>• What makes the best co-founders to work with?<br/>• What makes the best business partners and how do you evaluate the value they may add in the future?<br/>• How do you choose the best people for your startup or established business?</p> <p>Our presenter, Don McKenzie will show you a systemic approach to answering these questions. Don shares real-life business case studies along with tools you can apply to your own businesses to learn from his experiences.</p> <p>These include;<br/>• Building companies across 4 countries in a range of industries including floating on the ASX<br/>• A $750,000 acquisition turning into nearly $55M in under 7-years<br/>• Acquisition of a $45M company that had to be placed into liquidation 2-years later</p> <p>Don highlights the common ingredients to both these successes and failures and their relevance to every business or organisation irrelevant of size. His personal experiences combined with globally recognised content will give you practical ideas which can be applied with immediate effect for any business.</p>

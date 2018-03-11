@@ -28,17 +28,23 @@ events:
     organizer: Ipswich Libraries
     timeStart: '2018-03-14T05:30:00.000Z'
     timeEnd: '2018-03-14T06:30:00.000Z'
+  - name: 'Chris Adams - Facebook, Amazon, Haystack, Orbit Media...it''s a long list!'
+    uri: >-
+      /events/2018/03/14/d9152962737e1b90982b0f60ba0f92e7dfe328efc0f87cc4e84e9fa225eed095
+    organizer: Startup Grind Brisbane
+    timeStart: '2018-03-14T07:00:00.000Z'
+    timeEnd: null
   - name: Kids Code Club - Advanced
     uri: >-
       /events/2018/03/14/4035a64c21cf9a9df0f45a43e2cf1a9e7abcb515a44c7f8dbf2bfa0c05740781
     organizer: Ipswich Libraries
     timeStart: '2018-03-14T06:45:00.000Z'
     timeEnd: '2018-03-14T07:45:00.000Z'
-  - name: 'Chris Adams - Facebook, Amazon, Haystack, Orbit Media...it''s a long list!'
+  - name: Lets talk Portainer with their lead engineer
     uri: >-
-      /events/2018/03/14/d9152962737e1b90982b0f60ba0f92e7dfe328efc0f87cc4e84e9fa225eed095
-    organizer: Startup Grind Brisbane
-    timeStart: '2018-03-14T07:00:00.000Z'
+      /events/2018/03/14/88edafd94942b22072768bb901d28d961ebb56349053d24c6bd8cf4ef38bc7a0
+    organizer: 'Docker Brisbane, Australia'
+    timeStart: '2018-03-14T08:00:00.000Z'
     timeEnd: null
   - name: Azure Smorgasboard
     uri: >-
@@ -46,22 +52,16 @@ events:
     organizer: Brisbane Azure User Group
     timeStart: '2018-03-14T07:30:00.000Z'
     timeEnd: null
-  - name: 'Panel: Enterprise UX Trends for 2018'
-    uri: >-
-      /events/2018/03/14/1f5df60e3001f2da7efea817960426034bb781b099f58feb667fb0f5ac3585cb
-    organizer: Enterprise UX Brisbane
-    timeStart: '2018-03-14T08:00:00.000Z'
-    timeEnd: null
-  - name: Lets talk Portainer with their lead engineer
-    uri: >-
-      /events/2018/03/14/88edafd94942b22072768bb901d28d961ebb56349053d24c6bd8cf4ef38bc7a0
-    organizer: 'Docker Brisbane, Australia'
-    timeStart: '2018-03-14T08:00:00.000Z'
-    timeEnd: null
   - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
       /events/2018/03/14/1cb86d313a62ab7e6ed6f579d9312c46b5de3c2a13c5c7891eb39c26812018c2
     organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-03-14T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Panel: Enterprise UX Trends for 2018'
+    uri: >-
+      /events/2018/03/14/1f5df60e3001f2da7efea817960426034bb781b099f58feb667fb0f5ac3585cb
+    organizer: Enterprise UX Brisbane
     timeStart: '2018-03-14T08:00:00.000Z'
     timeEnd: null
   - name: Branding You & Your Biz... Networking Event.

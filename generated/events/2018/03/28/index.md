@@ -14,18 +14,6 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: Monthly Meetup
-    uri: >-
-      /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
-    organizer: Women Who Code Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
-  - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
-    uri: >-
-      /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
-    organizer: Ethereum Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
       /events/2018/03/28/4bcb7eaee3e4dd7172fb78932c0a77179ada45ab8b5deeb4b9e6dd593c451f39
@@ -46,5 +34,17 @@ events:
     organizer: ST Solutions Australia
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: '2018-03-28T10:00:00.000Z'
+  - name: Monthly Meetup
+    uri: >-
+      /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
+    organizer: Women Who Code Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
+    uri: >-
+      /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
+    organizer: Ethereum Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
 
 ---
