@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-13T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-11T08:12:12.399Z'
-timeUpdated: '2018-03-11T08:12:12.399Z'
-countAttending: '71'
+timeCreated: '2018-03-12T08:12:13.623Z'
+timeUpdated: '2018-03-12T08:12:13.623Z'
+countAttending: '82'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Tech Newbies Monthly Meetup
-date: '2018-03-11T08:12:12.399Z'
+date: '2018-03-12T08:12:13.623Z'
 
 ---
-<p>Arrival from 5:45pm for a 6:15pm start.</p> <p>Details of speakers to come shortly.</p> <p>As always, we'll have a range of drinks and some delicious dinner for you, as well as some great talks and opportunities to chat with the other Tech Newbies</p>
+<p>Arrival from 5:45pm for a 6:15pm start.</p> <p>March Talks:</p> <p>How I learned to stop worrying and love charting North Korean missile ranges in D3.js - Josh Byrd</p> <p>Navigating the Past with Git - Caitlin Palmer-Bright</p> <p>Fixed Mindset Vs Growth Mindset - Jordan Morris</p> <p>Hacking Recruitment - Rachael Goodenough (Readify) &amp; Sammy Herbert (Just Digital People)</p> <p>As always, we'll have a range of drinks and some delicious dinner for you, as well as some great talks and opportunities to chat with the other Tech Newbies</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-16T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-11T08:12:12.399Z'
-timeUpdated: '2018-03-11T08:12:12.399Z'
-countAttending: '45'
+timeCreated: '2018-03-12T08:12:13.623Z'
+timeUpdated: '2018-03-12T08:12:13.623Z'
+countAttending: '46'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: HTC VIVE Pro Brisbane Launch
-date: '2018-03-11T08:12:12.399Z'
+date: '2018-03-12T08:12:13.623Z'
 
 ---
 <p>For the March edition of Brisbane Unity Developers we have a very special guest joining us. Priscilla Harris, VR Manager for Australia and New Zealand, will be here to give Brisbane a peek at the next generation HTC VIVE Pro.</p> <p>In conjunction with Brisbane XR Network (BXRN), we're also inviting local VIVE devs to present what they've been working on for the past year so please speak to one of the organisers if you'd like to be a part of the showcase. So far we have Immerse Enterprise showcasing Barista Simulation and Kholo Waterworks VR and hope to have a few more. Watch this space for more updates.</p> <p>Please note this will be on the Friday night instead of our usual Monday.</p>

@@ -16,23 +16,17 @@ events:
     organizer: Gold Coast and Redlands Bitcoin Simple Meetup
     timeStart: '2018-03-14T01:00:00.000Z'
     timeEnd: null
-  - name: Fishburners Weekly Tour
-    uri: >-
-      /events/2018/03/14/aaae6ce10433756be602a25fe75741a7f3036ebcb5c82c79484fbdde2996183b
-    organizer: Fishburners Brisbane
-    timeStart: '2018-03-14T03:00:00.000Z'
-    timeEnd: null
   - name: Kids Code Club - Beginners
     uri: >-
       /events/2018/03/14/7c087ac3dc73df9ed8c3049b63a8dd13b7273413128b946b560213ca788c2e4c
     organizer: Ipswich Libraries
     timeStart: '2018-03-14T05:30:00.000Z'
     timeEnd: '2018-03-14T06:30:00.000Z'
-  - name: 'Chris Adams - Facebook, Amazon, Haystack, Orbit Media...it''s a long list!'
+  - name: Fishburners Weekly Tour
     uri: >-
-      /events/2018/03/14/d9152962737e1b90982b0f60ba0f92e7dfe328efc0f87cc4e84e9fa225eed095
-    organizer: Startup Grind Brisbane
-    timeStart: '2018-03-14T07:00:00.000Z'
+      /events/2018/03/14/aaae6ce10433756be602a25fe75741a7f3036ebcb5c82c79484fbdde2996183b
+    organizer: Fishburners Brisbane
+    timeStart: '2018-03-14T03:00:00.000Z'
     timeEnd: null
   - name: Kids Code Club - Advanced
     uri: >-
@@ -40,11 +34,11 @@ events:
     organizer: Ipswich Libraries
     timeStart: '2018-03-14T06:45:00.000Z'
     timeEnd: '2018-03-14T07:45:00.000Z'
-  - name: Lets talk Portainer with their lead engineer
+  - name: 'Chris Adams - Facebook, Amazon, Haystack, Orbit Media...it''s a long list!'
     uri: >-
-      /events/2018/03/14/88edafd94942b22072768bb901d28d961ebb56349053d24c6bd8cf4ef38bc7a0
-    organizer: 'Docker Brisbane, Australia'
-    timeStart: '2018-03-14T08:00:00.000Z'
+      /events/2018/03/14/d9152962737e1b90982b0f60ba0f92e7dfe328efc0f87cc4e84e9fa225eed095
+    organizer: Startup Grind Brisbane
+    timeStart: '2018-03-14T07:00:00.000Z'
     timeEnd: null
   - name: Azure Smorgasboard
     uri: >-
@@ -52,16 +46,22 @@ events:
     organizer: Brisbane Azure User Group
     timeStart: '2018-03-14T07:30:00.000Z'
     timeEnd: null
-  - name: Blockchain Reserve - Brisbane Investment Analysis
+  - name: Lets talk Portainer with their lead engineer
     uri: >-
-      /events/2018/03/14/1cb86d313a62ab7e6ed6f579d9312c46b5de3c2a13c5c7891eb39c26812018c2
-    organizer: Blockchain Reserve Brisbane
+      /events/2018/03/14/88edafd94942b22072768bb901d28d961ebb56349053d24c6bd8cf4ef38bc7a0
+    organizer: 'Docker Brisbane, Australia'
     timeStart: '2018-03-14T08:00:00.000Z'
     timeEnd: null
   - name: 'Panel: Enterprise UX Trends for 2018'
     uri: >-
       /events/2018/03/14/1f5df60e3001f2da7efea817960426034bb781b099f58feb667fb0f5ac3585cb
     organizer: Enterprise UX Brisbane
+    timeStart: '2018-03-14T08:00:00.000Z'
+    timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/03/14/1cb86d313a62ab7e6ed6f579d9312c46b5de3c2a13c5c7891eb39c26812018c2
+    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-03-14T08:00:00.000Z'
     timeEnd: null
   - name: Branding You & Your Biz... Networking Event.

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T15:00:32.170Z'
-timeUpdated: '2018-03-10T15:00:32.170Z'
-countAttending: '8'
+timeCreated: '2018-03-12T08:12:13.623Z'
+timeUpdated: '2018-03-12T08:12:13.623Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Build a website in one hour!
-date: '2018-03-10T15:00:32.170Z'
+title: Pitch with Purpose Workshop
+date: '2018-03-12T08:12:13.623Z'
 
 ---
-<p>Join us at Fire Station 101 to create a website in just one hour! This is a practical hands-on event so remember to:</p> <p>.... bring along your laptop</p> <p>As a workshop participant, you’ll work on your own websites, with expert step-by-step guidance and learn about search engine optimization along the way.</p> <p>The workshop includes:<br/>● Planning and setting up your website<br/>● The basics of how the Google search engine works<br/>● Elements of design to present a professional look</p> <p>Tailored for those at the beginner level in website planning, our presenters are:</p> <p>Chris Mather, CEO of HoloSpace, a tech wizard who uses the latest in technology including holographic displays to push the boundaries of what is possible in promotional software. Chris’s background in computer science has influenced HoloSpace to develop content that enables customers to learn about and engage with brands in innovative new ways.<br/><a href="http://holospace.com.au" class="linkified">http://holospace.com.au</a></p> <p>Gabi de Groen, with a degree in design from Massey University, Gabi is the “Chief Beautification Officer” of the HoloSpace team. She manages the graphic design for all visual elements of the business, along with UX/UI design for all interactive software.<br/><a href="http://holospace.com.au" class="linkified">http://holospace.com.au</a></p>
+<p>How do you convey the message about what your business does in a succinct and understandable way, and get an outcome from your presentation?</p> <p>Join us at Fire Station 101 to find out at a pitching workshop.</p> <p>We'll be a joined by representatives from startups who successfully pitched their businesses to the Queensland Government for a coveted spot on the HotDesQ program. These businesses received sponsorship funding to relocate to Queensland and share their knowledge. · Ben Bryant from Confrenceape (Conference Badge Printing)</p> <p>· Joanna Greenlees from Zentivo (Insurtech)</p> <p>· Marita Cheng from Aubots (Robotics)</p> <p>· Leonardo De La Fuente from Edoome (Virtual Classroom)</p> <p>The evening will involve a short pitching story along with advice and experiences from each.</p> <p>There will be opportunities for questions, then interactive 1 on 1 availability for knowledge sharing and ideas for collaboration.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: null
 timeStart: '2018-03-13T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-11T08:12:12.399Z'
-timeUpdated: '2018-03-11T08:12:12.399Z'
-countAttending: '18'
+timeCreated: '2018-03-12T08:12:13.623Z'
+timeUpdated: '2018-03-12T08:12:13.623Z'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Gain an edge to your crypto investing by understanding market cycles
-date: '2018-03-11T08:12:12.399Z'
+date: '2018-03-12T08:12:13.623Z'
 
 ---
 No description was provided.

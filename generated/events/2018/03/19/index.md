@@ -8,6 +8,12 @@ events:
     organizer: The Beauty of Bitcoin Gold Coast (free)
     timeStart: '2018-03-18T21:00:00.000Z'
     timeEnd: null
+  - name: Introduction to Smartphones - Bribie Island Library
+    uri: >-
+      /events/2018/03/19/6cdfa4750bf83a398467050ab4302930786dec378eefc88152d132fd93730a2c
+    organizer: Moreton Bay Region Libraries
+    timeStart: '2018-03-18T23:30:00.000Z'
+    timeEnd: '2018-03-19T01:30:00.000Z'
   - name: >-
       March Double Header - Real-time with SignalR + Lessons from the Software
       Greats
@@ -16,11 +22,5 @@ events:
     organizer: Gold Coast Azure / .NET User Group
     timeStart: '2018-03-19T09:00:00.000Z'
     timeEnd: null
-  - name: Introduction to Smartphones - Bribie Island Library
-    uri: >-
-      /events/2018/03/19/6cdfa4750bf83a398467050ab4302930786dec378eefc88152d132fd93730a2c
-    organizer: Moreton Bay Region Libraries
-    timeStart: '2018-03-18T23:30:00.000Z'
-    timeEnd: '2018-03-19T01:30:00.000Z'
 
 ---
