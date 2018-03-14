@@ -14,6 +14,12 @@ events:
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-03-27T02:00:00.000Z'
     timeEnd: null
+  - name: March Meetup Madness
+    uri: >-
+      /events/2018/03/27/59c8cea282528cf2ab794d9d78f0f0d1b52bc323663c1f43e7804cda8ec931b6
+    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
+    timeStart: '2018-03-27T07:45:00.000Z'
+    timeEnd: null
   - name: BrisRuby.com Monthly  Meetup
     uri: >-
       /events/2018/03/27/43154400ae84ae3722482376b6dc0da6f044969b1fa985d0f461b5735da47d12

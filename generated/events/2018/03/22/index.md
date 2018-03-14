@@ -14,15 +14,15 @@ events:
     organizer: Life Sciences Queensland Limited
     timeStart: '2018-03-22T02:30:00.000Z'
     timeEnd: '2018-03-22T04:30:00.000Z'
-  - name: Griffith Sciences WIL Student Careers Evening
-    uri: >-
-      /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
-    organizer: 'Work Integrated Learning, Griffith Sciences'
-    timeStart: '2018-03-22T06:00:00.000Z'
-    timeEnd: '2018-03-22T09:00:00.000Z'
   - name: Griffith Sciences Careers' Evening
     uri: >-
       /events/2018/03/22/3e9ae2cdd2a4c74c7344e1f8fe4788a268f187753abe61d92344a99c6e46f5e7
+    organizer: 'Work Integrated Learning, Griffith Sciences'
+    timeStart: '2018-03-22T06:00:00.000Z'
+    timeEnd: '2018-03-22T09:00:00.000Z'
+  - name: Griffith Sciences WIL Student Careers Evening
+    uri: >-
+      /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
     organizer: 'Work Integrated Learning, Griffith Sciences'
     timeStart: '2018-03-22T06:00:00.000Z'
     timeEnd: '2018-03-22T09:00:00.000Z'
@@ -32,6 +32,18 @@ events:
     organizer: YOW! Australia - Conferences \u0026 Workshops
     timeStart: '2018-03-22T07:30:00.000Z'
     timeEnd: '2018-03-22T10:30:00.000Z'
+  - name: How to Build a User Experience Centric Digital Transformation Strategy
+    uri: >-
+      /events/2018/03/22/98948b4dc5464bd8c35c3b31f68cf3b66ed93570474526adad784044f01520c0
+    organizer: Dynatrace Brisbane Meetup
+    timeStart: '2018-03-22T07:30:00.000Z'
+    timeEnd: null
+  - name: 'Is Stretch DB right for me? The good, the bad and the gotchas'
+    uri: >-
+      /events/2018/03/22/967756a967e7c2019f7c6a42fe030c01eaad13939e39b859e560b9eb0417be85
+    organizer: QLD SQL Server User Group
+    timeStart: '2018-03-22T07:30:00.000Z'
+    timeEnd: null
   - name: WiSA Industry Networking Night
     uri: >-
       /events/2018/03/22/70d4a024b1101207584b4c447c594d836af2d094b6f54d9d419774ab40e96cfd
@@ -48,6 +60,12 @@ events:
     uri: >-
       /events/2018/03/22/9de96a1963926513893cca2734e2553bf1e1441c9ed51c68953c4a00b856d298
     organizer: Startup Ipswich
+    timeStart: '2018-03-22T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Meet up, network, help each other with contacts and work on your idea'
+    uri: >-
+      /events/2018/03/22/b5270f7b6bcc5ffeadb313e3a3af3e546234f7ab0ed869927e1b55dbd59f749f
+    organizer: Ag Tech Innovation & catch up Brisbane Meetup
     timeStart: '2018-03-22T08:00:00.000Z'
     timeEnd: null
   - name: BNE0x1D (30th Session)

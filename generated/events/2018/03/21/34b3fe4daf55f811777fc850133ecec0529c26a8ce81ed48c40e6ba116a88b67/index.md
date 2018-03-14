@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-21T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-12T08:12:13.623Z'
-timeUpdated: '2018-03-12T08:12:13.623Z'
+timeCreated: '2018-03-14T08:12:13.752Z'
+timeUpdated: '2018-03-14T08:12:13.752Z'
 countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Learn about startups and accelerators with Terry Gold from Techstars
-date: '2018-03-12T08:12:13.623Z'
+date: '2018-03-14T08:12:13.752Z'
 
 ---
-<p>Want to know how to grow from being a developer to being the CEO of a company? Join us as we learn from startup expert Terry Gold. Terry Gold is the Managing Director of Techstars Adelaide, the first Techstars Accelerator in Australia and SouthEast Asia. Techstars is the worldwide network that helps entrepreneurs succeed. Find out more about Techstars at <a href="https://www.techstars.com" class="linkified">https://www.techstars.com</a></p> <p>Join us at 6pm for a 6.30pm start.</p>
+<p>Want to know how to grow from being a developer to being the CEO of a company? Join us as we learn from startup expert Terry Gold. Terry Gold is the Managing Director of Techstars Adelaide, the first Techstars Accelerator in Australia and SouthEast Asia. In his own words:</p> <p>"I was a software developer at Bell Labs when I decided with a friend to start my company. I didn’t consider myself a business person and I certainly wasn’t a sales person or CEO, but I learned to take on each of those jobs, while continuing to write code in the early days. In time I was able to hire people who were better than me so that I could focus on really learning how to be a leader, and I believe that most engineers can do the same if they understand that their job will change as the company grows. I have a list of 13 lessons learn that I developed over my 23 years as a founder that I can bring with me as well. I’ve been keeping notes on a book I call “How Not to Quit” and we could talk about that too. I’m still adding new ideas too it so it may never get written . . ."</p> <p>Techstars is the worldwide network that helps entrepreneurs succeed. Find out more about Techstars at <a href="https://www.techstars.com" class="linkified">https://www.techstars.com</a></p> <p>Join us at 6pm for a 6.30pm start.</p>

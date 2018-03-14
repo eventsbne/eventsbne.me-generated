@@ -16,18 +16,18 @@ events:
     organizer: Gold Coast and Redlands Bitcoin Simple Meetup
     timeStart: '2018-03-14T01:00:00.000Z'
     timeEnd: null
-  - name: Kids Code Club - Beginners
-    uri: >-
-      /events/2018/03/14/7c087ac3dc73df9ed8c3049b63a8dd13b7273413128b946b560213ca788c2e4c
-    organizer: Ipswich Libraries
-    timeStart: '2018-03-14T05:30:00.000Z'
-    timeEnd: '2018-03-14T06:30:00.000Z'
   - name: Fishburners Weekly Tour
     uri: >-
       /events/2018/03/14/aaae6ce10433756be602a25fe75741a7f3036ebcb5c82c79484fbdde2996183b
     organizer: Fishburners Brisbane
     timeStart: '2018-03-14T03:00:00.000Z'
     timeEnd: null
+  - name: Kids Code Club - Beginners
+    uri: >-
+      /events/2018/03/14/7c087ac3dc73df9ed8c3049b63a8dd13b7273413128b946b560213ca788c2e4c
+    organizer: Ipswich Libraries
+    timeStart: '2018-03-14T05:30:00.000Z'
+    timeEnd: '2018-03-14T06:30:00.000Z'
   - name: Kids Code Club - Advanced
     uri: >-
       /events/2018/03/14/4035a64c21cf9a9df0f45a43e2cf1a9e7abcb515a44c7f8dbf2bfa0c05740781

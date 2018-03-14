@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-15T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-12T08:12:13.623Z'
-timeUpdated: '2018-03-12T08:12:13.623Z'
-countAttending: '19'
+timeCreated: '2018-03-14T08:12:13.752Z'
+timeUpdated: '2018-03-14T08:12:13.752Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Gold Coast regular meetup
-date: '2018-03-12T08:12:13.623Z'
+date: '2018-03-14T08:12:13.752Z'
 
 ---
-<p>TBA</p>
+<p>This month we are diving into the realm of the RaspberryPi and AWS Systems Manager. If the demo-gods are with us we will see a RaspberryPi booted and remotely controlled from the AWS console, with the help of some terraform and ansible thrown in.</p>

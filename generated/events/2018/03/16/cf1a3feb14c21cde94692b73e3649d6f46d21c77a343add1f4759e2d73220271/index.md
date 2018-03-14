@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-16T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-12T08:12:13.623Z'
-timeUpdated: '2018-03-12T08:12:13.623Z'
-countAttending: '46'
+timeCreated: '2018-03-14T08:12:13.752Z'
+timeUpdated: '2018-03-14T08:12:13.752Z'
+countAttending: '55'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: HTC VIVE Pro Brisbane Launch
-date: '2018-03-12T08:12:13.623Z'
+title: HTC VIVE Pro Launch Brisbane
+date: '2018-03-14T08:12:13.752Z'
 
 ---
-<p>For the March edition of Brisbane Unity Developers we have a very special guest joining us. Priscilla Harris, VR Manager for Australia and New Zealand, will be here to give Brisbane a peek at the next generation HTC VIVE Pro.</p> <p>In conjunction with Brisbane XR Network (BXRN), we're also inviting local VIVE devs to present what they've been working on for the past year so please speak to one of the organisers if you'd like to be a part of the showcase. So far we have Immerse Enterprise showcasing Barista Simulation and Kholo Waterworks VR and hope to have a few more. Watch this space for more updates.</p> <p>Please note this will be on the Friday night instead of our usual Monday.</p>
+<p>For the March edition of Brisbane Unity Developers we have a very special guest joining us. Priscilla Harris, VR Manager for Australia and New Zealand, will be here to give Brisbane a peek at the next generation HTC VIVE Pro.</p> <p>In conjunction with Brisbane XR Network (BXRN), we're also inviting local VIVE devs to present what they've been working on for the past year so please speak to one of the organisers if you'd like to be a part of the showcase. We have Zero Dome from Pillow Head Games, Space Dream by Justin Davis, and Immerse Enterprise showcasing Barista Simulation and Kholo Waterworks VR and hope to have a few more. Watch this space for more updates.</p> <p>Please note this will be on the Friday night instead of our usual Monday.</p> <p>Schedule:<br/>5:15pm - 6pm - Set up showcase -<br/>For anyone showing their VIVE project, please arrive early to set up</p> <p>6:00pm - Pizza and showcase<br/>Mingle over pizza and drinks, and check out the showcase</p> <p>7:00pm - Vive Pro Presentation with Priscilla Harris<br/>Priscilla Harris will unveil the Vive Pro 7:45pm - Showcase continues<br/>Another chance to check out the rest of the showcase</p> <p>8:30pm-11:00pm Free Space VR<br/>For those who can't get enough virtual reality, we're going to kick on at Free Space VR who have kindly offered to reserve the venue for us so we can check out Brisbane's newest VR arcade. This is a short 5 min walk from River City Labs at 295 St Pauls Tce, Fortitude Valley <a href="http://www.freespacevr.com.au/" class="linkified">http://www.freespacevr.com.au/</a></p>

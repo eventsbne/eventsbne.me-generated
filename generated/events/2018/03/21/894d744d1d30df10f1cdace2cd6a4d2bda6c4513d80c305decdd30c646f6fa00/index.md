@@ -5,25 +5,25 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-21T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T15:00:32.170Z'
-timeUpdated: '2018-03-10T15:00:32.170Z'
-countAttending: '39'
+timeCreated: '2018-03-14T08:12:13.752Z'
+timeUpdated: '2018-03-14T08:12:13.752Z'
+countAttending: '42'
 countCapacity: null
 countWaitlist: '0'
 price: null
 url: 'https://www.meetup.com/Brisbane-AWS-Security-User-Group/events/247609998/'
 image: null
 venue:
-  id: 2af200aead2268a61be5a3061810d485d11f94291c6b52dd3da8ec89582052a9
-  remoteId: '25234418'
+  id: b605173978400dd1db1156f6f659c94c522eaed78f056155d617d827bbe5b2ed
+  remoteId: '25766764'
   remoteIdType: meetup
-  name: Amazon Web Services
+  name: Hays Office
   url: null
   description: null
-  lat: '-27.467191696166992'
-  lon: '153.0278778076172'
-  contactAddress: 'Level 8, 300 Queen St'
-  contactCity: Brisbane
+  lat: '-27.467592239379883'
+  lon: '153.0303497314453'
+  contactAddress: Level 45 - 111 Eagle Street
+  contactCity: Queensland
   contactCountry: Australia
   contactPhone: null
 organizer:
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'AWS Security Tri-State Meetup - March 21, 2018 (3rd Wed)'
-date: '2018-03-10T15:00:32.170Z'
+date: '2018-03-14T08:12:13.752Z'
 
 ---
-<p>*To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite.*<br/>Please REGISTER here:<a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-21-3rd-wed-tickets-43800338993" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-21-3rd-wed-tickets-43800338993</a></p> <p>Here are our AWS Security talks for the month of March 2018:</p> <p>SPEAKER 1:<br/>Jesus Nunez - Lead Software Engr, ING DIRECT Au</p> <p>TALK TOPIC: PII Breach Story<br/>Jesus' talk will highlight the importance of API design to prevent security hacking and the remediation solutions to restore the security health</p> <p>SPEAKER 2:<br/>TBD<br/>TALK TOPIC: TBD<br/>TBD</p> <p>SCHEDULE<br/>MELBOURNE - Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM<br/>BRISBANE - Registration, foods and drinks starts at 5:00 PM / Presentation starts 5:30 PM</p> <p>EVENT ORGANISERS<br/>Melbourne: Andrew Brydon<br/>Brisbane: Mick Esber</p> <p>Big thanks again to the host and sponsor of the event, AWS!</p> <p>Grab your ticket, and see you there!<br/>The MeetupMadness Team</p>
+<p>*To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite.*<br/>Please REGISTER here: <a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-21-3rd-wed-tickets-43800338993" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-march-21-3rd-wed-tickets-43800338993</a></p> <p>Here are our AWS Security talks for the month of March 2018:</p> <p>SPEAKER 1:<br/>Jesus Nunez - Lead Software Engr, ING DIRECT Au<br/>TALK TOPIC: PII Breach Story<br/>Jesus' talk will highlight the importance of API design to prevent security hacking and the remediation solutions to restore the security health<br/>SPEAKER 2:<br/>Zak Siddiqui - Chief Software Arch, KELSIEM<br/>TALK TOPIC: Single Sign-On to AWS Console using Microsoft AD credentials.<br/>Single Sign On is an excellent security requirement for any business application, yet you might still be using separate logins for AD and for AWS Console. If you want to force other business application projects to leverage Single Sign On, you need to practise what you preach. In this talk, Zak will perform a live demo of setting up Single Sign On to AWS Console using Microsoft AD using SAML, and also leveraging Microsoft AD's push-based Multi-Factor Authentication capability to enable secure access to the AWS Console.</p> <p>SCHEDULE &amp; VENUE<br/>SYDNEY (TBD) - Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM</p> <p>MELBOURNE (AWS Office) -Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM</p> <p>BRISBANE (Hays Office) - Registration, foods and drinks starts at 5:00 PM / Presentation starts 5:30 PM</p> <p>*Full address of the venue/s can be found on the EventBrite registration page*</p> <p>EVENT ORGANISERS<br/>Sydney: Stephen Wallace<br/>Melbourne: Paul Hawkins<br/>Brisbane: Mick Esber</p> <p>To facilitate the venue security requirements, all tickets of this event are via Eventbrite.<br/>REGISTER VIA REGISTRATION LINK ABOVE...</p> <p>*See you all on March 21*<br/>The MeetupMadness Team</p> <p>Big thanks again to the hosts &amp; sponsors of this month’s event:<br/>AWS, Hays, Okta</p>

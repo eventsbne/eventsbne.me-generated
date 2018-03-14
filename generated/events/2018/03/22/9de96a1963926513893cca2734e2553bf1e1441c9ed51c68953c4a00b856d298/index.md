@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-12T08:12:13.623Z'
-timeUpdated: '2018-03-12T08:12:13.623Z'
-countAttending: '10'
+timeCreated: '2018-03-14T08:12:13.752Z'
+timeUpdated: '2018-03-14T08:12:13.752Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Pitch with Purpose Workshop
-date: '2018-03-12T08:12:13.623Z'
+date: '2018-03-14T08:12:13.752Z'
 
 ---
 <p>How do you convey the message about what your business does in a succinct and understandable way, and get an outcome from your presentation?</p> <p>Join us at Fire Station 101 to find out at a pitching workshop.</p> <p>We'll be a joined by representatives from startups who successfully pitched their businesses to the Queensland Government for a coveted spot on the HotDesQ program. These businesses received sponsorship funding to relocate to Queensland and share their knowledge. · Ben Bryant from Confrenceape (Conference Badge Printing)</p> <p>· Joanna Greenlees from Zentivo (Insurtech)</p> <p>· Marita Cheng from Aubots (Robotics)</p> <p>· Leonardo De La Fuente from Edoome (Virtual Classroom)</p> <p>The evening will involve a short pitching story along with advice and experiences from each.</p> <p>There will be opportunities for questions, then interactive 1 on 1 availability for knowledge sharing and ideas for collaboration.</p>

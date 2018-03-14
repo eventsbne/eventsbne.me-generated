@@ -14,18 +14,6 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: WordPress Ipswich March Meetup
-    uri: >-
-      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
-    organizer: Ipswich WordPress Meetup
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
-  - name: Monthly Meetup
-    uri: >-
-      /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
-    organizer: Women Who Code Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: >-
       Presentation by Rodolphe Gelin (Softbank Robotics Chief Scientific
       Officer)
@@ -34,16 +22,28 @@ events:
     organizer: ST Solutions Australia
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: '2018-03-28T10:00:00.000Z'
+  - name: external event - Softbank Robotics Chief Scientific Officer presents
+    uri: >-
+      /events/2018/03/28/779fb5c7a55ea09333e58a64f18e846a1bc44ce6517c34c39fb1b01728dc8c89
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: Monthly Meetup
+    uri: >-
+      /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
+    organizer: Women Who Code Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
   - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
     uri: >-
       /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
     organizer: Ethereum Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: external event - Softbank Robotics Chief Scientific Officer presents
+  - name: WordPress Ipswich March Meetup
     uri: >-
-      /events/2018/03/28/779fb5c7a55ea09333e58a64f18e846a1bc44ce6517c34c39fb1b01728dc8c89
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
+      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
+    organizer: Ipswich WordPress Meetup
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
 
