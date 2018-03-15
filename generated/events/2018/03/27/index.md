@@ -20,6 +20,12 @@ events:
     organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
     timeStart: '2018-03-27T07:45:00.000Z'
     timeEnd: null
+  - name: 'Title: Hardware Startup #3 –  Arc, Start Ups and experiences from Industry'
+    uri: >-
+      /events/2018/03/27/1c5a121bf3990b0282bbf35d05c9b8614b612b32b0ba0c877e6fe58c238ae69b
+    organizer: Hardware StartUp - Brisbane
+    timeStart: '2018-03-27T08:00:00.000Z'
+    timeEnd: null
   - name: BrisRuby.com Monthly  Meetup
     uri: >-
       /events/2018/03/27/43154400ae84ae3722482376b6dc0da6f044969b1fa985d0f461b5735da47d12

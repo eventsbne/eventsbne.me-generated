@@ -44,5 +44,11 @@ events:
     organizer: 'Cryptocurrency Training, Support and Assistance'
     timeStart: '2018-03-15T08:30:00.000Z'
     timeEnd: null
+  - name: Gold Coast Bitcoin Meetup
+    uri: >-
+      /events/2018/03/15/7fb4362e59fd9cac01e85c83f055fa4fb1e36bb43f0486e48b36c9e26b73515a
+    organizer: Gold Coast Bitcoin Meetup
+    timeStart: '2018-03-15T09:00:00.000Z'
+    timeEnd: null
 
 ---

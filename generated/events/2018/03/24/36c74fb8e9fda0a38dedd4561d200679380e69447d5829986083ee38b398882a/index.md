@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-24T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-10T15:00:32.170Z'
-timeUpdated: '2018-03-10T15:00:32.170Z'
-countAttending: '11'
+timeCreated: '2018-03-15T08:12:13.105Z'
+timeUpdated: '2018-03-15T08:12:13.105Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Hack and Race
-date: '2018-03-10T15:00:32.170Z'
+date: '2018-03-15T08:12:13.105Z'
 
 ---
 <p>First meetup to discuss building our robocars.</p>

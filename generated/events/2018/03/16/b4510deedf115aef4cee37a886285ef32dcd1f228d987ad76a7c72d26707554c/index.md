@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-16T01:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-14T08:12:13.752Z'
-timeUpdated: '2018-03-14T08:12:13.752Z'
-countAttending: '20'
+timeCreated: '2018-03-15T08:12:13.105Z'
+timeUpdated: '2018-03-15T08:12:13.105Z'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Mid-morning inspiration
-date: '2018-03-14T08:12:13.752Z'
+date: '2018-03-15T08:12:13.105Z'
 
 ---
 <p>A casual catch up over coffee, tea, kombucha or perhaps your daily Soylent or fresh Juicero drink. Meet your local startup community, bounce some ideas, show off something cool, get caffeinated. Who knows what could grow from one coffee?</p>

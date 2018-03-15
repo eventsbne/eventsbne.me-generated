@@ -20,7 +20,7 @@ events:
     organizer: WordPress Brisbane
     timeStart: '2018-04-12T08:00:00.000Z'
     timeEnd: null
-  - name: 'Call for speakers, finalising event details.'
+  - name: 'Feature engineering, turn feature into features'
     uri: >-
       /events/2018/04/12/7a721f8eba32e9264314cbfa59d0a3d80d7f7d11bd54f681a51fa717b681c5ff
     organizer: Brisbane Data Science Meetup

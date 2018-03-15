@@ -28,6 +28,12 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
+  - name: WordPress Ipswich March Meetup
+    uri: >-
+      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
+    organizer: Ipswich WordPress Meetup
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
   - name: Monthly Meetup
     uri: >-
       /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
@@ -38,12 +44,6 @@ events:
     uri: >-
       /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
     organizer: Ethereum Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
-  - name: WordPress Ipswich March Meetup
-    uri: >-
-      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
-    organizer: Ipswich WordPress Meetup
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
 

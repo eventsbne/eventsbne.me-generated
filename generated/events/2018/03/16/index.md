@@ -2,6 +2,12 @@
 title: Events for 2018/03/16
 layout: event-index
 events:
+  - name: "Community Breakfast ☕️\U0001F5FD"
+    uri: >-
+      /events/2018/03/16/e1b4017410012ea199c2f468ffbc55ef82437e8cf45b55ae7b2f7d16486e9ba6
+    organizer: Product of BNE
+    timeStart: '2018-03-15T21:30:00.000Z'
+    timeEnd: null
   - name: Introduction to Tablets - Redcliffe Library
     uri: >-
       /events/2018/03/16/ad847b778dd2399e511d713b421f77f7a8a6a59386b4796bc10e42c1edecc03e

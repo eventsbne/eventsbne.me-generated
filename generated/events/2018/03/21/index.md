@@ -20,16 +20,28 @@ events:
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-03-21T07:00:00.000Z'
     timeEnd: null
+  - name: Workshop Evening!
+    uri: >-
+      /events/2018/03/21/653d19b0c6535718eba3260a1f32fe190df0c4e5a93b7555638bd8bd11323626
+    organizer: IoT and SCADA Hackers Australia
+    timeStart: '2018-03-21T08:00:00.000Z'
+    timeEnd: null
+  - name: Learn about startups and accelerators with Terry Gold from Techstars
+    uri: >-
+      /events/2018/03/21/34b3fe4daf55f811777fc850133ecec0529c26a8ce81ed48c40e6ba116a88b67
+    organizer: Brisbane DevStart
+    timeStart: '2018-03-21T08:00:00.000Z'
+    timeEnd: null
   - name: Brisbane Amazon Alexa Meetup at Amazon HQ
     uri: >-
       /events/2018/03/21/44b5ed62f8f54761be98cf8c583de3645ccc69dc00aa9f22c58bb86db1405869
     organizer: Brisbane Amazon Alexa Meetup
     timeStart: '2018-03-21T08:00:00.000Z'
     timeEnd: null
-  - name: Workshop Evening!
+  - name: Brisbane Northside WordPress Meetup
     uri: >-
-      /events/2018/03/21/653d19b0c6535718eba3260a1f32fe190df0c4e5a93b7555638bd8bd11323626
-    organizer: IoT and SCADA Hackers Australia
+      /events/2018/03/21/c26bd71e26b4c97b8046a7411ef29e87411b2780905338a5bc03dc88c2e257ab
+    organizer: WordPress Brisbane
     timeStart: '2018-03-21T08:00:00.000Z'
     timeEnd: null
   - name: >-
@@ -40,22 +52,16 @@ events:
     organizer: Crypto Mining Meetup
     timeStart: '2018-03-21T08:00:00.000Z'
     timeEnd: null
-  - name: Learn about startups and accelerators with Terry Gold from Techstars
+  - name: Regular Wednesday Open Hack.
     uri: >-
-      /events/2018/03/21/34b3fe4daf55f811777fc850133ecec0529c26a8ce81ed48c40e6ba116a88b67
-    organizer: Brisbane DevStart
-    timeStart: '2018-03-21T08:00:00.000Z'
+      /events/2018/03/21/cdcdd69c514cb85270d641d4a77890e891b871bde638c1df71ba87e5b6c1ecc2
+    organizer: Gold Coast Techspace
+    timeStart: '2018-03-21T09:00:00.000Z'
     timeEnd: null
   - name: Bitcoin for WOMEN Gold Coast (FREE)
     uri: >-
       /events/2018/03/21/fc8c10ae7c90d3124e8375b5dfc55fbfdb5631d93f7628f14dbfb0313d74700f
     organizer: The Beauty of Bitcoin Gold Coast (free)
-    timeStart: '2018-03-21T09:00:00.000Z'
-    timeEnd: null
-  - name: Regular Wednesday Open Hack.
-    uri: >-
-      /events/2018/03/21/cdcdd69c514cb85270d641d4a77890e891b871bde638c1df71ba87e5b6c1ecc2
-    organizer: Gold Coast Techspace
     timeStart: '2018-03-21T09:00:00.000Z'
     timeEnd: null
 

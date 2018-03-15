@@ -2,6 +2,12 @@
 title: Events for 2018/03/20
 layout: event-index
 events:
+  - name: Google Cloud OnBoard - Hands-On Labs
+    uri: >-
+      /events/2018/03/20/c09820fc7c7df021335db13b0c1bb13fdac500343ae70acc9cf62ed31e87c86a
+    organizer: GDG Brisbane
+    timeStart: '2018-03-19T22:30:00.000Z'
+    timeEnd: null
   - name: 'QUT Distinguished Visitor Lecture: Molecular design and synthesis'
     uri: >-
       /events/2018/03/20/f073c2a82b8c865439f480a873e95d15f2ab2487aeb23d410e681f813264be28
@@ -14,18 +20,18 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-03-20T07:00:00.000Z'
     timeEnd: null
-  - name: Open Night Tuesdays
-    uri: >-
-      /events/2018/03/20/cede4100d7d2797212d01f2d1d112a7191a9ec9dca5d312052d1d4f7ed8b03bc
-    organizer: Hackerspace Brisbane
-    timeStart: '2018-03-20T08:00:00.000Z'
-    timeEnd: null
   - name: FameLab 2018 Queensland Semi-Final
     uri: >-
       /events/2018/03/20/ee669397d644120a48c1cf7e2abd20004fcb8117fd9f7aede3080a0f6a93ed0c
     organizer: British Council Australia
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: '2018-03-20T10:30:00.000Z'
+  - name: 'Brisbane Google Developer Group [GDG] Cloud'
+    uri: >-
+      /events/2018/03/20/31a3824cda7d068a67c973caee0fd292ad00fcbc2039e85f82420209cf5410d6
+    organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
+    timeStart: '2018-03-20T08:00:00.000Z'
+    timeEnd: null
   - name: Accessibility in the digital and real worlds
     uri: >-
       /events/2018/03/20/5361be80aa7c9b72f4ba41ad383a5c11761168e161285f29eea40885ec340a3b
@@ -38,9 +44,21 @@ events:
     organizer: Brisbane .NET User Group
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/03/20/cede4100d7d2797212d01f2d1d112a7191a9ec9dca5d312052d1d4f7ed8b03bc
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-03-20T08:00:00.000Z'
+    timeEnd: null
+  - name: Bring a problem site to look at - or a problem
+    uri: >-
+      /events/2018/03/20/6039a3b9ad34f48c097dbd0dae13776c3055af4c03dea01007f9e930d45d19b6
+    organizer: Brisbane Joomla Users Group
+    timeStart: '2018-03-20T08:00:00.000Z'
+    timeEnd: null
   - name: 'Brisbane Google Developer Group [GDG] Cloud'
     uri: >-
-      /events/2018/03/20/31a3824cda7d068a67c973caee0fd292ad00fcbc2039e85f82420209cf5410d6
+      /events/2018/03/20/dd96ec191ab926841d77202e957e40039bd8ec84c1cdc4b217253d52e26cfeb9
     organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
