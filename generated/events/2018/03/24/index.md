@@ -8,17 +8,17 @@ events:
     organizer: Dan Toomey
     timeStart: '2018-03-23T22:00:00.000Z'
     timeEnd: '2018-03-24T07:00:00.000Z'
-  - name: Deep Learning Project Course
-    uri: >-
-      /events/2018/03/24/599fc2d03fada343c40b4e5e7fe22597f92f42c80aed7be4c6d356930d2ad33c
-    organizer: Brisbane Artificial Intelligence
-    timeStart: '2018-03-23T23:00:00.000Z'
-    timeEnd: null
   - name: Monthly Hack and Race
     uri: >-
       /events/2018/03/24/36c74fb8e9fda0a38dedd4561d200679380e69447d5829986083ee38b398882a
     organizer: DIY Robocars Brisbane
     timeStart: '2018-03-24T00:00:00.000Z'
+    timeEnd: null
+  - name: Deep Learning Project Course
+    uri: >-
+      /events/2018/03/24/599fc2d03fada343c40b4e5e7fe22597f92f42c80aed7be4c6d356930d2ad33c
+    organizer: Brisbane Artificial Intelligence
+    timeStart: '2018-03-23T23:00:00.000Z'
     timeEnd: null
 
 ---

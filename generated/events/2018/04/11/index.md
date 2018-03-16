@@ -26,5 +26,11 @@ events:
     organizer: Brisbane Azure User Group
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
+  - name: 'Stable Coins - What are they, how do they work, are they for real?'
+    uri: >-
+      /events/2018/04/11/8cc74bba4f14342ffbb81f449870d1b7b09f4c01d763dd4535788be615123077
+    organizer: Ethereum Brisbane
+    timeStart: '2018-04-11T08:20:00.000Z'
+    timeEnd: null
 
 ---

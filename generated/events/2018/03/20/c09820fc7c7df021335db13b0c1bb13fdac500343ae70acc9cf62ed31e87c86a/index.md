@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-19T22:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-15T08:12:13.105Z'
-timeUpdated: '2018-03-15T08:12:13.105Z'
+timeCreated: '2018-03-16T08:12:13.083Z'
+timeUpdated: '2018-03-16T08:12:13.083Z'
 countAttending: '1'
 countCapacity: null
-countWaitlist: '1'
+countWaitlist: '3'
 price: null
 url: 'https://www.meetup.com/gdgbrisbane/events/248760832/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Google Cloud OnBoard - Hands-On Labs
-date: '2018-03-15T08:12:13.105Z'
+date: '2018-03-16T08:12:13.083Z'
 
 ---
 <p>Start_Training {<br/>Learn how to Build What’s Next with Google<br/>} //Register now for Hands-On Labs training as part of Cloud OnBoard.</p> <p>Hands-On Labs is a step-by-step, instructor led technical training on Google Cloud Platform (GCP). The training is designed to help you understand and get started with the cloud services which we introduced at the Cloud OnBoard event.</p> <p>This exclusive free training is led by Google instructors who will be on hand to guide you through the technicalities that we did not cover at the Cloud OnBoard event. They will provide onsite advice and an immersive experience to get you started on your cloud computing journey. Hands-on Labs will start with how to create your first project and cover labs on Cloud storage, Compute engine and Big Query.</p> <p>Google still has a few seats left, please register via:<br/><a href="https://cloudplatformonline.com/2018-hols-anz.html" class="linkified">https://cloudplatformonline.com/2018-hols-anz.html</a></p>

@@ -32,11 +32,5 @@ events:
     organizer: Brisbane ReactJS Meetup
     timeStart: '2018-03-26T08:30:00.000Z'
     timeEnd: null
-  - name: Meetup 0x18002
-    uri: >-
-      /events/2018/03/26/d74e49d4793030f901792ebb63d837b072b3fb74c2d81944f0c4b4056a2821d6
-    organizer: Brisbane ICO
-    timeStart: '2018-03-26T08:30:00.000Z'
-    timeEnd: null
 
 ---

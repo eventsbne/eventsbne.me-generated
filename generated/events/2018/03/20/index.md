@@ -20,30 +20,18 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-03-20T07:00:00.000Z'
     timeEnd: null
-  - name: FameLab 2018 Queensland Semi-Final
-    uri: >-
-      /events/2018/03/20/ee669397d644120a48c1cf7e2abd20004fcb8117fd9f7aede3080a0f6a93ed0c
-    organizer: British Council Australia
-    timeStart: '2018-03-20T08:00:00.000Z'
-    timeEnd: '2018-03-20T10:30:00.000Z'
   - name: 'Brisbane Google Developer Group [GDG] Cloud'
     uri: >-
       /events/2018/03/20/31a3824cda7d068a67c973caee0fd292ad00fcbc2039e85f82420209cf5410d6
     organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
-  - name: Accessibility in the digital and real worlds
+  - name: FameLab 2018 Queensland Semi-Final
     uri: >-
-      /events/2018/03/20/5361be80aa7c9b72f4ba41ad383a5c11761168e161285f29eea40885ec340a3b
-    organizer: UX Brisbane
+      /events/2018/03/20/ee669397d644120a48c1cf7e2abd20004fcb8117fd9f7aede3080a0f6a93ed0c
+    organizer: British Council Australia
     timeStart: '2018-03-20T08:00:00.000Z'
-    timeEnd: null
-  - name: March Meetup - Double Header **Location Change**
-    uri: >-
-      /events/2018/03/20/85bede190bfab397a4c43d068e2d7e3e02ab22de7e6f71a645dff2711c00964e
-    organizer: Brisbane .NET User Group
-    timeStart: '2018-03-20T08:00:00.000Z'
-    timeEnd: null
+    timeEnd: '2018-03-20T10:30:00.000Z'
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/03/20/cede4100d7d2797212d01f2d1d112a7191a9ec9dca5d312052d1d4f7ed8b03bc
@@ -54,6 +42,12 @@ events:
     uri: >-
       /events/2018/03/20/6039a3b9ad34f48c097dbd0dae13776c3055af4c03dea01007f9e930d45d19b6
     organizer: Brisbane Joomla Users Group
+    timeStart: '2018-03-20T08:00:00.000Z'
+    timeEnd: null
+  - name: Accessibility in the digital and real worlds
+    uri: >-
+      /events/2018/03/20/5361be80aa7c9b72f4ba41ad383a5c11761168e161285f29eea40885ec340a3b
+    organizer: UX Brisbane
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
   - name: 'Brisbane Google Developer Group [GDG] Cloud'
@@ -67,6 +61,12 @@ events:
       /events/2018/03/20/164c00f16f4457b8227d6652fa3f5e0c7df98777955bdbb9cd4cfd6699ae7cd0
     organizer: Drupal Gold Coast
     timeStart: '2018-03-20T09:00:00.000Z'
+    timeEnd: null
+  - name: March Meetup - Double Header **Location Change**
+    uri: >-
+      /events/2018/03/20/85bede190bfab397a4c43d068e2d7e3e02ab22de7e6f71a645dff2711c00964e
+    organizer: Brisbane .NET User Group
+    timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
 
 ---
