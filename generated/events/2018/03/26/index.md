@@ -8,6 +8,12 @@ events:
     organizer: Brisbane Unity Developers
     timeStart: '2018-03-26T07:30:00.000Z'
     timeEnd: null
+  - name: 'Presentation: End to end automated testing at WordPress.com'
+    uri: >-
+      /events/2018/03/26/083c7d306f3f720a36dfe9ce6d6daa7c3721eda983150473dc951f26e5f2894e
+    organizer: Brisbane Software Testers
+    timeStart: '2018-03-26T08:00:00.000Z'
+    timeEnd: null
   - name: 'Call for speakers: March Ember meetup'
     uri: >-
       /events/2018/03/26/eb524571b5a0202ceac264ed99f4bd64bfa309bcebb6295ef236e02061e8fa2a
@@ -18,12 +24,6 @@ events:
     uri: >-
       /events/2018/03/26/718512d346b9c23827736ab0b2f415b5d409d5177489ebd483e5c735c0c2ccfc
     organizer: Brisbane Internet of Things (IOT) Interest Group
-    timeStart: '2018-03-26T08:00:00.000Z'
-    timeEnd: null
-  - name: 'Presentation: End to end automated testing at WordPress.com'
-    uri: >-
-      /events/2018/03/26/083c7d306f3f720a36dfe9ce6d6daa7c3721eda983150473dc951f26e5f2894e
-    organizer: Brisbane Software Testers
     timeStart: '2018-03-26T08:00:00.000Z'
     timeEnd: null
   - name: React Talks & Networking — March

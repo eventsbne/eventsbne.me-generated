@@ -10,13 +10,13 @@ events:
     timeEnd: null
   - name: Error-detection
     uri: >-
-      /events/2018/04/04/df69cecf115427de44232ef63b5db91a07a85fd54374dfe6b6232f26eb0f5f27
+      /events/2018/04/04/1931be617bf7be502e5b94c47e284b014f82d73a89c3961ff2ffe8084a493190
     organizer: Brisbane Professional Microsoft Excel Meetup
     timeStart: '2018-04-04T08:00:00.000Z'
     timeEnd: null
   - name: Error-detection
     uri: >-
-      /events/2018/04/04/1931be617bf7be502e5b94c47e284b014f82d73a89c3961ff2ffe8084a493190
+      /events/2018/04/04/df69cecf115427de44232ef63b5db91a07a85fd54374dfe6b6232f26eb0f5f27
     organizer: Brisbane Professional Microsoft Excel Meetup
     timeStart: '2018-04-04T08:00:00.000Z'
     timeEnd: null

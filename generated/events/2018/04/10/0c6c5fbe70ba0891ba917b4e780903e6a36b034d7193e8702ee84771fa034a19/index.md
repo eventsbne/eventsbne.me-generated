@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-10T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-14T08:12:13.752Z'
-timeUpdated: '2018-03-14T08:12:13.752Z'
+timeCreated: '2018-03-17T08:12:12.544Z'
+timeUpdated: '2018-03-17T08:12:12.544Z'
 countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: April ProductTank Meetup
-date: '2018-03-14T08:12:13.752Z'
+date: '2018-03-17T08:12:12.544Z'
 
 ---
-<p>• What we'll do</p> <p><br/>• What to bring</p> <p><br/>• Important to know</p>
+<p>• What we'll do</p> <p>• What to bring</p> <p>• Important to know</p>

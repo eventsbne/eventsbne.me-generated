@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-05T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-16T08:12:13.083Z'
-timeUpdated: '2018-03-16T08:12:13.083Z'
-countAttending: '1'
+timeCreated: '2018-03-17T08:12:12.544Z'
+timeUpdated: '2018-03-17T08:12:12.544Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Women's Cocktail Hour
-date: '2018-03-16T08:12:13.083Z'
+date: '2018-03-17T08:12:12.544Z'
 
 ---
 <p>This meetup is intended to give women a space to discuss the latest tech and AI news and to connect with other women in the network.<br/>We acknowledge that women in technology are a minority and this is a small step to boost the number of women engaged in the tech network!</p> <p>Come and meet other female tech enthusiasts and entrepreneurs over a cocktail from 5-6pm 🍸<br/>Better yet, stay and enjoy more drinks at our Brisbane.AI meetup following on from 6pm-<br/><a href="https://www.meetup.com/Brisbane-Artificial-Intelligence/events/248792689/" class="linkified">https://www.meetup.com/Brisbane-Artificial-Intelligence/events/248792689/</a></p> <p>This event is proudly held by the Office of the Queensland Chief Entrepreneur and sponsored by the legendary Chris Titley!</p>
