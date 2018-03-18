@@ -44,6 +44,12 @@ events:
     organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
+  - name: 'Brisbane Google Developer Group [GDG] Cloud'
+    uri: >-
+      /events/2018/03/20/31a3824cda7d068a67c973caee0fd292ad00fcbc2039e85f82420209cf5410d6
+    organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
+    timeStart: '2018-03-20T08:00:00.000Z'
+    timeEnd: null
   - name: Accessibility in the digital and real worlds
     uri: >-
       /events/2018/03/20/5361be80aa7c9b72f4ba41ad383a5c11761168e161285f29eea40885ec340a3b
@@ -54,12 +60,6 @@ events:
     uri: >-
       /events/2018/03/20/85bede190bfab397a4c43d068e2d7e3e02ab22de7e6f71a645dff2711c00964e
     organizer: Brisbane .NET User Group
-    timeStart: '2018-03-20T08:00:00.000Z'
-    timeEnd: null
-  - name: 'Brisbane Google Developer Group [GDG] Cloud'
-    uri: >-
-      /events/2018/03/20/31a3824cda7d068a67c973caee0fd292ad00fcbc2039e85f82420209cf5410d6
-    organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-03-20T08:00:00.000Z'
     timeEnd: null
   - name: Drupal Gold Coast Monthly Meetup

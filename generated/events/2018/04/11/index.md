@@ -14,16 +14,16 @@ events:
     organizer: Brisbane DevStart
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
-  - name: Blockchain Reserve - Brisbane Investment Analysis
-    uri: >-
-      /events/2018/04/11/8c942335e067f1a75a101a3456b8e38851fc7fd3ae7f87931e84ecd829625867
-    organizer: Blockchain Reserve Brisbane
-    timeStart: '2018-04-11T08:00:00.000Z'
-    timeEnd: null
   - name: Monthly Evening Meetup
     uri: >-
       /events/2018/04/11/adbc707f53612ff4639cfa36507e041f3f8ed5b151c5deef040bb8c1b9be4f66
     organizer: Brisbane Azure User Group
+    timeStart: '2018-04-11T08:00:00.000Z'
+    timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/04/11/8c942335e067f1a75a101a3456b8e38851fc7fd3ae7f87931e84ecd829625867
+    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
   - name: 'Stable Coins - What are they, how do they work, are they for real?'

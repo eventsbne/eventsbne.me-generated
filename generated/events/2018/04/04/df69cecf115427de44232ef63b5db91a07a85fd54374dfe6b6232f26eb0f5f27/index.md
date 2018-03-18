@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-04T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-12T08:12:13.623Z'
-timeUpdated: '2018-03-12T08:12:13.623Z'
-countAttending: '13'
+timeCreated: '2018-03-18T08:12:12.879Z'
+timeUpdated: '2018-03-18T08:12:12.879Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Error-detection
-date: '2018-03-12T08:12:13.623Z'
+date: '2018-03-18T08:12:12.879Z'
 
 ---
 <p>• What we'll do<br/>We will discuss an Error-detection system developed by SpreadsheetSoftware.</p> <p>• What to bring<br/>Business Cards</p> <p>• Important to know<br/>Basic Excel formulae</p>

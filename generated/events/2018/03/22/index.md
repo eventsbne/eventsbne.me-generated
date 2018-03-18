@@ -50,18 +50,18 @@ events:
     organizer: QLD SQL Server User Group
     timeStart: '2018-03-22T07:30:00.000Z'
     timeEnd: null
-  - name: WiSA Industry Networking Night
-    uri: >-
-      /events/2018/03/22/70d4a024b1101207584b4c447c594d836af2d094b6f54d9d419774ab40e96cfd
-    organizer: WiSA UQ
-    timeStart: '2018-03-22T08:00:00.000Z'
-    timeEnd: '2018-03-22T10:00:00.000Z'
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/03/22/e8a74ed5810f4da28ef2af5c2a46a3ee218d0b15db09c87e96e80707501b6ab3
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-03-22T08:00:00.000Z'
     timeEnd: null
+  - name: WiSA Industry Networking Night
+    uri: >-
+      /events/2018/03/22/70d4a024b1101207584b4c447c594d836af2d094b6f54d9d419774ab40e96cfd
+    organizer: WiSA UQ
+    timeStart: '2018-03-22T08:00:00.000Z'
+    timeEnd: '2018-03-22T10:00:00.000Z'
   - name: 'Meet up, network, help each other with contacts and work on your idea'
     uri: >-
       /events/2018/03/22/b5270f7b6bcc5ffeadb313e3a3af3e546234f7ab0ed869927e1b55dbd59f749f
@@ -74,17 +74,17 @@ events:
     organizer: Startup Ipswich
     timeStart: '2018-03-22T08:00:00.000Z'
     timeEnd: null
-  - name: Meet and Greet 2018
-    uri: >-
-      /events/2018/03/22/8a4b6d03abcf8b0ff98dcafa0435f67d395be6cc2ab87b1bef7b121a9634b1db
-    organizer: Brisbane Drones
-    timeStart: '2018-03-22T08:30:00.000Z'
-    timeEnd: null
   - name: BNE0x1D (30th Session)
     uri: >-
       /events/2018/03/22/ad2213f885eb80cc1ddbf1eab648b61bc20380fd5c0d01895caab38abe5bc0da
     organizer: SecTalks Brisbane
     timeStart: '2018-03-22T08:00:00.000Z'
+    timeEnd: null
+  - name: Meet and Greet 2018
+    uri: >-
+      /events/2018/03/22/8a4b6d03abcf8b0ff98dcafa0435f67d395be6cc2ab87b1bef7b121a9634b1db
+    organizer: Brisbane Drones
+    timeStart: '2018-03-22T08:30:00.000Z'
     timeEnd: null
 
 ---

@@ -34,6 +34,12 @@ events:
     organizer: Crypto Mining Meetup
     timeStart: '2018-03-21T08:00:00.000Z'
     timeEnd: null
+  - name: Learn about startups and accelerators with Terry Gold from Techstars
+    uri: >-
+      /events/2018/03/21/34b3fe4daf55f811777fc850133ecec0529c26a8ce81ed48c40e6ba116a88b67
+    organizer: Brisbane DevStart
+    timeStart: '2018-03-21T08:00:00.000Z'
+    timeEnd: null
   - name: Brisbane Amazon Alexa Meetup at Amazon HQ
     uri: >-
       /events/2018/03/21/44b5ed62f8f54761be98cf8c583de3645ccc69dc00aa9f22c58bb86db1405869
@@ -44,12 +50,6 @@ events:
     uri: >-
       /events/2018/03/21/c26bd71e26b4c97b8046a7411ef29e87411b2780905338a5bc03dc88c2e257ab
     organizer: WordPress Brisbane
-    timeStart: '2018-03-21T08:00:00.000Z'
-    timeEnd: null
-  - name: Learn about startups and accelerators with Terry Gold from Techstars
-    uri: >-
-      /events/2018/03/21/34b3fe4daf55f811777fc850133ecec0529c26a8ce81ed48c40e6ba116a88b67
-    organizer: Brisbane DevStart
     timeStart: '2018-03-21T08:00:00.000Z'
     timeEnd: null
   - name: Regular Wednesday Open Hack.
