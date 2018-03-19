@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-15T08:12:13.105Z'
-timeUpdated: '2018-03-15T08:12:13.105Z'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Bring a problem site to look at - or a problem
-date: '2018-03-15T08:12:13.105Z'
+title: 'Plotalot, S3 and a brief look at ensuring HTTPS:// only'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
-<p>Due to some changes withing the Library and the small numbers of attendees at meetings lately, we have decided to change venues. Also, if you no longer take part in Joomla or wish to leave the meetup group, then please do so we can get accurate numbers of who to contact.</p> <p>The form of this and future meetings at this stage will be bring your problems and let us look at them and general informal discussions on components used etc.</p> <p>Stuart has offered us this great casual space to use, so please take advantage of it and further your Joomla knowledge.</p> <p>Parking is available underneath after 5pm. Meetings begin at 6pm so please consider this when coming down. The city flyer Bus stops right near here, so public transport is easy to access.</p>
+<p>I will be looking at changing your .htaccess file to ensure that your secure site is used no matter what the user types into the browser.</p> <p>Stuart will be looking at permissions on S3 buckets and then looking at Plotalot.</p> <p>Plotalot makes it easy to create live charts and place them on your site. You must be able to write the SQL queries to retrieve the data you want to plot, but if you can do that, Plotalot will take the data and use the Google Charts API to produce many different kinds of charts with numerous formatting options.</p> <p>You can display charts on your site using the free Plotalot component, although this page uses the Plotalot Plugin to embed charts in a Joomla article which gives more flexibility.</p> <p>Parking is available underneath after 5pm. Meetings begin at 6pm so please consider this when coming down. The city flyer Bus stops right near here, so public transport is easy to access.</p>

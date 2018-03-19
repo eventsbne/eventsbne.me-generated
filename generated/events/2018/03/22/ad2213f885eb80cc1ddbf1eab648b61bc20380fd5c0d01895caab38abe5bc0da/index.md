@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-18T08:12:12.879Z'
-timeUpdated: '2018-03-18T08:12:12.879Z'
-countAttending: '66'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
+countAttending: '79'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BNE0x1D (30th Session)
-date: '2018-03-18T08:12:12.879Z'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
 <p>• What we'll do<br/>@codingo is giving a presentation this month on BurpSuite Basics &amp; Bapps, using some of the CrikeyCon CTF for demos, and @geckom will be following that up with a ROP Emporium hands-on walk through. You can sit in and follow along, or participate in the hacking!</p> <p>Here are some thing to take note of:</p> <p>1) Bring your laptop.</p> <p>B) Free wireless internet "should" be available, but is not guaranteed. You may want to bring your own wifi dongles or tether to your iPwns.</p> <p>five) This is a learning exercise for everyone. The idea is to think about problems, make friends and have fun. Don't treat it like a competition (too much). If you are a beginner and no clue where to start, ask around, most people are friendly and will help out, or let you shoulder surf.</p> <p>z) Have fun. Learn. Mentor if you are able to. Participate, or just socialise. This is supposed to be a fun, learning event for the security and hacker community.</p> <p>As usual there will be beer, soft drinks and pizza courtesy of our AWESOME sponsors.</p> <p>If you can't find us/get into the venue, please call (03)[masked] or shoot us a message on Meetup and we can help out.</p> <p>• What to bring<br/>laptop, smart pwns, curiosity</p> <p>• Important to know<br/>Meet for a drink at Criterion Bar beforehand. Lift access stops at 6pm, so get up to the room before then!</p>

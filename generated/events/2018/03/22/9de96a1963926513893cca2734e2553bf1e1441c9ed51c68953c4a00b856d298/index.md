@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-17T08:12:12.544Z'
-timeUpdated: '2018-03-17T08:12:12.544Z'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
 countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Pitch with Purpose Workshop
-date: '2018-03-17T08:12:12.544Z'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
-<p>How do you convey the message about what your business does in a succinct and understandable way, and get an outcome from your presentation?</p> <p>Join us at Fire Station 101 to find out at a pitching workshop.</p> <p>We'll be a joined by representatives from startups who successfully pitched their businesses to the Queensland Government for a coveted spot on the HotDesQ program. These businesses received sponsorship funding to relocate to Queensland and share their knowledge. · Ben Bryant from Confrenceape (Conference Badge Printing)</p> <p>· Joanna Greenlees from Zentivo (Insurtech)</p> <p>· Marita Cheng from Aubots (Robotics)</p> <p>· Leonardo De La Fuente from Edoome (Virtual Classroom)</p> <p>The evening will involve a short pitching story along with advice and experiences from each.</p> <p>There will be opportunities for questions, then interactive 1 on 1 availability for knowledge sharing and ideas for collaboration.</p>
+<p>How do you convey the message about what your business does in a succinct and understandable way, and get an outcome from your presentation?</p> <p>Join us at Fire Station 101 to find out at a pitching workshop.</p> <p>We'll be a joined by:</p> <p>- Leonardo De La Fuente from Edoome, a startup business who successfully pitched their businesses to the Queensland Government for a coveted spot on the HotDesQ program, for sponsorship funding to relocate to Queensland and share their knowledge.</p> <p>- Colin Kinner is the founder of Startup Onramp and one of Australia's most experienced startup coaches</p> <p>- Simon Horne is an angel investor and CEO of Moreton Ventures</p> <p>The evening will involve a short pitching story along with advice and experiences from each.</p> <p>There will be opportunities for questions, then interactive 1 on 1 availability for knowledge sharing.</p>

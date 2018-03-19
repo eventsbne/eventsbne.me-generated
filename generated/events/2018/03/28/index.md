@@ -16,16 +16,16 @@ events:
     organizer: ST Solutions Australia
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: '2018-03-28T10:00:00.000Z'
-  - name: Monthly Meetup
-    uri: >-
-      /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
-    organizer: Women Who Code Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: external event - Softbank Robotics Chief Scientific Officer presents
     uri: >-
       /events/2018/03/28/779fb5c7a55ea09333e58a64f18e846a1bc44ce6517c34c39fb1b01728dc8c89
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Lean and agile training, through pizza!'
+    uri: >-
+      /events/2018/03/28/ae90a1d70cb684787916c0f9cc81cc967fee44ad979b5763f80a19d15f3f73e8
+    organizer: Women Who Code Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
   - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-18T08:12:12.879Z'
-timeUpdated: '2018-03-18T08:12:12.879Z'
-countAttending: '32'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
+countAttending: '33'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Presentation: End to end automated testing at WordPress.com'
-date: '2018-03-18T08:12:12.879Z'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
 <p>• What we'll do<br/>At WordPress.com we constantly deliver changes to our customers - in the past month alone we released our React web client 563 times; over 18 releases per day. We don’t conduct any manual regression testing, and we only employ 5 testers/QAs in a company of ~680 people with ~230 developers. So, how do we ensure our customers get a consistently great user experience with all this rapid change?</p> <p>Our automated end-to-end (e2e) tests give us confidence to release small frequent changes constantly to all our different applications and platforms knowing that our customers can continue to use our products to achieve their desires.</p> <p>Alister will share how these automated tests and written and work, some of the positives and negatives we’ve seen with these tests, and what we have planned for future iterations.</p> <p>****</p> <p>Alister is a software quality engineer for WordPress.com at Automattic.<br/>He has extensive experience in automated software testing and<br/>establishing quality engineering cultures in lean cross-functional<br/>software development teams. He writes a software testing blog at<br/>watirmelon.blog.</p> <p>• What to bring<br/>An open mind and lot's of curiosity.</p> <p>• Important to know<br/>There will be some pizza to snack on and some drinks offered by ThoughtWorks.<br/>When you arrive at the venue, please make sure to get a name tag for yourself.<br/>Photos will be taken and published to the meetup page and on LinkedIn.</p>

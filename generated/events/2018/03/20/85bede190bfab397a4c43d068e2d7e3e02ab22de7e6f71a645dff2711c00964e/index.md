@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-18T08:12:12.879Z'
-timeUpdated: '2018-03-18T08:12:12.879Z'
-countAttending: '89'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
+countAttending: '100'
 countCapacity: null
-countWaitlist: '0'
+countWaitlist: '5'
 price: null
 url: 'https://www.meetup.com/Brisbane-Net-User-Group/events/248649696/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: March Meetup - Double Header **Location Change**
-date: '2018-03-18T08:12:12.879Z'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
 <p>** NOTE: Location Change !! Because of renovations happening this month @ Microsoft, this meeting will take place at the new SSW office @ 471 Adelaide Street (Entry on Macrossan St ) **</p> <p>Building Single Page Applications with ASP.NET Core 2.1 - Jason Taylor</p> <p>The release of ASP.NET Core 2.1 includes many new and exciting features that will improve our approach to development in upcoming projects.<br/>In this talk I will bring you up to speed with ASP.NET Core 2.1, by demonstrating many of these features including:<br/>- Improved templates for creating Angular, React, and React + Redux SPAs<br/>- Getting started with SignalR<br/>- Improvements for building Web APIs<br/>- Improved OpenAPI specification support<br/>You will walk away ready to create Single Page Applications using Angular or React and ASP.NET Core 2.1.</p> <p>Make Your Microservices Talk With OpenApi - Thiago Passos</p> <p>In this talk, I'll show you how to get started with the OpenAPI specification in your ASP.NET Core Web API.<br/>Next I'll demonstrate how to generate a C# client to access your Web API, so we can share the client across multiple microservices.<br/>During the talk, I'll also show you the best resources and tools to get started with OpenAPI in your next project.</p>

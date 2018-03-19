@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-05T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-18T08:12:12.879Z'
-timeUpdated: '2018-03-18T08:12:12.879Z'
-countAttending: '6'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Blackbook.ai
-date: '2018-03-18T08:12:12.879Z'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
 <p>Details coming soon</p>

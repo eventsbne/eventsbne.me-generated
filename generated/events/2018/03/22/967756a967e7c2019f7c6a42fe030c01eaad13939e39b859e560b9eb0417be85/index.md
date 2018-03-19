@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-18T08:12:12.879Z'
-timeUpdated: '2018-03-18T08:12:12.879Z'
-countAttending: '21'
+timeCreated: '2018-03-19T08:12:13.010Z'
+timeUpdated: '2018-03-19T08:12:13.010Z'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Is Stretch DB right for me? The good, the bad and the gotchas'
-date: '2018-03-18T08:12:12.879Z'
+date: '2018-03-19T08:12:13.010Z'
 
 ---
 <p>Is Stretch DB right for me? The good, the bad and the gotchas</p> <p>Stretch DB – We’ve all heard of it but how many of us have actually used it? And how many have put it into production? In this demo-heavy session, Data Platform Consultant, Anderson Rangel will explain what Stretch DB is, how it works and when we should be implementing it. Taking Stretch DB from ‘oh shiny’ to something we can operationalise to save on storage and streamline data maintenance. Come along to see Microsoft’s first truly hybrid solution in action.</p> <p>About the Presenter</p> <p>Based in Brisbane, Anderson Rangel is a Microsoft Certified Professional and Data Platform consultant at WARDY IT Solutions. Anderson has been immersed in the SQL Server industry for the past 15 years, working across a wide range of industry verticals. As a Data Platform consultant, Anderson has significant experience working with companies of all sizes across Australia to help them design, build and improve their Microsoft SQL Server environments. He’s passionate about SQL Server performance optimisation, data management systems, HADR solutions, Azure SQL Database and Data Warehouse and SQL Server Always On. Outside of work, you’ll most likely find Anderson coaching the Brisbane Roar Youth Soccer Academy.</p>

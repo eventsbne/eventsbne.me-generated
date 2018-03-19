@@ -28,16 +28,16 @@ events:
     organizer: Drupal Brisbane
     timeStart: '2018-04-10T08:30:00.000Z'
     timeEnd: null
-  - name: IoT and SCADA Hackers!
-    uri: >-
-      /events/2018/04/10/4e773b587b490fbbc7668f58d6c96039f616c2e80837b3616d9a08868d6c934e
-    organizer: IoT and SCADA Hackers Australia
-    timeStart: '2018-04-10T09:00:00.000Z'
-    timeEnd: null
   - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
     uri: >-
       /events/2018/04/10/13517680480619aead99bde4b8e543a07cb8f31242b6dd70f672c0a78fa07668
     organizer: Gold Coast Bitcoin and Crypto Meetup
+    timeStart: '2018-04-10T09:00:00.000Z'
+    timeEnd: null
+  - name: IoT and SCADA Hackers!
+    uri: >-
+      /events/2018/04/10/4e773b587b490fbbc7668f58d6c96039f616c2e80837b3616d9a08868d6c934e
+    organizer: IoT and SCADA Hackers Australia
     timeStart: '2018-04-10T09:00:00.000Z'
     timeEnd: null
 

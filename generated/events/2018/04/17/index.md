@@ -8,5 +8,11 @@ events:
     organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-04-17T08:00:00.000Z'
     timeEnd: null
+  - name: Drupal Gold Coast Monthly Meetup
+    uri: >-
+      /events/2018/04/17/ea5abb7cf5f8fad3d7b01ec944046e828830ab4cf101e4abcf8ba712e6a86aa4
+    organizer: Drupal Gold Coast
+    timeStart: '2018-04-17T09:00:00.000Z'
+    timeEnd: null
 
 ---
