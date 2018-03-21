@@ -14,16 +14,22 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
+  - name: Monthly Evening Meetup
+    uri: >-
+      /events/2018/04/11/adbc707f53612ff4639cfa36507e041f3f8ed5b151c5deef040bb8c1b9be4f66
+    organizer: Brisbane Azure User Group
+    timeStart: '2018-04-11T08:00:00.000Z'
+    timeEnd: null
   - name: 'Ask Me Anything - with Paul Stovell, CEO of Octopus Deploy'
     uri: >-
       /events/2018/04/11/59815e9fbde4f22bd78da606692a6bc05826e2ddb64f5acdcb82a1a0efdaea94
     organizer: Brisbane DevStart
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
-  - name: Monthly Evening Meetup
+  - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
-      /events/2018/04/11/adbc707f53612ff4639cfa36507e041f3f8ed5b151c5deef040bb8c1b9be4f66
-    organizer: Brisbane Azure User Group
+      /events/2018/04/11/5afed2425c67aefabcc370ff8785bbbbde3bb4f6ce1074f5dc83cf1551f23392
+    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
   - name: 'Stable Coins - What are they, how do they work, are they for real?'

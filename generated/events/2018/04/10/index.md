@@ -10,6 +10,12 @@ events:
     organizer: Brisbane Women in Blockchain
     timeStart: '2018-04-10T02:00:00.000Z'
     timeEnd: null
+  - name: Sitecore User Group
+    uri: >-
+      /events/2018/04/10/c0eb68286de3a83d86c989c3c155f04385570befa5d75aac77beeda330ac9b58
+    organizer: Sitecore Brisbane User Group
+    timeStart: '2018-04-10T07:00:00.000Z'
+    timeEnd: null
   - name: BFPG Monthly Meetup
     uri: >-
       /events/2018/04/10/4981d5c322e0c1766d2968d955c94cde257ad2cd9fad19ae5cbbaee99fa6f494

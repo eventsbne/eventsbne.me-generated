@@ -8,6 +8,12 @@ events:
     organizer: SPARQ-ed
     timeStart: '2018-04-19T23:00:00.000Z'
     timeEnd: '2018-04-21T05:00:00.000Z'
+  - name: Mid-morning inspiration
+    uri: >-
+      /events/2018/04/20/bce76607f6d2f902b2cd57ea3a21f000605a57e3b485565867e1706a703dcb1c
+    organizer: Brisbane DevStart
+    timeStart: '2018-04-20T01:00:00.000Z'
+    timeEnd: null
   - name: Tanda Hackathon - Brisbane 2018
     uri: >-
       /events/2018/04/20/ae03ddd4592708e147b37a4e7732466a4bc9ef0aa9be45f86bb61af2e7f0adde

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-18T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-19T08:12:13.010Z'
-timeUpdated: '2018-03-19T08:12:13.010Z'
-countAttending: '7'
+timeCreated: '2018-03-21T08:12:11.868Z'
+timeUpdated: '2018-03-21T08:12:11.868Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: ShopTalk Brisbane
-date: '2018-03-19T08:12:13.010Z'
+title: 'Acquiring, Developing and Retaining Local Digital Commerce Talent'
+date: '2018-03-21T08:12:11.868Z'
 
 ---
-<p>ShopTalk is an industry organised meetup group for eCommerce professionals.</p> <p>We will announce our topic &amp; panel closer to the event to ensure we bring you the hottest topics in digital commerce.</p>
+<p>For our first Brisbane ShopTalk of 2018, we will be asking our panel members to discuss acquiring, developing and retaining local digital commerce talent - What do we need to do.</p> <p>Joining us on the panel we have:<br/>• Anita Dorwald, COO @ City Beach<br/>+ More to be announced</p> <p>Make sure you get in touch or comment below with any questions you want the panel to answer on the night and make sure you invite any fellow eCommers you think might be interested.</p> <p>Look forward to seeing you @ShopTalk!</p>

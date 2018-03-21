@@ -8,6 +8,12 @@ events:
     organizer: CocoaHeads
     timeStart: '2018-04-03T08:00:00.000Z'
     timeEnd: null
+  - name: AI Article Reading Club - Stanford ECG Analysis
+    uri: >-
+      /events/2018/04/03/62233815ab4db5bf4bc9839cd028bda8c17a38b4c5287f9367510dbca0bd009e
+    organizer: IntelliHQ  - Advances in Healthcare AI
+    timeStart: '2018-04-03T06:00:00.000Z'
+    timeEnd: null
   - name: Intelligentsia
     uri: >-
       /events/2018/04/03/5967e48a069f12442cba788725ed0b36b039a2abb4f49c4b311d751219fc0e5d

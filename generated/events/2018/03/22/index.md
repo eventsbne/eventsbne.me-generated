@@ -2,11 +2,23 @@
 title: Events for 2018/03/22
 layout: event-index
 events:
+  - name: ManageEngine Seminar—Bringing IT Together
+    uri: >-
+      /events/2018/03/22/d51cb6ab8ff12301e916e52d589bc03e23df018b05aef80194e985baf19d9178
+    organizer: ManageEngine Seminar—Bringing IT Together
+    timeStart: '2018-03-21T22:00:00.000Z'
+    timeEnd: null
   - name: 8-week “Content 2 Ca$h” online course
     uri: >-
       /events/2018/03/22/41bed853b3f01b50f35e10cee7206e8994b0c978be872187f3763c8347a23c6e
     organizer: Savvy Australian Bloggers
     timeStart: '2018-03-22T00:00:00.000Z'
+    timeEnd: null
+  - name: IT Lunch
+    uri: >-
+      /events/2018/03/22/5dfec920a64be98ea5ad6d141522b8e6f19fefd8d6b6cc4b52349250e98bd19c
+    organizer: dotMaleny
+    timeStart: '2018-03-22T02:30:00.000Z'
     timeEnd: null
   - name: Life Sciences Industry in Parliament 2018
     uri: >-
@@ -14,21 +26,15 @@ events:
     organizer: Life Sciences Queensland Limited
     timeStart: '2018-03-22T02:30:00.000Z'
     timeEnd: '2018-03-22T04:30:00.000Z'
-  - name: IT Lunch
-    uri: >-
-      /events/2018/03/22/5dfec920a64be98ea5ad6d141522b8e6f19fefd8d6b6cc4b52349250e98bd19c
-    organizer: dotMaleny
-    timeStart: '2018-03-22T02:30:00.000Z'
-    timeEnd: null
-  - name: Griffith Sciences WIL Student Careers Evening
-    uri: >-
-      /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
-    organizer: 'Work Integrated Learning, Griffith Sciences'
-    timeStart: '2018-03-22T06:00:00.000Z'
-    timeEnd: '2018-03-22T09:00:00.000Z'
   - name: Griffith Sciences Careers' Evening
     uri: >-
       /events/2018/03/22/3e9ae2cdd2a4c74c7344e1f8fe4788a268f187753abe61d92344a99c6e46f5e7
+    organizer: 'Work Integrated Learning, Griffith Sciences'
+    timeStart: '2018-03-22T06:00:00.000Z'
+    timeEnd: '2018-03-22T09:00:00.000Z'
+  - name: Griffith Sciences WIL Student Careers Evening
+    uri: >-
+      /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
     organizer: 'Work Integrated Learning, Griffith Sciences'
     timeStart: '2018-03-22T06:00:00.000Z'
     timeEnd: '2018-03-22T09:00:00.000Z'
@@ -38,16 +44,10 @@ events:
     organizer: YOW! Australia - Conferences \u0026 Workshops
     timeStart: '2018-03-22T07:30:00.000Z'
     timeEnd: '2018-03-22T10:30:00.000Z'
-  - name: How to Build a User Experience Centric Digital Transformation Strategy
+  - name: How to Build a User Centric Digital Transformation Strategy
     uri: >-
       /events/2018/03/22/98948b4dc5464bd8c35c3b31f68cf3b66ed93570474526adad784044f01520c0
     organizer: Dynatrace Brisbane Meetup
-    timeStart: '2018-03-22T07:30:00.000Z'
-    timeEnd: null
-  - name: 'Is Stretch DB right for me? The good, the bad and the gotchas'
-    uri: >-
-      /events/2018/03/22/967756a967e7c2019f7c6a42fe030c01eaad13939e39b859e560b9eb0417be85
-    organizer: QLD SQL Server User Group
     timeStart: '2018-03-22T07:30:00.000Z'
     timeEnd: null
   - name: WiSA Industry Networking Night
@@ -56,6 +56,12 @@ events:
     organizer: WiSA UQ
     timeStart: '2018-03-22T08:00:00.000Z'
     timeEnd: '2018-03-22T10:00:00.000Z'
+  - name: 'Is Stretch DB right for me? The good, the bad and the gotchas'
+    uri: >-
+      /events/2018/03/22/967756a967e7c2019f7c6a42fe030c01eaad13939e39b859e560b9eb0417be85
+    organizer: QLD SQL Server User Group
+    timeStart: '2018-03-22T07:30:00.000Z'
+    timeEnd: null
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/03/22/e8a74ed5810f4da28ef2af5c2a46a3ee218d0b15db09c87e96e80707501b6ab3
@@ -68,23 +74,35 @@ events:
     organizer: Startup Ipswich
     timeStart: '2018-03-22T08:00:00.000Z'
     timeEnd: null
-  - name: 'Meet up, network, help each other with contacts and work on your idea'
-    uri: >-
-      /events/2018/03/22/b5270f7b6bcc5ffeadb313e3a3af3e546234f7ab0ed869927e1b55dbd59f749f
-    organizer: Ag Tech Innovation & catch up Brisbane Meetup
-    timeStart: '2018-03-22T08:00:00.000Z'
-    timeEnd: null
   - name: BNE0x1D (30th Session)
     uri: >-
       /events/2018/03/22/ad2213f885eb80cc1ddbf1eab648b61bc20380fd5c0d01895caab38abe5bc0da
     organizer: SecTalks Brisbane
     timeStart: '2018-03-22T08:00:00.000Z'
     timeEnd: null
+  - name: 'Meet up, network, help each other with contacts and work on your idea'
+    uri: >-
+      /events/2018/03/22/b5270f7b6bcc5ffeadb313e3a3af3e546234f7ab0ed869927e1b55dbd59f749f
+    organizer: Ag Tech Innovation & catch up Brisbane Meetup
+    timeStart: '2018-03-22T08:00:00.000Z'
+    timeEnd: null
+  - name: Talk about DevOps and demo cool stuff with the Gold Coast DevOps Meetup!
+    uri: >-
+      /events/2018/03/22/8c9de76021c67d555e972842b2a77180582ae41594bb6bb8acb83c15fa650840
+    organizer: Gold Coast DevOps
+    timeStart: '2018-03-22T08:30:00.000Z'
+    timeEnd: null
   - name: Meet and Greet 2018
     uri: >-
       /events/2018/03/22/8a4b6d03abcf8b0ff98dcafa0435f67d395be6cc2ab87b1bef7b121a9634b1db
     organizer: Brisbane Drones
     timeStart: '2018-03-22T08:30:00.000Z'
+    timeEnd: null
+  - name: 'Gold Coast Crypto, (Bitcoin) for your business'
+    uri: >-
+      /events/2018/03/22/345e171a01d96e6d42633a0407e3ba76cc5d60f9a62cb445c73d977950399768
+    organizer: 'Gold Coast Crypto, (Bitcoin) for your business'
+    timeStart: '2018-03-22T09:00:00.000Z'
     timeEnd: null
 
 ---

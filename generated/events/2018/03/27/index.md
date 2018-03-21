@@ -2,6 +2,12 @@
 title: Events for 2018/03/27
 layout: event-index
 events:
+  - name: ManageEngine Seminar—Bringing IT Together
+    uri: >-
+      /events/2018/03/27/d95106b90779fb146879284a3b34af081555d541affa9c583a9c1622ec676d30
+    organizer: ManageEngine Seminar—Bringing IT Together
+    timeStart: '2018-03-26T21:30:00.000Z'
+    timeEnd: null
   - name: Australian e-Health Research Centre Colloquium 2018
     uri: >-
       /events/2018/03/27/5e8a5c15eafd0b59c3c0bdf3e63918836ec532d802d1b0404041d6459a7c2fb1
@@ -14,17 +20,17 @@ events:
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-03-27T02:00:00.000Z'
     timeEnd: null
-  - name: March Meetup Madness
-    uri: >-
-      /events/2018/03/27/59c8cea282528cf2ab794d9d78f0f0d1b52bc323663c1f43e7804cda8ec931b6
-    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
-    timeStart: '2018-03-27T07:45:00.000Z'
-    timeEnd: null
   - name: 'Meetup 0x18002 - Category Spotlight: Artificial Intelligence'
     uri: >-
       /events/2018/03/27/d74e49d4793030f901792ebb63d837b072b3fb74c2d81944f0c4b4056a2821d6
     organizer: Brisbane ICO
     timeStart: '2018-03-27T08:00:00.000Z'
+    timeEnd: null
+  - name: March Meetup Madness
+    uri: >-
+      /events/2018/03/27/59c8cea282528cf2ab794d9d78f0f0d1b52bc323663c1f43e7804cda8ec931b6
+    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
+    timeStart: '2018-03-27T07:45:00.000Z'
     timeEnd: null
   - name: >-
       Title: Hardware Startup #3 –  Arc, Virtual Robotics & experiences from

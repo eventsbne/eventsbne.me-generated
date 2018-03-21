@@ -8,7 +8,7 @@ events:
     organizer: SPARQ-ed
     timeStart: '2018-04-08T23:00:00.000Z'
     timeEnd: '2018-04-13T05:00:00.000Z'
-  - name: The Next BrisJS - Call For Speakers
+  - name: 'cross-domain comms, lightning talks & TBD'
     uri: >-
       /events/2018/04/09/033900dc5b657797dcab0145c2c57f1de177a41c2e70d401ec5b457294a64f97
     organizer: Brisbane Javascript
