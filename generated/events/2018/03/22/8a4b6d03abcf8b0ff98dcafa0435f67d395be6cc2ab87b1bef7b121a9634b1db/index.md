@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-22T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '8'
+timeCreated: '2018-03-22T08:12:12.168Z'
+timeUpdated: '2018-03-22T08:12:12.168Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Meet and Greet 2018
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-22T08:12:12.168Z'
 
 ---
 <p>• What we'll do<br/>Head down and join us to talk anything Drones, UAVs and RPAS.</p> <p>• What to bring</p> <p>• Important to know</p>

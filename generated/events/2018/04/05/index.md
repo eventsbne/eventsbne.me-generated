@@ -2,18 +2,18 @@
 title: Events for 2018/04/05
 layout: event-index
 events:
-  - name: Women's Cocktail Hour
-    uri: >-
-      /events/2018/04/05/83c8f1aae4207d9b6e11601ff416ea259b4cb2c09c227a5e5062b78c53b4a8c0
-    organizer: Brisbane Artificial Intelligence
-    timeStart: '2018-04-05T07:00:00.000Z'
-    timeEnd: null
   - name: Computers for Beginners - Bribie Island Library
     uri: >-
       /events/2018/04/05/1cacf440708143c6bb20b20be20830b783808a4f70414a8b9c93780312ab44f2
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-04-05T04:00:00.000Z'
     timeEnd: '2018-04-05T06:00:00.000Z'
+  - name: Women's Cocktail Hour
+    uri: >-
+      /events/2018/04/05/83c8f1aae4207d9b6e11601ff416ea259b4cb2c09c227a5e5062b78c53b4a8c0
+    organizer: Brisbane Artificial Intelligence
+    timeStart: '2018-04-05T07:00:00.000Z'
+    timeEnd: null
   - name: Blackbook.ai
     uri: >-
       /events/2018/04/05/7d38649fd814e8fbe709ba894315eaca1314604e34014b698f26dda0f60e4c74

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-27T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '15'
+timeCreated: '2018-03-22T08:12:12.168Z'
+timeUpdated: '2018-03-22T08:12:12.168Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -25,7 +25,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: March Meetup Madness
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-22T08:12:12.168Z'
 
 ---
 <p>• What we'll do<br/>A few mini March presentations for this month:<br/>* Our normal news delivered by the magnificent Ryan Davis.<br/>* Wifi based deployment to iOS devices<br/>* Storing data (files/documents/images/db) in Azure<br/>* Some more (we're always looking for speakers)</p> <p>• What to bring</p> <p>• Important to know</p>

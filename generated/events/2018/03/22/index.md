@@ -14,27 +14,27 @@ events:
     organizer: Savvy Australian Bloggers
     timeStart: '2018-03-22T00:00:00.000Z'
     timeEnd: null
-  - name: IT Lunch
-    uri: >-
-      /events/2018/03/22/5dfec920a64be98ea5ad6d141522b8e6f19fefd8d6b6cc4b52349250e98bd19c
-    organizer: dotMaleny
-    timeStart: '2018-03-22T02:30:00.000Z'
-    timeEnd: null
   - name: Life Sciences Industry in Parliament 2018
     uri: >-
       /events/2018/03/22/dddd5807daf4879e7bbb42c30dde2790c4457d81d88b15c4f9aba1a86850cb45
     organizer: Life Sciences Queensland Limited
     timeStart: '2018-03-22T02:30:00.000Z'
     timeEnd: '2018-03-22T04:30:00.000Z'
-  - name: Griffith Sciences Careers' Evening
+  - name: IT Lunch
     uri: >-
-      /events/2018/03/22/3e9ae2cdd2a4c74c7344e1f8fe4788a268f187753abe61d92344a99c6e46f5e7
-    organizer: 'Work Integrated Learning, Griffith Sciences'
-    timeStart: '2018-03-22T06:00:00.000Z'
-    timeEnd: '2018-03-22T09:00:00.000Z'
+      /events/2018/03/22/5dfec920a64be98ea5ad6d141522b8e6f19fefd8d6b6cc4b52349250e98bd19c
+    organizer: dotMaleny
+    timeStart: '2018-03-22T02:30:00.000Z'
+    timeEnd: null
   - name: Griffith Sciences WIL Student Careers Evening
     uri: >-
       /events/2018/03/22/3e9889405fe6acd017177bc4572b899a7d2a7f2a773c6dde4a2174fba9ca45e7
+    organizer: 'Work Integrated Learning, Griffith Sciences'
+    timeStart: '2018-03-22T06:00:00.000Z'
+    timeEnd: '2018-03-22T09:00:00.000Z'
+  - name: Griffith Sciences Careers' Evening
+    uri: >-
+      /events/2018/03/22/3e9ae2cdd2a4c74c7344e1f8fe4788a268f187753abe61d92344a99c6e46f5e7
     organizer: 'Work Integrated Learning, Griffith Sciences'
     timeStart: '2018-03-22T06:00:00.000Z'
     timeEnd: '2018-03-22T09:00:00.000Z'
@@ -50,18 +50,18 @@ events:
     organizer: Dynatrace Brisbane Meetup
     timeStart: '2018-03-22T07:30:00.000Z'
     timeEnd: null
-  - name: WiSA Industry Networking Night
-    uri: >-
-      /events/2018/03/22/70d4a024b1101207584b4c447c594d836af2d094b6f54d9d419774ab40e96cfd
-    organizer: WiSA UQ
-    timeStart: '2018-03-22T08:00:00.000Z'
-    timeEnd: '2018-03-22T10:00:00.000Z'
   - name: 'Is Stretch DB right for me? The good, the bad and the gotchas'
     uri: >-
       /events/2018/03/22/967756a967e7c2019f7c6a42fe030c01eaad13939e39b859e560b9eb0417be85
     organizer: QLD SQL Server User Group
     timeStart: '2018-03-22T07:30:00.000Z'
     timeEnd: null
+  - name: WiSA Industry Networking Night
+    uri: >-
+      /events/2018/03/22/70d4a024b1101207584b4c447c594d836af2d094b6f54d9d419774ab40e96cfd
+    organizer: WiSA UQ
+    timeStart: '2018-03-22T08:00:00.000Z'
+    timeEnd: '2018-03-22T10:00:00.000Z'
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/03/22/e8a74ed5810f4da28ef2af5c2a46a3ee218d0b15db09c87e96e80707501b6ab3

@@ -8,16 +8,16 @@ events:
     organizer: Dan Toomey
     timeStart: '2018-03-23T22:00:00.000Z'
     timeEnd: '2018-03-24T07:00:00.000Z'
-  - name: Deep Learning Project Course
-    uri: >-
-      /events/2018/03/24/599fc2d03fada343c40b4e5e7fe22597f92f42c80aed7be4c6d356930d2ad33c
-    organizer: Brisbane Artificial Intelligence
-    timeStart: '2018-03-23T23:00:00.000Z'
-    timeEnd: null
   - name: codeSwich is in Ipswich!
     uri: >-
       /events/2018/03/24/c2b2f767beacd5f99389a9c78b6df055b7822297423ca312a6e10ece8417f2a2
     organizer: Western Corridor Technology Enthusiasts
+    timeStart: '2018-03-23T23:00:00.000Z'
+    timeEnd: null
+  - name: Deep Learning Project Course
+    uri: >-
+      /events/2018/03/24/599fc2d03fada343c40b4e5e7fe22597f92f42c80aed7be4c6d356930d2ad33c
+    organizer: Brisbane Artificial Intelligence
     timeStart: '2018-03-23T23:00:00.000Z'
     timeEnd: null
   - name: Monthly Hack and Race
@@ -25,6 +25,18 @@ events:
       /events/2018/03/24/36c74fb8e9fda0a38dedd4561d200679380e69447d5829986083ee38b398882a
     organizer: DIY Robocars Brisbane
     timeStart: '2018-03-24T00:00:00.000Z'
+    timeEnd: null
+  - name: 'KidHack: Arduino Electronics, Robotics & More'
+    uri: >-
+      /events/2018/03/24/10880304ea8201fb6c2376b0ad89f8e4d8dc3b60583625195c03127a727338c6
+    organizer: Gold Coast Techspace
+    timeStart: '2018-03-24T00:00:00.000Z'
+    timeEnd: null
+  - name: Humbug - Regular Meeting
+    uri: >-
+      /events/2018/03/24/a9048ceec0a03cab9925e36e7b5416d19fe23091db009ac1e34c869a0c90e647
+    organizer: Humbug
+    timeStart: '2018-03-24T05:00:00.000Z'
     timeEnd: null
 
 ---
