@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-26T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-22T08:12:12.168Z'
-timeUpdated: '2018-03-22T08:12:12.168Z'
-countAttending: '13'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Cyber Security Meetup with Chris Raethke on Bug Bounty's
-date: '2018-03-22T08:12:12.168Z'
+title: Cyber Security Meetup with Chris Raethke on Bug Bounties
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>How to bounty good and do other things good</p> <p>As a young startup or even growing business, security is often an after thought. Let’s get together and talk about how as a young or growing company you can leverage freelance security consultants aka bug bounty hunters to help secure your products and promote a security culture within your company.</p> <p>Things to consider<br/>- getting your boss to say yes<br/>- where to find bug hunters<br/>- hall of fame vs swag vs $ rewards<br/>- how to prioritize fixes<br/>- continuous improvement</p>

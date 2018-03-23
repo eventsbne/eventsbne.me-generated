@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-22T08:12:12.168Z'
-timeUpdated: '2018-03-22T08:12:12.168Z'
-countAttending: '16'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress Ipswich March Meetup
-date: '2018-03-22T08:12:12.168Z'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>This months WordPress Ipswich meetup is by Jamin Andrews from Conetix on "SEO Gains Through Intelligent WordPress Hosting"</p> <p>Drinks and pizza are also provided, thanks to our gracious sponsors Fire Station 101, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p> <p>The WordPress Meetups are community driven and focused. Anyone with an interest in WordPress is very welcome to attend, we have members who range from bloggers and basic business owners who use WordPress through to designers and developers who have high levels of knowledge.</p> <p>The WordPress Ipswich Meetup group is always looking for people to present so if you're interested, please contact the Meetup organisers.</p>

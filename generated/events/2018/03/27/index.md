@@ -2,23 +2,17 @@
 title: Events for 2018/03/27
 layout: event-index
 events:
-  - name: ManageEngine Seminar—Bringing IT Together
-    uri: >-
-      /events/2018/03/27/d95106b90779fb146879284a3b34af081555d541affa9c583a9c1622ec676d30
-    organizer: ManageEngine Seminar—Bringing IT Together
-    timeStart: '2018-03-26T21:30:00.000Z'
-    timeEnd: null
   - name: Cryptocurrency discussion BREAKFAST EVENT
     uri: >-
       /events/2018/03/27/e65f88eeaa6c8453f409c7997813732947d41e1b11aa4692d34236c3f8771369
     organizer: Ormiston Crypto-Café
     timeStart: '2018-03-26T20:00:00.000Z'
     timeEnd: null
-  - name: Elabor8 Lunch and Learn Brisbane (Placeholder)
+  - name: ManageEngine Seminar—Bringing IT Together
     uri: >-
-      /events/2018/03/27/0e3b4a66e8661d549ae0a3b83842346b4766befff235565d5a592c8f4ff61fc5
-    organizer: Elabor8 Lunch and Learn Brisbane
-    timeStart: '2018-03-27T02:00:00.000Z'
+      /events/2018/03/27/d95106b90779fb146879284a3b34af081555d541affa9c583a9c1622ec676d30
+    organizer: ManageEngine Seminar—Bringing IT Together
+    timeStart: '2018-03-26T21:30:00.000Z'
     timeEnd: null
   - name: Australian e-Health Research Centre Colloquium 2018
     uri: >-
@@ -26,6 +20,12 @@ events:
     organizer: The Australian e-Health Research Centre
     timeStart: '2018-03-26T22:30:00.000Z'
     timeEnd: '2018-03-27T06:00:00.000Z'
+  - name: STATIK - System Thinking Approach To Implementing Kanban - Dave Pryce
+    uri: >-
+      /events/2018/03/27/0e3b4a66e8661d549ae0a3b83842346b4766befff235565d5a592c8f4ff61fc5
+    organizer: Elabor8 Lunch and Learn Brisbane
+    timeStart: '2018-03-27T02:00:00.000Z'
+    timeEnd: null
   - name: March Meetup Madness
     uri: >-
       /events/2018/03/27/59c8cea282528cf2ab794d9d78f0f0d1b52bc323663c1f43e7804cda8ec931b6
@@ -50,19 +50,17 @@ events:
     organizer: Brisbane Augmented Reality
     timeStart: '2018-03-27T08:00:00.000Z'
     timeEnd: null
+  - name: 'Title: Hardware Startup #3 –  Arc, Virtual Robotics & Florentzos Design'
+    uri: >-
+      /events/2018/03/27/1c5a121bf3990b0282bbf35d05c9b8614b612b32b0ba0c877e6fe58c238ae69b
+    organizer: Hardware StartUp - Brisbane
+    timeStart: '2018-03-27T08:00:00.000Z'
+    timeEnd: null
   - name: BrisRuby.com Monthly  Meetup
     uri: >-
       /events/2018/03/27/43154400ae84ae3722482376b6dc0da6f044969b1fa985d0f461b5735da47d12
     organizer: The Brisbane Ruby and Rails
     timeStart: '2018-03-27T08:30:00.000Z'
-    timeEnd: null
-  - name: >-
-      Title: Hardware Startup #3 –  Arc, Virtual Robotics & experiences from
-      Industry
-    uri: >-
-      /events/2018/03/27/1c5a121bf3990b0282bbf35d05c9b8614b612b32b0ba0c877e6fe58c238ae69b
-    organizer: Hardware StartUp - Brisbane
-    timeStart: '2018-03-27T08:00:00.000Z'
     timeEnd: null
 
 ---

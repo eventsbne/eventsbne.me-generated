@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-04T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-22T08:12:12.168Z'
-timeUpdated: '2018-03-22T08:12:12.168Z'
-countAttending: '27'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '"Good Enough" Software - Andrew Harcourt'
-date: '2018-03-22T08:12:12.168Z'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>There exists a recent and disturbing trend in the software quality space for people to view themselves as "test automation engineers" or similar, and to focus on creating large automation suites post-hoc. These suites are normally generated verbatim from acceptance criteria and mapped directly to UI-automation tests. The guiding principle appears to be that no bug shall ever reach production.</p> <p>While this goal is noble in theory, it's destructive in practice. Worse, however, it also distracts us from the realisation that software quality is about much more than testing. In this talk, we'll cover a number of other, often-overlooked elements of software quality such as code design itself, monitoring, logging, instrumentation, SRE, synthetic transactions and production verification tests.</p> <p>We'll look at production error rates and how to assess what an acceptable error rate is, and we'll cover measures such as mean time to detection (MTTD) and mean time to remediation (MTTR) as key metrics for the overall quality of a solution. Critically, we'll then put that into the context of what the system's purpose is and whether that system is Good Enough (tm).</p> <p>About Andrew Harcourt: Andrew is software engineer and project rescue specialist. He is a Principal Consultant and Market Tech Principal at ThoughtWorks, a co-founder at Stack Mechanics and in his spare time (ha!) he also runs his own photography business, Ivory Digital.</p>

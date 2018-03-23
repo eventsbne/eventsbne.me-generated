@@ -14,17 +14,17 @@ events:
     organizer: Brisbane Unity Developers
     timeStart: '2018-03-26T07:30:00.000Z'
     timeEnd: null
-  - name: Cyber Security Meetup with Chris Raethke on Bug Bounty's
-    uri: >-
-      /events/2018/03/26/57aa6e525576f2b18c02293f5409eaec77151a8bfc96b5a37b4c64e8ae82ffe6
-    organizer: Brisbane Cyber Security Meetup
-    timeStart: '2018-03-26T07:30:00.000Z'
-    timeEnd: null
   - name: 'Call for speakers: March Ember meetup'
     uri: >-
       /events/2018/03/26/eb524571b5a0202ceac264ed99f4bd64bfa309bcebb6295ef236e02061e8fa2a
     organizer: Brisbane EmberJS Community
     timeStart: '2018-03-26T08:00:00.000Z'
+    timeEnd: null
+  - name: Cyber Security Meetup with Chris Raethke on Bug Bounties
+    uri: >-
+      /events/2018/03/26/57aa6e525576f2b18c02293f5409eaec77151a8bfc96b5a37b4c64e8ae82ffe6
+    organizer: Brisbane Cyber Security Meetup
+    timeStart: '2018-03-26T07:30:00.000Z'
     timeEnd: null
   - name: >-
       Monthly Evening Symposium - Home Automation News, Product development

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-22T08:12:12.168Z'
-timeUpdated: '2018-03-22T08:12:12.168Z'
-countAttending: '12'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Monthly Evening Symposium - Home Automation News, Product development process'
-date: '2018-03-22T08:12:12.168Z'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>• What we'll do</p> <p>At our monthly evening events we begin with networking and a light dinner (finger foods, beer, wine and soft drinks), then presentations commence from 6:30.</p> <p>This time around we are at the brand new Arc Hardware accelerator for the first time. If you have not seen this space, I encourage you to come along and discover it!</p> <p>This month we will begin with an update on the latest in mass-market home automation products; finally Amazon, Apple and Google all have home automation hubs ready to buy in Australia.</p> <p>Next up, convenor Christopher Biggs will explain the "Six P" model for iterative product discovery. After this we'll try it out with "IoT Karaoke". This is where you hum your problem, and the members' choir sings a solution.</p> <p>Is there something in your life that gives you aggravation or angst? It could be a simple as remembering to put the wheelie bin out on the correct night, or as complex as ending world hunger.</p> <p>If you have a problem, why don't you offer it up as a challenge for the group. We will pool our expertise to suggest technology (existing, or just-this-minute freshly invented) that might help.</p>

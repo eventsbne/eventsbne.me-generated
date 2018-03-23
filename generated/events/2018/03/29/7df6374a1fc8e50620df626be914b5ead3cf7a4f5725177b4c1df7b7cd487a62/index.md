@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-29T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '22'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '25'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '*Influencing Skills for Startups'
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>Startups need to be influential with their staff, customers and investors. Are influencers born or made?</p> <p>Can you learn to be more influential?</p> <p>The truth is that you can learn how to be more influential with those around you!</p> <p>In 1984, Robert Caildini introduced the Theory of Influence, based on the following six key principles:</p> <p>• Reciprocity</p> <p>• Commitment and consistency</p> <p>• Social proof</p> <p>• Authority</p> <p>• Liking</p> <p>• Scarcity.</p> <p><a href="https://www.youtube.com/watch?v=7AsPtArozgY&amp;t=98s" class="embedded">https://www.youtube.com/watch?v=7AsPtArozgY&amp;t=98s</a></p> <p>In this meetup Paul will 6 Principles of Influence with take-away examples for your startup.</p> <p>Paul will also highlight the applicable findings of the most recent book by Cialdini, Presuasion. Paul is a mentor at River City Labs. He has 18 years of B2B sales experience with over $40M of personal selling. Paul has worked in organisations with minimal marketing/branding to sign up big-brand customers.</p>

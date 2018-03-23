@@ -8,17 +8,17 @@ events:
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-04-05T04:00:00.000Z'
     timeEnd: '2018-04-05T06:00:00.000Z'
+  - name: How to identify an “AI” problem
+    uri: >-
+      /events/2018/04/05/7d38649fd814e8fbe709ba894315eaca1314604e34014b698f26dda0f60e4c74
+    organizer: Brisbane Artificial Intelligence
+    timeStart: '2018-04-05T08:00:00.000Z'
+    timeEnd: null
   - name: Women's Cocktail Hour
     uri: >-
       /events/2018/04/05/83c8f1aae4207d9b6e11601ff416ea259b4cb2c09c227a5e5062b78c53b4a8c0
     organizer: Brisbane Artificial Intelligence
     timeStart: '2018-04-05T07:00:00.000Z'
-    timeEnd: null
-  - name: Blackbook.ai
-    uri: >-
-      /events/2018/04/05/7d38649fd814e8fbe709ba894315eaca1314604e34014b698f26dda0f60e4c74
-    organizer: Brisbane Artificial Intelligence
-    timeStart: '2018-04-05T08:00:00.000Z'
     timeEnd: null
   - name: Let's meetup and learn about Wordpress (including DIVI)
     uri: >-

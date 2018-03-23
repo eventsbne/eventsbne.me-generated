@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-27T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-22T08:12:12.168Z'
-timeUpdated: '2018-03-22T08:12:12.168Z'
-countAttending: '32'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '36'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,10 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: >-
-  Title: Hardware Startup #3 –  Arc, Virtual Robotics & experiences from
-  Industry
-date: '2018-03-22T08:12:12.168Z'
+title: 'Title: Hardware Startup #3 –  Arc, Virtual Robotics & Florentzos Design'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
-<p>Please come join us for our third Hardware Meetup for Brisbane. For this event we have relocated to the brand new Arc Hardware Incubator in Fortitude Valley.</p> <p>On the night we will hear from three speakers making hardware development a reality in Brisbane, including an introduction to the Arc space and real life case studies from start ups developing actual products. The line-up is still being refined and we will be communicated before the event.</p> <p>The purpose of the meetup is to bring together people interested in hardware development across Brisbane, to exchange knowledge, ideas and experiences and to build a vibrant community of hardwarians.</p> <p>Schedule:</p> <p>6:00: Welcome, snacks, refreshments (we will be providing beer, wine and pizza.)</p> <p>6:30: Jon Sawdon Smith: Intro from Jon, reasons for organising this meetup.</p> <p>6:40: Intro to Arc</p> <p>6:50 Sam Vilder - Virtually Robotics: We will hear about Sams experience of creating a virtual reality tank experience that allows a player to control and operate a remote controlled (RC) model tank from within a virtual environment . www.virtuallyrobotic.com</p> <p>7:10: Speaker/case study tbd</p> <p>7:30 Drinks, snacks, socialising, networking</p> <p>8:30 After event drinks at Netherworld</p>
+<p>Please come join us for our third Hardware Meetup for Brisbane. For this event we have relocated to the brand new Arc Hardware Incubator in Fortitude Valley.</p> <p>On the night we will hear from three speakers making hardware development a reality in Brisbane, including an introduction to the Arc space and real life case studies from start ups developing actual products. The line-up is still being refined and we will be communicated before the event.</p> <p>The purpose of the meetup is to bring together people interested in hardware development across Brisbane, to exchange knowledge, ideas and experiences and to build a vibrant community of hardwarians.</p> <p>Schedule:</p> <p>6:00: Welcome, snacks, refreshments (we will be providing beer, wine and pizza.)</p> <p>6:30: Jon Sawdon Smith: Intro from Jon, reasons for organising this meetup.</p> <p>6:40: Intro to Arc</p> <p>6:50 Sam Vilder - Virtually Robotics: We will hear about Sams experience of creating a virtual reality tank experience that allows a player to control and operate a remote controlled (RC) model tank from within a virtual environment . www.virtuallyrobotic.com</p> <p>7:10: Peter Florentzos - Florentzos Design and Strategy. Peter will share some insights on branding specifically for hardware startups. www.florentzos.com.au</p> <p>7:30 Drinks, snacks, socialising, networking</p> <p>8:30 After event drinks at Netherworld</p>

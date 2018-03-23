@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-05T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-22T08:12:12.168Z'
-timeUpdated: '2018-03-22T08:12:12.168Z'
-countAttending: '16'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Blackbook.ai
-date: '2018-03-22T08:12:12.168Z'
+title: How to identify an “AI” problem
+date: '2018-03-23T08:12:12.964Z'
 
 ---
-<p>Details coming soon</p>
+<p>Predictive analytics, machine learning, deep learning or just good old linear algebra? There’s a lot of hype around artificial intelligence (AI) but it can be hard to spot true AI from the imposters. Perhaps it's all just mathematics afterall?</p> <p>In this talk, our friendly mathematician/data-scientist Ruth will discuss the foundations on which modern AI is built. Taking a practical view from her experiences in both academia and industry, Ruth will discuss how to identify which AI tool to use when approaching a problem. Is deep learning always the answer?</p> <p>Using practical use cases, Ruth will walk through the weeds and look at examples where an AI problem can be solved with calculus or a simple heuristic, or where a challenge should be tackled with deep learning.</p> <p>The talk will draw on current and previous projects from Ruth's academic background and from her current role at Blackbook.ai.</p> <p>About Ruth:<br/>Dr Ruth Luscombe made the small leap from maths and programming to data science after a short sabbatical in Bali and is now the Chief Data Scientist at Brisbane-based automation and AI consultancy, Blackbook.ai. She holds a PhD in mathematics for her research in optimization and dynamic scheduling.</p> <p>Agenda:<br/>6:00pm Mingling, networking and nibbles, courtesy of Blackbook.ai<br/>6:30pm Dr Ruth Luscombe (Blackbook.ai)<br/>7:30pm Mingling continued</p> <p>To get to the venue take the elevators from within the old TC Beirne building up to level 2. Lift access will close at 6.30pm. Let us know if you plan on arriving later!</p> <p>A very big thank you to Blackbook.ai for generously sponsoring the meetup and River City Labs for organising the drinks!</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-11T08:20:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '11'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Stable Coins - What are they, how do they work, are they for real?'
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>• What we'll do<br/>Stable Coins.</p> <p>Some say it's the holy grail..Some say it's a fantasy.<br/>We've seen good projects, bad projects, and all sorts of crazy stuff in this market - and in light of that, we're going to talk about the three main forms of Stable coin being created, which include:</p> <p>- Pegged<br/>- Collateralized<br/>- Debt / Equity Balance</p> <p>We're going to talk about our best "friend", Tether...lol....and also cover a series of other coins / projects including:</p> <p>Tether<br/>Real USD<br/>Maker DAO<br/>Havven<br/>Base Coin</p> <p>Looking forward to seeing you all there.<br/>Aleks</p> <p>• What to bring</p> <p>• Important to know</p>

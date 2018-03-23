@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-03T06:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '4'
+timeCreated: '2018-03-23T08:12:12.964Z'
+timeUpdated: '2018-03-23T08:12:12.964Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AI Article Reading Club - Stanford ECG Analysis
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-23T08:12:12.964Z'
 
 ---
 <p>• What we'll do<br/>We will walkthrough the paper "Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks", Rajpurkar et al, published in July by a team lead by Stanford University, including Andrew Ng.</p> <p><a href="https://arxiv.org/abs/1707.01836" class="linkified">https://arxiv.org/abs/1707.01836</a><br/><a href="https://stanfordmlgroup.github.io/projects/ecg/" class="linkified">https://stanfordmlgroup.github.io/projects/ecg/</a></p> <p>This paper represents a major milestone in ECG analysis.</p> <p>What can we learn from this approach?</p> <p>• What to bring<br/>Please review the paper in advance. The walkthrough will more focus on implications.</p> <p>• Remote connection<br/>For those that cant attend in person, we will have virtual access via zoom:<br/><a href="https://zoom.us/j/860288895" class="linkified">https://zoom.us/j/860288895</a></p>

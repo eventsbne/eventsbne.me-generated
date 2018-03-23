@@ -20,5 +20,11 @@ events:
     organizer: Brisbane DevStart
     timeStart: '2018-04-20T01:00:00.000Z'
     timeEnd: null
+  - name: 'Internet Freedom Hack: Defending Truth'
+    uri: >-
+      /events/2018/04/20/c34b4b1aac7e9be886c8d269a4b61932daa2911814be9aa131b5a9edab23e7cc
+    organizer: Brisbane Internet Safety Meetup
+    timeStart: '2018-04-20T08:00:00.000Z'
+    timeEnd: null
 
 ---

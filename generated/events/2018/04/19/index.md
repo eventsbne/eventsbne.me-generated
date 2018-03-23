@@ -2,16 +2,22 @@
 title: Events for 2018/04/19
 layout: event-index
 events:
+  - name: Text Analytics Primer
+    uri: >-
+      /events/2018/04/19/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
+    organizer: Microsoft Advanced Analytics Brisbane
+    timeStart: '2018-04-19T07:30:00.000Z'
+    timeEnd: null
   - name: WooCommerce Meetup - Topic TBD
     uri: >-
       /events/2018/04/19/33f0ae76c0d034453722871490de0c39cb87fd732c2b4c19761f1404374d1ee8
     organizer: Brisbane WooCommerce Meetup
     timeStart: '2018-04-19T08:00:00.000Z'
     timeEnd: null
-  - name: Text Analytics Primer
+  - name: Agile Brisbane - Return of the Lightning Talks
     uri: >-
-      /events/2018/04/19/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
-    organizer: Microsoft Advanced Analytics Brisbane
+      /events/2018/04/19/9ca830e8036f970c11cd4f013ad9f8ede6eaec1e11c7d916e8eb548f0851d892
+    organizer: Agile Brisbane
     timeStart: '2018-04-19T07:30:00.000Z'
     timeEnd: null
   - name: Sunburnt Country -- Qld Launch

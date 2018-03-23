@@ -16,17 +16,17 @@ events:
     organizer: Brisbane Women in Blockchain
     timeStart: '2018-04-10T02:00:00.000Z'
     timeEnd: null
-  - name: April ProductTank Meetup
-    uri: >-
-      /events/2018/04/10/0c6c5fbe70ba0891ba917b4e780903e6a36b034d7193e8702ee84771fa034a19
-    organizer: ProductTank Brisbane
-    timeStart: '2018-04-10T08:00:00.000Z'
-    timeEnd: null
   - name: BFPG Monthly Meetup
     uri: >-
       /events/2018/04/10/4981d5c322e0c1766d2968d955c94cde257ad2cd9fad19ae5cbbaee99fa6f494
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-04-10T07:45:00.000Z'
+    timeEnd: null
+  - name: April ProductTank Meetup
+    uri: >-
+      /events/2018/04/10/0c6c5fbe70ba0891ba917b4e780903e6a36b034d7193e8702ee84771fa034a19
+    organizer: ProductTank Brisbane
+    timeStart: '2018-04-10T08:00:00.000Z'
     timeEnd: null
   - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
     uri: >-
