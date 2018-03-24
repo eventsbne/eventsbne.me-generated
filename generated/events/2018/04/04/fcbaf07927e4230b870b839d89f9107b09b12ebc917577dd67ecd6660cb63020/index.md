@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-04T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-23T08:12:12.964Z'
-timeUpdated: '2018-03-23T08:12:12.964Z'
-countAttending: '13'
+timeCreated: '2018-03-24T08:12:12.371Z'
+timeUpdated: '2018-03-24T08:12:12.371Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Enterprise Ethereum Standards
-date: '2018-03-23T08:12:12.964Z'
+date: '2018-03-24T08:12:12.371Z'
 
 ---
 <p>• What we'll do<br/>Authors of some of the Enterprise Ethereum Standards will present the state of the standards.</p> <p>• What to bring<br/>BYO lunch</p> <p>• Important to know</p>

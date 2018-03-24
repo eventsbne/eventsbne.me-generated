@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-26T21:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '1'
+timeCreated: '2018-03-24T08:12:12.371Z'
+timeUpdated: '2018-03-24T08:12:12.371Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: ManageEngine Seminar—Bringing IT Together
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-24T08:12:12.371Z'
 
 ---
 <p>The first step to mastery is learning. That's why ManageEngine is bringing you the knowledge you need to become a master of IT management. In an upcoming free seminar, we'll show you not just how to manage your IT, but how to bring it all together.</p> <p>We're coming to Perth with an insightful and interactive seminar on IT management. Whether you're an IT manager, system administrator, or IT security officer, you won't want to miss this seminar.</p> <p>Date: March 27, 2018</p> <p>Venue:<br/>Technology Park Function Centre</p> <p>2 Brodie-Hall Drive</p> <p>Bentley, WA 6102</p> <p>Australia</p> <p>Why you should attend this seminar:</p> <p>- Engage in interactive training sessions on effective IT management.</p> <p>- Learn the best practices surrounding ITIL, IT security, network management, and more.</p> <p>- Grow your professional network and meet with both peers and industry experts.</p> <p>- Get hands-on experience with cutting-edge solutions for effective IT management.</p> <p>For the event agenda and further details, visit: <a href="https://www.manageengine.com/events/2018/seminar/perth.html?meevents" class="linkified">https://www.manageengine.com/events/2018/seminar/perth.html?meevents</a></p> <p>Food and drinks are included, but seats are limited. Don't let this opportunity slip by, sign up today!</p>

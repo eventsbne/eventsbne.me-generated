@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-23T08:12:12.964Z'
-timeUpdated: '2018-03-23T08:12:12.964Z'
-countAttending: '2'
+timeCreated: '2018-03-24T08:12:12.371Z'
+timeUpdated: '2018-03-24T08:12:12.371Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Internet Freedom Hack: Defending Truth'
-date: '2018-03-23T08:12:12.964Z'
+date: '2018-03-24T08:12:12.371Z'
 
 ---
 <p>Internet Freedom Hack is a community event that brings technologists with a passion for digital rights together for a weekend to build things that advance the cause of internet freedom.</p> <p>On Saturday, we'll open up to a wider audience for talks and conversations with renowned digital rights experts across Australia and beyond.</p> <p>Registration is now open for both events at <a href="https://internetfreedomhack.org/brisbane" class="linkified">https://internetfreedomhack.org/brisbane</a></p>
