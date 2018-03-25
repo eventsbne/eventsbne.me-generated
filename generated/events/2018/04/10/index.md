@@ -10,17 +10,17 @@ events:
     organizer: Brisbane Women in Blockchain
     timeStart: '2018-04-10T02:00:00.000Z'
     timeEnd: null
-  - name: BFPG Monthly Meetup
-    uri: >-
-      /events/2018/04/10/4981d5c322e0c1766d2968d955c94cde257ad2cd9fad19ae5cbbaee99fa6f494
-    organizer: Brisbane Functional Programming Group (BFPG)
-    timeStart: '2018-04-10T07:45:00.000Z'
-    timeEnd: null
   - name: Sitecore User Group
     uri: >-
       /events/2018/04/10/c0eb68286de3a83d86c989c3c155f04385570befa5d75aac77beeda330ac9b58
     organizer: Sitecore Brisbane User Group
     timeStart: '2018-04-10T07:00:00.000Z'
+    timeEnd: null
+  - name: BFPG Monthly Meetup
+    uri: >-
+      /events/2018/04/10/4981d5c322e0c1766d2968d955c94cde257ad2cd9fad19ae5cbbaee99fa6f494
+    organizer: Brisbane Functional Programming Group (BFPG)
+    timeStart: '2018-04-10T07:45:00.000Z'
     timeEnd: null
   - name: April ProductTank Meetup
     uri: >-
@@ -34,16 +34,16 @@ events:
     organizer: Drupal Brisbane
     timeStart: '2018-04-10T08:30:00.000Z'
     timeEnd: null
-  - name: IoT and SCADA Hackers!
-    uri: >-
-      /events/2018/04/10/4e773b587b490fbbc7668f58d6c96039f616c2e80837b3616d9a08868d6c934e
-    organizer: IoT and SCADA Hackers Australia
-    timeStart: '2018-04-10T09:00:00.000Z'
-    timeEnd: null
   - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
     uri: >-
       /events/2018/04/10/13517680480619aead99bde4b8e543a07cb8f31242b6dd70f672c0a78fa07668
     organizer: Gold Coast Bitcoin and Crypto Meetup
+    timeStart: '2018-04-10T09:00:00.000Z'
+    timeEnd: null
+  - name: IoT and SCADA Hackers!
+    uri: >-
+      /events/2018/04/10/4e773b587b490fbbc7668f58d6c96039f616c2e80837b3616d9a08868d6c934e
+    organizer: IoT and SCADA Hackers Australia
     timeStart: '2018-04-10T09:00:00.000Z'
     timeEnd: null
 

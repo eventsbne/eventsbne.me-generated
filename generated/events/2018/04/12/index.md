@@ -20,16 +20,16 @@ events:
     organizer: Brisbane Dynamics 365 User Group
     timeStart: '2018-04-12T07:30:00.000Z'
     timeEnd: null
-  - name: 'Feature engineering, turn feature into features'
-    uri: >-
-      /events/2018/04/12/7a721f8eba32e9264314cbfa59d0a3d80d7f7d11bd54f681a51fa717b681c5ff
-    organizer: Brisbane Data Science Meetup
-    timeStart: '2018-04-12T08:00:00.000Z'
-    timeEnd: null
   - name: '[Fortitude Valley] WordPress Brisbane April: Short stories told by you!'
     uri: >-
       /events/2018/04/12/c3abca7f253e596a62814830d15ec7c16266ef29a32536c63fa0fccd84d119ef
     organizer: WordPress Brisbane
+    timeStart: '2018-04-12T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Feature engineering, turn feature into features'
+    uri: >-
+      /events/2018/04/12/7a721f8eba32e9264314cbfa59d0a3d80d7f7d11bd54f681a51fa717b681c5ff
+    organizer: Brisbane Data Science Meetup
     timeStart: '2018-04-12T08:00:00.000Z'
     timeEnd: null
 

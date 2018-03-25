@@ -20,16 +20,16 @@ events:
     organizer: Australian Mechatronics Society
     timeStart: '2018-03-29T06:00:00.000Z'
     timeEnd: null
-  - name: Let's Talk WordPress!
-    uri: >-
-      /events/2018/03/29/d26a64975a562df1c7b91225b52ddd440bc22b91a3851c0c9acc4b2fafde8ac8
-    organizer: WordPress Gold Coast
-    timeStart: '2018-03-29T08:00:00.000Z'
-    timeEnd: null
   - name: Something's Brewing in The Garage...
     uri: >-
       /events/2018/03/29/176efb9c14eccb1ccc0695b9c058aea9b9d3aaf4a51c317595e8d09ab94964a2
     organizer: Myriad Connect Brisbane
+    timeStart: '2018-03-29T08:00:00.000Z'
+    timeEnd: null
+  - name: Let's Talk WordPress!
+    uri: >-
+      /events/2018/03/29/d26a64975a562df1c7b91225b52ddd440bc22b91a3851c0c9acc4b2fafde8ac8
+    organizer: WordPress Gold Coast
     timeStart: '2018-03-29T08:00:00.000Z'
     timeEnd: null
 

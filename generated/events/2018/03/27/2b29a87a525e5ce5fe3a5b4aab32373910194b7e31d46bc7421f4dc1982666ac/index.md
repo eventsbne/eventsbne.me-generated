@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-27T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-24T08:12:12.371Z'
-timeUpdated: '2018-03-24T08:12:12.371Z'
-countAttending: '3'
+timeCreated: '2018-03-25T08:12:14.573Z'
+timeUpdated: '2018-03-25T08:12:14.573Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Brisbane VR/AR Event #34'
-date: '2018-03-24T08:12:12.371Z'
+date: '2018-03-25T08:12:14.573Z'
 
 ---
 <p>Welcome back to the Brisbane's Virtual/Augmented Reality monthly event! With the latest announcements around wireless VR technology and higher resolution screens we are excited for 2018 and the advances the technology will bring.</p> <p>Our third meetup for the year will be hosted at Brisbane Powerhouse with special guest speaker presenting on the potential super powers humanity could unlock through the use of immersive technologies.</p> <p>LOCATION: BRISBANE POWERHOUSE</p> <p>TIME: 6:00PM - 9:00PM, 27th of March</p> <p>PARKING: Free (get there early to secure a spot)</p> <p>PRESENTATION:</p> <p>Ross Brown - What has a chef in common with a surgeon and why that matters to VR/AR</p> <p>Modern psychological thinking has moved from the “brain in a vat” model of cognition to a more integrated and embodied view. Our brain develops within, and then utilizes our bodies to make sense of the world. This has direct effects on how we think about everyday problems. VR/AR technology has strong embodiment capabilities via sensual immersion. Could this immersion unleash extra cognitive powers in humans? This talk will investigate this idea, showing some example experiments run at QUT showing some promising results. And yes, Ross will explain the overlap between a chef and a surgeon...</p> <p>To view more on Ross's profile you can visit this link - <a href="http://staff.qut.edu.au/staff/brown8/" class="linkified">http://staff.qut.edu.au/staff/brown8/</a></p> <p>DEMOS: We will have a number of VR/AR headsets available for demonstrations on the night. If you have any recommendations on specific experiences or would like to demo something you have been working on we would be happy to accommodate you</p>

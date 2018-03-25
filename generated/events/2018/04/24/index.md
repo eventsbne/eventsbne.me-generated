@@ -8,5 +8,13 @@ events:
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-04-24T02:00:00.000Z'
     timeEnd: null
+  - name: >-
+      Prof Richard Boys, Newcastle UK: A Bayesian DLM for caloric restriction in
+      mice
+    uri: >-
+      /events/2018/04/24/89fe5f928cb208d77c42c374f0087c282453183d2d6ac64aec5604843bade152
+    organizer: Queensland Branch of the Statistical Society of Australia
+    timeStart: '2018-04-24T06:30:00.000Z'
+    timeEnd: null
 
 ---

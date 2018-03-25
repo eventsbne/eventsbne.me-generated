@@ -8,16 +8,16 @@ events:
     organizer: The Beauty of Bitcoin Gold Coast (free)
     timeStart: '2018-03-25T21:00:00.000Z'
     timeEnd: null
-  - name: Brisbane Indie Games Showcase
-    uri: >-
-      /events/2018/03/26/13a9c57bb9f587060a0ddba4fd7f3a9c34fce7b4256ebe9fb58fe373faf37222
-    organizer: Brisbane Unity Developers
-    timeStart: '2018-03-26T07:30:00.000Z'
-    timeEnd: null
   - name: Cyber Security Meetup with Chris Raethke on Bug Bounties
     uri: >-
       /events/2018/03/26/57aa6e525576f2b18c02293f5409eaec77151a8bfc96b5a37b4c64e8ae82ffe6
     organizer: Brisbane Cyber Security Meetup
+    timeStart: '2018-03-26T07:30:00.000Z'
+    timeEnd: null
+  - name: Brisbane Indie Games Showcase
+    uri: >-
+      /events/2018/03/26/13a9c57bb9f587060a0ddba4fd7f3a9c34fce7b4256ebe9fb58fe373faf37222
+    organizer: Brisbane Unity Developers
     timeStart: '2018-03-26T07:30:00.000Z'
     timeEnd: null
   - name: 'Call for speakers: March Ember meetup'
