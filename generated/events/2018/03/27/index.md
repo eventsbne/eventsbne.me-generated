@@ -8,29 +8,29 @@ events:
     organizer: Ormiston Crypto-Café
     timeStart: '2018-03-26T20:00:00.000Z'
     timeEnd: null
-  - name: Australian e-Health Research Centre Colloquium 2018
-    uri: >-
-      /events/2018/03/27/5e8a5c15eafd0b59c3c0bdf3e63918836ec532d802d1b0404041d6459a7c2fb1
-    organizer: The Australian e-Health Research Centre
-    timeStart: '2018-03-26T22:30:00.000Z'
-    timeEnd: '2018-03-27T06:00:00.000Z'
   - name: ManageEngine Seminar—Bringing IT Together
     uri: >-
       /events/2018/03/27/d95106b90779fb146879284a3b34af081555d541affa9c583a9c1622ec676d30
     organizer: ManageEngine Seminar—Bringing IT Together
     timeStart: '2018-03-26T21:30:00.000Z'
     timeEnd: null
-  - name: March Meetup Madness
+  - name: Australian e-Health Research Centre Colloquium 2018
     uri: >-
-      /events/2018/03/27/59c8cea282528cf2ab794d9d78f0f0d1b52bc323663c1f43e7804cda8ec931b6
-    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
-    timeStart: '2018-03-27T07:45:00.000Z'
-    timeEnd: null
+      /events/2018/03/27/5e8a5c15eafd0b59c3c0bdf3e63918836ec532d802d1b0404041d6459a7c2fb1
+    organizer: The Australian e-Health Research Centre
+    timeStart: '2018-03-26T22:30:00.000Z'
+    timeEnd: '2018-03-27T06:00:00.000Z'
   - name: STATIK - System Thinking Approach To Implementing Kanban - Dave Pryce
     uri: >-
       /events/2018/03/27/0e3b4a66e8661d549ae0a3b83842346b4766befff235565d5a592c8f4ff61fc5
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-03-27T02:00:00.000Z'
+    timeEnd: null
+  - name: March Meetup Madness
+    uri: >-
+      /events/2018/03/27/59c8cea282528cf2ab794d9d78f0f0d1b52bc323663c1f43e7804cda8ec931b6
+    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
+    timeStart: '2018-03-27T07:45:00.000Z'
     timeEnd: null
   - name: 'Meetup 0x18002 - Category Spotlight: Artificial Intelligence'
     uri: >-

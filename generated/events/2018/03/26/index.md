@@ -20,6 +20,12 @@ events:
     organizer: Brisbane Cyber Security Meetup
     timeStart: '2018-03-26T07:30:00.000Z'
     timeEnd: null
+  - name: 'Call for speakers: March Ember meetup'
+    uri: >-
+      /events/2018/03/26/eb524571b5a0202ceac264ed99f4bd64bfa309bcebb6295ef236e02061e8fa2a
+    organizer: Brisbane EmberJS Community
+    timeStart: '2018-03-26T08:00:00.000Z'
+    timeEnd: null
   - name: >-
       Monthly Evening Symposium - Home Automation News, Product development
       process
@@ -28,22 +34,16 @@ events:
     organizer: Brisbane Internet of Things (IOT) Interest Group
     timeStart: '2018-03-26T08:00:00.000Z'
     timeEnd: null
-  - name: 'Call for speakers: March Ember meetup'
+  - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
-      /events/2018/03/26/eb524571b5a0202ceac264ed99f4bd64bfa309bcebb6295ef236e02061e8fa2a
-    organizer: Brisbane EmberJS Community
+      /events/2018/03/26/0654335dfef2dc8fcd80e6ae9c55b5e7b679f4b72ec1bcc87090cd6567b2086e
+    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-03-26T08:00:00.000Z'
     timeEnd: null
   - name: 'Presentation: End to end automated testing at WordPress.com'
     uri: >-
       /events/2018/03/26/083c7d306f3f720a36dfe9ce6d6daa7c3721eda983150473dc951f26e5f2894e
     organizer: Brisbane Software Testers
-    timeStart: '2018-03-26T08:00:00.000Z'
-    timeEnd: null
-  - name: Blockchain Reserve - Brisbane Investment Analysis
-    uri: >-
-      /events/2018/03/26/0654335dfef2dc8fcd80e6ae9c55b5e7b679f4b72ec1bcc87090cd6567b2086e
-    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-03-26T08:00:00.000Z'
     timeEnd: null
   - name: React Talks & Networking — March

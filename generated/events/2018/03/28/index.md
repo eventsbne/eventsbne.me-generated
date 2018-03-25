@@ -34,16 +34,16 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: external event - Softbank Robotics Chief Scientific Officer presents
-    uri: >-
-      /events/2018/03/28/779fb5c7a55ea09333e58a64f18e846a1bc44ce6517c34c39fb1b01728dc8c89
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: WordPress Ipswich March Meetup
     uri: >-
       /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
     organizer: Ipswich WordPress Meetup
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: external event - Softbank Robotics Chief Scientific Officer presents
+    uri: >-
+      /events/2018/03/28/779fb5c7a55ea09333e58a64f18e846a1bc44ce6517c34c39fb1b01728dc8c89
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
   - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'

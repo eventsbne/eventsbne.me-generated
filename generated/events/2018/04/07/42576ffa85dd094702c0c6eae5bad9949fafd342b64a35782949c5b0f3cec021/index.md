@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-07T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '22'
+timeCreated: '2018-03-25T02:01:44.297Z'
+timeUpdated: '2018-03-25T02:01:44.297Z'
+countAttending: '23'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Making Moments: Behind the Scenes of A Moment Between Us'
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-25T02:01:44.297Z'
 
 ---
 <p>This session will be about the design process of A Moment Between Us, a co-operative interactive storytelling game currently being made by Ruby Simpson and Aaron Williams. Emotional literacy is the core theme of the game, with the stories being crafted to facilitate emotional intimacy and give players a platform to share personal stories and express their feelings.</p> <p>Ruby will walk through the design process of a yet-to-be-released AMBU story as an example, highlighting the questions asked and tools used to position the players to meaningfully engage with the content.</p> <p>Ruby Simpson is a narrative designer and independent developer who makes things designed to connect people. She is currently developing A Moment Between Us with Aaron Williams, and is also creating things about her personal experiences. You can find her @_rubysimpson on twitter.</p>
