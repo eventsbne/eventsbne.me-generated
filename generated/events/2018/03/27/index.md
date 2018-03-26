@@ -44,16 +44,16 @@ events:
     organizer: Hackerspace Brisbane
     timeStart: '2018-03-27T08:00:00.000Z'
     timeEnd: null
-  - name: 'Title: Hardware Startup #3 –  Arc, Virtual Robotics & Florentzos Design'
-    uri: >-
-      /events/2018/03/27/1c5a121bf3990b0282bbf35d05c9b8614b612b32b0ba0c877e6fe58c238ae69b
-    organizer: Hardware StartUp - Brisbane
-    timeStart: '2018-03-27T08:00:00.000Z'
-    timeEnd: null
   - name: 'Brisbane VR/AR Event #34'
     uri: >-
       /events/2018/03/27/2b29a87a525e5ce5fe3a5b4aab32373910194b7e31d46bc7421f4dc1982666ac
     organizer: Brisbane Augmented Reality
+    timeStart: '2018-03-27T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Title: Hardware Startup #3 –  Arc, Virtual Robotics & Florentzos Design'
+    uri: >-
+      /events/2018/03/27/1c5a121bf3990b0282bbf35d05c9b8614b612b32b0ba0c877e6fe58c238ae69b
+    organizer: Hardware StartUp - Brisbane
     timeStart: '2018-03-27T08:00:00.000Z'
     timeEnd: null
   - name: BrisRuby.com Monthly  Meetup

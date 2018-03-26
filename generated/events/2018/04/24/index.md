@@ -16,5 +16,11 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-04-24T06:30:00.000Z'
     timeEnd: null
+  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
+    uri: >-
+      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
+    organizer: Brisbane 3D Printing Meetup
+    timeStart: '2018-04-24T08:00:00.000Z'
+    timeEnd: null
 
 ---

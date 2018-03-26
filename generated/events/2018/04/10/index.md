@@ -22,7 +22,7 @@ events:
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-04-10T07:45:00.000Z'
     timeEnd: null
-  - name: April ProductTank Meetup
+  - name: 'Attend: Brisbane''s Product Leadership Roadmap'
     uri: >-
       /events/2018/04/10/0c6c5fbe70ba0891ba917b4e780903e6a36b034d7193e8702ee84771fa034a19
     organizer: ProductTank Brisbane

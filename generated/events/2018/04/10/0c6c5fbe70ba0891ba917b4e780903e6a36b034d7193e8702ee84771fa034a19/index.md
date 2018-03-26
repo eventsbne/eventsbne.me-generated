@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-10T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-25T02:01:44.297Z'
-timeUpdated: '2018-03-25T02:01:44.297Z'
-countAttending: '10'
+timeCreated: '2018-03-26T08:12:12.701Z'
+timeUpdated: '2018-03-26T08:12:12.701Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: April ProductTank Meetup
-date: '2018-03-25T02:01:44.297Z'
+title: 'Attend: Brisbane''s Product Leadership Roadmap'
+date: '2018-03-26T08:12:12.701Z'
 
 ---
-<p>• What we'll do</p> <p>• What to bring</p> <p>• Important to know</p>
+<p>Panel discussion:</p> <p>- How is Brisbane doing from a product leadership perspective?<br/>- What does it look like for Brisbane to be leading nationally in product?<br/>- A roadmap to reach our product goals</p> <p>Panelist:</p> <p>Bartłomiej Pilarczyk - Senior Product Manager / Vision 6<br/>Jared Tredly - Managing Partner / Just Digital People<br/>Michael Griffin - Senior Product Manager / CoreLogic<br/>Niraj Kothawade - Head of Product / Temando</p>

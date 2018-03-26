@@ -7,5 +7,11 @@ events:
     organizer: null
     timeStart: '2018-04-24T14:00:00.000Z'
     timeEnd: '2018-04-25T14:00:00.000Z'
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/04/25/a376803e7327d997954e0c7c9edcbacc0349c42b6b794d0eb94d5b8fd3f01037
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-04-25T08:00:00.000Z'
+    timeEnd: null
 
 ---

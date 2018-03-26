@@ -14,12 +14,6 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-04-19T07:30:00.000Z'
     timeEnd: null
-  - name: WooCommerce Meetup - Topic TBD
-    uri: >-
-      /events/2018/04/19/33f0ae76c0d034453722871490de0c39cb87fd732c2b4c19761f1404374d1ee8
-    organizer: Brisbane WooCommerce Meetup
-    timeStart: '2018-04-19T08:00:00.000Z'
-    timeEnd: null
   - name: Reflections of MuleSoft Anypoint Platform Implementation
     uri: >-
       /events/2018/04/19/9a9953c98e8a4bebb88d66d4479dc84b0a51cc461fdb09bf6214e42a88ca3dbe
@@ -32,11 +26,23 @@ events:
     organizer: Global Change Institute
     timeStart: '2018-04-19T08:30:00.000Z'
     timeEnd: '2018-04-19T10:00:00.000Z'
+  - name: WooCommerce Meetup - Topic TBD
+    uri: >-
+      /events/2018/04/19/33f0ae76c0d034453722871490de0c39cb87fd732c2b4c19761f1404374d1ee8
+    organizer: Brisbane WooCommerce Meetup
+    timeStart: '2018-04-19T08:00:00.000Z'
+    timeEnd: null
   - name: AWS Gold Coast regular meetup
     uri: >-
       /events/2018/04/19/9de9bc1c73283dd36942bf82647cf8836b7c5c15e9745df0af9916dac74c42df
     organizer: Amazon Web Services - Gold Coast User Group
     timeStart: '2018-04-19T08:30:00.000Z'
+    timeEnd: null
+  - name: Gold Coast Bitcoin Meetup
+    uri: >-
+      /events/2018/04/19/4b54a868f2eb1587d59a3ce53b126b681b9c0d9382a3fc10ad16568f0ce4c166
+    organizer: Gold Coast Bitcoin Meetup
+    timeStart: '2018-04-19T09:00:00.000Z'
     timeEnd: null
 
 ---
