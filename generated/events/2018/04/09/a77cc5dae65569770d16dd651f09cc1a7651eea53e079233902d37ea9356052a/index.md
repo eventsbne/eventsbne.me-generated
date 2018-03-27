@@ -1,17 +1,17 @@
 ---
-id: a376803e7327d997954e0c7c9edcbacc0349c42b6b794d0eb94d5b8fd3f01037
-remoteId: ldzgmpyxgbhc
+id: a77cc5dae65569770d16dd651f09cc1a7651eea53e079233902d37ea9356052a
+remoteId: ldzgmpyxgbmb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-04-25T08:00:00.000Z'
+timeStart: '2018-04-09T08:00:00.000Z'
 timeEnd: null
 timeCreated: '2018-03-27T08:12:13.183Z'
 timeUpdated: '2018-03-27T08:12:13.183Z'
-countAttending: '3'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/meetup-group-QuCYWLSo/events/247432425/'
+url: 'https://www.meetup.com/meetup-group-QuCYWLSo/events/249145661/'
 image: null
 venue: {}
 organizer:

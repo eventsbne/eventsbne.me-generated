@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-04T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-26T08:12:12.701Z'
-timeUpdated: '2018-03-26T08:12:12.701Z'
-countAttending: '60'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '61'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: SAVE THE DATE FOR THE NEXT BRAZILIANS IN IT MEETING.
-date: '2018-03-26T08:12:12.701Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p><img src="https://secure.meetupstatic.com/photos/event/6/6/f/4/600_466706356.jpeg" /></p> <p>Ola pessoal!</p> <p>Espero que estejam bem!</p> <p>Tive que alterar a data de nosso encontro para dia 04/04/2018 - quarta-feira - 05:30PM!</p> <p>Sera no mesmo local onde nos encontramos das ultimas vezes, Little Tokyo Two, e teremos cerveja, pizza, coxinhas e o sorteio de premios!</p> <p>Sobre o assunto deste encontro, gostaria de sugestoes sobre topicos para falarmos, afinal o encontro e de TODOS nos!! Fiquem a vontade para dividir as ideias aqui.</p> <p>AH! Por favor clique no RSVP aqui embaixo para a gente se organizar referente ao numero de participantes que irao comparecer, ok?</p> <p>Espero ver todos la!</p> <p>Um abraco!</p> <p>Carol Ferraz.</p>

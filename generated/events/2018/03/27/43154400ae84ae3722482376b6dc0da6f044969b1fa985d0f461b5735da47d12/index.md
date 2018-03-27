@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-27T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-26T08:12:12.701Z'
-timeUpdated: '2018-03-26T08:12:12.701Z'
-countAttending: '26'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '27'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BrisRuby.com Monthly  Meetup
-date: '2018-03-26T08:12:12.701Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p>Monthly BrisRuby meetup (4th Tuesday of each month)</p> <p>Caitlin Palmer-Bright - Navigating the Past with Git<br/>Nick Chmielewski - Cuttings Corners</p> <p>Generally we have one intro to Ruby talk and one intermediate talk each month and then lightning talks. Offer talk suggestion or request topics here (<a href="https://github.com/BrisRuby/meetups/issues?state=open" class="linkified">https://github.com/BrisRuby/meetups/issues?state=open</a>).</p> <p>6:30PM start, arrive any time after 5:30pm</p> <p>Dinner afterwards at 8pm</p>

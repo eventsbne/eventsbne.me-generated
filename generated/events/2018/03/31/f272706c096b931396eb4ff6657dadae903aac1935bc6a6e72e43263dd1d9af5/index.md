@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-31T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-25T08:12:14.573Z'
-timeUpdated: '2018-03-25T08:12:14.573Z'
-countAttending: '4'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Canaria's Most Hardcore Person 2018
-date: '2018-03-25T08:12:14.573Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p>Do you like video games? Do you want to play with cutting-edge astronaut training equipment? Would you like to PLAY VIDEO GAMES whilst WEARING CUTTING EDGE ASTRONAUT TRAINING EQUIPMENT? Well, then taking part in Canaria's prototype testing on Sat 24th March is the thing you need to be doing with your life.</p> <p>Here at Canaria we need to test our NASA award-winning wearable technology on 5 gamers to validate the link between heart rate variability and cognitive fatigue. Our 3 min video explains what we're developing: <a href="https://www.youtube.com/watch?v=757SHyrByXA&amp;t=5s" class="embedded">https://www.youtube.com/watch?v=757SHyrByXA&amp;t=5s</a></p> <p>Before we can test our hardware on astronauts, we have to test in on 5 earthlings here in Brisbane. All you have to do is wear one of our earpieces and play video games for 24hours. Whoever is the least fatigued at the end wins the official title of CANARIA'S MOST HARDCORE PERSON 2018. You can pick whichever game or games you want and you don't have to be a professional by any means.</p> <p>Make sure to check out the Facebook link as well! <a href="https://www.facebook.com/TeamCanaria/posts/1592629810845259?pnref=story" class="linkified">https://www.facebook.com/TeamCanaria/posts/1592629810845259?pnref=story</a></p> <p>• What to bring<br/>Nothing! We'll keep you fully fed, watered and engaged!</p> <p>• Important to know<br/>In order for our tests to be scientifically accurate, we have to conduct a saliva-based drug test beforehand.</p>

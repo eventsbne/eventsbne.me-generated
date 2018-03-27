@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-11T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-26T08:12:12.701Z'
-timeUpdated: '2018-03-26T08:12:12.701Z'
-countAttending: '14'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Ask Me Anything - with Paul Stovell, CEO of Octopus Deploy'
-date: '2018-03-26T08:12:12.701Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p>Ever wanted to know what it takes to build a software startup in Brisbane? Wondering how to turn your side project into a profitable business? Don't miss our Ask Me Anything session with Paul Stovell, founder and CEO of Octopus Deploy.</p> <p>In Paul's own words:<br/>"I'm the founder and CEO of Octopus Deploy, a DevOps software company. I started Octopus in my spare time in 2011, and today it's grown to $10M a year in revenue, with 20,000 customers and employs 40 brilliant people. My background is in software development, but the best part of running Octopus is all the different things I need to learn as the business grows."</p> <p>Join us at 6pm for a 6.30pm start.</p>

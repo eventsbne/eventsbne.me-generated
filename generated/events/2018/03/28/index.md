@@ -34,16 +34,16 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: WordPress Ipswich March Meetup
-    uri: >-
-      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
-    organizer: Ipswich WordPress Meetup
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: 'Meet the makers: Ground Truth'
     uri: >-
       /events/2018/03/28/cdbbb866cd0648e9190bc0231a14953a9cb68dc9fc7fd49573e2588f265a117c
     organizer: Hacks/Hackers Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
+    uri: >-
+      /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
+    organizer: Ethereum Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
   - name: external event - Softbank Robotics Chief Scientific Officer presents
@@ -52,11 +52,23 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
+  - name: Regular Wednesday Open Hack.
     uri: >-
-      /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
-    organizer: Ethereum Brisbane
+      /events/2018/03/28/392f274fdf5a17206854f2ea2bbd5d21b07e384d944509da457939e84d210c6d
+    organizer: Gold Coast Techspace
+    timeStart: '2018-03-28T09:00:00.000Z'
+    timeEnd: null
+  - name: WordPress Ipswich March Meetup
+    uri: >-
+      /events/2018/03/28/c7d8fb4442c195d6ef12dac9da2b8392a8054fa9ddcd94a904cc4cb1d368fcb9
+    organizer: Ipswich WordPress Meetup
     timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
+  - name: Bitcoin for WOMEN Gold Coast (FREE)
+    uri: >-
+      /events/2018/03/28/88e37304063ff2752be892c1f4087c2bb120b0f74b02ce85e0de4613ce07f192
+    organizer: The Beauty of Bitcoin Gold Coast (free)
+    timeStart: '2018-03-28T09:00:00.000Z'
     timeEnd: null
 
 ---

@@ -14,5 +14,11 @@ events:
     organizer: Brisbane Javascript
     timeStart: '2018-04-09T08:30:00.000Z'
     timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/04/09/a77cc5dae65569770d16dd651f09cc1a7651eea53e079233902d37ea9356052a
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-04-09T08:00:00.000Z'
+    timeEnd: null
 
 ---

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-29T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-26T08:12:12.701Z'
-timeUpdated: '2018-03-26T08:12:12.701Z'
-countAttending: '28'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '40'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Something's Brewing in The Garage...
-date: '2018-03-26T08:12:12.701Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
-<p>Welcome back crew! Thanks to everyone who attended the Christmas Party last year, it was absolutely cracking. It’s March already and we couldn’t think of a better way to celebrate the spirit of 2018 than to share a beer (or a case) with the beautiful people who are championing the Brisbane Startup scene. So we’ve thrown together a little shindig and you’re invited to come along and share in the good vibes!</p> <p>With Myriad less than eight weeks away, the Brisbane startup landscape is ripe and ready for gear-shifting conversations and invaluable connections. Some incredible thinkers, doers and all-around rockstars are about to show up on our doorstep and we’re excited for what’s to come. And… debuting this year at Myriad is 'The Garage' - where all good ideas start.</p> <p>So to get everyone pumped, we’re holding a casual meetup at the Smoked Garage in Fortitude Valley. Drinks, food, music and incredible company in a killer warehouse-meets-chop-shop. Entry is free but spots are limited so make sure you get in quick! Also, you may have already noticed that we have begun to move platforms, so please REGISTER via the link below to stay in the loop and get your name on the tab.</p> <p>Register here: <a href="http://bit.ly/2HURhtv" class="linkified">http://bit.ly/2HURhtv</a></p> <p>As usual, this event wouldn't be possible without the generous support of our sponsors, including:</p> <p>· Vincents <a href="http://www.vincents.com.au" class="linkified">http://www.vincents.com.au</a><br/>· Microsoft <a href="https://startups.microsoft.com" class="linkified">https://startups.microsoft.com</a><br/>· Dundas Lawyers <a href="http://www.dundaslawyers.com.au" class="linkified">http://www.dundaslawyers.com.au</a><br/>· Gage Roads Brewing Co <a href="http://www.gageroads.com.au" class="linkified">http://www.gageroads.com.au</a></p> <p>Ps. In 'case' you missed it, there is going to be a lot of beer and cider!</p> <p>See you there!</p>
+<p>Welcome back crew! Thanks to everyone who attended the Christmas Party last year, it was absolutely cracking. It’s March already and we couldn’t think of a better way to celebrate the spirit of 2018 than to share a beer (or a case) with the beautiful people who are championing the Brisbane Startup scene. So we’ve thrown together a little shindig and you’re invited to come along and share in the good vibes!</p> <p>With Myriad less than eight weeks away, the Brisbane startup landscape is ripe and ready for gear-shifting conversations and invaluable connections. Some incredible thinkers, doers and all-around rockstars are about to show up on our doorstep and we’re excited for what’s to come. And… debuting this year at Myriad is 'The Garage' - where all good ideas start.</p> <p>So to get everyone pumped, we’re holding a casual meetup at the Smoked Garage in Fortitude Valley. Drinks, food, music and incredible company in a killer warehouse-meets-chop-shop. Entry is free but spots are limited so make sure you get in quick! Also, you may have already noticed that we have begun to move platforms, so please REGISTER via the link below to stay in the loop and get your name on the tab.</p> <p>Register here: <a href="http://bit.ly/2HURhtv" class="linkified">http://bit.ly/2HURhtv</a></p> <p>As usual, this event wouldn't be possible without the generous support of our sponsors including:</p> <p>· Vincents <a href="http://www.vincents.com.au" class="linkified">http://www.vincents.com.au</a><br/>· Microsoft <a href="https://startups.microsoft.com" class="linkified">https://startups.microsoft.com</a><br/>· Dundas Lawyers <a href="http://www.dundaslawyers.com.au" class="linkified">http://www.dundaslawyers.com.au</a><br/>· Gage Roads Brewing Co <a href="http://www.gageroads.com.au" class="linkified">http://www.gageroads.com.au</a></p> <p>Ps. In 'case' you missed it, there is going to be a lot of beer and cider!</p> <p>See you there!</p>

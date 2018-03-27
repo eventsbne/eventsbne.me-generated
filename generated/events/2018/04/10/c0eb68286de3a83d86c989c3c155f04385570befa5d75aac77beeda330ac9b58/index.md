@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-10T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-21T08:12:11.868Z'
-timeUpdated: '2018-03-21T08:12:11.868Z'
-countAttending: '1'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Sitecore User Group
-date: '2018-03-21T08:12:11.868Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p>We want this to be a relaxed way to meet up with others interested in Sitecore.</p> <p>General Agenda<br/>5:00 pm - drinks, introductions<br/>5:30 pm - short customer or partner presentation<br/>5:50 pm - short presentation from Sitecore<br/>6:10 pm - discussion with pizza in hand<br/>6:30 pm - close (with a plan to wind up by 7:00)</p> <p>This is the 2nd User Group Meeting of 2018. All refreshments are provided - please register to attend to assist us in catering.</p> <p>Please call 4impact - Simon Earle on[masked] for further information.</p>

@@ -14,6 +14,12 @@ events:
     organizer: Brisbane Artificial Intelligence
     timeStart: '2018-04-05T07:00:00.000Z'
     timeEnd: null
+  - name: AWS Brisbane Meetup!
+    uri: >-
+      /events/2018/04/05/351d93a9e593897d4f16aff529472ee0638b48e72226a03ec391cd552c10d379
+    organizer: Amazon Web Services - Brisbane User Group
+    timeStart: '2018-04-05T07:45:00.000Z'
+    timeEnd: null
   - name: How to identify an “AI” problem
     uri: >-
       /events/2018/04/05/7d38649fd814e8fbe709ba894315eaca1314604e34014b698f26dda0f60e4c74

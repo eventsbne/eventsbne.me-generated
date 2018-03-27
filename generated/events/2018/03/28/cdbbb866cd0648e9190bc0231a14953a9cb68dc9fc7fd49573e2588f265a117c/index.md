@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-26T08:12:12.701Z'
-timeUpdated: '2018-03-26T08:12:12.701Z'
-countAttending: '14'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Meet the makers: Ground Truth'
-date: '2018-03-26T08:12:12.701Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p>Ground Truth is a fascinating, ambitious project looking at the changes in Queensland's landscape over the past 30 years—through the lens of the US Geological Survey's satellites.</p> <p>Schedule<br/>6:00pm Arrive / Socialise / Grab a drink<br/>6:30pm Dan Petrie<br/>7:00pm Drinks / Food / Open Discussion<br/>8:00pm Close / Socialise</p> <p>Every 16 days the USGS satellite takes a new snapshot of Queensland—but it's not 'pictures' it's taking (at least, not in the traditional sense), but a data snapshot. There's a lot going on behind the scenes to turn that data-dump into the familiar look of a satellite image.</p> <p>The exhibition, put together by new media artist Grania Kelly and a cross disciplinary crew from QUT's Institute for Future Environments.</p> <p>Come and meet some of the folks behind this exciting project.</p> <p>See more: <a href="https://groundtruthnetwork.com/" class="linkified">https://groundtruthnetwork.com/</a></p>

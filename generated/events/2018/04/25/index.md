@@ -13,5 +13,11 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-25T08:00:00.000Z'
     timeEnd: null
+  - name: How to hack a smart contract
+    uri: >-
+      /events/2018/04/25/2ae89b4442be36610527f74327c56c1f639078c02beee0c634f8788ce6cb576d
+    organizer: Ethereum Brisbane
+    timeStart: '2018-04-25T08:30:00.000Z'
+    timeEnd: null
 
 ---

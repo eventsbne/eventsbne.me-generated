@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-03-29T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-26T08:12:12.701Z'
-timeUpdated: '2018-03-26T08:12:12.701Z'
-countAttending: '24'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '26'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Let's Talk WordPress!
-date: '2018-03-26T08:12:12.701Z'
+title: Introduction to Page Builders
+date: '2018-03-27T08:12:13.183Z'
 
 ---
-<p>We meet and talk about all things WordPress</p> <p>Stay tuned for updates to this event.</p> <p><b>Meeting Format:</b></p> <p><b>6:00 - 6:30pm:</b> Arrival and Networking<br/><b>6:30pm:</b> Welcome and Introduction / Overview of Meeting<br/><b>6:35pm:</b> What's New In WordPress<br/><b>7:00pm:</b> Main Topic<br/><b>7:30pm:</b> Q&amp;A<br/><b>7:45pm:</b> Conclusion and Raffle Draw<br/><b>8:00pm - 8:30pm:</b> Finish and further Networking for those who would like to stay behind.Stay tuned for updates to this event.</p> <p>Bring your business cards to go into a raffle, drawn at the end. </p> <p><b>Finger food</b> is available, kindly sponsored by our event sponsor <a href="http://wpgeni.com">WPGeni</a>.</p> <p>If you know someone who would benefit from this meetup, please let them know by sharing this with them.</p> <p>Looking forward to seeing you there.</p> <p>Best Regards</p> <p>Paul Luxford<br/>Gold Coast Business Websites<br/>[masked]</p>
+<p>This meetup is all about Page Builders. The revolutionary plugins that help us build and manage websites faster.</p> <p>We will be covering the following:<br/>- Pros &amp; Cons<br/>- Use Cases<br/>- Why you should not use a page builder</p> <p>Some of the page builders we will be live demonstrating:<br/>- Elementor<br/>- Beaver Builder<br/>- Divi<br/>- Site Origin<br/>- Visual Composer<br/>- Advanced Custom Fields</p> <p>Nik and Paul will be running this topic.</p> <p>Meeting Format:</p> <p>6:00 - 6:30pm: Arrival and Networking<br/>6:30pm: Welcome and Introduction / Overview of Meeting<br/>6:35pm: What's New In WordPress<br/>7:00pm: Main Topic<br/>7:30pm: Q&amp;A<br/>7:45pm: Conclusion and Raffle Draw<br/>8:00pm - 8:30pm: Finish and further Networking for those who would like to stay behind.Stay tuned for updates to this event.</p> <p>Bring your business cards to go into a raffle, drawn at the end.</p> <p>Finger food is available.</p> <p>If you know someone who would benefit from this meetup, please let them know by sharing this with them.</p> <p>Looking forward to seeing you there.</p> <p>Best Regards</p> <p>Paul &amp; Nik</p>

@@ -26,7 +26,7 @@ events:
     organizer: Myriad Connect Brisbane
     timeStart: '2018-03-29T08:00:00.000Z'
     timeEnd: null
-  - name: Let's Talk WordPress!
+  - name: Introduction to Page Builders
     uri: >-
       /events/2018/03/29/d26a64975a562df1c7b91225b52ddd440bc22b91a3851c0c9acc4b2fafde8ac8
     organizer: WordPress Gold Coast

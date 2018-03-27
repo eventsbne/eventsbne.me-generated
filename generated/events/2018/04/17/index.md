@@ -8,6 +8,14 @@ events:
     organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
     timeStart: '2018-04-17T08:00:00.000Z'
     timeEnd: null
+  - name: >-
+      Meet Dale Rankine, CEO and Co-founder of Reekoh, an Internet of Things
+      legend!!
+    uri: >-
+      /events/2018/04/17/0b9ecc79cb70884100391725b8260aae6aaabbafc063d69c5b84f9cc56b161a2
+    organizer: Startup Grind Brisbane
+    timeStart: '2018-04-17T07:00:00.000Z'
+    timeEnd: null
   - name: 'For Joomla! tips, tricks, techniques and chat from beginner to advanced.'
     uri: >-
       /events/2018/04/17/ca346c7599f5a18caacd2141ab857dfb57091acd6b5f30b3dd63b18a03f5922d

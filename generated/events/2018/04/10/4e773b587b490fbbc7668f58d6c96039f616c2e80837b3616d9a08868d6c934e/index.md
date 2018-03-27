@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-10T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-25T02:01:44.297Z'
-timeUpdated: '2018-03-25T02:01:44.297Z'
-countAttending: '7'
+timeCreated: '2018-03-27T08:12:13.183Z'
+timeUpdated: '2018-03-27T08:12:13.183Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: IoT and SCADA Hackers!
-date: '2018-03-25T02:01:44.297Z'
+date: '2018-03-27T08:12:13.183Z'
 
 ---
 <p>Hi Everyone!</p> <p>We will have a talk or workshop for the night, details to come. See you there!<br/>Josh</p>
