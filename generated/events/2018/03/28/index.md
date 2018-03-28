@@ -40,23 +40,11 @@ events:
     organizer: Hacks/Hackers Brisbane
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
-  - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
-    uri: >-
-      /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
-    organizer: Ethereum Brisbane
-    timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
   - name: external event - Softbank Robotics Chief Scientific Officer presents
     uri: >-
       /events/2018/03/28/779fb5c7a55ea09333e58a64f18e846a1bc44ce6517c34c39fb1b01728dc8c89
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-03-28T08:00:00.000Z'
-    timeEnd: null
-  - name: Regular Wednesday Open Hack.
-    uri: >-
-      /events/2018/03/28/392f274fdf5a17206854f2ea2bbd5d21b07e384d944509da457939e84d210c6d
-    organizer: Gold Coast Techspace
-    timeStart: '2018-03-28T09:00:00.000Z'
     timeEnd: null
   - name: WordPress Ipswich March Meetup
     uri: >-
@@ -64,10 +52,22 @@ events:
     organizer: Ipswich WordPress Meetup
     timeStart: '2018-03-28T08:00:00.000Z'
     timeEnd: null
+  - name: 'Raiden, Lightning Network & Side Chains - Is this the Silver Bullet?'
+    uri: >-
+      /events/2018/03/28/3165b969693d01cea74a5e298e828103506d38b701bdb007e32ee01499a5b496
+    organizer: Ethereum Brisbane
+    timeStart: '2018-03-28T08:00:00.000Z'
+    timeEnd: null
   - name: Bitcoin for WOMEN Gold Coast (FREE)
     uri: >-
       /events/2018/03/28/88e37304063ff2752be892c1f4087c2bb120b0f74b02ce85e0de4613ce07f192
     organizer: The Beauty of Bitcoin Gold Coast (free)
+    timeStart: '2018-03-28T09:00:00.000Z'
+    timeEnd: null
+  - name: Regular Wednesday Open Hack.
+    uri: >-
+      /events/2018/03/28/392f274fdf5a17206854f2ea2bbd5d21b07e384d944509da457939e84d210c6d
+    organizer: Gold Coast Techspace
     timeStart: '2018-03-28T09:00:00.000Z'
     timeEnd: null
 

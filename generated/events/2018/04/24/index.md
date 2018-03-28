@@ -22,5 +22,11 @@ events:
     organizer: Brisbane 3D Printing Meetup
     timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
+  - name: BrisRuby.com Monthly  Meetup
+    uri: >-
+      /events/2018/04/24/8efc2f8d97cfcab20a2f8b8c498b9feb2768635319be5eae83b8700419500b59
+    organizer: The Brisbane Ruby and Rails
+    timeStart: '2018-04-24T08:30:00.000Z'
+    timeEnd: null
 
 ---

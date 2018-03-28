@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-02T20:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-23T08:12:12.964Z'
-timeUpdated: '2018-03-23T08:12:12.964Z'
-countAttending: '2'
+timeCreated: '2018-03-28T08:12:12.609Z'
+timeUpdated: '2018-03-28T08:12:12.609Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Cryptocurrency discussion BREAKFAST EVENT
-date: '2018-03-23T08:12:12.964Z'
+date: '2018-03-28T08:12:12.609Z'
 
 ---
 <p>Our meetings are informal, and have a friendly, welcoming atmosphere. We will be discussing recent developments in the crypto space, and other related topics.</p> <p>We meet at the alfresco dining area in Ormiston Shopping Village. Our meetings begin at 6am sharp, with a short presentation, followed by general discussion, and usually go until 7am.</p> <p>There is a small selection of delicious food available from the short-order kitchen in the Friendly Grocer corner store, and also the fabulous bakery. Espresso coffee too!</p> <p>Off-street parking is available at the location.</p>

@@ -14,10 +14,10 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
-  - name: Blockchain Reserve - Brisbane Investment Analysis
+  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
-      /events/2018/04/11/5afed2425c67aefabcc370ff8785bbbbde3bb4f6ce1074f5dc83cf1551f23392
-    organizer: Blockchain Reserve Brisbane
+      /events/2018/04/11/77c620200e97efa8eda6228a66888fee1fb67a3fe0cc8e38d0c5bc09a32cb59b
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
   - name: 'Ask Me Anything - with Paul Stovell, CEO of Octopus Deploy'
@@ -26,10 +26,10 @@ events:
     organizer: Brisbane DevStart
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
-  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
+  - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
-      /events/2018/04/11/77c620200e97efa8eda6228a66888fee1fb67a3fe0cc8e38d0c5bc09a32cb59b
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
+      /events/2018/04/11/5afed2425c67aefabcc370ff8785bbbbde3bb4f6ce1074f5dc83cf1551f23392
+    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-11T08:00:00.000Z'
     timeEnd: null
   - name: Monthly Evening Meetup

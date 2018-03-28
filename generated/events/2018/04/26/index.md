@@ -20,5 +20,11 @@ events:
     organizer: WordPress Gold Coast
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
+  - name: Talk about DevOps and demo cool stuff with the Gold Coast DevOps Meetup!
+    uri: >-
+      /events/2018/04/26/3b8ef379f57db1e245a53431f31f7c23f63454135aa7dbeaf4e6b2fe4a75f565
+    organizer: Gold Coast DevOps
+    timeStart: '2018-04-26T08:30:00.000Z'
+    timeEnd: null
 
 ---
