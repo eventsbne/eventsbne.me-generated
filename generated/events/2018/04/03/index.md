@@ -8,10 +8,10 @@ events:
     organizer: Ormiston Crypto-Café
     timeStart: '2018-04-02T20:00:00.000Z'
     timeEnd: null
-  - name: CocoaHeads Brisbane Meetup
+  - name: Open Night Tuesdays
     uri: >-
-      /events/2018/04/03/dfa909408d9128898305857ce0f0600eb3bef12d29a8420cd03a6620f6717458
-    organizer: CocoaHeads
+      /events/2018/04/03/5e78573eca59fd2350d8aef343862cb116ce3392f2912df4164e45fe67297a1b
+    organizer: Hackerspace Brisbane
     timeStart: '2018-04-03T08:00:00.000Z'
     timeEnd: null
   - name: AI Article Reading Club - Stanford ECG Analysis
@@ -19,6 +19,12 @@ events:
       /events/2018/04/03/62233815ab4db5bf4bc9839cd028bda8c17a38b4c5287f9367510dbca0bd009e
     organizer: IntelliHQ  - Advances in Healthcare AI
     timeStart: '2018-04-03T06:00:00.000Z'
+    timeEnd: null
+  - name: CocoaHeads Brisbane Meetup
+    uri: >-
+      /events/2018/04/03/dfa909408d9128898305857ce0f0600eb3bef12d29a8420cd03a6620f6717458
+    organizer: CocoaHeads
+    timeStart: '2018-04-03T08:00:00.000Z'
     timeEnd: null
   - name: Intelligentsia
     uri: >-

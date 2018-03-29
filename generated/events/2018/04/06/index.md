@@ -20,6 +20,12 @@ events:
     organizer: River City Labs
     timeStart: '2018-04-06T06:00:00.000Z'
     timeEnd: '2018-04-06T08:00:00.000Z'
+  - name: Fishburners Community Friday Pitches & Drinks
+    uri: >-
+      /events/2018/04/06/4fb3901eef8437636f20667ed664ca67fe3aa062f727fcf4ba58870815e01156
+    organizer: Fishburners Brisbane
+    timeStart: '2018-04-06T07:00:00.000Z'
+    timeEnd: null
   - name: Monthly Brisbane Bitcoin Cash meetup
     uri: >-
       /events/2018/04/06/d6087a356c78ccbb0f70967fdb0db38445ec1a95056805b6d6ef435b97cfffbf

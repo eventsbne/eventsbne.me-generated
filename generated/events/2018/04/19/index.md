@@ -14,6 +14,14 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-04-19T07:30:00.000Z'
     timeEnd: null
+  - name: >-
+      Do your service providers have a critical impact an your Customer
+      Experience?
+    uri: >-
+      /events/2018/04/19/a209598c01e0173f0196380c3006a1bc5cd82c9350cf6dc468bde5930e8a48ae
+    organizer: Dynatrace Brisbane Meetup
+    timeStart: '2018-04-19T07:50:00.000Z'
+    timeEnd: null
   - name: Reflections of MuleSoft Anypoint Platform Implementation
     uri: >-
       /events/2018/04/19/9a9953c98e8a4bebb88d66d4479dc84b0a51cc461fdb09bf6214e42a88ca3dbe

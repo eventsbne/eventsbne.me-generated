@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-25T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-27T08:12:13.183Z'
-timeUpdated: '2018-03-27T08:12:13.183Z'
-countAttending: '63'
+timeCreated: '2018-03-29T08:12:09.209Z'
+timeUpdated: '2018-03-29T08:12:09.209Z'
+countAttending: '64'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: How to hack a smart contract
-date: '2018-03-27T08:12:13.183Z'
+date: '2018-03-29T08:12:09.209Z'
 
 ---
 <p>Lucas Cullen from Blockchain Australia will take us through security best practices and share wisdom on common smart contract coding mistakes and how to exploit them.</p> <p>We will code a reentrance hack, similar to what was used in the DAO hack.</p>

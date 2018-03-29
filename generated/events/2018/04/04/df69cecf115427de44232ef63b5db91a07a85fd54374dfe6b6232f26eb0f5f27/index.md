@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-04T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-18T08:12:12.879Z'
-timeUpdated: '2018-03-18T08:12:12.879Z'
+timeCreated: '2018-03-29T08:12:09.209Z'
+timeUpdated: '2018-03-29T08:12:09.209Z'
 countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
@@ -14,15 +14,15 @@ price: null
 url: 'https://www.meetup.com/Brisbane-Excel-Meetup/events/247692061/'
 image: null
 venue:
-  id: a052c7a29f3b8746d106013011dca760cf9d187155b7e62a56e1828e16059046
-  remoteId: '24531767'
+  id: b9583660416a3f0eb136b1bc7048994ca375960474a7b6482ed0b7944f2ccb19
+  remoteId: '11228162'
   remoteIdType: meetup
-  name: 'Brisbane Square Library Meeting Room 1.6,  266 George St, Brisbane'
+  name: 'Brisbane Square Library - Tiered Theatrette 266 George St, Brisbane'
   url: null
   description: null
-  lat: '-27.470842361450195'
-  lon: '153.02272033691406'
-  contactAddress: '266 George St, Brisbane'
+  lat: '-27.47063636779785'
+  lon: '153.0222930908203'
+  contactAddress: 266 George St.
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Error-detection
-date: '2018-03-18T08:12:12.879Z'
+date: '2018-03-29T08:12:09.209Z'
 
 ---
 <p>• What we'll do<br/>We will discuss an Error-detection system developed by SpreadsheetSoftware.</p> <p>• What to bring<br/>Business Cards</p> <p>• Important to know<br/>Basic Excel formulae</p>

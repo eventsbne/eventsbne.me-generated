@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-19T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-28T08:12:12.609Z'
-timeUpdated: '2018-03-28T08:12:12.609Z'
-countAttending: '70'
+timeCreated: '2018-03-29T08:12:09.209Z'
+timeUpdated: '2018-03-29T08:12:09.209Z'
+countAttending: '72'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Agile Brisbane - Return of the Lightning Talks
-date: '2018-03-28T08:12:12.609Z'
+date: '2018-03-29T08:12:09.209Z'
 
 ---
 <p>Summary:</p> <p>Due to the success of last month's Meetup with 3 Lightning Talks, we wanted to do it again! This time we will have 3 talks over the space of an hour from an inspiring ladies working within the Agile community in Brisbane.</p> <p>Agenda:</p> <p>• 5:30 - 6pm - Arrive early for some food, a drink and a chat</p> <p>• 6 - 7pm - Talks</p> <p>Speakers / Talks:</p> <p>- Sonya Yeh Spencer - Agile Business Analyst @ Rio Tinto<br/>- Raechel Mansfield - Iteration Manager @ Suncorp<br/>- Jacinta Streat - Transformation Coach @ Tabcorp (merger with Tatts Group)</p> <p>Our sponsors:</p> <p>Thanks to Expedia (<a href="https://www.expedia.com.au/" class="linkified">https://www.expedia.com.au/</a>) for providing this month's venue to Elabor8 (<a href="https://elabor8.com.au" class="linkified">https://elabor8.com.au</a>) for their ongoing sponsorship and this month's food/drink for Agile Brisbane Meetup.</p>
