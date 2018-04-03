@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: null
 timeStart: '2018-04-12T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-28T08:12:12.609Z'
-timeUpdated: '2018-03-28T08:12:12.609Z'
-countAttending: '13'
+timeCreated: '2018-04-03T12:08:23.921Z'
+timeUpdated: '2018-04-03T12:08:23.921Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: April Meetup
-date: '2018-03-28T08:12:12.609Z'
+date: '2018-04-03T12:08:23.921Z'
 
 ---
 No description was provided.

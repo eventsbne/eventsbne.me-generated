@@ -2,12 +2,6 @@
 title: Events for 2018/04/10
 layout: event-index
 events:
-  - name: Sitecore User Group
-    uri: >-
-      /events/2018/04/10/c0eb68286de3a83d86c989c3c155f04385570befa5d75aac77beeda330ac9b58
-    organizer: Sitecore Brisbane User Group
-    timeStart: '2018-04-10T07:00:00.000Z'
-    timeEnd: null
   - name: >-
       Women in Blockchain: Talking with Shireen Yip, Co-Founder and COO,
       TravelbyBit
@@ -15,6 +9,12 @@ events:
       /events/2018/04/10/1922aaebe69c96c320ed053e80329d7291369e284397ca7df2d2721689644821
     organizer: Brisbane Women in Blockchain
     timeStart: '2018-04-10T02:00:00.000Z'
+    timeEnd: null
+  - name: Sitecore User Group
+    uri: >-
+      /events/2018/04/10/c0eb68286de3a83d86c989c3c155f04385570befa5d75aac77beeda330ac9b58
+    organizer: Sitecore Brisbane User Group
+    timeStart: '2018-04-10T07:00:00.000Z'
     timeEnd: null
   - name: BFPG Monthly Meetup
     uri: >-
@@ -34,16 +34,16 @@ events:
     organizer: ProductTank Brisbane
     timeStart: '2018-04-10T08:00:00.000Z'
     timeEnd: null
-  - name: Drupal Brisbane Monthly Meetup
-    uri: >-
-      /events/2018/04/10/1c4eabcc4d285019a228d0298c95a6cf94adfb9b04801242f0de3e481d1b20e1
-    organizer: Drupal Brisbane
-    timeStart: '2018-04-10T08:30:00.000Z'
-    timeEnd: null
   - name: 'Let''s Find Your Ideal Client & Market to them, Networking Event'
     uri: >-
       /events/2018/04/10/07fb61cefb6b4bbdcc2f445e570a18294e514e7094b67fe7bc5f2b07f314786a
     organizer: Entrepreneurs Scale Your Business Brisbane
+    timeStart: '2018-04-10T08:30:00.000Z'
+    timeEnd: null
+  - name: Drupal Brisbane Monthly Meetup
+    uri: >-
+      /events/2018/04/10/1c4eabcc4d285019a228d0298c95a6cf94adfb9b04801242f0de3e481d1b20e1
+    organizer: Drupal Brisbane
     timeStart: '2018-04-10T08:30:00.000Z'
     timeEnd: null
   - name: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'

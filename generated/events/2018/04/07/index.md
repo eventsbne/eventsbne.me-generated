@@ -2,6 +2,12 @@
 title: Events for 2018/04/07
 layout: event-index
 events:
+  - name: codeSwich is in Ipswich!
+    uri: >-
+      /events/2018/04/07/782c7acb34a96bc367c6f82a03383ccada4b78da4b71c8b261a2d80aebb330e6
+    organizer: Western Corridor Technology Enthusiasts
+    timeStart: '2018-04-06T23:00:00.000Z'
+    timeEnd: null
   - name: >-
       Cryptocurrency Trading Course  - Learn To Trade On Cryptocurrency
       Exchanges

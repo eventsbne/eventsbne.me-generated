@@ -26,17 +26,23 @@ events:
     organizer: Brisbane Professional Microsoft Excel Meetup
     timeStart: '2018-04-04T08:00:00.000Z'
     timeEnd: null
+  - name: '"Good Enough" Software - Andrew Harcourt'
+    uri: >-
+      /events/2018/04/04/408e03669370c842f1311f6282eead056825d651c03276d1e3d96247cc7164b1
+    organizer: CTO School Brisbane
+    timeStart: '2018-04-04T08:00:00.000Z'
+    timeEnd: null
   - name: Error-detection
     uri: >-
       /events/2018/04/04/df69cecf115427de44232ef63b5db91a07a85fd54374dfe6b6232f26eb0f5f27
     organizer: Brisbane Professional Microsoft Excel Meetup
     timeStart: '2018-04-04T08:00:00.000Z'
     timeEnd: null
-  - name: '"Good Enough" Software - Andrew Harcourt'
+  - name: Regular Wednesday Open Hack.
     uri: >-
-      /events/2018/04/04/408e03669370c842f1311f6282eead056825d651c03276d1e3d96247cc7164b1
-    organizer: CTO School Brisbane
-    timeStart: '2018-04-04T08:00:00.000Z'
+      /events/2018/04/04/5b4134941b2a3830b7ffb0e96c143eeb6bd336ff18d879d8a2f131d78068dcf4
+    organizer: Gold Coast Techspace
+    timeStart: '2018-04-04T09:00:00.000Z'
     timeEnd: null
 
 ---

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-19T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-28T08:12:12.609Z'
-timeUpdated: '2018-03-28T08:12:12.609Z'
-countAttending: '60'
+timeCreated: '2018-04-03T12:08:23.921Z'
+timeUpdated: '2018-04-03T12:08:23.921Z'
+countAttending: '61'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Text Analytics Primer
-date: '2018-03-28T08:12:12.609Z'
+date: '2018-04-03T12:08:23.921Z'
 
 ---
 <p>An introduction to the discipline of text analytics, exploring approaches &amp; techniques, common use cases and technologies.</p>

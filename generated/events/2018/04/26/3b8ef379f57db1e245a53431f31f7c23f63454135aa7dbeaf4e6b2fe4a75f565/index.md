@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-26T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-29T08:12:09.209Z'
-timeUpdated: '2018-03-29T08:12:09.209Z'
-countAttending: '4'
+timeCreated: '2018-04-03T12:08:23.921Z'
+timeUpdated: '2018-04-03T12:08:23.921Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Talk about DevOps and demo cool stuff with the Gold Coast DevOps Meetup!
-date: '2018-03-29T08:12:09.209Z'
+date: '2018-04-03T12:08:23.921Z'
 
 ---
 <p>Our second meetup is happening on April 26th, 2018. Will have 3 talks again. Stay tuned for agenda. Hope to see everybody there!</p> <p>If anyone has something to talk about hit me up here or at [masked]</p>

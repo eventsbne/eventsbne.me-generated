@@ -14,5 +14,11 @@ events:
     organizer: Fishburners Brisbane
     timeStart: '2018-04-13T07:00:00.000Z'
     timeEnd: null
+  - name: How to write content to boost your business - ONLINE Masterclass
+    uri: >-
+      /events/2018/04/13/b959ee5472096c47714c7cc93f40e6c26b881fdecf2c9ad10e3f48d4a94e7445
+    organizer: Savvy Australian Bloggers
+    timeStart: '2018-04-13T01:30:00.000Z'
+    timeEnd: null
 
 ---

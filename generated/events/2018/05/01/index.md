@@ -8,5 +8,11 @@ events:
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-05-01T03:00:00.000Z'
     timeEnd: '2018-05-02T05:00:00.000Z'
+  - name: 'Brisbane Google Developer Group [GDG] Cloud'
+    uri: >-
+      /events/2018/05/01/f056d699af0dec2e29867cc60827a30da30bd20ccd0495f8a1965b04b1e63706
+    organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
+    timeStart: '2018-05-01T08:00:00.000Z'
+    timeEnd: null
 
 ---

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-18T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-03-28T08:12:12.609Z'
-timeUpdated: '2018-03-28T08:12:12.609Z'
-countAttending: '5'
+timeCreated: '2018-04-03T12:08:23.921Z'
+timeUpdated: '2018-04-03T12:08:23.921Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Security & Cryptography Part 1
-date: '2018-03-28T08:12:12.609Z'
+date: '2018-04-03T12:08:23.921Z'
 
 ---
 <p>• What we'll do<br/>Part 1 of Introduction to Security and Cryptography. This session which will provide background material needed to understand</p> <p>• What to bring<br/>BYO Lunch</p> <p>• Important to know</p>
