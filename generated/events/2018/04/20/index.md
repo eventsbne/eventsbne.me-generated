@@ -26,5 +26,11 @@ events:
     organizer: Brisbane Internet Safety Meetup
     timeStart: '2018-04-20T08:00:00.000Z'
     timeEnd: null
+  - name: Internet Freedom Hack
+    uri: >-
+      /events/2018/04/20/dbd4e43cedd195e983ea5417f8893f1e7f3e44f8cdb4490992be18b747ace638
+    organizer: Brisbane Coder Club
+    timeStart: '2018-04-20T08:00:00.000Z'
+    timeEnd: null
 
 ---

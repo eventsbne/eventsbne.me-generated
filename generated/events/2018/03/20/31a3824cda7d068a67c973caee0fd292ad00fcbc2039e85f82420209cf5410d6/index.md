@@ -30,7 +30,7 @@ organizer:
   id: c1e175688f884898ccd5b339765be1e19f57fb68b754b5cd99af5f29809af102
   remoteId: '20706157'
   remoteIdType: meetup
-  name: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
+  name: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
   url: 'https://meetup.com/GDG-Cloud-Brisbane'
   description: null
   codeOfConduct: null

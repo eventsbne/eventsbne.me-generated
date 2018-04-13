@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-03T12:08:23.921Z'
-timeUpdated: '2018-04-03T12:08:23.921Z'
-countAttending: '14'
+timeCreated: '2018-04-13T08:12:10.664Z'
+timeUpdated: '2018-04-13T08:12:10.664Z'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'brig is hosting bottish #7'
-date: '2018-04-03T12:08:23.921Z'
+date: '2018-04-13T08:12:10.664Z'
 
 ---
 <p>• What we'll do<br/>Details to be confirmed but the brig will be taking part in the worldwide conference on robots, (chat)bots and AI, the first time in a convenient Asia/Pacific time slot :)<br/><a href="https://twitter.com/gobottish?lang=en" class="linkified">https://twitter.com/gobottish?lang=en</a></p> <p>• What to bring</p> <p>• Important to know</p>

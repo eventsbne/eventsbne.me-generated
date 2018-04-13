@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-18T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-03T12:08:23.921Z'
-timeUpdated: '2018-04-03T12:08:23.921Z'
-countAttending: '11'
+timeCreated: '2018-04-13T08:12:10.664Z'
+timeUpdated: '2018-04-13T08:12:10.664Z'
+countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Security & Cryptography Part 1
-date: '2018-04-03T12:08:23.921Z'
+date: '2018-04-13T08:12:10.664Z'
 
 ---
-<p>• What we'll do<br/>Part 1 of Introduction to Security and Cryptography. This session which will provide background material needed to understand</p> <p>• What to bring<br/>BYO Lunch</p> <p>• Important to know</p>
+<p>BYO Lunch</p> <p>Peter Robinson (<a href="https://www.linkedin.com/in/peter-robinson-98a0061/" class="linkified">https://www.linkedin.com/in/peter-robinson-98a0061/</a>) will deliver part 1 of Introduction to Security and Cryptography. This session which will provide background material needed to understand future content on this topic.</p> <p>Part 2, 3, and 4 will be delivered progressively across the year.</p>

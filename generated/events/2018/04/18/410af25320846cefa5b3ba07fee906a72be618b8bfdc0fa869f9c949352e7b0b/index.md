@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-18T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-03T12:08:23.921Z'
-timeUpdated: '2018-04-03T12:08:23.921Z'
-countAttending: '35'
+timeCreated: '2018-04-13T08:12:10.664Z'
+timeUpdated: '2018-04-13T08:12:10.664Z'
+countAttending: '65'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Tech Newbies Monthly Meetup - April
-date: '2018-04-03T12:08:23.921Z'
+date: '2018-04-13T08:12:10.664Z'
 
 ---
 <p>• What we'll do<br/>Arrival from 5:45pm for a 6:15pm start.</p> <p>Talks will be announced closer to the date - get in touch if you have something you'd love to speak or hear about !</p> <p>As always, we'll have a range of drinks and some delicious dinner for you, as well as some great talks and opportunities to chat with the other Tech Newbies</p> <p>• What to bring</p> <p>• Important to know</p>

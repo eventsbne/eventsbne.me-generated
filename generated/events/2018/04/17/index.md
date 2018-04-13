@@ -2,6 +2,12 @@
 title: Events for 2018/04/17
 layout: event-index
 events:
+  - name: Cryptocurrency discussion BREAKFAST EVENT
+    uri: >-
+      /events/2018/04/17/4ca81bf4151ced9ee4002cfd82c67a58ee5562317501158ce1b10355f1432a38
+    organizer: Ormiston Crypto-Café
+    timeStart: '2018-04-16T20:30:00.000Z'
+    timeEnd: null
   - name: >-
       Meet Dale Rankine, CEO and Co-founder of Reekoh, an Internet of Things
       legend!!
@@ -10,13 +16,31 @@ events:
     organizer: Startup Grind Brisbane
     timeStart: '2018-04-17T07:00:00.000Z'
     timeEnd: null
+  - name: Automated transcription on the cloud
+    uri: >-
+      /events/2018/04/17/768f334423b0e990ad6844902f60df05c7a0fccbbf7f78feccfef20296c0ac07
+    organizer: Brisbane Web Accessibility & Inclusive Design
+    timeStart: '2018-04-17T07:30:00.000Z'
+    timeEnd: null
   - name: 'Brisbane Google Developer Group [GDG] Cloud'
     uri: >-
       /events/2018/04/17/f94db9cb47c4e76186c4273cf064c40f912d8b96258687f9ab5027c79674aa9b
-    organizer: 'Brisbane Google Cloud Platform User Group [GDG Cloud]'
+    organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-04-17T08:00:00.000Z'
     timeEnd: null
-  - name: 'For Joomla! tips, tricks, techniques and chat from beginner to advanced.'
+  - name: April Meetup - Quantifying Tech Debt & Delivering Value
+    uri: >-
+      /events/2018/04/17/90c37137d3064cc12d5cc7eb14391a7fdfeac87bc3ed1801c96f874cd636837b
+    organizer: Brisbane .NET User Group
+    timeStart: '2018-04-17T08:00:00.000Z'
+    timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/04/17/20eee54ddf750c500d5b776be2837bb140f51474d6d00fd33a63de720133b5ee
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-04-17T08:00:00.000Z'
+    timeEnd: null
+  - name: Using the Sourcerer Plugin
     uri: >-
       /events/2018/04/17/ca346c7599f5a18caacd2141ab857dfb57091acd6b5f30b3dd63b18a03f5922d
     organizer: Brisbane Joomla Users Group

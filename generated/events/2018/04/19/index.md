@@ -2,6 +2,12 @@
 title: Events for 2018/04/19
 layout: event-index
 events:
+  - name: IT Lunch
+    uri: >-
+      /events/2018/04/19/9cb71042b56da298c680c3977cd1f3087e6328056aa3338a2a90eb250aa42239
+    organizer: dotMaleny
+    timeStart: '2018-04-19T02:30:00.000Z'
+    timeEnd: null
   - name: Text Analytics Primer
     uri: >-
       /events/2018/04/19/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
@@ -28,7 +34,7 @@ events:
     organizer: Brisbane MuleSoft Meetup Group
     timeStart: '2018-04-19T08:00:00.000Z'
     timeEnd: null
-  - name: WooCommerce Meetup - Topic TBD
+  - name: WooCommerce Meetup - WooCommerce Hosting and Speed
     uri: >-
       /events/2018/04/19/33f0ae76c0d034453722871490de0c39cb87fd732c2b4c19761f1404374d1ee8
     organizer: Brisbane WooCommerce Meetup
@@ -45,6 +51,12 @@ events:
       /events/2018/04/19/9de9bc1c73283dd36942bf82647cf8836b7c5c15e9745df0af9916dac74c42df
     organizer: Amazon Web Services - Gold Coast User Group
     timeStart: '2018-04-19T08:30:00.000Z'
+    timeEnd: null
+  - name: 'Gold Coast Crypto, (Bitcoin) for your business'
+    uri: >-
+      /events/2018/04/19/a582153891a3ed05fb4dd73a84558832eb96c3cd3fecd968b8f06fcd67598900
+    organizer: 'Gold Coast Crypto, (Bitcoin) for your business'
+    timeStart: '2018-04-19T09:00:00.000Z'
     timeEnd: null
   - name: Gold Coast Bitcoin Meetup
     uri: >-

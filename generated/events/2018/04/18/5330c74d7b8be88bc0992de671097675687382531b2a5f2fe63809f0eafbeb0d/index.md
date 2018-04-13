@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-18T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-03T12:08:23.921Z'
-timeUpdated: '2018-04-03T12:08:23.921Z'
-countAttending: '14'
+timeCreated: '2018-04-13T08:12:10.664Z'
+timeUpdated: '2018-04-13T08:12:10.664Z'
+countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Building & Retaining Digital Commerce Teams
-date: '2018-04-03T12:08:23.921Z'
+date: '2018-04-13T08:12:10.664Z'
 
 ---
-<p>For our first Brisbane ShopTalk of 2018, we will be asking our panel members to discuss how they acquire, develop and retain their digital commerce teams.</p> <p>Joining us on the panel we have:<br/>• Anita Dorwald, COO @ City Beach<br/>• Mike Angell, COO @ Culture Kings<br/>+ More to be announced</p> <p>Make sure you get in touch or comment below with any questions you want the panel to answer on the night and make sure you invite any fellow eCommers you think might be interested.</p> <p>Look forward to seeing you @ShopTalk!</p>
+<p>For our first Brisbane ShopTalk of 2018, we will be asking our panel members to discuss how they acquire, develop and retain their digital commerce teams.</p> <p>Joining us on the panel we have:<br/>• Anita Dorwald, COO @ City Beach<br/>• Mike Angell, COO @ Culture Kings<br/>• Kristy Stevens, Marketing Manager @ Pillow Talk</p> <p>Make sure you get in touch or comment below with any questions you want the panel to answer on the night and make sure you invite any fellow eCommers you think might be interested.</p> <p>Look forward to seeing you @ShopTalk!</p>
