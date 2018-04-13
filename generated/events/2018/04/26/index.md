@@ -2,17 +2,17 @@
 title: Events for 2018/04/26
 layout: event-index
 events:
-  - name: Delicious DataOps Discussion - 4th Thursday
-    uri: >-
-      /events/2018/04/26/51fea500742008bca328e465c323a84ebdb61c1c36f792181c734b7c1234dd22
-    organizer: Brisbane Data and Stuff Meetup
-    timeStart: '2018-04-26T08:00:00.000Z'
-    timeEnd: null
   - name: 'Startups: Getting into the right Mindset for Sales! (Lunchtime Session)'
     uri: >-
       /events/2018/04/26/56826ace783348573a728a739a31ab11139264c88aab9d265deb4738325a279b
     organizer: Lean Business Strategies
     timeStart: '2018-04-26T02:00:00.000Z'
+    timeEnd: null
+  - name: Delicious DataOps Discussion - 4th Thursday
+    uri: >-
+      /events/2018/04/26/51fea500742008bca328e465c323a84ebdb61c1c36f792181c734b7c1234dd22
+    organizer: Brisbane Data and Stuff Meetup
+    timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: 'brig is hosting bottish #7'
     uri: >-
