@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-19T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-13T13:41:41.952Z'
-timeUpdated: '2018-04-13T13:41:41.952Z'
-countAttending: '73'
+timeCreated: '2018-04-14T05:38:34.206Z'
+timeUpdated: '2018-04-14T05:38:34.206Z'
+countAttending: '76'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Text Analytics Primer
-date: '2018-04-13T13:41:41.952Z'
+date: '2018-04-14T05:38:34.206Z'
 
 ---
 <p>An introduction to the discipline of text analytics, exploring approaches &amp; techniques, common use cases and technologies.</p> <p>Unstructured data remains a largely un-tapped commodity in the analytics strategies of many organisations. With advances in technologies and delivery approaches, Text Analytics is emerging as an achievable capability using toolsets and skills already in place or easily accessible on the Microsoft Azure &amp; Advanced Analytics stack.</p> <p>During this session we will explore high-level approach to text analytics and demonstrate multiple examples using the Microsoft Cognitive Services Text Analytics API, Azure Data Lake Analytics and Azure Machine Learning. We will also highlight pre-built examples available in the Cortana Intelligence Gallery helping you get started with your first Text Analytics application.</p>
