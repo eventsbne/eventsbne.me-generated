@@ -20,5 +20,11 @@ events:
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-05-05T04:00:00.000Z'
     timeEnd: '2018-05-05T06:00:00.000Z'
+  - name: Humbug - Regular Meeting
+    uri: >-
+      /events/2018/05/05/ab03a252c7c43d7e352526e7bc91ca28d3a635985ef67ec196ebff1eb9d2f018
+    organizer: Humbug
+    timeStart: '2018-05-05T05:00:00.000Z'
+    timeEnd: null
 
 ---

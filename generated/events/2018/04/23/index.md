@@ -2,12 +2,6 @@
 title: Events for 2018/04/23
 layout: event-index
 events:
-  - name: April Meetup - How to Nurture and Grow a Culture of High-Performance
-    uri: >-
-      /events/2018/04/23/044ec1518fbdc57f75198ca214d96b1e8d3527e66fdb725e3e0f3b154211b37d
-    organizer: DevOps Brisbane
-    timeStart: '2018-04-23T07:30:00.000Z'
-    timeEnd: null
   - name: >-
       Data Breach Notification: Startup Empowering with Daniel Cox of Ernst &
       Young
@@ -16,11 +10,25 @@ events:
     organizer: Brisbane Cyber Security Meetup
     timeStart: '2018-04-23T07:30:00.000Z'
     timeEnd: null
+  - name: April Meetup - How to Nurture and Grow a Culture of High-Performance
+    uri: >-
+      /events/2018/04/23/044ec1518fbdc57f75198ca214d96b1e8d3527e66fdb725e3e0f3b154211b37d
+    organizer: DevOps Brisbane
+    timeStart: '2018-04-23T07:30:00.000Z'
+    timeEnd: null
   - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
       /events/2018/04/23/54ae6607e352be19e6cabcfef59447459a41c5555dd29bab74ff92f4d458743c
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-04-23T08:00:00.000Z'
+    timeEnd: null
+  - name: >-
+      April Double Header - Unit Test EF Core SQLite + Full Stack Reactive
+      Programming
+    uri: >-
+      /events/2018/04/23/2837cfefe1d786b0c776f635dc2c32559556a41847e56d2c63574b423cccdb59
+    organizer: Gold Coast Azure / .NET User Group
+    timeStart: '2018-04-23T08:30:00.000Z'
     timeEnd: null
   - name: React Talks & Networking — April
     uri: >-

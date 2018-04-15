@@ -8,10 +8,10 @@ events:
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-05-10T07:30:00.000Z'
     timeEnd: null
-  - name: 'Big data in action : Azure HDInsight at your service'
+  - name: '[Fortitude Valley] WordPress Brisbane May: TBA'
     uri: >-
-      /events/2018/05/10/7f50cbb2d2e9369ef365d163673a333fe0836d42e21d6e0278b4ff357aa85bcd
-    organizer: Brisbane Data Science Meetup
+      /events/2018/05/10/a3064712f9bc54bb36184517bfe4db79accfa8208a71aab0cddc4b415002559c
+    organizer: WordPress Brisbane
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
   - name: Something Cool TBC
@@ -20,10 +20,10 @@ events:
     organizer: Brisbane Artificial Intelligence
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
-  - name: '[Fortitude Valley] WordPress Brisbane May: TBA'
+  - name: 'Big data in action : Azure HDInsight at your service'
     uri: >-
-      /events/2018/05/10/a3064712f9bc54bb36184517bfe4db79accfa8208a71aab0cddc4b415002559c
-    organizer: WordPress Brisbane
+      /events/2018/05/10/7f50cbb2d2e9369ef365d163673a333fe0836d42e21d6e0278b4ff357aa85bcd
+    organizer: Brisbane Data Science Meetup
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
 
