@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-17T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-14T05:38:34.206Z'
-timeUpdated: '2018-04-14T05:38:34.206Z'
-countAttending: '12'
+timeCreated: '2018-04-16T05:38:35.754Z'
+timeUpdated: '2018-04-16T05:38:35.754Z'
+countAttending: '13'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Automated transcription on the cloud
-date: '2018-04-14T05:38:34.206Z'
+date: '2018-04-16T05:38:35.754Z'
 
 ---
 <p>This meetup we'll be taking a bit of a tech focus by examining some tools that are out there for automated transcriptions and road testing them (and seeing how they handle the Australian accent).</p> <p>Specifically we'll be looking at AWS' Transcription Service and comparing that against some other services out there.</p> <p>As per the February Meetup, we'll be presenting our accessibility topic from 5.30 - 6.30 in the ABC foyer, then heading over the road to James Squire to do more of the same, in a less powerpoint-y way. Morgan Strong will host this particular session, but we welcome anyone who has anything to share to bring their insights and knowledge to the forum.</p> <p>Hope you can make it!</p>

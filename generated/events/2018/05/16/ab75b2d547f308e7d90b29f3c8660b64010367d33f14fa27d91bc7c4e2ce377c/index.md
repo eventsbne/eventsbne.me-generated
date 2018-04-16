@@ -1,17 +1,17 @@
 ---
-id: e32f25abebb7bc3e721ab3f639d22dd4a4646912bfe8442c82a6596e58cce406
-remoteId: '247333163'
+id: ab75b2d547f308e7d90b29f3c8660b64010367d33f14fa27d91bc7c4e2ce377c
+remoteId: '247337069'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-04-18T02:30:00.000Z'
+timeStart: '2018-05-16T02:30:00.000Z'
 timeEnd: null
 timeCreated: '2018-04-16T05:38:35.754Z'
 timeUpdated: '2018-04-16T05:38:35.754Z'
-countAttending: '32'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/ethereum-engineering/events/247333163/'
+url: 'https://www.meetup.com/ethereum-engineering/events/247337069/'
 image: null
 venue:
   id: b2ed3c89c91050d77803e6382f09be9995e7d2567438aeb6a503edafbf11118d
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Security & Cryptography Part 1
+title: 'Blockchain Research from QUT, UQ, and Griffith University'
 date: '2018-04-16T05:38:35.754Z'
 
 ---
-<p>BYO Lunch</p> <p>Peter Robinson (<a href="https://www.linkedin.com/in/peter-robinson-98a0061/" class="linkified">https://www.linkedin.com/in/peter-robinson-98a0061/</a>) will deliver part 1 of Introduction to Security and Cryptography. This session which will provide background material needed to understand future content on this topic.</p> <p>Part 2, 3, and 4 will be delivered progressively across the year.</p>
+<p>BYO Lunch</p> <p>Three researchers will each present for 20 minutes on their research topic. Researchers will be drawn from University of Queensland, Queensland University of Technology and Griffith University, and other universities.</p>

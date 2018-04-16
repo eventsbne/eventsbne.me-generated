@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-17T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-15T05:38:31.759Z'
-timeUpdated: '2018-04-15T05:38:31.759Z'
-countAttending: '8'
+timeCreated: '2018-04-16T05:38:35.754Z'
+timeUpdated: '2018-04-16T05:38:35.754Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Weekly Crypto Currency Discussion. ICOs, Security and Mining and more'
-date: '2018-04-15T05:38:31.759Z'
+date: '2018-04-16T05:38:35.754Z'
 
 ---
 <p>• What we'll do<br/>Hi we would love to talk crypto with some people with experience of 2 or 3 or more currencies. Discuss ICO's, mining and security etc. We will hold some larger scale events for beginners soon too.<br/>Excited to meet you<br/>Michael and Yoriko</p> <p>• What to bring<br/>Laptop and favorite beverage (if you wish).</p>

@@ -8,10 +8,22 @@ events:
     organizer: Lean Business Strategies
     timeStart: '2018-04-26T02:00:00.000Z'
     timeEnd: null
+  - name: Creating reports from SQL Server using Power BI
+    uri: >-
+      /events/2018/04/26/271572d6bc531314a300b4a19531bb2bf869292f79fb16db3653a3f28c835b84
+    organizer: QLD SQL Server User Group
+    timeStart: '2018-04-26T07:30:00.000Z'
+    timeEnd: null
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/04/26/51fea500742008bca328e465c323a84ebdb61c1c36f792181c734b7c1234dd22
     organizer: Brisbane Data and Stuff Meetup
+    timeStart: '2018-04-26T08:00:00.000Z'
+    timeEnd: null
+  - name: Let's Talk WordPress!
+    uri: >-
+      /events/2018/04/26/f055f2baab46c9b81d26fdd43e57f479ee99e93c312b5aff7ff1990ce73a3a07
+    organizer: WordPress Gold Coast
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: 'brig is hosting bottish #7'
@@ -20,10 +32,10 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
-  - name: Let's Talk WordPress!
+  - name: WordPress Ipswich April Meetup
     uri: >-
-      /events/2018/04/26/f055f2baab46c9b81d26fdd43e57f479ee99e93c312b5aff7ff1990ce73a3a07
-    organizer: WordPress Gold Coast
+      /events/2018/04/26/fabb0a0facb85fc112d134968085169b6bc86cc910291348ee8a4cc2c7ba7c62
+    organizer: Ipswich WordPress Meetup
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: Talk about DevOps and demo cool stuff with the Gold Coast DevOps Meetup!
