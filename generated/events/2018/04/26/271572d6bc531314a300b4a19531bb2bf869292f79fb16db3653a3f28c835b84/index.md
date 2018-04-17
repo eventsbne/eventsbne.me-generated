@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-26T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-16T05:38:35.754Z'
-timeUpdated: '2018-04-16T05:38:35.754Z'
-countAttending: '16'
+timeCreated: '2018-04-17T05:38:31.927Z'
+timeUpdated: '2018-04-17T05:38:31.927Z'
+countAttending: '35'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Creating reports from SQL Server using Power BI
-date: '2018-04-16T05:38:35.754Z'
+date: '2018-04-17T05:38:31.927Z'
 
 ---
 <p>Creating reports from SQL Server using Power BI</p> <p>In this session we will cover with a live demo how to import, modify and create reports from a SQL Server Database using Power BI Desktop. We will then move into the Power BI Service to show how to leverage your reports for users in your Organisation using all the capabilities within the Power BI Service, again with a live demo. As well in the session we will answer any questions that members of the group might have.</p> <p>About the Presenter</p> <p>Gilbert is a Microsoft MVP for Power BI, he has been working within the Power BI space since it's inception since Excel 2010. He has been extensive experience working with the Microsoft BI stack for the past 8 years. Gilbert is an active blogger, and contributes in the Online Power BI Community. Gilbert is currently in the consulting space at FourMoo in Power BI &amp; Data Analytics</p>

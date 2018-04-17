@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-19T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-13T08:12:10.664Z'
-timeUpdated: '2018-04-13T08:12:10.664Z'
-countAttending: '1'
+timeCreated: '2018-04-17T05:38:31.927Z'
+timeUpdated: '2018-04-17T05:38:31.927Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Gold Coast Crypto, (Bitcoin) for your business'
-date: '2018-04-13T08:12:10.664Z'
+date: '2018-04-17T05:38:31.927Z'
 
 ---
 <p>• What we'll do<br/>Gold Coast Crypto, (Bitcoin) for your business</p> <p>• What we'll do<br/>At this meetup we will discuss a broad range of topics that are relevant to Bitcoin and the impact on business, particularly on the Gold Coast.</p> <p>Topics may include:</p> <p>The impact of cryptocurrency<br/>Can small business be involved ?<br/>When will we see big retail be involved ?<br/>Tourism industry links<br/>Point of sale<br/>How to accept cryto in your business<br/>Current trends<br/>Regulations<br/>Tax and GST</p> <p>Feel free to suggest topics you'd like covered in the comments section below.</p> <p>• What to bring<br/>Bring some cash to purchase a drink/meal to support the venue.<br/>Bring a notepad and pen, and ideas to share</p> <p>• Important to know<br/>This meetup is for all retail business operators on the GC.<br/>Bar owners, cafe owners, hotel operators, independants and franchise owners are just a few examples.</p> <p>• What to bring</p> <p>• Important to know</p>

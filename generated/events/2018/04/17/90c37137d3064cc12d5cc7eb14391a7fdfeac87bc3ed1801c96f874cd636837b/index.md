@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-17T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-16T05:38:35.754Z'
-timeUpdated: '2018-04-16T05:38:35.754Z'
-countAttending: '75'
+timeCreated: '2018-04-17T05:38:31.927Z'
+timeUpdated: '2018-04-17T05:38:31.927Z'
+countAttending: '77'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: April Meetup - Quantifying Tech Debt & Delivering Value
-date: '2018-04-16T05:38:35.754Z'
+date: '2018-04-17T05:38:31.927Z'
 
 ---
 <p>Quantifying Tech Debt - Jack Watts<br/>We all have our subjective opinions about tech debt but how can we objectively qualify and quantify it? Lets look at ways in which you can give an objective measure instead of just going by gut feel</p> <p>Your job is to deliver value - Mehdi Khalili<br/>Most software teams measure their success by their output as opposed to outcome. In this presentation, we discuss what it means to deliver real value to a business as opposed to just software features. We also walk through Impact Mapping as a tool to define a vision and create and maintain a lean product roadmap that enables innovation.</p>

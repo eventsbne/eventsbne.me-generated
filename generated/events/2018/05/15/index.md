@@ -2,7 +2,7 @@
 title: Events for 2018/05/15
 layout: event-index
 events:
-  - name: How Novacq biotech is beefing up commercial aquaculture. Q&A w/ Ridley
+  - name: 'Novacq(TM) : Beefing up commercial aquaculture with biotech. Q&A w/ Ridley'
     uri: >-
       /events/2018/05/15/9a91af9fdf6bc60524c6af5fe0b4a5427c441ef9ff0c0fce54591b56be75b4fd
     organizer: Agtech Brisbane

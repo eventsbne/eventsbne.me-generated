@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-23T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-15T05:38:31.759Z'
-timeUpdated: '2018-04-15T05:38:31.759Z'
-countAttending: '2'
+timeCreated: '2018-04-17T05:38:31.927Z'
+timeUpdated: '2018-04-17T05:38:31.927Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -38,7 +38,7 @@ layout: event
 title: >-
   April Double Header - Unit Test EF Core SQLite + Full Stack Reactive
   Programming
-date: '2018-04-15T05:38:31.759Z'
+date: '2018-04-17T05:38:31.927Z'
 
 ---
 <p>Unit Tests with EF Core SQLite<br/>================================================================<br/>Presenter: Jernej Kavka (@jernej_kavka)</p> <p>When trying to test applications functionalities, sometimes we need to verify that the data flow correctly, technically an integration test.</p> <p>While EF Core has In-Memory DB, it does not have all of the functionalities required to properly test.</p> <p>We’ll dive deep into SQLite, why should you use it for unit testing and why should you avoid it.<br/>_________________________</p> <p>Full Stack Reactive Programming<br/>=====================================================================<br/>Presenter: Brendan Richards (@BrendanSSW)</p> <p>Like many developers, Brendan first started using reactive patterns with RxJS and JavaScript-based user interfaces.</p> <p>But reactive programming is a pattern that can apply in many more places and Reactive libraries have been released for many languages – including Reactive Extensions for C#.<br/>This talk explores using Reactive Extensions on the server side under ASP.NET Core.</p>
