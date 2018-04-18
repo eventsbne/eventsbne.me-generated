@@ -14,6 +14,12 @@ events:
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-05-04T04:00:00.000Z'
     timeEnd: '2018-05-04T06:00:00.000Z'
+  - name: Fishburners Pitch-Off Series
+    uri: >-
+      /events/2018/05/04/ecc799fc929d00891e1ab5ea2c581f9d4bab8b6a7ddb230214964f240df0b622
+    organizer: Fishburners Brisbane
+    timeStart: '2018-05-04T07:00:00.000Z'
+    timeEnd: null
   - name: Monthly Brisbane Bitcoin Cash meetup
     uri: >-
       /events/2018/05/04/b317dc06d83a53adb10360ac6c4fd160f23c186bdd4e9a8c738d8b4dfefa45bc

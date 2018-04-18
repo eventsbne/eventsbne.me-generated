@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-05T05:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-15T05:38:31.759Z'
-timeUpdated: '2018-04-15T05:38:31.759Z'
-countAttending: '1'
+timeCreated: '2018-04-18T05:38:31.057Z'
+timeUpdated: '2018-04-18T05:38:31.057Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Humbug - Regular Meeting
-date: '2018-04-15T05:38:31.759Z'
+date: '2018-04-18T05:38:31.057Z'
 
 ---
 <p>This is one of our regular fortnightly meetings. We meet to discuss and help with computer problems to do with Unix like operating systems (bsd, linux, darwin etc).</p> <p>We head off for dinner at the St Lucia Village around six thirty, the common destination is the Curry Connection.</p> <p>Occasionally we have talks, we generally start those around five.</p>

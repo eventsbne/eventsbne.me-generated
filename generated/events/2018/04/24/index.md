@@ -14,6 +14,12 @@ events:
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-04-24T02:00:00.000Z'
     timeEnd: null
+  - name: 3am Founders @ Fire Station 101
+    uri: >-
+      /events/2018/04/24/bdaaa30c4c0f9508c0d7a1f4c8f933291de4043865de75a3dac0ba848cf865d1
+    organizer: Startup Ipswich
+    timeStart: '2018-04-24T02:00:00.000Z'
+    timeEnd: null
   - name: >-
       Prof Richard Boys, Newcastle UK: A Bayesian DLM for caloric restriction in
       mice
@@ -21,6 +27,12 @@ events:
       /events/2018/04/24/89fe5f928cb208d77c42c374f0087c282453183d2d6ac64aec5604843bade152
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-04-24T06:30:00.000Z'
+    timeEnd: null
+  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
+    uri: >-
+      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
+    organizer: Brisbane 3D Printing Meetup
+    timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
@@ -32,12 +44,6 @@ events:
     uri: >-
       /events/2018/04/24/bf6303d4cf1383b9d24f158fdd5cf899daa66ae55763b5a5d6c8291a4597d600
     organizer: Brisbane API's and Microservices Meetup
-    timeStart: '2018-04-24T08:00:00.000Z'
-    timeEnd: null
-  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
-    uri: >-
-      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
-    organizer: Brisbane 3D Printing Meetup
     timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
   - name: 'Brisbane VR/AR Event #35'

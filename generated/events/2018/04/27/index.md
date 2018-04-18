@@ -8,5 +8,11 @@ events:
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-04-27T04:00:00.000Z'
     timeEnd: '2018-04-27T06:00:00.000Z'
+  - name: Fishburners Pitch-Off Series
+    uri: >-
+      /events/2018/04/27/d1c85808dd3aaaa588e5df785abc8f2bb0672ee7fc2d722184dbf80709ebb7a4
+    organizer: Fishburners Brisbane
+    timeStart: '2018-04-27T07:00:00.000Z'
+    timeEnd: null
 
 ---

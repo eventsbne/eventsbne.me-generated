@@ -20,5 +20,11 @@ events:
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-05-01T08:00:00.000Z'
     timeEnd: null
+  - name: What is Communication & Stakeholder Engagement?
+    uri: >-
+      /events/2018/05/01/3f47d26fee53cedcca9d9f3bc5dc45c95ba5faa1e9a826f80af82c0a4a4af66a
+    organizer: Startup Ipswich
+    timeStart: '2018-05-01T08:00:00.000Z'
+    timeEnd: null
 
 ---

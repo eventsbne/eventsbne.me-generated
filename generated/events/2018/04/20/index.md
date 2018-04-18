@@ -2,6 +2,12 @@
 title: Events for 2018/04/20
 layout: event-index
 events:
+  - name: "Community Breakfast \U0001F645\U0001F35E\U0001F369"
+    uri: >-
+      /events/2018/04/20/ad4d08b69ab6804f39987529ce952c0c7453ad8732f9ec5b1797954e72f9c322
+    organizer: Product of BNE
+    timeStart: '2018-04-19T21:30:00.000Z'
+    timeEnd: null
   - name: SPARQed 2-day Junior Research Immersion
     uri: >-
       /events/2018/04/20/e756c247a70f2ae874db8200b34b17dab09c9a16f38e752d3cb1b8c468997370

@@ -2,6 +2,12 @@
 title: Events for 2018/05/08
 layout: event-index
 events:
+  - name: Live demonstration of Spectrum Protect Plus 10.1.1
+    uri: >-
+      /events/2018/05/08/8f9386d579a3e9fa90a23131df64fda141e34e6773292f09e01fb9402fc26a7b
+    organizer: Brisbane IBM Systems Server and Storage User Group
+    timeStart: '2018-05-08T05:00:00.000Z'
+    timeEnd: null
   - name: 'MVVMCross 6.0, Build discussion and news'
     uri: >-
       /events/2018/05/08/ad55aa14afe4df2bd21536cf513c7fc6acec164644c83c98e29402ee554a8896

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-18T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-17T05:38:31.927Z'
-timeUpdated: '2018-04-17T05:38:31.927Z'
-countAttending: '83'
+timeCreated: '2018-04-18T05:38:31.057Z'
+timeUpdated: '2018-04-18T05:38:31.057Z'
+countAttending: '79'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Tech Newbies Monthly Meetup - April
-date: '2018-04-17T05:38:31.927Z'
+date: '2018-04-18T05:38:31.057Z'
 
 ---
-<p>• What we'll do<br/>Arrival from 5:45pm for a 6:15pm start.</p> <p>Talks will be announced closer to the date - get in touch if you have something you'd love to speak or hear about !</p> <p>As always, we'll have a range of drinks and some delicious dinner for you, as well as some great talks and opportunities to chat with the other Tech Newbies</p> <p>• What to bring</p> <p>• Important to know</p>
+<p>Arrival from 5:45pm for a 6:15pm start.</p> <p>Tonight we'll be learning about Internet of Things (IoT) from Anna Gerber, and getting an intro to Test Driven Development from Nigel Rausch</p> <p>As always, we'll have a range of drinks and some delicious dinner for you, as well as some great talks and opportunities to chat with the other Tech Newbies</p> <p>See you then!</p>

@@ -2,12 +2,6 @@
 title: Events for 2018/04/17
 layout: event-index
 events:
-  - name: Cryptocurrency discussion BREAKFAST EVENT
-    uri: >-
-      /events/2018/04/17/4ca81bf4151ced9ee4002cfd82c67a58ee5562317501158ce1b10355f1432a38
-    organizer: Ormiston Crypto-Café
-    timeStart: '2018-04-16T20:30:00.000Z'
-    timeEnd: null
   - name: >-
       Meet Dale Rankine, CEO and Co-founder of Reekoh, an Internet of Things
       legend!!

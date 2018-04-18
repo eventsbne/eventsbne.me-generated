@@ -23,7 +23,7 @@ events:
     timeStart: '2018-04-23T08:00:00.000Z'
     timeEnd: null
   - name: >-
-      April Double Header - Unit Test EF Core SQLite + Full Stack Reactive
+      April Double Header - The 9 Knights of Azure + Full Stack Reactive
       Programming
     uri: >-
       /events/2018/04/23/2837cfefe1d786b0c776f635dc2c32559556a41847e56d2c63574b423cccdb59
