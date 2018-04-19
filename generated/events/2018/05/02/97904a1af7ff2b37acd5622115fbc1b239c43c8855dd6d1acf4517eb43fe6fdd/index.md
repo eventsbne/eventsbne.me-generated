@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-18T05:38:31.057Z'
-timeUpdated: '2018-04-18T05:38:31.057Z'
-countAttending: '11'
+timeCreated: '2018-04-19T05:38:30.916Z'
+timeUpdated: '2018-04-19T05:38:30.916Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Ethereum P2P Protocols
-date: '2018-04-18T05:38:31.057Z'
+date: '2018-04-19T05:38:30.916Z'
 
 ---
 <p>BYO lunch</p> <p>Rob Dawson (<a href="https://www.linkedin.com/in/redawson/" class="linkified">https://www.linkedin.com/in/redawson/</a>) will describe RLPX, DevP2P, ETH, Whisper and other Ethereum peer to peer protocols.</p>

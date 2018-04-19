@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-17T05:38:31.927Z'
-timeUpdated: '2018-04-17T05:38:31.927Z'
-countAttending: '5'
+timeCreated: '2018-04-19T05:38:30.916Z'
+timeUpdated: '2018-04-19T05:38:30.916Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BFPG Monthly Meetup
-date: '2018-04-17T05:38:31.927Z'
+date: '2018-04-19T05:38:30.916Z'
 
 ---
 <p>TBA</p>

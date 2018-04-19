@@ -26,6 +26,20 @@ events:
     organizer: The Brisbane Ruby and Rails
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
+  - name: >-
+      Jumping in the deep end - My journey as a first time Agile leader -Ryan
+      McKergow
+    uri: >-
+      /events/2018/05/02/b78ccf7e4249b4fc502f4690af2576acaaa87847958494a1712c1ecdea7d76ef
+    organizer: CTO School Brisbane
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
+  - name: How to hack a smart contract
+    uri: >-
+      /events/2018/05/02/2ae89b4442be36610527f74327c56c1f639078c02beee0c634f8788ce6cb576d
+    organizer: Ethereum Brisbane
+    timeStart: '2018-05-02T08:30:00.000Z'
+    timeEnd: null
   - name: Convert your messy spreadsheets into beautiful systems
     uri: >-
       /events/2018/05/02/b78c10f034ba5b00b2b313ffb952ee7db921524b96de3776011d611994cac047

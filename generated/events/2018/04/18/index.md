@@ -2,24 +2,6 @@
 title: Events for 2018/04/18
 layout: event-index
 events:
-  - name: 'Turning Clients into Contacts: How to Rock at Networking BRISBANE Workshop'
-    uri: >-
-      /events/2018/04/18/44b02ea6e827efba712b955300467e1decee293ec9843fc4ea882bc5e0630a5a
-    organizer: Entrepreneurs Scale Your Business Brisbane
-    timeStart: '2018-04-17T23:00:00.000Z'
-    timeEnd: null
-  - name: Security & Cryptography Part 1
-    uri: >-
-      /events/2018/04/18/e32f25abebb7bc3e721ab3f639d22dd4a4646912bfe8442c82a6596e58cce406
-    organizer: Ethereum Engineering Group
-    timeStart: '2018-04-18T02:30:00.000Z'
-    timeEnd: null
-  - name: Fishburners Weekly Tour
-    uri: >-
-      /events/2018/04/18/70af715a14989a030429b86ed5cb89cc9a12a8a1dec7d3ac0e8a010c2b7a5c2c
-    organizer: Fishburners Brisbane
-    timeStart: '2018-04-18T03:00:00.000Z'
-    timeEnd: null
   - name: Brisbane Microsoft 365 Meetup – April 2018
     uri: >-
       /events/2018/04/18/626bd488476634d01d0cee58b4cd4f1505486f67cb112457a4f1004bf6737f83

@@ -52,16 +52,16 @@ events:
     organizer: Amazon Web Services - Gold Coast User Group
     timeStart: '2018-04-19T08:30:00.000Z'
     timeEnd: null
-  - name: Gold Coast Bitcoin Meetup
-    uri: >-
-      /events/2018/04/19/4b54a868f2eb1587d59a3ce53b126b681b9c0d9382a3fc10ad16568f0ce4c166
-    organizer: Gold Coast Bitcoin Meetup
-    timeStart: '2018-04-19T09:00:00.000Z'
-    timeEnd: null
   - name: 'Gold Coast Crypto, (Bitcoin) for your business'
     uri: >-
       /events/2018/04/19/a582153891a3ed05fb4dd73a84558832eb96c3cd3fecd968b8f06fcd67598900
     organizer: 'Gold Coast Crypto, (Bitcoin) for your business'
+    timeStart: '2018-04-19T09:00:00.000Z'
+    timeEnd: null
+  - name: Gold Coast Bitcoin Meetup
+    uri: >-
+      /events/2018/04/19/4b54a868f2eb1587d59a3ce53b126b681b9c0d9382a3fc10ad16568f0ce4c166
+    organizer: Gold Coast Bitcoin Meetup
     timeStart: '2018-04-19T09:00:00.000Z'
     timeEnd: null
 
