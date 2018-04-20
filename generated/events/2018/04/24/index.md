@@ -8,16 +8,16 @@ events:
     organizer: Ormiston Crypto-Café
     timeStart: '2018-04-23T20:30:00.000Z'
     timeEnd: null
-  - name: Elabor8 Lunch and Learn Brisbane - Why David's beat Goliath's
-    uri: >-
-      /events/2018/04/24/eaff54ad62dcfe396b629ca77bbddd8c24f8fbe9129d940fd7a4287b52f36dab
-    organizer: Elabor8 Lunch and Learn Brisbane
-    timeStart: '2018-04-24T02:00:00.000Z'
-    timeEnd: null
   - name: 3am Founders @ Fire Station 101
     uri: >-
       /events/2018/04/24/bdaaa30c4c0f9508c0d7a1f4c8f933291de4043865de75a3dac0ba848cf865d1
     organizer: Startup Ipswich
+    timeStart: '2018-04-24T02:00:00.000Z'
+    timeEnd: null
+  - name: Elabor8 Lunch and Learn Brisbane - Why David's beat Goliath's
+    uri: >-
+      /events/2018/04/24/eaff54ad62dcfe396b629ca77bbddd8c24f8fbe9129d940fd7a4287b52f36dab
+    organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-04-24T02:00:00.000Z'
     timeEnd: null
   - name: >-
@@ -28,16 +28,16 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-04-24T06:30:00.000Z'
     timeEnd: null
-  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
-    uri: >-
-      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
-    organizer: Brisbane 3D Printing Meetup
-    timeStart: '2018-04-24T08:00:00.000Z'
-    timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/04/24/60c4dd28d5b70f17d5d82f8d992c094f27918bb36ff481de02bcbbd35a4300cf
     organizer: Hackerspace Brisbane
+    timeStart: '2018-04-24T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Brisbane VR/AR Event #35'
+    uri: >-
+      /events/2018/04/24/d027ccaa146555ac653ca0c59c0f9bf8a6030b6be49a43f8711fd588c6babf89
+    organizer: Brisbane Augmented Reality
     timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
   - name: 'APIs and Microservices, Talks & Networking - April'
@@ -46,10 +46,10 @@ events:
     organizer: Brisbane API's and Microservices Meetup
     timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
-  - name: 'Brisbane VR/AR Event #35'
+  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
     uri: >-
-      /events/2018/04/24/d027ccaa146555ac653ca0c59c0f9bf8a6030b6be49a43f8711fd588c6babf89
-    organizer: Brisbane Augmented Reality
+      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
+    organizer: Brisbane 3D Printing Meetup
     timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
   - name: BrisRuby.com Monthly  Meetup

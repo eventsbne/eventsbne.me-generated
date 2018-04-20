@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-24T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-16T05:38:35.754Z'
-timeUpdated: '2018-04-16T05:38:35.754Z'
-countAttending: '10'
+timeCreated: '2018-04-20T05:38:30.961Z'
+timeUpdated: '2018-04-20T05:38:30.961Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '"Make the Space 9-9" - All day building Hackathon'
-date: '2018-04-16T05:38:35.754Z'
+date: '2018-04-20T05:38:30.961Z'
 
 ---
 <p>There are plenty of half-done projects at the TechSpace and a whole lot of projects that we talk about and never get started. Make the Space day is an opportunity to complete these projects in "Accelerated Hackerthon Time".</p> <p>The current plan is to start in the morning and work on the space throughout the day - joining up with the regular Open Night (where we might make some presentations of completed projects).</p> <p>We are cognisant of the fact that it is Anzac day - so please be respectful of the day and any activities happening in the Mudgeeraba area. The fact that we are all on holiday this day was an opportunity too good to miss to get our building working nicely - if this experiment is successful, we will repeat this every few months.</p> <p>However, if you just want to hang around and chat - this is NOT the day for you - this is a day of action and there are NO SPECTATORS - you are expected to WORK (this is fun work though!). If you don't get stuck in, your job will immediately become the Pizza or Coffee delivery person!</p> <p>Potential Projects:<br/>- Door Access Control<br/>- Digital Signage<br/>- 3D Digital Twin of building<br/>- Vending Machines<br/>- Interlock mechanisms<br/>- Automated Lighting<br/>- Book Exchange monitoring<br/>- LoRa gateway &amp; Weather Station<br/>- Traffic &amp; Car Park Monitoring</p> <p>The format is yet to be worked out, but we will form 4 or 5 themed teams on the day (depending on numbers) and each team will take projects from the list in priority order. There will be pre-discussion on the slack for each team, so if you are on our slack - please join the #sc-event-hackthespace for coordination activities.</p> <p>Bring yourself, a collaborative mindset and any tools or parts you might need. Food and Drink is provided</p>

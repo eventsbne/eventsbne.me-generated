@@ -26,5 +26,19 @@ events:
     organizer: Startup Ipswich
     timeStart: '2018-05-01T08:00:00.000Z'
     timeEnd: null
+  - name: CocoaHeads Brisbane Meetup
+    uri: >-
+      /events/2018/05/01/00a1c140f31733bb6b80725f6b269c6e61360f9a4fb19b62420684e4d5ec10e4
+    organizer: CocoaHeads
+    timeStart: '2018-05-01T08:00:00.000Z'
+    timeEnd: null
+  - name: >-
+      Hardware Startup #4–  Startup Weekend Info, EasyOven, Inovotech and  Mr
+      Biggs
+    uri: >-
+      /events/2018/05/01/57139e5fa1a6981c4faaff45841c1250ee0dd424a3d176c1851f5a8cbf73c59b
+    organizer: Hardware StartUp - Brisbane
+    timeStart: '2018-05-01T08:00:00.000Z'
+    timeEnd: null
 
 ---

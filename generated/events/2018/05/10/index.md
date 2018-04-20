@@ -8,6 +8,12 @@ events:
     organizer: The Digital Breakfast Series
     timeStart: '2018-05-09T21:00:00.000Z'
     timeEnd: null
+  - name: Apigee API Tech Forum - Brisbane
+    uri: >-
+      /events/2018/05/10/71536d4bb31db4d98627def2ccb776d30098218e1f74fa838aae2bd096993345
+    organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
+    timeStart: '2018-05-09T22:30:00.000Z'
+    timeEnd: null
   - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
     uri: >-
       /events/2018/05/10/35b5229f7c9e8c84bac133699de82afd979e25608cbd1330012283479b487e55

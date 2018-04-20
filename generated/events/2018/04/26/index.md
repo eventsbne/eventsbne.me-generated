@@ -20,12 +20,6 @@ events:
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
-  - name: 'brig is hosting bottish #7'
-    uri: >-
-      /events/2018/04/26/06d83999681cd1e195343e48344ca8423d720d17e27485c8eff664f3a363edf2
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
-    timeStart: '2018-04-26T08:00:00.000Z'
-    timeEnd: null
   - name: >-
       Simulating Instagram's algorithmic culture by examining Brisbane's
       nightlife
@@ -38,6 +32,12 @@ events:
     uri: >-
       /events/2018/04/26/fabb0a0facb85fc112d134968085169b6bc86cc910291348ee8a4cc2c7ba7c62
     organizer: Ipswich WordPress Meetup
+    timeStart: '2018-04-26T08:00:00.000Z'
+    timeEnd: null
+  - name: 'brig is hosting bottish #7'
+    uri: >-
+      /events/2018/04/26/06d83999681cd1e195343e48344ca8423d720d17e27485c8eff664f3a363edf2
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: BNE0x1E (31st Session)

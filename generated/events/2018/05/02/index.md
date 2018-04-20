@@ -20,6 +20,12 @@ events:
     organizer: Ethereum Engineering Group
     timeStart: '2018-05-02T02:30:00.000Z'
     timeEnd: null
+  - name: May 2018 - Brisbane UC Meetup
+    uri: >-
+      /events/2018/05/02/a160715fe2010601220e941f8c4787bf913ae7ca369a062e30d25cd90d8172c7
+    organizer: Brisbane Skype & Teams User Group
+    timeStart: '2018-05-02T06:30:00.000Z'
+    timeEnd: null
   - name: Ruby on Rails InstallFest
     uri: >-
       /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828

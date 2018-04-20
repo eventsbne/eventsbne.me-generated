@@ -2,12 +2,6 @@
 title: Events for 2018/04/19
 layout: event-index
 events:
-  - name: IT Lunch
-    uri: >-
-      /events/2018/04/19/9cb71042b56da298c680c3977cd1f3087e6328056aa3338a2a90eb250aa42239
-    organizer: dotMaleny
-    timeStart: '2018-04-19T02:30:00.000Z'
-    timeEnd: null
   - name: Text Analytics Primer
     uri: >-
       /events/2018/04/19/23417b7e9bf8283304c65f51684704cec8dd679bdc6fc936263c84c92d7869f2
