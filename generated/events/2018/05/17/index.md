@@ -14,6 +14,12 @@ events:
     organizer: Brisbane WooCommerce Meetup
     timeStart: '2018-05-17T08:00:00.000Z'
     timeEnd: null
+  - name: AWS Gold Coast regular meetup
+    uri: >-
+      /events/2018/05/17/8f5a4a17c39f83b865d3c5071ad10d99681a85a8db7b4b2d7d92a375f772c2d7
+    organizer: Amazon Web Services - Gold Coast User Group
+    timeStart: '2018-05-17T08:30:00.000Z'
+    timeEnd: null
   - name: 'Bitcoin: Beyond Beginners Gold Coast (Free)'
     uri: >-
       /events/2018/05/17/2266aab74614748d5cf0f41a2977cdbf0860e21e7acceac5cb8554f541d793be

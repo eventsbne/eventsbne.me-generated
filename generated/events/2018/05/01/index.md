@@ -40,5 +40,11 @@ events:
     organizer: Hardware StartUp - Brisbane
     timeStart: '2018-05-01T08:00:00.000Z'
     timeEnd: null
+  - name: Enhanced Society's FIRST meetup
+    uri: >-
+      /events/2018/05/01/26397b2c615480ac613e2b057e4d909f4fb3410f1913bf4ef6566b069eebb236
+    organizer: Enhanced Society Meetup
+    timeStart: '2018-05-01T08:15:00.000Z'
+    timeEnd: null
 
 ---

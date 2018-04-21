@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-20T05:38:30.961Z'
-timeUpdated: '2018-04-20T05:38:30.961Z'
-countAttending: '22'
+timeCreated: '2018-04-21T05:38:31.376Z'
+timeUpdated: '2018-04-21T05:38:31.376Z'
+countAttending: '23'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -38,7 +38,7 @@ layout: event
 title: >-
   Jumping in the deep end - My journey as a first time Agile leader -Ryan
   McKergow
-date: '2018-04-20T05:38:30.961Z'
+date: '2018-04-21T05:38:31.376Z'
 
 ---
 <p>Have you ever jumped into the deep end to only realise what you’ve done after the fact? This is what happened to me. I’d jumped from team based roles, to an executive role. And it felt like it happened overnight. The fortunate thing was that I’d been working with Agile teams for years where the values and principles of Agile have prepared me to be able to adapt to this new role.</p> <p>During this talk, I will share with you my journey, both the good and bad parts, and how Agile has helped me as a first time leader. We will look at some of the values and principles, tools and techniques that I’ve adapted to help me as a leader, and my hope is to help you as an Agile leader too.</p> <p>Ryan is the Group Manager (Queensland) for Elabor8 where he is responsible for the overall operations of Elabor8's newest office. His aim is to bring a bright and enthusiastic approach and build a great culture with his team.</p> <p>He is actively involved in building the Agile and IT community within Brisbane. He is a co-organiser of LAST Conference Brisbane, the Agile Brisbane Meetup, and a mentor for the QUT Career Mentoring Scheme.</p> <p>Prior to being appointed this role, Ryan was a consultant at Elabor8. He has worked with some of Australia's leading brands on their Agile and Digital transformation programs.</p>

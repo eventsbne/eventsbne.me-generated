@@ -8,17 +8,17 @@ events:
     organizer: Lean Business Strategies
     timeStart: '2018-04-26T02:00:00.000Z'
     timeEnd: null
+  - name: 'brig is hosting bottish #7'
+    uri: >-
+      /events/2018/04/26/06d83999681cd1e195343e48344ca8423d720d17e27485c8eff664f3a363edf2
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-04-26T07:00:00.000Z'
+    timeEnd: null
   - name: Creating reports from SQL Server using Power BI
     uri: >-
       /events/2018/04/26/271572d6bc531314a300b4a19531bb2bf869292f79fb16db3653a3f28c835b84
     organizer: QLD SQL Server User Group
     timeStart: '2018-04-26T07:30:00.000Z'
-    timeEnd: null
-  - name: Delicious DataOps Discussion - 4th Thursday
-    uri: >-
-      /events/2018/04/26/51fea500742008bca328e465c323a84ebdb61c1c36f792181c734b7c1234dd22
-    organizer: Brisbane Data and Stuff Meetup
-    timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: >-
       Simulating Instagram's algorithmic culture by examining Brisbane's
@@ -28,16 +28,16 @@ events:
     organizer: Hacks/Hackers Brisbane
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
+  - name: Delicious DataOps Discussion - 4th Thursday
+    uri: >-
+      /events/2018/04/26/51fea500742008bca328e465c323a84ebdb61c1c36f792181c734b7c1234dd22
+    organizer: Brisbane Data and Stuff Meetup
+    timeStart: '2018-04-26T08:00:00.000Z'
+    timeEnd: null
   - name: WordPress Ipswich April Meetup
     uri: >-
       /events/2018/04/26/fabb0a0facb85fc112d134968085169b6bc86cc910291348ee8a4cc2c7ba7c62
     organizer: Ipswich WordPress Meetup
-    timeStart: '2018-04-26T08:00:00.000Z'
-    timeEnd: null
-  - name: 'brig is hosting bottish #7'
-    uri: >-
-      /events/2018/04/26/06d83999681cd1e195343e48344ca8423d720d17e27485c8eff664f3a363edf2
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: BNE0x1E (31st Session)
