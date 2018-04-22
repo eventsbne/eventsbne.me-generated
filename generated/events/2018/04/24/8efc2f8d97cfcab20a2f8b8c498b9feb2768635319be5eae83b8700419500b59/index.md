@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-24T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-20T05:38:30.961Z'
-timeUpdated: '2018-04-20T05:38:30.961Z'
-countAttending: '16'
+timeCreated: '2018-04-22T05:38:31.827Z'
+timeUpdated: '2018-04-22T05:38:31.827Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BrisRuby.com Monthly  Meetup
-date: '2018-04-20T05:38:30.961Z'
+date: '2018-04-22T05:38:31.827Z'
 
 ---
-<p><b>Monthly BrisRuby meetup (4th Tuesday of each month)</b></p> <p><b>Talks TBA</b></p> <p>Generally we have one intro to Ruby talk and one intermediate talk each month and then lightning talks. Offer talk suggestion or request topics <a href="https://github.com/BrisRuby/meetups/issues?state=open">here</a>.</p> <p><b>6:30PM start,</b> arrive any time after 5:30pm</p> <p>Dinner afterwards at 8pm</p>
+<p>Monthly BrisRuby meetup (4th Tuesday of each month)</p> <p>Gabriel Gizotti - Whole Values in Ruby<br/>Tate Johnson - Sprinkles of delight with StimulusJS</p> <p>6:30PM start, arrive any time after 5:30pm</p> <p>Dinner afterwards at 8pm</p>

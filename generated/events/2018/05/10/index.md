@@ -38,5 +38,11 @@ events:
     organizer: Brisbane Data Science Meetup
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
+  - name: 'Networking Night: Come along and Join Like-minded Biz People!!'
+    uri: >-
+      /events/2018/05/10/63d7463f2dc0955a94a9e65cdee0bad43ce1aaadb7c0338e8a531132e5cbf78d
+    organizer: Entrepreneurs Scale Your Business Brisbane
+    timeStart: '2018-05-10T08:30:00.000Z'
+    timeEnd: null
 
 ---

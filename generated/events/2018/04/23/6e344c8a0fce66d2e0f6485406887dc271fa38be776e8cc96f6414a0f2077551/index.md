@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-23T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-21T05:38:31.376Z'
-timeUpdated: '2018-04-21T05:38:31.376Z'
-countAttending: '56'
+timeCreated: '2018-04-22T05:38:31.827Z'
+timeUpdated: '2018-04-22T05:38:31.827Z'
+countAttending: '58'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Data Breach Notification: Startup Empowering with Daniel Cox of Ernst & Young'
-date: '2018-04-21T05:38:31.376Z'
+date: '2018-04-22T05:38:31.827Z'
 
 ---
 <p>Over the past 11 years, the World Economic Forum have identified technological risks – including Cyber – in the Top 5 Global Risks on 5 separate occasions. With 99% of Australian business having between 1 and 200 staff, managing this risk can be a challenge, especially in Quick to Market environments.</p> <p>In this presentation, Daniel provides an overview of the newly introduced Mandatory Data Breach Notification changes, their relevance to your startup, and the empowering discussion that these changes bring to the planning of your business.</p> <p>Bio: Daniel Cox<br/>Daniel is passionate about Cyber Security and the ability for security to empower our digital world. An experienced security consultant, Daniel has over 12 years of ICT experience, and 6 years working in Information Security.</p> <p>As a Manager within EY’s Cyber Security team, Daniel works with organisations to ensure that security is embraced as a productivity enabler, and seen as a gateway to the adoption of disruptive technology.</p> <p>Daniel is passionate about the disruptive capabilities of Blockchain across all industry areas, and is keen to discuss ways in which security can improve the business discussion.</p>

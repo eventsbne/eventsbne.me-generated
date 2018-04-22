@@ -8,5 +8,11 @@ events:
     organizer: Australian Road Research Board (ARRB)
     timeStart: '2018-04-27T23:00:00.000Z'
     timeEnd: '2018-04-29T08:00:00.000Z'
+  - name: codeSwich is in Ipswich!
+    uri: >-
+      /events/2018/04/28/46310ec362a1d6979cc6f3e8d977c08d2c1e455025e6053e2b4564e4dfbfff34
+    organizer: Western Corridor Technology Enthusiasts
+    timeStart: '2018-04-27T23:00:00.000Z'
+    timeEnd: null
 
 ---

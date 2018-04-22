@@ -20,6 +20,18 @@ events:
     organizer: QLD SQL Server User Group
     timeStart: '2018-04-26T07:30:00.000Z'
     timeEnd: null
+  - name: WordPress Ipswich April Meetup
+    uri: >-
+      /events/2018/04/26/fabb0a0facb85fc112d134968085169b6bc86cc910291348ee8a4cc2c7ba7c62
+    organizer: Ipswich WordPress Meetup
+    timeStart: '2018-04-26T08:00:00.000Z'
+    timeEnd: null
+  - name: Let's Talk WordPress!
+    uri: >-
+      /events/2018/04/26/f055f2baab46c9b81d26fdd43e57f479ee99e93c312b5aff7ff1990ce73a3a07
+    organizer: WordPress Gold Coast
+    timeStart: '2018-04-26T08:00:00.000Z'
+    timeEnd: null
   - name: >-
       Simulating Instagram's algorithmic culture by examining Brisbane's
       nightlife
@@ -34,22 +46,10 @@ events:
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
-  - name: WordPress Ipswich April Meetup
-    uri: >-
-      /events/2018/04/26/fabb0a0facb85fc112d134968085169b6bc86cc910291348ee8a4cc2c7ba7c62
-    organizer: Ipswich WordPress Meetup
-    timeStart: '2018-04-26T08:00:00.000Z'
-    timeEnd: null
   - name: BNE0x1E (31st Session)
     uri: >-
       /events/2018/04/26/f40cebb3531270683068e9632b5a1c12a3b2a7be14df63b41a491b41cc5e806f
     organizer: SecTalks Brisbane
-    timeStart: '2018-04-26T08:00:00.000Z'
-    timeEnd: null
-  - name: Let's Talk WordPress!
-    uri: >-
-      /events/2018/04/26/f055f2baab46c9b81d26fdd43e57f479ee99e93c312b5aff7ff1990ce73a3a07
-    organizer: WordPress Gold Coast
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: Talk about DevOps and demo cool stuff with the Gold Coast DevOps Meetup!

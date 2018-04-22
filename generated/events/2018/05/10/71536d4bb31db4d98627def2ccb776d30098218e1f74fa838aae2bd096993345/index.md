@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-09T22:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-21T05:38:31.376Z'
-timeUpdated: '2018-04-21T05:38:31.376Z'
-countAttending: '10'
+timeCreated: '2018-04-22T05:38:31.827Z'
+timeUpdated: '2018-04-22T05:38:31.827Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Apigee API Tech Forum - Brisbane
-date: '2018-04-21T05:38:31.376Z'
+date: '2018-04-22T05:38:31.827Z'
 
 ---
 <p>• What we'll do<br/>API sessions presented by Apigee's customers and technical leadership will take place in the morning, followed by Apigee's hands-on API Jam workshop in the afternoon. Register to attend either morning API sessions, afternoon APIJam, or both!</p> <p>More detail and registration on the event site: <a href="https://apigee.com/api-management/#/atf_eventdetail/1318" class="linkified">https://apigee.com/api-management/#/atf_eventdetail/1318</a></p> <p>• What to bring</p> <p>• Important to know<br/>RSVPs will be limited. Please register on the event site.</p>
