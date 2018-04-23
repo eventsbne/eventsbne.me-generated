@@ -14,5 +14,11 @@ events:
     organizer: Brisbane Internet of Things (IOT) Interest Group
     timeStart: '2018-04-30T08:00:00.000Z'
     timeEnd: null
+  - name: Presentation on Integration Testing
+    uri: >-
+      /events/2018/04/30/d8f5a2882e6332bfe4a0fb095eede6660a40298dfb9ad1e0804ce4bf0a4c37e5
+    organizer: Brisbane Software Testers
+    timeStart: '2018-04-30T08:00:00.000Z'
+    timeEnd: null
 
 ---

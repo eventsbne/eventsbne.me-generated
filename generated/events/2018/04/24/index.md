@@ -8,16 +8,16 @@ events:
     organizer: Ormiston Crypto-Café
     timeStart: '2018-04-23T20:30:00.000Z'
     timeEnd: null
-  - name: 3am Founders @ Fire Station 101
-    uri: >-
-      /events/2018/04/24/bdaaa30c4c0f9508c0d7a1f4c8f933291de4043865de75a3dac0ba848cf865d1
-    organizer: Startup Ipswich
-    timeStart: '2018-04-24T02:00:00.000Z'
-    timeEnd: null
   - name: Elabor8 Lunch and Learn Brisbane - Why David's beat Goliath's
     uri: >-
       /events/2018/04/24/eaff54ad62dcfe396b629ca77bbddd8c24f8fbe9129d940fd7a4287b52f36dab
     organizer: Elabor8 Lunch and Learn Brisbane
+    timeStart: '2018-04-24T02:00:00.000Z'
+    timeEnd: null
+  - name: 3am Founders @ Fire Station 101
+    uri: >-
+      /events/2018/04/24/bdaaa30c4c0f9508c0d7a1f4c8f933291de4043865de75a3dac0ba848cf865d1
+    organizer: Startup Ipswich
     timeStart: '2018-04-24T02:00:00.000Z'
     timeEnd: null
   - name: >-

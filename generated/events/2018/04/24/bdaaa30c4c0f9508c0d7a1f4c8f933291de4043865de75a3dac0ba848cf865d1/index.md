@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-24T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-19T05:38:30.916Z'
-timeUpdated: '2018-04-19T05:38:30.916Z'
-countAttending: '4'
+timeCreated: '2018-04-23T05:38:32.375Z'
+timeUpdated: '2018-04-23T05:38:32.375Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 3am Founders @ Fire Station 101
-date: '2018-04-19T05:38:30.916Z'
+date: '2018-04-23T05:38:32.375Z'
 
 ---
 <p>Entrepreneurship can be a lonely, isolating, and tough journey. The roller-coaster ride that is startup entrepreneurship can manifest as those internal voices in your head, telling you to give up, that you are a failure, an imposter, a fraud. Those voices are often loudest at 3am.</p> <p>Join us for an open, candid, and jovial chat about those voices of self-doubt in our heads, and the ups and downs of the roller-coaster. Whether you suffer from those 3am voices or not, come along and join in the conversation. The event is open to everyone to attend.</p> <p>This event is part of simultaneous 3am Founders events taking place across the country. Together, we can shift the dialogue around entrepreneurship and founder support, and upskill more founders to operate at a higher level of performance.</p> <p>As well as registering here, please follow this Eventbrite link to confirm your attendance at this free event.<br/><a href="https://www.eventbrite.com.au/e/3am-founders-fire-station-101-tickets-44936179322" class="linkified">https://www.eventbrite.com.au/e/3am-founders-fire-station-101-tickets-44936179322</a></p>

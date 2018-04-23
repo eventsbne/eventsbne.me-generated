@@ -40,6 +40,12 @@ events:
     organizer: CTO School Brisbane
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
+  - name: GraphQL with Absinthe and GenStage for Producer-Consumer systems
+    uri: >-
+      /events/2018/05/02/c907d773dad31f480c9375bc8746d264dd1b32b49f91d35c87f159e9ccbdbc44
+    organizer: Brisbane Elixir
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
   - name: How to hack a smart contract
     uri: >-
       /events/2018/05/02/2ae89b4442be36610527f74327c56c1f639078c02beee0c634f8788ce6cb576d

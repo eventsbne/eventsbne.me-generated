@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-01T08:15:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-21T05:38:31.376Z'
-timeUpdated: '2018-04-21T05:38:31.376Z'
-countAttending: '2'
+timeCreated: '2018-04-23T05:38:32.375Z'
+timeUpdated: '2018-04-23T05:38:32.375Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Enhanced Society's FIRST meetup
-date: '2018-04-21T05:38:31.376Z'
+date: '2018-04-23T05:38:32.375Z'
 
 ---
 <p>You may have heard about Enhanced Society, know some of the team or have collaborated with us recently...now it's time for us to give a little bit back! We will share with you our significant learnings around investing, building and raising in the Blockchain space. We have real and validated examples to share, we focus on quality and avoid speculation and hype. It's a very exciting time for technology and the outcome is a more inclusive, fair world. See you on the 1st of May!</p>

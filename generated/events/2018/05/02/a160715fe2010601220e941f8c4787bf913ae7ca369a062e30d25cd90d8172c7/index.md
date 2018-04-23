@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T06:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-22T05:38:31.827Z'
-timeUpdated: '2018-04-22T05:38:31.827Z'
-countAttending: '13'
+timeCreated: '2018-04-23T05:38:32.375Z'
+timeUpdated: '2018-04-23T05:38:32.375Z'
+countAttending: '21'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: May 2018 - Brisbane UC Meetup
-date: '2018-04-22T05:38:31.827Z'
+date: '2018-04-23T05:38:32.375Z'
 
 ---
 <p>Please join us at the Telstra Brisbane offices (Level 4), meet fellow Skype for Business IT Pros, partners and customers for an evening of technical info, food/drinks and networking.</p> <p>Sessions will cover Microsoft's Skype for Business and Teams road map, tech updates, as well as real world demos of Skype for Business and Teams features and capabilities.</p> <p>Agenda:</p> <p>• 4:30 – 5:00pm – Microsoft updates and roadmap (Bill Lockett @ Microsoft)<br/>• 5:00 – 5:30pm – Telstra Calling Plan for Office 365 (Ben Cromie @ Telstra)<br/>• 5:30 – 6:00pm – Beer+pizza and networking<br/>• 6:00 – 6:30pm – Awesome partner presentation TBD</p> <p>Please note if you arrive after 5:00pm then the lifts require an access card - just text Ben, Stuart or Bill and we'll come down and escort you up!</p>
