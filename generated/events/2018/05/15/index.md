@@ -8,6 +8,12 @@ events:
     organizer: Agtech Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
+  - name: 'For Joomla! tips, tricks, techniques and chat from beginner to advanced.'
+    uri: >-
+      /events/2018/05/15/7005022eaa2fd95d234a7961306016598168c4876bad78095e6ce24f67c3fabd
+    organizer: Brisbane Joomla Users Group
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
   - name: Light Play
     uri: >-
       /events/2018/05/15/000e51f05cdca49803afa595f81127446b5840d3047ed5ba5496dad1706c0d95

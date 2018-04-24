@@ -5,13 +5,14 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T05:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-18T05:38:31.057Z'
-timeUpdated: '2018-04-18T05:38:31.057Z'
+timeCreated: '2018-04-24T05:38:31.376Z'
+timeUpdated: '2018-04-24T05:38:31.376Z'
 countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/meetup-group-zBxmdJQm/events/249866773/'
+url: >-
+  https://www.meetup.com/Queensland-IBM-Systems-Server-and-Storage-User-Group/events/249866773/
 image: null
 venue:
   id: 9e37fe5e9536399f11217631689923ece9bf885b1049a935b908ff5d00887e62
@@ -31,12 +32,12 @@ organizer:
   remoteId: '28193186'
   remoteIdType: meetup
   name: Brisbane IBM Systems Server and Storage User Group
-  url: 'https://meetup.com/meetup-group-zBxmdJQm'
+  url: 'https://meetup.com/Queensland-IBM-Systems-Server-and-Storage-User-Group'
   description: null
   codeOfConduct: null
 layout: event
 title: Live demonstration of Spectrum Protect Plus 10.1.1
-date: '2018-04-18T05:38:31.057Z'
+date: '2018-04-24T05:38:31.376Z'
 
 ---
 <p>Spectrum Protect Plus is a new product announced late 2017.</p> <p>Come and see the latest enhancements to the product and a live demonstration of the application from our Sydney Lab by Steven Mann.</p> <p>Nothing required but your time and attention.</p> <p>Drinks and pizza will be provided.</p>

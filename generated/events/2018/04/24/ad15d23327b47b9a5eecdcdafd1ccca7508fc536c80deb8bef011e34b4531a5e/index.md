@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-24T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-21T05:38:31.376Z'
-timeUpdated: '2018-04-21T05:38:31.376Z'
-countAttending: '13'
+timeCreated: '2018-04-24T05:38:31.376Z'
+timeUpdated: '2018-04-24T05:38:31.376Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: '3D Printing: Plastic VS Resin VS Carbon Fiber'
-date: '2018-04-21T05:38:31.376Z'
+date: '2018-04-24T05:38:31.376Z'
 
 ---
 <p>Hello 3D printer Enthusiasts,</p> <p>For our second Meetup of the Year, we will be having a discussion about different types of 3D printing technologies and comparing some 3D printing samples.</p> <p>In particular, we will be comparing 3D printing with Plastic, Resin and Carbon Fiber.</p> <p>Some brands we will be looking at will be: Ultimaker, 3D Platform, Gizmo 3D and Markforged.</p> <p>On the night, we will be joined be Joined by Kubos du Toit from Gizmo 3D.<br/>Victor from Arc Hardware Incubator will also be giving an overview of his experience.</p> <p>If anyone Has a 3D model they would like to compare between the different machines send us a private message.</p> <p>Looking forward to seeing you at the event!</p>

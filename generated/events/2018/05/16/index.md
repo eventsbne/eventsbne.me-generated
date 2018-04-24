@@ -14,11 +14,5 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-05-16T05:00:00.000Z'
     timeEnd: null
-  - name: 'Blockchain''s Killer App: Money? Storage? Identity? Governance? Kitties?'
-    uri: >-
-      /events/2018/05/16/0c6475cd8ff98ab2c15504cd52db1a775eabffab51636ccdcfe74a0585188f90
-    organizer: Ethereum Brisbane
-    timeStart: '2018-05-16T08:20:00.000Z'
-    timeEnd: null
 
 ---

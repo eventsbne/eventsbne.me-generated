@@ -28,12 +28,6 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-04-24T06:30:00.000Z'
     timeEnd: null
-  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
-    uri: >-
-      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
-    organizer: Brisbane 3D Printing Meetup
-    timeStart: '2018-04-24T08:00:00.000Z'
-    timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/04/24/60c4dd28d5b70f17d5d82f8d992c094f27918bb36ff481de02bcbbd35a4300cf
@@ -44,6 +38,12 @@ events:
     uri: >-
       /events/2018/04/24/bf6303d4cf1383b9d24f158fdd5cf899daa66ae55763b5a5d6c8291a4597d600
     organizer: Brisbane API's and Microservices Meetup
+    timeStart: '2018-04-24T08:00:00.000Z'
+    timeEnd: null
+  - name: '3D Printing: Plastic VS Resin VS Carbon Fiber'
+    uri: >-
+      /events/2018/04/24/ad15d23327b47b9a5eecdcdafd1ccca7508fc536c80deb8bef011e34b4531a5e
+    organizer: Brisbane 3D Printing Meetup
     timeStart: '2018-04-24T08:00:00.000Z'
     timeEnd: null
   - name: 'Brisbane VR/AR Event #35'
