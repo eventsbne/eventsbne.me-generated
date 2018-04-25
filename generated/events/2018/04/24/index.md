@@ -2,24 +2,6 @@
 title: Events for 2018/04/24
 layout: event-index
 events:
-  - name: Cryptocurrency discussion BREAKFAST EVENT
-    uri: >-
-      /events/2018/04/24/0bdedc743226e9b0986205e835a87ff9e22b819ada813fd95d6b00ef49cd6acf
-    organizer: Ormiston Crypto-Café
-    timeStart: '2018-04-23T20:30:00.000Z'
-    timeEnd: null
-  - name: Elabor8 Lunch and Learn Brisbane - Why David's beat Goliath's
-    uri: >-
-      /events/2018/04/24/eaff54ad62dcfe396b629ca77bbddd8c24f8fbe9129d940fd7a4287b52f36dab
-    organizer: Elabor8 Lunch and Learn Brisbane
-    timeStart: '2018-04-24T02:00:00.000Z'
-    timeEnd: null
-  - name: 3am Founders @ Fire Station 101
-    uri: >-
-      /events/2018/04/24/bdaaa30c4c0f9508c0d7a1f4c8f933291de4043865de75a3dac0ba848cf865d1
-    organizer: Startup Ipswich
-    timeStart: '2018-04-24T02:00:00.000Z'
-    timeEnd: null
   - name: >-
       Prof Richard Boys, Newcastle UK: A Bayesian DLM for caloric restriction in
       mice

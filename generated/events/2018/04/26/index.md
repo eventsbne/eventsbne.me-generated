@@ -32,12 +32,6 @@ events:
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
-  - name: Let's Talk WordPress!
-    uri: >-
-      /events/2018/04/26/f055f2baab46c9b81d26fdd43e57f479ee99e93c312b5aff7ff1990ce73a3a07
-    organizer: WordPress Gold Coast
-    timeStart: '2018-04-26T08:00:00.000Z'
-    timeEnd: null
   - name: >-
       Simulating Instagram's algorithmic culture by examining Brisbane's
       nightlife
@@ -56,6 +50,12 @@ events:
     uri: >-
       /events/2018/04/26/f40cebb3531270683068e9632b5a1c12a3b2a7be14df63b41a491b41cc5e806f
     organizer: SecTalks Brisbane
+    timeStart: '2018-04-26T08:00:00.000Z'
+    timeEnd: null
+  - name: Let's Talk WordPress!
+    uri: >-
+      /events/2018/04/26/f055f2baab46c9b81d26fdd43e57f479ee99e93c312b5aff7ff1990ce73a3a07
+    organizer: WordPress Gold Coast
     timeStart: '2018-04-26T08:00:00.000Z'
     timeEnd: null
   - name: Talk about DevOps and demo cool stuff with the Gold Coast DevOps Meetup!

@@ -32,6 +32,12 @@ events:
     organizer: The Brisbane Ruby and Rails
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
+  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
+    uri: >-
+      /events/2018/05/02/577bdb79a45a756294f51c39f964259655c920fefdf8ed6892d0a990fe3d84c3
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
   - name: >-
       Jumping in the deep end - My journey as a first time Agile leader -Ryan
       McKergow

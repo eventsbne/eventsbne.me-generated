@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-24T05:38:31.376Z'
-timeUpdated: '2018-04-24T05:38:31.376Z'
-countAttending: '6'
+timeCreated: '2018-04-25T05:38:30.793Z'
+timeUpdated: '2018-04-25T05:38:30.793Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: CocoaHeads Brisbane Meetup
-date: '2018-04-24T05:38:31.376Z'
+date: '2018-04-25T05:38:30.793Z'
 
 ---
 <p>This month we have Ethan Jackwitz from Tappr speaking about tools for moving from UI Designs to UIKit and Sam Shearing from RedEye speaking on his experience with RxSwift so far.</p> <p>Pizza and beer (thanks RedEye!) from 6pm, talks from 7pm.</p>

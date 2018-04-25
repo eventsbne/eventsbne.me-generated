@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-30T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-24T05:38:31.376Z'
-timeUpdated: '2018-04-24T05:38:31.376Z'
-countAttending: '14'
+timeCreated: '2018-04-25T05:38:30.793Z'
+timeUpdated: '2018-04-25T05:38:30.793Z'
+countAttending: '27'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Presentation on Integration Testing
-date: '2018-04-24T05:38:31.376Z'
+date: '2018-04-25T05:38:30.793Z'
 
 ---
 <p>Monica from Sunsuper will be doing a presentation on Integration Service Testing and Behaviour Driven Development approach in an Integration Domain.</p> <p>Arrive anytime after 5.30pm for a 6pm start. Pizzas will be available on the night and are provided by ThoughtWorks.</p> <p>In case you arrive after 6pm and are not able to go up the elevator, please call ThoughtWorks on[masked].</p>
