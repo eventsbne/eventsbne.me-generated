@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-10T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-25T05:38:30.793Z'
-timeUpdated: '2018-04-25T05:38:30.793Z'
-countAttending: '29'
+timeCreated: '2018-04-26T05:38:33.890Z'
+timeUpdated: '2018-04-26T05:38:33.890Z'
+countAttending: '30'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Something Cool TBC
-date: '2018-04-25T05:38:30.793Z'
+date: '2018-04-26T05:38:33.890Z'
 
 ---
 <p>Speaker to be confirmed</p>

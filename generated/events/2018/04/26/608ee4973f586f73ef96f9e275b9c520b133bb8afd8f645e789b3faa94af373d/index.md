@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-25T05:38:30.793Z'
-timeUpdated: '2018-04-25T05:38:30.793Z'
-countAttending: '37'
+timeCreated: '2018-04-26T05:38:33.890Z'
+timeUpdated: '2018-04-26T05:38:33.890Z'
+countAttending: '42'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Simulating Instagram's algorithmic culture by examining Brisbane's nightlife
-date: '2018-04-25T05:38:30.793Z'
+date: '2018-04-26T05:38:33.890Z'
 
 ---
 <p>This month we've got Dr Daniel Angus showing off some work he's been doing with Dr Nicholas Carah &amp; Adam Smith. They've been simulating the algorithmic culture of Instagram.</p> <p>Dan will tell us about the system they've built which includes an image and metadata scraper, and machine vision simulation test bed.</p> <p>The talk is intended for a non-technical audience and will explain concepts such as deep neural networks, and machine learning using a publicly important case study of Brisbane’s nightlife precincts.</p> <p>6:00pm Arrive / Socialise / Grab a drink<br/>6:30pm Dan Angus - Simulating Insta's algorithmic culture<br/>7:00pm Drinks / Food / Open Discussion<br/>8:00pm Close / Socialise</p> <p>Social media platforms like Instagram are organised around the creation, sharing and consumption of images amongst a vast network of users. Engineering teams within these platforms are continuing to develop and refine machine vision algorithms to classify, organise and act on their immense user-generated image databases. These algorithms are central to the advertising model and cultural impact of social media platforms, yet are not open to public scrutiny. The project aims to develop machine vision approaches to critically simulate the image-based algorithmic culture of Instagram, focusing on case studies that have public significance. By building the image machines of social media platforms in the public domain, the project will deliver critical understandings and analyses how digital media shapes culture.</p> <p>Bio: Dr Daniel Angus is a senior lecturer in computational social science, journalism program coordinator, and leader of the Communication Analytics Lab in the School of Communication and Arts at The University of Queensland. His research focuses on the development of visualisation and analysis methods for communication data, with a specific focus on conversation data. His computational methods have improved our understanding of the nature of communication in medical consultations, conversations in aged care settings, television broadcast, social media, and newspaper reporting. Dr Angus has been involved in computer science research for 15 years and contributes regularly to media and industry on the impact of technology on society.</p> <p>Hacks/Hackers Brisbane meets once a month (usually) on the fourth Wednesday (we had to change this month to accomodate Anzac Day). We start at about 6pm and have speakers on a variety of topics.</p> <p>We also usually enjoy some 🍻 &amp; 🍕</p>

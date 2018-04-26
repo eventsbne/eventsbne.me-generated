@@ -20,6 +20,12 @@ events:
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-05-08T07:45:00.000Z'
     timeEnd: null
+  - name: IoT and SCADA Hackers!
+    uri: >-
+      /events/2018/05/08/fc624561a76122a02e573379a3200932e5aec36da748ae2ce00091ef04f39b6c
+    organizer: IoT and SCADA Hackers Australia
+    timeStart: '2018-05-08T08:00:00.000Z'
+    timeEnd: null
   - name: Drupal Brisbane Monthly Meetup
     uri: >-
       /events/2018/05/08/29ec7c0493dee626da129274fbd3be6cacbd0f30d07f51005d27d7dfc74d316b

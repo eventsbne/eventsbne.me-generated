@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-10T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-22T05:38:31.827Z'
-timeUpdated: '2018-04-22T05:38:31.827Z'
+timeCreated: '2018-04-26T05:38:33.890Z'
+timeUpdated: '2018-04-26T05:38:33.890Z'
 countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Networking Night: Come along and Join Like-minded Biz People!!'
-date: '2018-04-22T05:38:31.827Z'
+date: '2018-04-26T05:38:33.890Z'
 
 ---
-<p>&gt;&gt; FIRST 5 TICKETS FREE!! &lt;&lt;</p> <p>Discover valuable ideas and get ahead of the pack…</p> <p>Be Inspired and motivated to make things happen…</p> <p>Build new connections and form a strong relationship...</p> <p>None other than the MeetUp Queen can tell you how these things can happen!</p> <p>If you are Entrepreneurs who are:</p> <p>• Keen on boosting your business and taking it to the next level</p> <p>• Motivated on reaching their dreams and goals for their business</p> <p>• Fearless and willing to make changes if necessary; and</p> <p>• Interested in growing their connections and looking for possible collaboration</p> <p>Then this is definitely FOR YOU!!!</p> <p>We are all about empowering each other and helping each other make their dreams come true.</p> <p>So what are you waiting for?? Don't let fears hold you back! Step up and get ahead of the pack!!</p>
+<p>Discover valuable ideas and get ahead of the pack…</p> <p>Be Inspired and motivated to make things happen…</p> <p>Build new connections and form a strong relationship...</p> <p>None other than the MeetUp Queen can tell you how these things can happen!</p> <p>If you are Entrepreneurs who are:</p> <p>• Keen on boosting your business and taking it to the next level</p> <p>• Motivated on reaching their dreams and goals for their business</p> <p>• Fearless and willing to make changes if necessary; and</p> <p>• Interested in growing their connections and looking for possible collaboration</p> <p>Then this is definitely FOR YOU!!!</p> <p>We are all about empowering each other and helping each other make their dreams come true.</p> <p>So what are you waiting for?? Don't let fears hold you back! Step up and get ahead of the pack!!</p>
