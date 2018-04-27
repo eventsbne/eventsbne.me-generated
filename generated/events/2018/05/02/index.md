@@ -26,16 +26,16 @@ events:
     organizer: Brisbane Skype & Teams User Group
     timeStart: '2018-05-02T06:30:00.000Z'
     timeEnd: null
-  - name: Ruby on Rails InstallFest
-    uri: >-
-      /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828
-    organizer: The Brisbane Ruby and Rails
-    timeStart: '2018-05-02T08:00:00.000Z'
-    timeEnd: null
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/05/02/577bdb79a45a756294f51c39f964259655c920fefdf8ed6892d0a990fe3d84c3
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
+  - name: Ruby on Rails InstallFest
+    uri: >-
+      /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828
+    organizer: The Brisbane Ruby and Rails
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
   - name: >-
@@ -57,12 +57,6 @@ events:
       /events/2018/05/02/2ae89b4442be36610527f74327c56c1f639078c02beee0c634f8788ce6cb576d
     organizer: Ethereum Brisbane
     timeStart: '2018-05-02T08:30:00.000Z'
-    timeEnd: null
-  - name: Convert your messy spreadsheets into beautiful systems
-    uri: >-
-      /events/2018/05/02/b78c10f034ba5b00b2b313ffb952ee7db921524b96de3776011d611994cac047
-    organizer: Brisbane Professional Microsoft Excel Meetup
-    timeStart: '2018-05-02T09:00:00.000Z'
     timeEnd: null
 
 ---

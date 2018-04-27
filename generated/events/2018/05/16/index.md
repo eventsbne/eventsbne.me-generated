@@ -14,5 +14,11 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-05-16T05:00:00.000Z'
     timeEnd: null
+  - name: Convert your messy spreadsheets into beautiful systems
+    uri: >-
+      /events/2018/05/16/b78c10f034ba5b00b2b313ffb952ee7db921524b96de3776011d611994cac047
+    organizer: Brisbane Professional Microsoft Excel Meetup
+    timeStart: '2018-05-16T09:00:00.000Z'
+    timeEnd: null
 
 ---

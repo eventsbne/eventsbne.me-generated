@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-26T05:38:33.890Z'
-timeUpdated: '2018-04-26T05:38:33.890Z'
-countAttending: '17'
+timeCreated: '2018-04-27T05:38:31.045Z'
+timeUpdated: '2018-04-27T05:38:31.045Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: GraphQL with Absinthe and GenStage for Producer-Consumer systems
-date: '2018-04-26T05:38:33.890Z'
+date: '2018-04-27T05:38:31.045Z'
 
 ---
 <p>It's time for the Brisbane alchemists to get together and geek out over all things Elixir, with pizza and drinks provided by our sponsor Stacktrace!</p> <p>It's been a while since our last meetup, so we'll kick off with some Elixir news.</p> <p>Next up, Aaron will share his experience creating a GraphQL API with Elixir and Absinthe.</p> <p>Mike will dive into GenStage and how it makes building Producer-Consumer systems in Elixir a breeze.</p>

@@ -8,7 +8,7 @@ events:
     organizer: QLD ALM Users Group
     timeStart: '2018-05-13T22:00:00.000Z'
     timeEnd: null
-  - name: The Next BrisJS - Call For Speakers
+  - name: 'Panel discussion: esnext features rad or bad? + TBD'
     uri: >-
       /events/2018/05/14/1e84fef93ccc0177809cc34564c80840c1dfbddb6a575e3ff52db78546283542
     organizer: Brisbane Javascript

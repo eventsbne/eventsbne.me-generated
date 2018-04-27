@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T05:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-24T05:38:31.376Z'
-timeUpdated: '2018-04-24T05:38:31.376Z'
-countAttending: '1'
+timeCreated: '2018-04-27T05:38:31.045Z'
+timeUpdated: '2018-04-27T05:38:31.045Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Live demonstration of Spectrum Protect Plus 10.1.1
-date: '2018-04-24T05:38:31.376Z'
+date: '2018-04-27T05:38:31.045Z'
 
 ---
 <p>Spectrum Protect Plus is a new product announced late 2017.</p> <p>Come and see the latest enhancements to the product and a live demonstration of the application from our Sydney Lab by Steven Mann.</p> <p>Nothing required but your time and attention.</p> <p>Drinks and pizza will be provided.</p>

@@ -8,6 +8,12 @@ events:
     organizer: dotMaleny
     timeStart: '2018-05-03T02:30:00.000Z'
     timeEnd: null
+  - name: Let's meetup and learn about Wordpress (including DIVI)
+    uri: >-
+      /events/2018/05/03/12bdbdb3366e0b74d8950db2b394e82db8f225dfe058024fdad634894f2a8fac
+    organizer: Brisbane WordPress Learners Meetup
+    timeStart: '2018-05-03T08:30:00.000Z'
+    timeEnd: null
   - name: 'Gold Coast Crypto, (Bitcoin) for your business'
     uri: >-
       /events/2018/05/03/1e418de24803bbea2f6649db76468058b80899f7029a211cee2c99bc3b811377
