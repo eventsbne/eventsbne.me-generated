@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-27T05:38:31.045Z'
-timeUpdated: '2018-04-27T05:38:31.045Z'
-countAttending: '28'
+timeCreated: '2018-04-28T05:38:30.409Z'
+timeUpdated: '2018-04-28T05:38:30.409Z'
+countAttending: '29'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Hardware Startup #4–  Startup Weekend Info, EasyOven, Inovotech and  Mr Biggs'
-date: '2018-04-27T05:38:31.045Z'
+date: '2018-04-28T05:38:30.409Z'
 
 ---
 <p>Please come join us for our FOURTH Hardware Meetup for Brisbane, at the brand new Arc Hardware Incubator in Fortitude Valley.</p> <p>On the night we will hear from three speakers making hardware development a reality in Brisbane. There will be an introduction to the Arc space and real life case studies from start ups developing actual products. In addition Arc will be providing information on the Hardware Startup Weekend, which is taking place on the 11th-13th May.</p> <p>The purpose of the meetup is to bring together people interested in hardware development across Brisbane, to exchange knowledge, ideas and experiences and to build a vibrant community of hardwarians.</p> <p>Also, did I say there will be Free Beer and Pizza!?</p> <p>Schedule:</p> <p>6:00: Welcome, snacks, refreshments (we will be providing beer, wine and pizza.)</p> <p>6:20: Jon Sawdon Smith: Brief intro from Jon, reasons for organising this meetup.</p> <p>6:30: Information on Arcs Hardware Startup Weekend. <a href="http://communities.techstars.com/australia/brisbane/startup-weekend/12429" class="linkified">http://communities.techstars.com/australia/brisbane/startup-weekend/12429</a></p> <p>6:50 Joanne Kennard, Easy Oven. Joanne will talk about her journey and experience of taking the Easy Oven from concept to distribution across the globe. www.easyoven.com.au</p> <p>7:10: Christopher Biggs - IoT Brisbane. Chris will tell us about Open Sesame...the legend of Ali Barber!</p> <p>7:30 Juan Polanco, Inovotech. From Idea to Prototype. Juan will talk us through his process of design and development. <a href="http://inovotech.com.au/" class="linkified">http://inovotech.com.au/</a></p> <p>7:50 Drinks, Snacks, Networking</p> <p>8:45 The Pub.</p>

@@ -14,6 +14,12 @@ events:
     organizer: Brisbane WordPress Learners Meetup
     timeStart: '2018-05-03T08:30:00.000Z'
     timeEnd: null
+  - name: Bitcoin for Beginners Gold Coast (FREE)
+    uri: >-
+      /events/2018/05/03/0ee1e6713525c7c24dfbb267b94eaf87374684c71073e12e2319504a9b2ebdfc
+    organizer: The Beauty of Bitcoin Gold Coast (free)
+    timeStart: '2018-05-03T08:30:00.000Z'
+    timeEnd: null
   - name: 'Gold Coast Crypto, (Bitcoin) for your business'
     uri: >-
       /events/2018/05/03/1e418de24803bbea2f6649db76468058b80899f7029a211cee2c99bc3b811377

@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-27T05:38:31.045Z'
-timeUpdated: '2018-04-27T05:38:31.045Z'
+timeCreated: '2018-04-28T05:38:30.409Z'
+timeUpdated: '2018-04-28T05:38:30.409Z'
 countAttending: '90'
 countCapacity: null
-countWaitlist: '17'
+countWaitlist: '18'
 price: null
 url: 'https://www.meetup.com/Ethereum-Brisbane/events/248238988/'
 image: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: How to hack a smart contract
-date: '2018-04-27T05:38:31.045Z'
+date: '2018-04-28T05:38:30.409Z'
 
 ---
 <p>Lucas Cullen from Blockchain Australia will take us through security best practices and share wisdom on common smart contract coding mistakes and how to exploit them.</p> <p>We will code a reentrance hack, similar to what was used in the DAO hack.</p>

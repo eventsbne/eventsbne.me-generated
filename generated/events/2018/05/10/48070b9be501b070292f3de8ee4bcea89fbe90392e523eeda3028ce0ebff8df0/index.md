@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-09T21:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-27T05:38:31.045Z'
-timeUpdated: '2018-04-27T05:38:31.045Z'
-countAttending: '39'
+timeCreated: '2018-04-28T05:38:30.409Z'
+timeUpdated: '2018-04-28T05:38:30.409Z'
+countAttending: '44'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Agile & Product Development - Are they a Match made in Heaven?
-date: '2018-04-27T05:38:31.045Z'
+date: '2018-04-28T05:38:30.409Z'
 
 ---
 <p>In true agile fashion, u&amp;u &amp; Elabor8 are collaborating to bring you this event, combining two of the most discussed topics in today’s digital landscape: Agile and Product Management.</p> <p>Come along to our interactive session on 'Agile &amp; Product Management: are they a match made in heaven?'</p> <p>Using case studies and industry experiences, Paul Fitzmaurice and Tony Ponton, Agile evangelists and consultants at Elabor8, will provide insights into how Agile and Product Management work together to achieve better results.</p> <p>We'll discuss:<br/>Why Product Management?<br/>Why Agile?<br/>Product Management with and without Agile<br/>Agile with and without Product Management</p> <p>Seats are limited, so please register below to secure your place at this event.</p>

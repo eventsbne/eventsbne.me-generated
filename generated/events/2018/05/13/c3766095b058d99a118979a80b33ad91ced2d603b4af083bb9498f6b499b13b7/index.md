@@ -1,17 +1,17 @@
 ---
-id: 4dbb67d5dc4ad708e5dfad9cd2e56a0e7a43db791fcf768baab37ae0b411c8c7
-remoteId: kphzdpyxgbmc
+id: c3766095b058d99a118979a80b33ad91ced2d603b4af083bb9498f6b499b13b7
+remoteId: kphzdpyxhbrb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-04-29T03:30:00.000Z'
+timeStart: '2018-05-13T03:30:00.000Z'
 timeEnd: null
 timeCreated: '2018-04-28T05:38:30.409Z'
 timeUpdated: '2018-04-28T05:38:30.409Z'
-countAttending: '23'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/Brisbane-Coder-Club/events/249183345/'
+url: 'https://www.meetup.com/Brisbane-Coder-Club/events/250230243/'
 image: null
 venue:
   id: 8756d83edcf259e4b700643a0499533543a24c8c7f9c77ed4167adeba89c03e0

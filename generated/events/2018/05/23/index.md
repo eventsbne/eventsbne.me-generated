@@ -8,7 +8,7 @@ events:
     organizer: Hacks/Hackers Brisbane
     timeStart: '2018-05-23T08:00:00.000Z'
     timeEnd: null
-  - name: Attend World ProductTank Day - Guest Speaker Rowan Lamont from Designworks
+  - name: Join World Product Day - Guest Speaker Rowan Lamont from Designworks
     uri: >-
       /events/2018/05/23/38fb5ad8d6364074e121da54644ff78cdce249404b4a84473ab55a8320715cb0
     organizer: ProductTank Brisbane
