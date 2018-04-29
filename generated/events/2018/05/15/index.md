@@ -14,6 +14,12 @@ events:
     organizer: Agtech Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
+  - name: Bitcoin & Bitcoin Cash
+    uri: >-
+      /events/2018/05/15/7cfa00d6587b6220c0bb93477b604f714c3ab52d70e0d8101c96b4433cd92c9b
+    organizer: Bitcoin & Blockchain Brisbane
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
   - name: Light Play
     uri: >-
       /events/2018/05/15/000e51f05cdca49803afa595f81127446b5840d3047ed5ba5496dad1706c0d95

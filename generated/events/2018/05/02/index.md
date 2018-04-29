@@ -26,22 +26,10 @@ events:
     organizer: Brisbane Skype & Teams User Group
     timeStart: '2018-05-02T06:30:00.000Z'
     timeEnd: null
-  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
-    uri: >-
-      /events/2018/05/02/577bdb79a45a756294f51c39f964259655c920fefdf8ed6892d0a990fe3d84c3
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
-    timeStart: '2018-05-02T08:00:00.000Z'
-    timeEnd: null
   - name: GraphQL with Absinthe and GenStage for Producer-Consumer systems
     uri: >-
       /events/2018/05/02/c907d773dad31f480c9375bc8746d264dd1b32b49f91d35c87f159e9ccbdbc44
     organizer: Brisbane Elixir
-    timeStart: '2018-05-02T08:00:00.000Z'
-    timeEnd: null
-  - name: Ruby on Rails InstallFest
-    uri: >-
-      /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828
-    organizer: The Brisbane Ruby and Rails
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
   - name: >-
@@ -50,6 +38,18 @@ events:
     uri: >-
       /events/2018/05/02/b78ccf7e4249b4fc502f4690af2576acaaa87847958494a1712c1ecdea7d76ef
     organizer: CTO School Brisbane
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
+  - name: Ruby on Rails InstallFest
+    uri: >-
+      /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828
+    organizer: The Brisbane Ruby and Rails
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
+  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
+    uri: >-
+      /events/2018/05/02/577bdb79a45a756294f51c39f964259655c920fefdf8ed6892d0a990fe3d84c3
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
   - name: How to hack a smart contract

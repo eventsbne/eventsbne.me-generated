@@ -2,10 +2,11 @@
 title: Events for 2018/05/28
 layout: event-index
 events:
-  - name: Power BI from Rookie to Rock Star - Brisbane May 2018
+  - name: Australian OpenStack User Group - Quarterly Brisbane Meetup
     uri: >-
-      /events/2018/05/28/8ccbf5627714879c29dae3e5b1c36ea5a5c84750dae81014009451c11345d78c
-    organizer: Reza Rad
-    timeStart: '2018-05-27T23:00:00.000Z'
+      /events/2018/05/28/a2798d143c95b69424a8a23748c6bf2fd87b51a6b51ac3c0202b7a230970a4c6
+    organizer: Australian OpenStack User Group
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
 
 ---

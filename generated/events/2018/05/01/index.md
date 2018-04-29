@@ -20,6 +20,14 @@ events:
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-05-01T08:00:00.000Z'
     timeEnd: null
+  - name: >-
+      Hardware Startup #4–  Startup Weekend Info, EasyOven, Inovotech and  Mr
+      Biggs
+    uri: >-
+      /events/2018/05/01/57139e5fa1a6981c4faaff45841c1250ee0dd424a3d176c1851f5a8cbf73c59b
+    organizer: Hardware StartUp - Brisbane
+    timeStart: '2018-05-01T08:00:00.000Z'
+    timeEnd: null
   - name: What is Communication & Stakeholder Engagement?
     uri: >-
       /events/2018/05/01/3f47d26fee53cedcca9d9f3bc5dc45c95ba5faa1e9a826f80af82c0a4a4af66a
@@ -30,14 +38,6 @@ events:
     uri: >-
       /events/2018/05/01/00a1c140f31733bb6b80725f6b269c6e61360f9a4fb19b62420684e4d5ec10e4
     organizer: CocoaHeads
-    timeStart: '2018-05-01T08:00:00.000Z'
-    timeEnd: null
-  - name: >-
-      Hardware Startup #4–  Startup Weekend Info, EasyOven, Inovotech and  Mr
-      Biggs
-    uri: >-
-      /events/2018/05/01/57139e5fa1a6981c4faaff45841c1250ee0dd424a3d176c1851f5a8cbf73c59b
-    organizer: Hardware StartUp - Brisbane
     timeStart: '2018-05-01T08:00:00.000Z'
     timeEnd: null
   - name: Enhanced Society's FIRST meetup

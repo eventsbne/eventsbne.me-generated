@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-01T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-26T05:38:33.890Z'
-timeUpdated: '2018-04-26T05:38:33.890Z'
-countAttending: '12'
+timeCreated: '2018-04-29T05:38:30.146Z'
+timeUpdated: '2018-04-29T05:38:30.146Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: What is Communication & Stakeholder Engagement?
-date: '2018-04-26T05:38:33.890Z'
+date: '2018-04-29T05:38:30.146Z'
 
 ---
 <p>What is Communication &amp; Stakeholder Engagement? Why is it so important in business?</p> <p>This is a question that many of us are asked from our communities, colleagues and networks.</p> <p>Leisa Prowse, Director of Leisa Prowse Consulting and IAP2 Australasia Ambassador will lead this interactive workshop to bring clarity to what Community and Stakeholder Engagement is.</p> <p>Discuss important steps that practitioners can include when implementing a best practice engagement strategy, from ideas on design and methods used.</p> <p>We will discuss what the next steps are to up skill and equip yourself for success within the business community.</p> <p>Come along and meet like-minded local individuals and grow your local professional network.</p>

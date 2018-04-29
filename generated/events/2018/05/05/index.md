@@ -8,6 +8,12 @@ events:
     organizer: SSW
     timeStart: '2018-05-04T23:00:00.000Z'
     timeEnd: '2018-05-05T07:00:00.000Z'
+  - name: codeSwich is in Ipswich!
+    uri: >-
+      /events/2018/05/05/56cb0696514f32afbef09d1a729ae1cd5f1f57bf33fa56982e4d745ccdb5289b
+    organizer: Western Corridor Technology Enthusiasts
+    timeStart: '2018-05-04T23:00:00.000Z'
+    timeEnd: null
   - name: Creative Direction for Educational Games
     uri: >-
       /events/2018/05/05/44a647e3dc1173471815d39df0f4291a6937bde64cfc39b0759de31f823271c8
