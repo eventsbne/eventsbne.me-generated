@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-29T05:38:30.146Z'
-timeUpdated: '2018-04-29T05:38:30.146Z'
-countAttending: '5'
+timeCreated: '2018-04-30T05:38:35.911Z'
+timeUpdated: '2018-04-30T05:38:35.911Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-date: '2018-04-29T05:38:30.146Z'
+date: '2018-04-30T05:38:35.911Z'
 
 ---
 No description was provided.

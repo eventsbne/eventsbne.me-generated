@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-27T05:38:31.045Z'
-timeUpdated: '2018-04-27T05:38:31.045Z'
-countAttending: '13'
+timeCreated: '2018-04-30T05:38:35.911Z'
+timeUpdated: '2018-04-30T05:38:35.911Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -25,7 +25,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'MVVMCross 6.0, Build discussion and news'
-date: '2018-04-27T05:38:31.045Z'
+date: '2018-04-30T05:38:35.911Z'
 
 ---
 <p>Lots of great content this month.</p> <p>* Andrew Birch will be presenting on how to use the new version of MVVMCross, version 6.0.<br/>* Build will still be running in the US and we'll no doubt there will be plenty to discuss there<br/>* Our normal news and updates (Ryan will have lots to do with Build on that morning)</p> <p>This will be lots of fun, its great having Andrew present and we'll see you there</p>

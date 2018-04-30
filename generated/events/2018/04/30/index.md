@@ -2,7 +2,7 @@
 title: Events for 2018/04/30
 layout: event-index
 events:
-  - name: Shader Graph editor and Scriptable Render Pipelines
+  - name: Shader Graph Editor and Scriptable Render Pipelines
     uri: >-
       /events/2018/04/30/703d40021bcb779f4c4a71aadf37c22cdf8c6f85e08ada8539ea4089b2747bb0
     organizer: Brisbane Unity Developers

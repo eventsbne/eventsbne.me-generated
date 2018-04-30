@@ -14,6 +14,18 @@ events:
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-05-09T22:30:00.000Z'
     timeEnd: null
+  - name: Apigee API Tech Forum
+    uri: >-
+      /events/2018/05/10/b1b6a6f3003485bce81e8a41d76569292dbb136d5f588d1664f597cbace5af89
+    organizer: GDG Brisbane
+    timeStart: '2018-05-09T22:30:00.000Z'
+    timeEnd: null
+  - name: How to write content to transform your business - Online Masterclass
+    uri: >-
+      /events/2018/05/10/54e369c06e89f006bc559146099d645bc97cdcc9f1498ffd7c1c2c9bdab70c10
+    organizer: Savvy Australian Bloggers
+    timeStart: '2018-05-09T23:30:00.000Z'
+    timeEnd: null
   - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
     uri: >-
       /events/2018/05/10/35b5229f7c9e8c84bac133699de82afd979e25608cbd1330012283479b487e55
@@ -26,16 +38,16 @@ events:
     organizer: WordPress Brisbane
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
-  - name: Building AI for Law
-    uri: >-
-      /events/2018/05/10/5ee7248606b9c9d9ddf1e789c6cbec73cf4fd6c2bdb8f2d152406b43d9331240
-    organizer: Brisbane Artificial Intelligence
-    timeStart: '2018-05-10T08:00:00.000Z'
-    timeEnd: null
   - name: 'Big data in action : Azure HDInsight at your service'
     uri: >-
       /events/2018/05/10/7f50cbb2d2e9369ef365d163673a333fe0836d42e21d6e0278b4ff357aa85bcd
     organizer: Brisbane Data Science Meetup
+    timeStart: '2018-05-10T08:00:00.000Z'
+    timeEnd: null
+  - name: Building AI for Law
+    uri: >-
+      /events/2018/05/10/5ee7248606b9c9d9ddf1e789c6cbec73cf4fd6c2bdb8f2d152406b43d9331240
+    organizer: Brisbane Artificial Intelligence
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
   - name: 'Networking Night: Come along and Join Like-minded Biz People!!'

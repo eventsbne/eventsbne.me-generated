@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-04-30T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-28T05:38:30.409Z'
-timeUpdated: '2018-04-28T05:38:30.409Z'
-countAttending: '40'
+timeCreated: '2018-04-30T05:38:35.911Z'
+timeUpdated: '2018-04-30T05:38:35.911Z'
+countAttending: '44'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Evening Symposium - The ThingSpeak IoT Platform
-date: '2018-04-28T05:38:30.409Z'
+date: '2018-04-30T05:38:35.911Z'
 
 ---
 <p>• What we'll do<br/>At our monthly evening events we begin with networking and a light dinner (finger foods, beer, wine and soft drinks), then presentations commence from 6:30.</p> <p>This month we have Daryl Ning from MathWorks speaking about<br/>the ThingSpeak platform, which is one of a number of free services for<br/>processing your IoT data in the cloud.</p> <p>Daryl will talk about ThingSpeak, an IoT platform that lets you collect and store sensor data in the cloud, and develop IoT applications. ThingSpeak simplifies the process of prototyping IoT systems, and is free for use for small non-commercial projects (hobbyists or proof of concept projects). It’s great for people who have smart devices capable of transmitting data using REST or MQTT API’s, but little knowledge of how to setup a cloud based server to capture, visualise, and act on this data.</p> <p>The primary element of ThingSpeak activity is the channel. After you create a ThingSpeak channel, you can write data to the channel, visualise the time series data, and react to the data with tweets and other alerts. For those familiar with MATLAB, additional analysis and visualisations can be applied to the data captured on the server, since ThingSpeak can natively run MATLAB code.</p> <p>Using a live demo, we will walk through the process of setting up a simple video surveillance system using ThingSpeak. Motion data is periodically transmitted to a ThingSpeak channel from a BeagleBone Black device. This data is visualised in ThingSpeak, and when significant motion is detected, ThingSpeak reacts by sending a text message using a web push notification service.</p> <p>Note that the core functionality of ThingSpeak (write, visualise, react) does not require any knowledge about MATLAB. Although the speaker is employed by MathWorks (developers of MATLAB), this presentation will be primarily about this core, and free, functionality.</p> <p>* About the speaker</p> <p>Daryl Ning is a principal applications engineer with MathWorks Australia. For over a decade, Daryl has supported MATLAB and Simulink users in almost every industry, mainly focusing on the areas of data analytics, signal/image processing, computer vision, and logistic simulation. He received both his Ph.D. and B. Eng. in electrical engineering from the Queensland University of Technology, where he also spent a year working as a research assistant. Daryl's former research was primarily in the field of speech and audio processing for biometrics and compression.</p>

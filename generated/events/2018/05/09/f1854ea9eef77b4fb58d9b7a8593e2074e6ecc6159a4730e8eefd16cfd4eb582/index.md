@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-09T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-29T05:38:30.146Z'
-timeUpdated: '2018-04-29T05:38:30.146Z'
-countAttending: '57'
+timeCreated: '2018-04-30T05:38:35.911Z'
+timeUpdated: '2018-04-30T05:38:35.911Z'
+countAttending: '62'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Improving your Apps decisions with Azure Cognitive Services
-date: '2018-04-29T05:38:30.146Z'
+date: '2018-04-30T05:38:35.911Z'
 
 ---
 <p>Imagine if your apps could make better decisions? In this session we will look at just some of the ways you can use Azure Cognitive Services to solve different kinds of decisions.</p> <p>Whether it's:</p> <p>* How to make a prediction system, such as "Should a financial institution give someone a loan?"<br/>* How to use vision services to classify images<br/>* Understanding the meaning of messages to see how important it is</p> <p>About the Speaker</p> <p>Glenn Stephens is a Senior Content Developer at Microsoft. He has been coding since the 80's. He's worked as a developer, team leader, architect and CEO. He's won a few awards in the process and enjoys making and talking about software. Glenn has a Bachelor of Computer Science, an MBA and spends too much money on books.</p>

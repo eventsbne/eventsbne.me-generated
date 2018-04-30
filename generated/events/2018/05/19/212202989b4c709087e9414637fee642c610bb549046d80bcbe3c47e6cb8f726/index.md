@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-19T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-26T05:38:33.890Z'
-timeUpdated: '2018-04-26T05:38:33.890Z'
-countAttending: '9'
+timeCreated: '2018-04-30T05:38:35.911Z'
+timeUpdated: '2018-04-30T05:38:35.911Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: DIY Robocars Workshop
-date: '2018-04-26T05:38:33.890Z'
+date: '2018-04-30T05:38:35.911Z'
 
 ---
 <p>This DIY Robocars Workshop is part of National Robotics Week. We'll be putting together some robocars and demonstrating a race.</p> <p>Venue and more details to be announced shortly.</p>

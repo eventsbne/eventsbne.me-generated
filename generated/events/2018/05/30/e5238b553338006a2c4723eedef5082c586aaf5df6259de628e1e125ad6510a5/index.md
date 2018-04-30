@@ -1,17 +1,17 @@
 ---
-id: ab75b2d547f308e7d90b29f3c8660b64010367d33f14fa27d91bc7c4e2ce377c
-remoteId: '247337069'
+id: e5238b553338006a2c4723eedef5082c586aaf5df6259de628e1e125ad6510a5
+remoteId: '249486331'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-05-16T02:30:00.000Z'
+timeStart: '2018-05-30T02:30:00.000Z'
 timeEnd: null
 timeCreated: '2018-04-30T05:38:35.911Z'
 timeUpdated: '2018-04-30T05:38:35.911Z'
-countAttending: '8'
+countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/ethereum-engineering/events/247337069/'
+url: 'https://www.meetup.com/ethereum-engineering/events/249486331/'
 image: null
 venue:
   id: b2ed3c89c91050d77803e6382f09be9995e7d2567438aeb6a503edafbf11118d
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: 'Blockchain Research from QUT, UQ, and Griffith University'
+title: Solidity Programming Language
 date: '2018-04-30T05:38:35.911Z'
 
 ---
-<p>BYO Lunch</p> <p>Three researchers will each present for 20 minutes on their research topic. Researchers will be drawn from University of Queensland, Queensland University of Technology and Griffith University, and other universities.</p>
+<p>BYO Lunch.</p> <p>Lucas Cullen (<a href="https://www.linkedin.com/in/lucascullen/" class="linkified">https://www.linkedin.com/in/lucascullen/</a>) will introduce the Solidity Programming Language.</p>
