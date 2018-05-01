@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-16T05:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-21T05:38:31.376Z'
-timeUpdated: '2018-04-21T05:38:31.376Z'
-countAttending: '1'
+timeCreated: '2018-05-01T05:38:25.836Z'
+timeUpdated: '2018-05-01T05:38:25.836Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Myriad Festival 2018
-date: '2018-04-21T05:38:31.376Z'
+date: '2018-05-01T05:38:25.836Z'
 
 ---
 <p>brig will be at myriad!</p>

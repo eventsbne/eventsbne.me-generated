@@ -8,12 +8,6 @@ events:
     organizer: Moreton Bay Region Libraries
     timeStart: '2018-05-01T03:00:00.000Z'
     timeEnd: '2018-05-02T05:00:00.000Z'
-  - name: What is Communication & Stakeholder Engagement?
-    uri: >-
-      /events/2018/05/01/3f47d26fee53cedcca9d9f3bc5dc45c95ba5faa1e9a826f80af82c0a4a4af66a
-    organizer: Startup Ipswich
-    timeStart: '2018-05-01T08:00:00.000Z'
-    timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/05/01/098da25174bff2f1e4e0ca09dd9185fa3677e389cb490b26c894d019ec84d788
@@ -24,6 +18,12 @@ events:
     uri: >-
       /events/2018/05/01/f056d699af0dec2e29867cc60827a30da30bd20ccd0495f8a1965b04b1e63706
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
+    timeStart: '2018-05-01T08:00:00.000Z'
+    timeEnd: null
+  - name: What is Communication & Stakeholder Engagement?
+    uri: >-
+      /events/2018/05/01/3f47d26fee53cedcca9d9f3bc5dc45c95ba5faa1e9a826f80af82c0a4a4af66a
+    organizer: Startup Ipswich
     timeStart: '2018-05-01T08:00:00.000Z'
     timeEnd: null
   - name: CocoaHeads Brisbane Meetup

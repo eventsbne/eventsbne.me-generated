@@ -26,5 +26,11 @@ events:
     organizer: Bitcoin MeetUp Gold Coast (Free)
     timeStart: '2018-05-17T09:00:00.000Z'
     timeEnd: null
+  - name: Gold Coast Bitcoin Meetup
+    uri: >-
+      /events/2018/05/17/a73027bbfdcf6f05a11146624eb582ce406aa749d00cf0682288ed40da5f6379
+    organizer: Gold Coast Bitcoin Meetup
+    timeStart: '2018-05-17T09:00:00.000Z'
+    timeEnd: null
 
 ---

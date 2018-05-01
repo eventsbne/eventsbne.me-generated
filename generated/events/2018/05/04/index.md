@@ -2,6 +2,12 @@
 title: Events for 2018/05/04
 layout: event-index
 events:
+  - name: 'Community Breakfast #️⃣5️⃣'
+    uri: >-
+      /events/2018/05/04/4971399d52e8f53573635159c3c591b2030f0e358fc0e0c50d475b1e6bdcbe26
+    organizer: Product of BNE
+    timeStart: '2018-05-03T21:30:00.000Z'
+    timeEnd: null
   - name: Brisbane Lean Coffee
     uri: >-
       /events/2018/05/04/ab67df7d760a8f503ff64d9ed2eaa305e6d4a416423d8a542251b59599819889
@@ -17,6 +23,12 @@ events:
   - name: Fishburners Pitch-Off Series
     uri: >-
       /events/2018/05/04/ecc799fc929d00891e1ab5ea2c581f9d4bab8b6a7ddb230214964f240df0b622
+    organizer: Fishburners Brisbane
+    timeStart: '2018-05-04T07:00:00.000Z'
+    timeEnd: null
+  - name: Fishburners Pitch-Off Series
+    uri: >-
+      /events/2018/05/04/0a49f04f0474bd240eb8be7cbc703c1114306b0a19cb266377bc5102fdc05535
     organizer: Fishburners Brisbane
     timeStart: '2018-05-04T07:00:00.000Z'
     timeEnd: null

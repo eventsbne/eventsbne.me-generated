@@ -16,5 +16,11 @@ events:
     organizer: Brisbane Unity Developers
     timeStart: '2018-05-21T07:30:00.000Z'
     timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/05/21/6156589f5705718d511fe62a9dcfdff368eb9aea3a674d5f384a0566541e7abf
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-05-21T08:00:00.000Z'
+    timeEnd: null
 
 ---

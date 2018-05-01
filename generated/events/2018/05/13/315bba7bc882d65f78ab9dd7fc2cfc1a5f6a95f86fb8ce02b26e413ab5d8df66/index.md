@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-13T00:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-13T08:12:10.664Z'
-timeUpdated: '2018-04-13T08:12:10.664Z'
-countAttending: '1'
+timeCreated: '2018-05-01T05:38:25.836Z'
+timeUpdated: '2018-05-01T05:38:25.836Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: May Open Day + Member Signup
-date: '2018-04-13T08:12:10.664Z'
+date: '2018-05-01T05:38:25.836Z'
 
 ---
 <p>• What we'll do<br/>Come join us for the first of our monthly open days, where we open up the cupboards and doors, and give access to all our resources and tools. Included in our inventory are:</p> <p>* 3D Printers<br/>* Electronics Workbench (Soldering iron, hot air gun, etc.)<br/>* Raspberri Pi<br/>* Arduino<br/>* Computers &amp; Laptops</p> <p>Interested in supporting our efforts to build and provide tech equipment and tools? Consider signing up as a member while you visit. For as little as $50 a year, you can become a member of HS Ipswich, and get access to our online resources and discounts to workshops and courses.</p>
