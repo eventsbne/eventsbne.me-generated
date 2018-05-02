@@ -44,18 +44,18 @@ events:
     organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
+  - name: Ruby on Rails InstallFest
+    uri: >-
+      /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828
+    organizer: The Brisbane Ruby and Rails
+    timeStart: '2018-05-02T08:00:00.000Z'
+    timeEnd: null
   - name: >-
       Jumping in the deep end - My journey as a first time Agile leader -Ryan
       McKergow
     uri: >-
       /events/2018/05/02/b78ccf7e4249b4fc502f4690af2576acaaa87847958494a1712c1ecdea7d76ef
     organizer: CTO School Brisbane
-    timeStart: '2018-05-02T08:00:00.000Z'
-    timeEnd: null
-  - name: Ruby on Rails InstallFest
-    uri: >-
-      /events/2018/05/02/c06c9a0ab1a4b6b46c730ff349d7ad1e183d0be9957da86b1101b24a427fe828
-    organizer: The Brisbane Ruby and Rails
     timeStart: '2018-05-02T08:00:00.000Z'
     timeEnd: null
   - name: "\U0001F3CE + \U0001F916 + \U0001F37A | Robots and Beverages and Self Driving (RC) Cars \U0001F3CE"

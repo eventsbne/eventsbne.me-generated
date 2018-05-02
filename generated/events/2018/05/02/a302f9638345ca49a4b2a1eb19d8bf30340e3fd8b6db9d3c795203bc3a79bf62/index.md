@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-01T05:38:25.836Z'
-timeUpdated: '2018-05-01T05:38:25.836Z'
-countAttending: '14'
+timeCreated: '2018-05-02T05:38:33.557Z'
+timeUpdated: '2018-05-02T05:38:33.557Z'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: "\U0001F3CE + \U0001F916 + \U0001F37A | Robots and Beverages and Self Driving (RC) Cars \U0001F3CE"
-date: '2018-05-01T05:38:25.836Z'
+date: '2018-05-02T05:38:33.557Z'
 
 ---
 <p>Please come join us for our monthly robotics meetup!</p> <p>This time around we are discussing the options to build your own self-driving (RC) car! Also, we will try to create a community around this to discuss and spur each other on!</p> <p>The It is going to be a night of informally talking, eating and drinking.<br/>We'll be chatting about robotics, science, business and just your next crazy ideas! The idea is to meet fellow people interested in robots, from building small ones to big industry robots!<br/>So come join us for another night of robo-revelry. This is inspired by Silicon Valley's BotsNBeer events (<a href="http://www.meetup.com/Silicon-Valley-Robotics/events/154195152/" class="linkified">http://www.meetup.com/Silicon-Valley-Robotics/events/154195152/</a>)</p> <p>As always, feel free to bring your ideas and robots to show off, especially if you have RC cars or have been tempering with some mobile robots! We'll open the floor for project introductions and pitches. Hope to see you all there!</p> <p>A Dropbox Paper was started to create a bit better communication flow between meetups, if you have projects, ideas, jobs that you want to announce, discuss or just spread the word about put them here: <a href="https://paper.dropbox.com/doc/-brisbane-robotics-interest-group-cMfOglD62rVisfFij5RR7" class="linkified">https://paper.dropbox.com/doc/-brisbane-robotics-interest-group-cMfOglD62rVisfFij5RR7</a></p> <p>Venue is going to be the ACRV again in the CBD (QUT Gardens Point)</p>

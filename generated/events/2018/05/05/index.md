@@ -20,6 +20,12 @@ events:
     organizer: Game Development Brisbane
     timeStart: '2018-05-05T02:00:00.000Z'
     timeEnd: null
+  - name: Electronics Intermediate Course
+    uri: >-
+      /events/2018/05/05/68555187d1b4de1b8fe1de75431f7a8789049c0364c6fec9245d1b3baed74abc
+    organizer: HS Ipswich
+    timeStart: '2018-05-05T03:30:00.000Z'
+    timeEnd: null
   - name: Introduction to Smartphones - Caboolture Library
     uri: >-
       /events/2018/05/05/3434f2f0c18182ccabd75f0de92393b43066b2f901070782aa837a5e63b1a6e9

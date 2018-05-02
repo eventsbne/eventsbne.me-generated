@@ -2,6 +2,12 @@
 title: Events for 2018/05/08
 layout: event-index
 events:
+  - name: Enterprise Angular Application With NX
+    uri: >-
+      /events/2018/05/08/1e63f4b23602e6909512c64a553c1d5644a74074047c9cec3a1d032d56ab9a26
+    organizer: Brisbane Full Stack User Group - Angular + React + .NET Core
+    timeStart: '2018-05-07T20:30:00.000Z'
+    timeEnd: null
   - name: Live demonstration of Spectrum Protect Plus 10.1.1
     uri: >-
       /events/2018/05/08/8f9386d579a3e9fa90a23131df64fda141e34e6773292f09e01fb9402fc26a7b

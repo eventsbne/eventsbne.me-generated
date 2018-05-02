@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-09T22:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-30T05:38:35.911Z'
-timeUpdated: '2018-04-30T05:38:35.911Z'
-countAttending: '1'
+timeCreated: '2018-05-02T05:38:33.557Z'
+timeUpdated: '2018-05-02T05:38:33.557Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Apigee API Tech Forum
-date: '2018-04-30T05:38:35.911Z'
+date: '2018-05-02T05:38:33.557Z'
 
 ---
 <p>Digital has changed the world, and the market. Your business decisions need to not only grasp the API revolution, but leverage it to reach business goals and agendas. Capitalize on this highly condensed day at Dexus Place in Brisbane to accelerate your “digital thinking.”</p> <p>API sessions presented by Apigee's customers and technical leadership will take place in the morning, followed by Apigee's hands-on API Jam workshop in the afternoon. Register to attend either morning API sessions, afternoon APIJam, or both!</p> <p>Please register at:<br/><a href="https://apigee.com/api-management/#/atf_eventdetail/1318" class="linkified">https://apigee.com/api-management/#/atf_eventdetail/1318</a></p>

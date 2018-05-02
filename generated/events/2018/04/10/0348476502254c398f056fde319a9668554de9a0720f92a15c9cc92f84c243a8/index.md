@@ -30,7 +30,7 @@ organizer:
   id: 677b28b70bcc65892822876d6d4fff1d17e9b4514914cdb3fc1c0342ba64b5d2
   remoteId: '27695247'
   remoteIdType: meetup
-  name: Brisbane Full Stack User Group
+  name: Brisbane Full Stack User Group - Angular + React + .NET Core
   url: 'https://meetup.com/Brisbane-Full-Stack-User-Group'
   description: null
   codeOfConduct: null

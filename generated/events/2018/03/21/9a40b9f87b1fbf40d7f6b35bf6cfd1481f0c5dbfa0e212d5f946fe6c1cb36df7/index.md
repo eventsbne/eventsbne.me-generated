@@ -30,7 +30,7 @@ organizer:
   id: 7330691b05ff41606097980a5fa110e992b2e5837bce219eb99b62b4fde7941e
   remoteId: '25979078'
   remoteIdType: meetup
-  name: Crypto Mining Meetup
+  name: Crypto Training & Mining Meetup
   url: 'https://meetup.com/Crypto-Mining-Meetup'
   description: null
   codeOfConduct: null

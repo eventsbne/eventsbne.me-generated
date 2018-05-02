@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-02T06:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-01T05:38:25.836Z'
-timeUpdated: '2018-05-01T05:38:25.836Z'
-countAttending: '45'
+timeCreated: '2018-05-02T05:38:33.557Z'
+timeUpdated: '2018-05-02T05:38:33.557Z'
+countAttending: '48'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: May 2018 - Brisbane UC Meetup
-date: '2018-05-01T05:38:25.836Z'
+date: '2018-05-02T05:38:33.557Z'
 
 ---
 <p>Please join us at the Telstra Brisbane offices (Level 4), meet fellow Skype for Business IT Pros, partners and customers for an evening of technical info, food/drinks and networking.</p> <p>Sessions will cover Microsoft's Skype for Business and Teams road map, tech updates, as well as real world demos of Skype for Business and Teams features and capabilities. This month we're delighted to announce Jeff Schertz (Microsoft MVP at Polycom) will be our guest speaker to cover some of the initiatives Polycom are bringing to the Microsoft UC platform!</p> <p>Agenda:</p> <p>• 4:30 – 5:00pm – Microsoft updates and roadmap (Bill Lockett @ Microsoft)<br/>• 5:00 – 5:20pm – Telstra Calling Plan for Office 365 (Ben Cromie @ Telstra)<br/>• 5:20 – 5:40pm – Jabra Product Updates<br/>• 5:40 – 6:00pm – Beer+pizza and networking<br/>• 6:00 – 6:30pm – Polycom &amp; Office 365 Updates (Jeff Schertz @ Polycom)</p> <p>Please note if you arrive after 5:00pm then the lifts require an access card - just text Ben, Stuart or Bill and we'll come down and escort you up!</p>

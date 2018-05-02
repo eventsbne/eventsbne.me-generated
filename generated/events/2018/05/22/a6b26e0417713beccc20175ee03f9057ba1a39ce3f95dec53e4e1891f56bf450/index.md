@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-01T05:38:25.836Z'
-timeUpdated: '2018-05-01T05:38:25.836Z'
-countAttending: '25'
+timeCreated: '2018-05-02T05:38:33.557Z'
+timeUpdated: '2018-05-02T05:38:33.557Z'
+countAttending: '28'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Bitcoin Pizza Day!
-date: '2018-05-01T05:38:25.836Z'
+date: '2018-05-02T05:38:33.557Z'
 
 ---
-<p>• What we'll do<br/>On May 22, 2010, now known as Bitcoin Pizza Day, Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John's pizzas. Organized on bitcointalk forum, the Florida man reached out for help. "I'll pay 10,000 bitcoins for a couple of pizzas.. like maybe 2 large ones so I have some left over for the next day," Hanyecz wrote.</p> <p>To celebrate this day, we will have an event and of course drink beer and eat pizza.</p> <p>VENUE TBA</p> <p>• What to bring<br/>Bitcoin and cash....</p> <p>• Important to know</p>
+<p>• What we'll do<br/>On May 22, 2010, now known as Bitcoin Pizza Day, Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John's pizzas. Organized on bitcointalk forum, the Florida man reached out for help. "I'll pay 10,000 bitcoins for a couple of pizzas.. like maybe 2 large ones so I have some left over for the next day," Hanyecz wrote.</p> <p>To celebrate this day, we will have an event and of course drink beer and eat pizza.</p> <p>VENUE TBA</p> <p>• What to bring<br/>Bitcoin and cash.... and bitcoin cash.</p> <p>Here is the original thread. <a href="https://bitcointalk.org/index.php?topic=137.msg1195" class="linkified">https://bitcointalk.org/index.php?topic=137.msg1195</a></p>

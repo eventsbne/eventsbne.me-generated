@@ -16,5 +16,11 @@ events:
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-05-24T08:00:00.000Z'
     timeEnd: null
+  - name: Talk about DevOps and demo cool stuff!
+    uri: >-
+      /events/2018/05/24/32ac251338682e89a7f619f6b9da3be84947da19d3271ed84efda1e30dec888e
+    organizer: Gold Coast DevOps
+    timeStart: '2018-05-24T08:30:00.000Z'
+    timeEnd: null
 
 ---

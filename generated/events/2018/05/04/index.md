@@ -38,11 +38,5 @@ events:
     organizer: Bitcoin Cash Brisbane
     timeStart: '2018-05-04T08:30:00.000Z'
     timeEnd: null
-  - name: DevStart future events planning
-    uri: >-
-      /events/2018/05/04/750788a1c548ec2cff2c169b798f66f702152aa4234bfb7e033d1c4ff843fbe9
-    organizer: Brisbane DevStart
-    timeStart: '2018-05-04T09:00:00.000Z'
-    timeEnd: null
 
 ---
