@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-04-30T05:38:35.911Z'
-timeUpdated: '2018-04-30T05:38:35.911Z'
-countAttending: '6'
+timeCreated: '2018-05-03T05:38:38.339Z'
+timeUpdated: '2018-05-03T05:38:38.339Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Drupal Brisbane Monthly Meetup
-date: '2018-04-30T05:38:35.911Z'
+date: '2018-05-03T05:38:38.339Z'
 
 ---
-<p>6.00pm: Beer and Pizza<br/>Drinks and venue are sponsored by Acquia <a href="https://www.acquia.com/" class="linkified">https://www.acquia.com/</a><br/>Pizza is sponsored by TEstudIO <a href="https://tomato-elephant-studio.com/" class="linkified">https://tomato-elephant-studio.com/</a><br/>Very occasionally we have a sponsor for this - but generally we just try to recover the minimal cost of these - so bring some cash to throw into the 'honesty-box'.</p> <p>* * MEETUP STARTS * *<br/>6:30pm - Drupal Presentation I:<br/>Topic: To be advised<br/>by: Pending</p> <p>7.00pm - Around-the-Room Intro's</p> <p>We put this as our second item on the Agenda so that late-comers don't miss out! This section is one of the most valuable parts of our meetup in terms both of building the Drupal community, and for networking to learn who is working on and has skills or experience in what things.</p> <p>Three elements: (1) Name; (2) Drupal role &amp; context in ten words or less; &amp; (3) something interesting in Drupal or other webtech that you've been working on lately.</p> <p>7:15pm - Drupal Presentation II:<br/>Topic: To be advised<br/>by: Pending</p> <p>7:45pm Community Feedback or Lightning Talks<br/>We don't want to use up much Meetup time on this but, depending on what activities are being planned for Qld Drupal networking, promotion and training we may have some elements needing broader yet concise consultation &amp; feedback. When not need this time will be supplanted by any lightning talks participants might be able to offer. No pressure!</p> <p>8:00pm - Drupal Presentation III:<br/>Topic: To be advised<br/>by: Pending</p> <p>8.30pm - Finish &amp; Networking Time:</p> <p>All welcome to stick around to continue the conversation over another beer.</p>
+<p>6.00pm: Beer and Pizza<br/>* Drinks and venue are sponsored by Acquia <a href="https://www.acquia.com/" class="linkified">https://www.acquia.com/</a><br/>* Pizza is sponsored by TEstudIO <a href="https://tomato-elephant-studio.com/" class="linkified">https://tomato-elephant-studio.com/</a></p> <p>6:30pm - Drupal Presentation I:<br/>Topic: DrupalCon report &amp; Drupal updates<br/>by: Vladimir ROUDAKOV<br/><i>DrupalCon is the latest and the only official Drupal conference in 2018 took place in Nashville few weeks ago. This update will cover the conference, upcoming Drupal updates and changes as well as some recent security issues.</i></p> <p>7.00pm - Around-the-Room Intro's</p> <p>7:15pm - Drupal Presentation II:<br/>Topic: To be advised<br/>by: Pending</p> <p>7:45pm Community Feedback or Lightning Talks</p> <p>All welcome to stick around to continue the conversation over another beer.</p>

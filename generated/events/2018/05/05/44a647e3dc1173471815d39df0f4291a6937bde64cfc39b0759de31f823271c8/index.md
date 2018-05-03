@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-05T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-02T05:38:33.557Z'
-timeUpdated: '2018-05-02T05:38:33.557Z'
-countAttending: '26'
+timeCreated: '2018-05-03T05:38:38.339Z'
+timeUpdated: '2018-05-03T05:38:38.339Z'
+countAttending: '27'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Creative Direction for Educational Games
-date: '2018-05-02T05:38:33.557Z'
+date: '2018-05-03T05:38:38.339Z'
 
 ---
 <p>This session will be about presenting the ingredients, the driving-forces and the stakeholders needed to effectively apply Creative Direction to an educational game project. By establishing Creative Direction as a separate discipline from Game Design and educational games as their own fantastic beast, Enrique will cover topics such as learning goals, class logistics, researching content, and pedagogical challenges. Enrique will draw from his experience in using references from games and other media and how to find inspiration within them. Throughout the talk, Enrique will refer to examples from two educational history game projects that he led as Creative Director.</p> <p>Enrique Klein is a Game Designer from Peru involved with educational games since the start of his career. He has worked at “Grupo Avatar”, the game research and development group the Pontifical Catholic University of Peru. During this time he directed, designed, documented and monitored educational game systems, mechanics, levels and narrative. He has recently moved to Brisbane as a Permanent Resident, and besides working on his personal game projects, he is available for work in Serious Games, Games in general and VR. Feel free to connect with him on LinkedIn here www.linkedin.com/in/enriquekleing</p> <p>At 12:15, the talk will begin. Shortly after the talk finishes (no later than 2:30) we will head over to The Fox around the corner for drinks and food.</p>

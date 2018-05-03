@@ -14,6 +14,12 @@ events:
     organizer: Western Corridor Technology Enthusiasts
     timeStart: '2018-05-04T23:00:00.000Z'
     timeEnd: null
+  - name: 'KidHack: Arduino Electronics, Robotics & More'
+    uri: >-
+      /events/2018/05/05/100cddd7fb4f6512383e110131a57f772a77e322395bfca2822762fa25f3ed13
+    organizer: Gold Coast Techspace
+    timeStart: '2018-05-05T00:00:00.000Z'
+    timeEnd: null
   - name: Creative Direction for Educational Games
     uri: >-
       /events/2018/05/05/44a647e3dc1173471815d39df0f4291a6937bde64cfc39b0759de31f823271c8

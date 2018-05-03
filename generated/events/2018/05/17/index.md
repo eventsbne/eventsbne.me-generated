@@ -14,6 +14,12 @@ events:
     organizer: Brisbane WooCommerce Meetup
     timeStart: '2018-05-17T08:00:00.000Z'
     timeEnd: null
+  - name: A11y Bytes Brisbane
+    uri: >-
+      /events/2018/05/17/555ee702962be0ec770f7fe0d563abf2284570fb12d956d8be609f2002613695
+    organizer: Brisbane Web Accessibility & Inclusive Design
+    timeStart: '2018-05-17T08:00:00.000Z'
+    timeEnd: null
   - name: AWS Gold Coast regular meetup
     uri: >-
       /events/2018/05/17/8f5a4a17c39f83b865d3c5071ad10d99681a85a8db7b4b2d7d92a375f772c2d7

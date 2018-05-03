@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-07T20:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-02T05:38:33.557Z'
-timeUpdated: '2018-05-02T05:38:33.557Z'
-countAttending: '12'
+timeCreated: '2018-05-03T05:38:38.339Z'
+timeUpdated: '2018-05-03T05:38:38.339Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Enterprise Angular Application With NX
-date: '2018-05-02T05:38:33.557Z'
+date: '2018-05-03T05:38:38.339Z'
 
 ---
 <p>Enterprise Angular Application With NX<br/>=============================================<br/>Presenter: Anthony Miller (@nthonymiller)</p> <p>In this talk, we're going to cover using NX from nrwl to separate application and libraries for an Angular application.<br/>Sharing some common components with multiple application throughout your company.<br/>Giving you the ability to target multiple platforms, including Ionic, from a single application code base.</p>

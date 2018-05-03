@@ -2,30 +2,6 @@
 title: Events for 2018/05/02
 layout: event-index
 events:
-  - name: Activating the right data for real results
-    uri: >-
-      /events/2018/05/02/eaa26e4eddb9beeadc20786fcef4f3c772ed813a29826e452e6663ed0f2f0778
-    organizer: Interactive Minds Brisbane - Events about Digital Marketing
-    timeStart: '2018-05-01T22:00:00.000Z'
-    timeEnd: null
-  - name: How to write content to boost your business - Brisbane LIVE Masterclass
-    uri: >-
-      /events/2018/05/02/4729bafecaf1a56f6e505111a3ce22fab01fc0113c1a72816ff14326294b11ff
-    organizer: Savvy Australian Bloggers
-    timeStart: '2018-05-01T23:30:00.000Z'
-    timeEnd: null
-  - name: Ethereum P2P Protocols
-    uri: >-
-      /events/2018/05/02/97904a1af7ff2b37acd5622115fbc1b239c43c8855dd6d1acf4517eb43fe6fdd
-    organizer: Ethereum Engineering Group
-    timeStart: '2018-05-02T02:30:00.000Z'
-    timeEnd: null
-  - name: Fishburners Weekly Tour
-    uri: >-
-      /events/2018/05/02/ee58dc063d1c9f58571f6dff38d38bdca19151c14959e42f7fd2b22d68921948
-    organizer: Fishburners Brisbane
-    timeStart: '2018-05-02T03:00:00.000Z'
-    timeEnd: null
   - name: May 2018 - Brisbane UC Meetup
     uri: >-
       /events/2018/05/02/a160715fe2010601220e941f8c4787bf913ae7ca369a062e30d25cd90d8172c7
