@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-02T05:38:33.557Z'
-timeUpdated: '2018-05-02T05:38:33.557Z'
-countAttending: '2'
+timeCreated: '2018-05-04T05:38:30.370Z'
+timeUpdated: '2018-05-04T05:38:30.370Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Talk about DevOps and demo cool stuff!
-date: '2018-05-02T05:38:33.557Z'
+date: '2018-05-04T05:38:30.370Z'
 
 ---
 <p>Our inaugural meetup!  Let's get together and discuss all things DevOps at the Gold Coast Techspace on Thursday March 22nd.   Beer and pizza will be provided by our sponsors.  </p> <p>If anyone has something to talk about hit me up here or at [masked]</p>

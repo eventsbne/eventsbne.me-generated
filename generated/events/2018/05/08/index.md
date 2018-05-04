@@ -2,12 +2,6 @@
 title: Events for 2018/05/08
 layout: event-index
 events:
-  - name: Enterprise Angular Application With NX
-    uri: >-
-      /events/2018/05/08/1e63f4b23602e6909512c64a553c1d5644a74074047c9cec3a1d032d56ab9a26
-    organizer: Brisbane Full Stack User Group - Angular + React + .NET Core
-    timeStart: '2018-05-07T20:30:00.000Z'
-    timeEnd: null
   - name: Live demonstration of Spectrum Protect Plus 10.1.1
     uri: >-
       /events/2018/05/08/8f9386d579a3e9fa90a23131df64fda141e34e6773292f09e01fb9402fc26a7b
@@ -20,16 +14,16 @@ events:
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-05-08T07:45:00.000Z'
     timeEnd: null
-  - name: 'MVVMCross 6.0, Build discussion and news'
-    uri: >-
-      /events/2018/05/08/ad55aa14afe4df2bd21536cf513c7fc6acec164644c83c98e29402ee554a8896
-    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
-    timeStart: '2018-05-08T07:45:00.000Z'
-    timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/05/08/bbf94b449bd97101c4850c3bd74813268f7b417e37c33bb3e60c56ebe1dcba49
     organizer: Hackerspace Brisbane
+    timeStart: '2018-05-08T08:00:00.000Z'
+    timeEnd: null
+  - name: Enterprise Angular Applications With NX
+    uri: >-
+      /events/2018/05/08/1e63f4b23602e6909512c64a553c1d5644a74074047c9cec3a1d032d56ab9a26
+    organizer: Brisbane Full Stack User Group - Angular + React + .NET Core
     timeStart: '2018-05-08T08:00:00.000Z'
     timeEnd: null
   - name: IoT and SCADA Hackers!
@@ -42,6 +36,12 @@ events:
     uri: >-
       /events/2018/05/08/29ec7c0493dee626da129274fbd3be6cacbd0f30d07f51005d27d7dfc74d316b
     organizer: Drupal Brisbane
+    timeStart: '2018-05-08T08:30:00.000Z'
+    timeEnd: null
+  - name: Networking Social Night... A chance to Connect with other Members
+    uri: >-
+      /events/2018/05/08/1d576c2832e4add46aa5e78195eb62eb018cf453cc469919e75dd2939492aeb5
+    organizer: Entrepreneurs Scale Your Business Brisbane
     timeStart: '2018-05-08T08:30:00.000Z'
     timeEnd: null
 

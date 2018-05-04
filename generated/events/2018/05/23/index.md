@@ -20,5 +20,11 @@ events:
     organizer: Ethereum Brisbane
     timeStart: '2018-05-23T08:20:00.000Z'
     timeEnd: null
+  - name: Regular Wednesday Open Hack.
+    uri: >-
+      /events/2018/05/23/2ad61375355e76b4789b3498a599a674cdf6a1e485e9ce7bd5acb355c6eadaad
+    organizer: Gold Coast Techspace
+    timeStart: '2018-05-23T09:00:00.000Z'
+    timeEnd: null
 
 ---

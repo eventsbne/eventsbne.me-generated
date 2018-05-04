@@ -2,12 +2,6 @@
 title: Events for 2018/05/03
 layout: event-index
 events:
-  - name: IT Lunch
-    uri: >-
-      /events/2018/05/03/f69f2f422a94ca2454be9048b1c4d048aa7a182837fca0e3d64fa958d18c57d9
-    organizer: dotMaleny
-    timeStart: '2018-05-03T02:30:00.000Z'
-    timeEnd: null
   - name: Let's meetup and learn about Wordpress (including DIVI)
     uri: >-
       /events/2018/05/03/12bdbdb3366e0b74d8950db2b394e82db8f225dfe058024fdad634894f2a8fac

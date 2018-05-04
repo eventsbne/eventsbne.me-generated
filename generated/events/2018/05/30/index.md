@@ -14,5 +14,11 @@ events:
     organizer: Ipswich WordPress Meetup
     timeStart: '2018-05-30T08:00:00.000Z'
     timeEnd: null
+  - name: Regular Wednesday Open Hack.
+    uri: >-
+      /events/2018/05/30/0c99cd1dad685a0cb19ac82d9531974d47c9fedf62e83558c37071742239b880
+    organizer: Gold Coast Techspace
+    timeStart: '2018-05-30T09:00:00.000Z'
+    timeEnd: null
 
 ---
