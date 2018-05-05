@@ -8,5 +8,11 @@ events:
     organizer: Australian OpenStack User Group
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/05/28/4ac20c1c8ae221d2afa2920c682a3ab6ca80c1b41bcbc119c5c0128c7466f23e
+    organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
 
 ---

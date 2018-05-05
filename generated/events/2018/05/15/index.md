@@ -20,6 +20,12 @@ events:
     organizer: Bitcoin and Digitalcurrency Learning Centre
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/05/15/6c2ed532b78011c82b1b242c3694681feccdf7ab6d5d48faa906263bd464d0ec
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
   - name: Bitcoin (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game??
     uri: >-
       /events/2018/05/15/615f3c9273deb956516de4c7a08f833fda37afa0bb30c722de083fae7354f2d8

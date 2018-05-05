@@ -10,10 +10,24 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-05-22T07:00:00.000Z'
     timeEnd: null
+  - name: >-
+      Meet Dr Catherine Ball - Scientist, Innovator, Mum (SheFlies, Gumption
+      Trigger,
+    uri: >-
+      /events/2018/05/22/ead14e57a7fed826d368043d3e3fd5df9f96ad910682fb72663af932af2277c4
+    organizer: Startup Grind Brisbane
+    timeStart: '2018-05-22T07:00:00.000Z'
+    timeEnd: null
   - name: Bitcoin Pizza Day
     uri: >-
       /events/2018/05/22/0dfc2e4836068c3417d8a0f6064bf8621b17b5c88557accfe42fe8b26d62706c
     organizer: Bitcoin and Digitalcurrency Learning Centre
+    timeStart: '2018-05-22T08:00:00.000Z'
+    timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/05/22/b05a73f613434d5628ccb1695f05c697c30c017907228eae1bb9b93d8e01b0df
+    organizer: Hackerspace Brisbane
     timeStart: '2018-05-22T08:00:00.000Z'
     timeEnd: null
   - name: Bitcoin Pizza Day!

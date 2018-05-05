@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-10T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-01T05:38:25.836Z'
-timeUpdated: '2018-05-01T05:38:25.836Z'
-countAttending: '16'
+timeCreated: '2018-05-05T05:38:45.699Z'
+timeUpdated: '2018-05-05T05:38:45.699Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
-date: '2018-05-01T05:38:25.836Z'
+title: AWS Security Tri-State Meetup – 10th of May (Thurs)
+date: '2018-05-05T05:38:45.699Z'
 
 ---
-<p><img src="https://secure.meetupstatic.com/photos/event/4/4/8/2/600_461597538.jpeg" /></p> <p><b><i>Welcome to the Brisvegas AWS Security Meetup!</i></b></p> <p>We have some great speakers we're lining up for this extra special event. Details to follow.</p> <p>Big shout out for <a href="https://aws.amazon.com/">AWS</a> who are sponsoring this event.</p> <p>Get the RSVPs rolling as we only have a limited number of tickets.</p> <p>See you there.</p> <p>Stephen</p>
+<p>**REGISTRATION VIA EVENTBRITE ONLY**</p> <p>REG HERE: <a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-may-10-thurs-tickets-45709072065" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-may-10-thurs-tickets-45709072065</a></p> <p>Hey AWS Security Fans, we’re back!!</p> <p>AWS Security talks for the month of May 2018</p> <p>SPEAKER 1:<br/>Jefferson Haw – Sr. Sales Engr (APAC), Okta Inc.<br/>TALK TOPIC:<br/>‘Streamlining modern authentication into your applications and APIs.‘<br/>Does securing your applications/APIs managed and deployed through AWS continuously keep you stay awake at night? Or thinking on how to re-vitalize your existing Identity/Security systems and integrating them with your new modern breed of applications? Learn how either or both of these challenges can be addressed with latest technology, frameworks, approaches and deep dive into demonstrations leveraging the AWS development stack using AWS Lambda, API Gateway and Alexa Skills.</p> <p>SPEAKER 2:<br/>TBD<br/>TALK TOPIC:<br/>TBD</p> <p>To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite.</p> <p>Schedule:<br/>SYD, MELB &amp; BRIS – Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM</p> <p>Big thanks to our host and sponsor AWS &amp; Okta!!</p> <p>Grab your ticket, and see you there!</p>

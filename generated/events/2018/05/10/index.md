@@ -26,13 +26,13 @@ events:
     organizer: Savvy Australian Bloggers
     timeStart: '2018-05-09T23:30:00.000Z'
     timeEnd: null
-  - name: How to make your Startup more competitive! (Leveraging Jobs Theory)
+  - name: IT Lunch
     uri: >-
-      /events/2018/05/10/20ee8cbb045a73fe39ad4b97db55753dfe873e2e8e00c90bccb70fc3a609b85b
-    organizer: Lean Business Strategies
-    timeStart: '2018-05-10T02:00:00.000Z'
+      /events/2018/05/10/cbc4def63559936236709baa7a760739ec97b94d72d2e3e424f8307d2a3a4ea5
+    organizer: dotMaleny
+    timeStart: '2018-05-10T02:30:00.000Z'
     timeEnd: null
-  - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
+  - name: AWS Security Tri-State Meetup – 10th of May (Thurs)
     uri: >-
       /events/2018/05/10/35b5229f7c9e8c84bac133699de82afd979e25608cbd1330012283479b487e55
     organizer: Brisbane AWS Security User Group
@@ -44,7 +44,7 @@ events:
     organizer: Brisbane Artificial Intelligence
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
-  - name: '[Fortitude Valley] WordPress Brisbane May: TBA'
+  - name: '[Fortitude Valley] WordPress Brisbane May: WordPress Inception'
     uri: >-
       /events/2018/05/10/a3064712f9bc54bb36184517bfe4db79accfa8208a71aab0cddc4b415002559c
     organizer: WordPress Brisbane

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-10T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-04T05:38:30.370Z'
-timeUpdated: '2018-05-04T05:38:30.370Z'
-countAttending: '120'
+timeCreated: '2018-05-05T05:38:45.699Z'
+timeUpdated: '2018-05-05T05:38:45.699Z'
+countAttending: '130'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Building AI for Law
-date: '2018-05-04T05:38:30.370Z'
+date: '2018-05-05T05:38:45.699Z'
 
 ---
 <p>The legal profession has been relatively untouched by AI to date and even considered immune by some, but there are vast opportunities for AI to disrupt the legal system. Join Sam Soliman from Nerve Solutions Group and Samuel Irvine Casey from Max Kelsen as they discuss current and future applications of AI in legal practice.</p> <p>Sam Soliman will share how he came to AI to solve the challenges he sees in the legal system and the problem they chose to tackle first. Sam &amp; Samuel will present on a case study from the partnership between Nerve Solutions Group and Max Kelsen, with a deep dive into the models utilised. Using IBM Watson to extract data from legal documents and a range of predictive models, their first venture focuses on determining the likely outcome of a case.</p> <p>Looking to the future, Sam believes AI could completely change the way the legal system functions and will be discussing how they are preparing for it.</p> <p>About<br/>Nerve Solutions Group (<a href="https://protect-au.mimecast.com/s/ERdRCJyp0PCql2qJsWlTVl" class="linkified">https://protect-au.mimecast.com/s/ERdRCJyp0PCql2qJsWlTVl</a>) is a business and technology solutions consultancy with a passion for digital transformation. NSG was established in 2017 as the 8th subsidiary business of the Shine Group of Companies with a focus on delivering innovative business solutions for service based organisations.</p> <p>Max Kelsen (<a href="https://protect-au.mimecast.com/s/kkCJCK1qJ6I2PY2oiVX_8H" class="linkified">https://protect-au.mimecast.com/s/kkCJCK1qJ6I2PY2oiVX_8H</a>) is a Brisbane-based analytics and software engineering agency with a passion for machine learning and AI.</p> <p>Agenda:<br/>6:00pm Mingling, networking and nibbles, courtesy of Nerve Solutions Group<br/>6:30pm Sam Soliman (Nerve Solutions Group) &amp; Samuel Irvine Casey (Max Kelsen)<br/>7:30pm Mingling continued</p> <p>To get to the venue take the elevators from within the old TC Beirne building up to level 2. Lift access will close at 6.30pm. Let us know if you plan on arriving later!</p> <p>A very big thank you to Nerve Solutions Group for generously sponsoring the food and drinks for the meetup!</p>
