@@ -2,6 +2,12 @@
 title: Events for 2018/05/31
 layout: event-index
 events:
+  - name: May 2018 QLD Power BI User Group
+    uri: >-
+      /events/2018/05/31/496444284c6e4d783ca0f9fa0c5ec48165bc669b99c36dab0c743d340db5f5f1
+    organizer: Queensland Power BI User Group
+    timeStart: '2018-05-31T07:30:00.000Z'
+    timeEnd: null
   - name: Let's Talk WordPress!
     uri: >-
       /events/2018/05/31/fd543bac0129d36be86e9d3dcb19b8e84d3b75dbbbb489474fd20497f0a2a200

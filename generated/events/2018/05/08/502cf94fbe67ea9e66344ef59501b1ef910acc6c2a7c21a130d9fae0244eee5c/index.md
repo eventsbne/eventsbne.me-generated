@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-05T05:38:45.699Z'
-timeUpdated: '2018-05-05T05:38:45.699Z'
-countAttending: '19'
+timeCreated: '2018-05-06T05:38:28.592Z'
+timeUpdated: '2018-05-06T05:38:28.592Z'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BFPG Monthly Meetup
-date: '2018-05-05T05:38:45.699Z'
+date: '2018-05-06T05:38:28.592Z'
 
 ---
-<p>TBA</p>
+<p>This month we have two talks which will also be featured in the YOW! Lambda Jam program later in May.</p> <p>**Contravariant Functors: The Other Side of the Coin - George Wilson**</p> <p>Since their introduction, Applicative and its sidekick Alternative have become ubiquitous and beloved type classes in Haskell and similar languages such as Purescript. By contrast, their contravariant counterparts are relatively unknown. These contravariant structures are useful, and their time has come!</p> <p>In this talk, we will learn about Contravariant, and its subclasses Divisible and Decidable. How do they work? How do they relate to the classes we know? Are they useful? For what? This talks aims to demystify these classes in an approachable way, by demonstrating their use with practical motivating examples.</p> <p>**Taming the C monster: Haskell FFI techniques - Fraser Tweedale**</p> <p>Haskell has a powerful foreign function interface (FFI) for interfacing with C libraries. Haskell is a great language for building libraries and tools, but interoperability requirements or time constraints can make the FFI a compelling option.</p> <p>Binding to a non-trivial C library presents several challenges including C idioms, memory management, error handling and more. This presentation will address a selection of these concerns, using hs-notmuch, a binding to the notmuch mail indexer, as a case study. We will discuss:</p> <p>- FFI basics and tools to assist binding authors<br/>- working with "double pointer"-style constructors<br/>- working with iterators; how to do lazy iteration<br/>- how to use Haskell's garbage collector to manage lifecycles of external objects, and "gotchas" encountered<br/>- using types to enforce correct use of unsafe APIs<br/>- performance considerations (including profiling results)</p> <p>The presentation will conclude with a mention of some important FFI concepts that were not covered (e.g. callbacks) and a look at how hs-notmuch is being used in the Real World.</p> <p>Developers familiar with C will get the most out of this talk (because there will be limited time to explain C idioms, memory management, etc). To varying degrees, most of the concepts and techniques discussed will apply to other languages' FFIs.</p>
