@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-06T05:38:28.592Z'
-timeUpdated: '2018-05-06T05:38:28.592Z'
-countAttending: '20'
+timeCreated: '2018-05-07T05:38:31.586Z'
+timeUpdated: '2018-05-07T05:38:31.586Z'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Enterprise Angular Applications With NX
-date: '2018-05-06T05:38:28.592Z'
+date: '2018-05-07T05:38:31.586Z'
 
 ---
 <p>Brisbane Full Stack User Group: Enterprise Angular Applications With NX - presented by Anthony Miller</p> <p>In this talk, we're going to cover using NX from Nrwl to separate application and libraries for an Angular application. This will enable you to share some common components with multiple applications throughout your company and give you the ability to target multiple platforms, including Ionic, from a single application code base.</p> <p>About the presenter<br/>Anthony Miller (@nthonymiller) has been a software developer for 25 years, covering languages such as C, C++, PAscal, Delphi, and C#. 3 years ago, he made the transition from a Windows application developer to a web developer after attending SSW FireBootCamp, where he learnt AngularJS. He jumped onto the new version of Angular a year later whilst still in beta, and have successfully deployed many Angular applications to production. He has a pattern for learning patterns and practices to build enterprise applications.</p>

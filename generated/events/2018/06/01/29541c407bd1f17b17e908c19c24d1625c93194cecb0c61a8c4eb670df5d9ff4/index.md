@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-01T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-06T05:38:28.592Z'
-timeUpdated: '2018-05-06T05:38:28.592Z'
+timeCreated: '2018-05-07T05:38:31.586Z'
+timeUpdated: '2018-05-07T05:38:31.586Z'
 countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Monthly Brisbane Bitcoin Cash meetup
-date: '2018-05-06T05:38:28.592Z'
+title: 'Now that the upgrade is done, where to from here?'
+date: '2018-05-07T05:38:31.586Z'
 
 ---
-<p>The Brisbane Bitcoin Cash meetup is primarily focused on spreading knowledge and awareness of Bitcoin Cash and how it works and how it can work for you as a user or a merchant. Meetings are always followed up by a social gathering at one of the numerous venues in Fortitude value so that members of the Bitcoin Cash community can get to know each other.</p> <p>Each month your hosts will give at least one beginner level talk on various topics including<br/>• Why Bitcoin Cash was created<br/>• How a Bitcoin transaction works<br/>• What is a Bitcoin<br/>• What is a wallet</p> <p>What to bring<br/>• Mobile phone<br/>• Pen</p> <p>Please download a Bitcoin Cash wallet. We recommend Bitcoin.com, download it at <a href="https://wallet.bitcoin.com" class="linkified">https://wallet.bitcoin.com</a></p> <p>Important to know<br/>• The Brisbane Bitcoin Cash meetup is funded in part by the Bitcoin Cash Fund with money being used to provide refreshments and to give meeting attendees small amounts of BCH to demonstrate wallet functionality. To learn more about the Bitcoin Cash Fund, please visit <a href="https://www.thebitcoincash.fund/" class="linkified">https://www.thebitcoincash.fund/</a></p>
+<p>On the 15th of May Bitcoin Cash gets a major upgrade. We will look at the markets and explore what new opportunities come for the developing BCH economy when transactions are limitless and cheap.<br/>So far we don't have any fixed discussion topics, but as always we will go through the basics of using Bitcoin Cash and have extensive Q&amp;A.</p> <p>What to bring<br/>• Mobile phone<br/>• An open mind</p> <p>Please download a Bitcoin Cash wallet. We recommend Bitcoin.com, download it at <a href="https://wallet.bitcoin.com" class="linkified">https://wallet.bitcoin.com</a>. After the meetup there is always a social event where fellow BCH enthusiasts can shoot the breeze on topics far and wide.</p> <p>Important to know<br/>• The Brisbane Bitcoin Cash meetup is funded in part by the Bitcoin Cash Fund with money being used to provide refreshments and to give meeting attendees small amounts of BCH to demonstrate wallet functionality. To learn more about the Bitcoin Cash Fund, please visit <a href="https://www.thebitcoincash.fund/" class="linkified">https://www.thebitcoincash.fund/</a></p>
