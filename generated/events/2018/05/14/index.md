@@ -14,7 +14,7 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-05-14T08:00:00.000Z'
     timeEnd: null
-  - name: 'JS & Accessibility + Panel discussion: esnext features rad or bad?'
+  - name: 'JS & Accessibility + Fixed vs Growth Mindset + panel: esnext rad or bad?'
     uri: >-
       /events/2018/05/14/1e84fef93ccc0177809cc34564c80840c1dfbddb6a575e3ff52db78546283542
     organizer: Brisbane Javascript

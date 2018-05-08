@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-10T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-07T05:38:31.586Z'
-timeUpdated: '2018-05-07T05:38:31.586Z'
-countAttending: '19'
+timeCreated: '2018-05-08T05:38:30.508Z'
+timeUpdated: '2018-05-08T05:38:30.508Z'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Security Tri-State Meetup – 10th of May (Thurs)
-date: '2018-05-07T05:38:31.586Z'
+date: '2018-05-08T05:38:30.508Z'
 
 ---
-<p>**REGISTRATION VIA EVENTBRITE ONLY**</p> <p>REG HERE: <a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-may-10-thurs-tickets-45709072065" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-may-10-thurs-tickets-45709072065</a></p> <p>Hey AWS Security Fans, we’re back!!</p> <p>AWS Security talks for the month of May 2018</p> <p>SPEAKER 1:<br/>Jefferson Haw – Sr. Sales Engr (APAC), Okta Inc.<br/>TALK TOPIC:<br/>‘Streamlining modern authentication into your applications and APIs.‘<br/>Does securing your applications/APIs managed and deployed through AWS continuously keep you stay awake at night? Or thinking on how to re-vitalize your existing Identity/Security systems and integrating them with your new modern breed of applications? Learn how either or both of these challenges can be addressed with latest technology, frameworks, approaches and deep dive into demonstrations leveraging the AWS development stack using AWS Lambda, API Gateway and Alexa Skills.</p> <p>SPEAKER 2:<br/>TBD<br/>TALK TOPIC:<br/>TBD</p> <p>To facilitate AWS venue security requirements, all tickets of this event are via Eventbrite.</p> <p>Schedule:<br/>SYD, MELB &amp; BRIS – Registration, food and drinks starts at 6:00 PM / Presentation starts 6:30 PM</p> <p>Big thanks to our host and sponsor AWS &amp; Okta!!</p> <p>Grab your ticket, and see you there!</p>
+<p>**REGISTRATION VIA EVENTBRITE ONLY**</p> <p>REGISTER HERE: <a href="https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-may-10-thurs-tickets-45709072065" class="linkified">https://www.eventbrite.com.au/e/aws-security-meetup-brisbane-may-10-thurs-tickets-45709072065</a></p> <p>Hey AWS Security Fans, we're back!!</p> <p>AWS Security talks for the month of May 2018</p> <p>SPEAKER 1:<br/>Aurelien Requiem - Solutions Architect, AWS<br/>TALK TOPIC: 'Encryption for Everyone'<br/>Aurelien's talk covers ACM, KMS through S3, EBS, CF as well as accountability and visibility through CloudTrail.</p> <p>SPEAKER 2:<br/>Paul Hawkins - Security Solutions Architect (A/NZ), AWS<br/>TALK TOPIC: 'Governance at the Speed of Cloud'<br/>This session covers how customers can enable business agility by evolving their governance approach to run at the speed of cloud. We will provide practical guidance for customers at every stage of their cloud journey. Followed by Q&amp;A on how meetup attendees think about security &amp; governance in their organisations.</p> <p>To facilitate AWS venue security requirements, all tickets of this event are via EventBrite registration (link above).</p> <p>Schedule:<br/>SYD, MELB &amp; BRIS - Registration, food &amp; drinks starts at 6:00 PM / Presentation starts 6:30 PM</p> <p>Big thanks to our host and sponsor AWS !!</p> <p>Grab your ticket &amp; see you there!<br/>The MeetupMadness Team</p>

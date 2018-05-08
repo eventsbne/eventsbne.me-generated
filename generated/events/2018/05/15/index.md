@@ -2,12 +2,6 @@
 title: Events for 2018/05/15
 layout: event-index
 events:
-  - name: 'For Joomla! tips, tricks, techniques and chat from beginner to advanced.'
-    uri: >-
-      /events/2018/05/15/7005022eaa2fd95d234a7961306016598168c4876bad78095e6ce24f67c3fabd
-    organizer: Brisbane Joomla Users Group
-    timeStart: '2018-05-15T08:00:00.000Z'
-    timeEnd: null
   - name: Bitcoin Core (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game
     uri: >-
       /events/2018/05/15/7cfa00d6587b6220c0bb93477b604f714c3ab52d70e0d8101c96b4433cd92c9b
@@ -36,6 +30,18 @@ events:
     uri: >-
       /events/2018/05/15/cabe5b8d84cdca83717a66063d84018f9e22ec7151fd16e11533701bd264a4d2
     organizer: Bitcoin and Digitalcurrency Learning Centre
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
+  - name: 'For Joomla! tips, tricks, techniques and chat from beginner to advanced.'
+    uri: >-
+      /events/2018/05/15/7005022eaa2fd95d234a7961306016598168c4876bad78095e6ce24f67c3fabd
+    organizer: Brisbane Joomla Users Group
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
+  - name: May Meetup - Lessons about startups && Breaking down monoliths
+    uri: >-
+      /events/2018/05/15/56d679f4441f9a9aa487572a066141ce46b09da0c1a855b97475656c79ff72b8
+    organizer: Brisbane .NET User Group
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: Light Play

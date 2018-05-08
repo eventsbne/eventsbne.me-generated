@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-08T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-04T05:38:30.370Z'
-timeUpdated: '2018-05-04T05:38:30.370Z'
-countAttending: '12'
+timeCreated: '2018-05-08T05:38:30.508Z'
+timeUpdated: '2018-05-08T05:38:30.508Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Drupal Brisbane Monthly Meetup
-date: '2018-05-04T05:38:30.370Z'
+date: '2018-05-08T05:38:30.508Z'
 
 ---
 <p>6.00pm: Beer and Pizza<br/>* Drinks and venue are sponsored by Acquia <a href="https://www.acquia.com/" class="linkified">https://www.acquia.com/</a><br/>* Pizza is sponsored by TEstudIO <a href="https://tomato-elephant-studio.com/" class="linkified">https://tomato-elephant-studio.com/</a></p> <p>6:30pm - Drupal Presentation I:<br/>Topic: DrupalCon report &amp; Drupal updates<br/>by: Vladimir ROUDAKOV<br/><i>DrupalCon is the latest and the only official Drupal conference in 2018 took place in Nashville few weeks ago. This update will cover the conference, upcoming Drupal updates and changes as well as some recent security issues.</i></p> <p>7.00pm - Around-the-Room Intro's</p> <p>7:15pm - Drupal Presentation II:<br/>Topic: To be advised<br/>by: Pending</p> <p>7:45pm Community Feedback or Lightning Talks</p> <p>All welcome to stick around to continue the conversation over another beer.</p>

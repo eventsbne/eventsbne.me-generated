@@ -2,6 +2,12 @@
 title: Events for 2018/05/24
 layout: event-index
 events:
+  - name: Agile Brisbane - Retrospective month
+    uri: >-
+      /events/2018/05/24/5e4f194e83034747a87473d69bc3f1430ea7eca06ccfe80bd23fad063e973d4e
+    organizer: Agile Brisbane
+    timeStart: '2018-05-24T07:30:00.000Z'
+    timeEnd: null
   - name: >-
       Do your service providers have a critical impact an your Customer
       Experience?

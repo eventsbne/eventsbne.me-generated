@@ -20,28 +20,28 @@ events:
     organizer: Hackerspace Brisbane
     timeStart: '2018-05-08T08:00:00.000Z'
     timeEnd: null
-  - name: Enterprise Angular Applications With NX
-    uri: >-
-      /events/2018/05/08/1e63f4b23602e6909512c64a553c1d5644a74074047c9cec3a1d032d56ab9a26
-    organizer: Brisbane Full Stack User Group - Angular + React + .NET Core
-    timeStart: '2018-05-08T08:00:00.000Z'
-    timeEnd: null
   - name: IoT and SCADA Hackers!
     uri: >-
       /events/2018/05/08/fc624561a76122a02e573379a3200932e5aec36da748ae2ce00091ef04f39b6c
     organizer: IoT and SCADA Hackers Australia
     timeStart: '2018-05-08T08:00:00.000Z'
     timeEnd: null
-  - name: Drupal Brisbane Monthly Meetup
+  - name: Enterprise Angular Applications With NX
     uri: >-
-      /events/2018/05/08/29ec7c0493dee626da129274fbd3be6cacbd0f30d07f51005d27d7dfc74d316b
-    organizer: Drupal Brisbane
-    timeStart: '2018-05-08T08:30:00.000Z'
+      /events/2018/05/08/1e63f4b23602e6909512c64a553c1d5644a74074047c9cec3a1d032d56ab9a26
+    organizer: Brisbane Full Stack User Group - Angular + React + .NET Core
+    timeStart: '2018-05-08T08:00:00.000Z'
     timeEnd: null
   - name: Networking Social Night... A chance to Connect with other Members
     uri: >-
       /events/2018/05/08/1d576c2832e4add46aa5e78195eb62eb018cf453cc469919e75dd2939492aeb5
     organizer: Entrepreneurs Scale Your Business Brisbane
+    timeStart: '2018-05-08T08:30:00.000Z'
+    timeEnd: null
+  - name: Drupal Brisbane Monthly Meetup
+    uri: >-
+      /events/2018/05/08/29ec7c0493dee626da129274fbd3be6cacbd0f30d07f51005d27d7dfc74d316b
+    organizer: Drupal Brisbane
     timeStart: '2018-05-08T08:30:00.000Z'
     timeEnd: null
 

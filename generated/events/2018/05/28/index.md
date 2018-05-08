@@ -20,5 +20,11 @@ events:
     organizer: Angular Brisbane
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
+  - name: Australian OpenStack User Group - Quarterly Brisbane Meetup
+    uri: >-
+      /events/2018/05/28/8b0e9276c36cade70a8cdc24c65ee9bf6a56fdb2f9c1c41ea3d50cc97d73a974
+    organizer: Australian OpenStack User Group
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
 
 ---
