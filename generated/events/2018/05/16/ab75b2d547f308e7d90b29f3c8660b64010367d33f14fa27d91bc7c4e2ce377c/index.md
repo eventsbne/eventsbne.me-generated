@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-16T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-03T05:38:38.339Z'
-timeUpdated: '2018-05-03T05:38:38.339Z'
-countAttending: '12'
+timeCreated: '2018-05-09T05:38:35.466Z'
+timeUpdated: '2018-05-09T05:38:35.466Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Blockchain Research from QUT, UQ, and Griffith University'
-date: '2018-05-03T05:38:38.339Z'
+date: '2018-05-09T05:38:35.466Z'
 
 ---
 <p>BYO Lunch</p> <p>Three researchers will each present for 20 minutes on their research topic. Researchers will be drawn from University of Queensland, Queensland University of Technology and Griffith University, and other universities.</p>

@@ -2,6 +2,12 @@
 title: Events for 2018/05/16
 layout: event-index
 events:
+  - name: Gold Coast Bitcoin Mining Coffee Catch Up
+    uri: >-
+      /events/2018/05/16/4aff8007a390dc0d5bf04bd6a45d7ebc8b8092b661fdc1fd549703314898ee30
+    organizer: Bitcoin Mining Passive Income Meetup
+    timeStart: '2018-05-16T00:30:00.000Z'
+    timeEnd: null
   - name: 'Blockchain Research from QUT, UQ, and Griffith University'
     uri: >-
       /events/2018/05/16/ab75b2d547f308e7d90b29f3c8660b64010367d33f14fa27d91bc7c4e2ce377c
@@ -18,6 +24,12 @@ events:
     uri: >-
       /events/2018/05/16/7be79843e254c12000a802411c614f2712e09269729981dc7b50c9439afcda70
     organizer: Brisbane-computational-design-group
+    timeStart: '2018-05-16T08:00:00.000Z'
+    timeEnd: null
+  - name: Brisbane Northside WordPress Meetup
+    uri: >-
+      /events/2018/05/16/5a45acae8fb45bc0f06cdf03c269fa2fdd5f410103019e2800b24c295a88a05e
+    organizer: WordPress Brisbane
     timeStart: '2018-05-16T08:00:00.000Z'
     timeEnd: null
   - name: Regular Wednesday Open Hack.

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-23T08:20:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-07T05:38:31.586Z'
-timeUpdated: '2018-05-07T05:38:31.586Z'
-countAttending: '28'
+timeCreated: '2018-05-09T05:38:35.466Z'
+timeUpdated: '2018-05-09T05:38:35.466Z'
+countAttending: '30'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Blockchain''s Killer App: Money? Storage? Identity? Governance? Kitties?'
-date: '2018-05-07T05:38:31.586Z'
+date: '2018-05-09T05:38:35.466Z'
 
 ---
 <p>Blockchain technology has opened the door to the most innovation we've seen since the development of the internet &amp; the world wide web.</p> <p>This meetup will be a deep dive into what the real killer app is for blockchain technology.</p> <p>It's a "back to fundamentals" overview of why and how the technology was developed, how the evolution of humans &amp; society has led us to this point and why it's important to establish the foundational layer before progressing further.</p> <p>The dot com era was an interesting pre-cursor to alot of what's happening in the current blockchain / crypto / ICO market - so we'll also review what we can learn from that era &amp; how we can be smart about navigating it (this time around).</p> <p>Lastly, we'll review what applications actually "make sense" to be built on or with blockchain technology. As a result, we're explore what projects are in the market that currently have use-cases, and what use-cases are applicable for the future.</p> <p>Looking forward to seeing you all there!</p>

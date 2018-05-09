@@ -2,6 +2,12 @@
 title: Events for 2018/05/15
 layout: event-index
 events:
+  - name: Brisbane Tech Newbies May Meetup
+    uri: >-
+      /events/2018/05/15/f543bf564b564443bbe91b4e82659bc265f045b9d2e1cf9925a1daf2f9902e2c
+    organizer: Brisbane Tech Newbies
+    timeStart: '2018-05-15T07:45:00.000Z'
+    timeEnd: null
   - name: Bitcoin Core (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game
     uri: >-
       /events/2018/05/15/7cfa00d6587b6220c0bb93477b604f714c3ab52d70e0d8101c96b4433cd92c9b
@@ -12,18 +18,6 @@ events:
     uri: >-
       /events/2018/05/15/6c2ed532b78011c82b1b242c3694681feccdf7ab6d5d48faa906263bd464d0ec
     organizer: Hackerspace Brisbane
-    timeStart: '2018-05-15T08:00:00.000Z'
-    timeEnd: null
-  - name: Beefing up commercial aquaculture with agtech!  Q&A w/ Ridley Nutrition
-    uri: >-
-      /events/2018/05/15/9a91af9fdf6bc60524c6af5fe0b4a5427c441ef9ff0c0fce54591b56be75b4fd
-    organizer: Agtech Brisbane
-    timeStart: '2018-05-15T08:00:00.000Z'
-    timeEnd: null
-  - name: Bitcoin (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game??
-    uri: >-
-      /events/2018/05/15/615f3c9273deb956516de4c7a08f833fda37afa0bb30c722de083fae7354f2d8
-    organizer: Crypto Training & Mining Meetup
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: How will Bitcoin scale to replace banks and mastercards ?
@@ -42,6 +36,18 @@ events:
     uri: >-
       /events/2018/05/15/56d679f4441f9a9aa487572a066141ce46b09da0c1a855b97475656c79ff72b8
     organizer: Brisbane .NET User Group
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
+  - name: Bitcoin (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game??
+    uri: >-
+      /events/2018/05/15/615f3c9273deb956516de4c7a08f833fda37afa0bb30c722de083fae7354f2d8
+    organizer: Crypto Training & Mining Meetup
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
+  - name: Beefing up commercial aquaculture with agtech!  Q&A w/ Ridley Nutrition
+    uri: >-
+      /events/2018/05/15/9a91af9fdf6bc60524c6af5fe0b4a5427c441ef9ff0c0fce54591b56be75b4fd
+    organizer: Agtech Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: Light Play

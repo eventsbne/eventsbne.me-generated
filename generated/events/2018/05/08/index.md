@@ -2,12 +2,6 @@
 title: Events for 2018/05/08
 layout: event-index
 events:
-  - name: Live demonstration of Spectrum Protect Plus 10.1.1
-    uri: >-
-      /events/2018/05/08/8f9386d579a3e9fa90a23131df64fda141e34e6773292f09e01fb9402fc26a7b
-    organizer: Brisbane IBM Systems Server and Storage User Group
-    timeStart: '2018-05-08T05:00:00.000Z'
-    timeEnd: null
   - name: BFPG Monthly Meetup
     uri: >-
       /events/2018/05/08/502cf94fbe67ea9e66344ef59501b1ef910acc6c2a7c21a130d9fae0244eee5c

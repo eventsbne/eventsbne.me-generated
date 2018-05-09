@@ -38,6 +38,12 @@ events:
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-05-10T07:30:00.000Z'
     timeEnd: null
+  - name: 'Big data in action : Azure HDInsight at your service'
+    uri: >-
+      /events/2018/05/10/7f50cbb2d2e9369ef365d163673a333fe0836d42e21d6e0278b4ff357aa85bcd
+    organizer: Brisbane Data Science Meetup
+    timeStart: '2018-05-10T08:00:00.000Z'
+    timeEnd: null
   - name: Building AI for Law
     uri: >-
       /events/2018/05/10/5ee7248606b9c9d9ddf1e789c6cbec73cf4fd6c2bdb8f2d152406b43d9331240
@@ -50,10 +56,10 @@ events:
     organizer: WordPress Brisbane
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
-  - name: 'Big data in action : Azure HDInsight at your service'
+  - name: MEET THE INDONESIAN START UP TEAM FROM MYCOTE
     uri: >-
-      /events/2018/05/10/7f50cbb2d2e9369ef365d163673a333fe0836d42e21d6e0278b4ff357aa85bcd
-    organizer: Brisbane Data Science Meetup
+      /events/2018/05/10/7715a38a866bedea9c13fa1bf84d30b2e386caa6f14de699c63b289c6ab5531e
+    organizer: Ag Tech Innovation & catch up Brisbane Meetup
     timeStart: '2018-05-10T08:00:00.000Z'
     timeEnd: null
   - name: 'Networking Night: Come along and Join Like-minded Biz People!!'

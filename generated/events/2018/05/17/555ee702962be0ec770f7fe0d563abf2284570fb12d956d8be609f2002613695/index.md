@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-17T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-05T05:38:45.699Z'
-timeUpdated: '2018-05-05T05:38:45.699Z'
-countAttending: '9'
+timeCreated: '2018-05-09T05:38:35.466Z'
+timeUpdated: '2018-05-09T05:38:35.466Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: A11y Bytes Brisbane
-date: '2018-05-05T05:38:45.699Z'
+date: '2018-05-09T05:38:35.466Z'
 
 ---
 <p>NOTE: This is a referral, please register on the A11y Bytes Brisbane website: <a href="http://a11ybytes.org/brisbane/" class="linkified">http://a11ybytes.org/brisbane/</a><br/>=======<br/>For this month's access meetup, we'll be referring to A11y Bytes: Australia’s largest community-driven accessibility event in Australia is returning to Brisbane.</p> <p>It will be on 17th May 2018, at 6pm. Please register here: <a href="http://a11ybytes.org/brisbane/" class="linkified">http://a11ybytes.org/brisbane/</a></p>
