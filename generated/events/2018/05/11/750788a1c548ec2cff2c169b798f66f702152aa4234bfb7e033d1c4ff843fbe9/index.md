@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-11T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-02T05:38:33.557Z'
-timeUpdated: '2018-05-02T05:38:33.557Z'
-countAttending: '5'
+timeCreated: '2018-05-10T05:38:27.981Z'
+timeUpdated: '2018-05-10T05:38:27.981Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: DevStart future events planning
-date: '2018-05-02T05:38:33.557Z'
+date: '2018-05-10T05:38:27.981Z'
 
 ---
 <p>We'll be deciding what to do for future DevStart events over lunch. Everyone is welcome to attend and contribute.</p>

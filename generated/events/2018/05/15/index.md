@@ -14,16 +14,10 @@ events:
     organizer: Bitcoin & Blockchain Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
-  - name: Open Night Tuesdays
+  - name: May Meetup - Lessons about startups && Breaking down monoliths
     uri: >-
-      /events/2018/05/15/6c2ed532b78011c82b1b242c3694681feccdf7ab6d5d48faa906263bd464d0ec
-    organizer: Hackerspace Brisbane
-    timeStart: '2018-05-15T08:00:00.000Z'
-    timeEnd: null
-  - name: How will Bitcoin scale to replace banks and mastercards ?
-    uri: >-
-      /events/2018/05/15/cabe5b8d84cdca83717a66063d84018f9e22ec7151fd16e11533701bd264a4d2
-    organizer: Bitcoin and Digitalcurrency Learning Centre
+      /events/2018/05/15/56d679f4441f9a9aa487572a066141ce46b09da0c1a855b97475656c79ff72b8
+    organizer: Brisbane .NET User Group
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: 'For Joomla! tips, tricks, techniques and chat from beginner to advanced.'
@@ -32,10 +26,10 @@ events:
     organizer: Brisbane Joomla Users Group
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
-  - name: May Meetup - Lessons about startups && Breaking down monoliths
+  - name: Open Night Tuesdays
     uri: >-
-      /events/2018/05/15/56d679f4441f9a9aa487572a066141ce46b09da0c1a855b97475656c79ff72b8
-    organizer: Brisbane .NET User Group
+      /events/2018/05/15/6c2ed532b78011c82b1b242c3694681feccdf7ab6d5d48faa906263bd464d0ec
+    organizer: Hackerspace Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: Bitcoin (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game??
@@ -44,7 +38,13 @@ events:
     organizer: Crypto Training & Mining Meetup
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
-  - name: Beefing up commercial aquaculture with agtech!  Q&A w/ Ridley Nutrition
+  - name: How will Bitcoin scale to replace banks and mastercards ?
+    uri: >-
+      /events/2018/05/15/cabe5b8d84cdca83717a66063d84018f9e22ec7151fd16e11533701bd264a4d2
+    organizer: Bitcoin and Digitalcurrency Learning Centre
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Disruption in aquaculture:  Q&A w/ Ridley Corporation & CSIRO'
     uri: >-
       /events/2018/05/15/9a91af9fdf6bc60524c6af5fe0b4a5427c441ef9ff0c0fce54591b56be75b4fd
     organizer: Agtech Brisbane
@@ -56,5 +56,11 @@ events:
     organizer: QUT
     timeStart: '2018-05-15T09:00:00.000Z'
     timeEnd: '2018-05-15T11:00:00.000Z'
+  - name: Drupal Gold Coast Monthly Meetup
+    uri: >-
+      /events/2018/05/15/80f9a9088664c4a59445fa40635620eff911a6b29cbab7795d7f3e8c488f9c3e
+    organizer: Drupal Gold Coast
+    timeStart: '2018-05-15T09:00:00.000Z'
+    timeEnd: null
 
 ---

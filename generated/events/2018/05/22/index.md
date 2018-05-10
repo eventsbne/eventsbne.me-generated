@@ -36,6 +36,12 @@ events:
     organizer: Bitcoin & Blockchain Brisbane
     timeStart: '2018-05-22T08:00:00.000Z'
     timeEnd: null
+  - name: 'Techniques for influencing stakeholders, even challenging ones'
+    uri: >-
+      /events/2018/05/22/e1f65cd539d711d5ff415ca60f62128002fd9d2df84c52739c8abf07351cbe51
+    organizer: UX Brisbane
+    timeStart: '2018-05-22T08:00:00.000Z'
+    timeEnd: null
   - name: BrisRuby.com Monthly  Meetup
     uri: >-
       /events/2018/05/22/d64d1b8c60cceaa14d3267d6e9751400f00d9c0c457af032314f3cd85d9e1c20

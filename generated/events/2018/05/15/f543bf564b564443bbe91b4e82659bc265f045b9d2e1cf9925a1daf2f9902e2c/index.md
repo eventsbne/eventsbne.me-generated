@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-15T07:45:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-09T05:38:35.466Z'
-timeUpdated: '2018-05-09T05:38:35.466Z'
-countAttending: '18'
+timeCreated: '2018-05-10T05:38:27.981Z'
+timeUpdated: '2018-05-10T05:38:27.981Z'
+countAttending: '26'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Tech Newbies May Meetup
-date: '2018-05-09T05:38:35.466Z'
+date: '2018-05-10T05:38:27.981Z'
 
 ---
 <p>Welcome to our monthly Brisbane Tech Newbies meetup!</p> <p>Arrive from 5:45 for a 6:15 start.</p> <p>As always, our food and drinks are sponsored by the wonderful Thoughtworks.</p> <p>This month's we'll be hearing about...</p> <p>Technical Writing - from Laura Bailey</p> <p>Introduction to Blockchain - from Rob Dawson</p> <p>DNS - What the hell is it and how does it work? - from Geoffrey Donaldson</p> <p>Looking forward to seeing you there!</p>

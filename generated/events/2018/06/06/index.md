@@ -8,6 +8,12 @@ events:
     organizer: Interactive Minds Brisbane - Events about Digital Marketing
     timeStart: '2018-06-05T22:00:00.000Z'
     timeEnd: null
+  - name: Convert your messy spreadsheets into beautiful systems
+    uri: >-
+      /events/2018/06/06/b78c10f034ba5b00b2b313ffb952ee7db921524b96de3776011d611994cac047
+    organizer: Brisbane Professional Microsoft Excel Meetup
+    timeStart: '2018-06-06T05:30:00.000Z'
+    timeEnd: null
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/06/06/fc53d37e25e41c962c60482717a628c287f736716c813e6f7d90ca6ee8b1e0d2

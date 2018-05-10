@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-15T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-09T05:38:35.466Z'
-timeUpdated: '2018-05-09T05:38:35.466Z'
-countAttending: '54'
+timeCreated: '2018-05-10T05:38:27.981Z'
+timeUpdated: '2018-05-10T05:38:27.981Z'
+countAttending: '67'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: May Meetup - Lessons about startups && Breaking down monoliths
-date: '2018-05-09T05:38:35.466Z'
+date: '2018-05-10T05:38:27.981Z'
 
 ---
 <p>12 Lessons Learnt Building a Startup that Never Was! -- Poya Manouchehri</p> <p>Building our own software product or startup is a dream many of us developers and IT prefessionals have. In this presentation I talk about NeuroMine, a cloud-based machine learning platform that was built over a 3 year period before its eventual demise. We'll go over the many lessons learnt in the process, from technical, to business, to personal.<br/>As a side note, I stand by my click-bait title.</p> <p>Taming the monster: How we are breaking down the monolith a chunk at a time -- Sebastian Paulo Andres</p> <p>We'll explore different strategies for moving away from a monolith system that is the bread and butter of the company you are working for. How you can split it up in a way that it enables the usage of better suited distributed patterns whilst avoiding a complete rewrite of the old system into a new platform. We'll cover things we tried here at Lup that worked, things we tried and are hurting us as well as the latest approach we are using now to both break the monolith apart whilst we develop new features in a way that is scalable and with low coupling.</p>

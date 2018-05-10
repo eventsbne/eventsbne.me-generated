@@ -8,16 +8,16 @@ events:
     organizer: Product of BNE
     timeStart: '2018-05-10T21:30:00.000Z'
     timeEnd: null
-  - name: DevStart future events planning
-    uri: >-
-      /events/2018/05/11/750788a1c548ec2cff2c169b798f66f702152aa4234bfb7e033d1c4ff843fbe9
-    organizer: Brisbane DevStart
-    timeStart: '2018-05-11T02:00:00.000Z'
-    timeEnd: null
   - name: How to make your Startup more competitive! (Leveraging Jobs Theory)
     uri: >-
       /events/2018/05/11/20ee8cbb045a73fe39ad4b97db55753dfe873e2e8e00c90bccb70fc3a609b85b
     organizer: Lean Business Strategies
+    timeStart: '2018-05-11T02:00:00.000Z'
+    timeEnd: null
+  - name: DevStart future events planning
+    uri: >-
+      /events/2018/05/11/750788a1c548ec2cff2c169b798f66f702152aa4234bfb7e033d1c4ff843fbe9
+    organizer: Brisbane DevStart
     timeStart: '2018-05-11T02:00:00.000Z'
     timeEnd: null
   - name: Fishburners Pitch-Off Series
