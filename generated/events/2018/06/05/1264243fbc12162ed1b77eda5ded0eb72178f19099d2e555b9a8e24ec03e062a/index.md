@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-05T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-10T05:38:27.981Z'
-timeUpdated: '2018-05-10T05:38:27.981Z'
-countAttending: '6'
+timeCreated: '2018-05-11T05:38:31.044Z'
+timeUpdated: '2018-05-11T05:38:31.044Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Google Developer Group
-date: '2018-05-10T05:38:27.981Z'
+date: '2018-05-11T05:38:31.044Z'
 
 ---
 <p>Join us for the May GDG Cloud meetup:</p> <p>1. Case Study: Secure, scalable APIs: Daniel King will share a real-world case study of successfully implementing APIs for a government customer using Google's Apigee API management platform. The lessons learned are relevant to all API development regardless of hosting platform so we encourage anyone with an interest in API design and development to attend.</p> <p>2. Google Cloud Community: Tracey Kay share insights from the Cloud Community Conference that Google hosted in March. The talk with insights into Google's direction, their commitment to supporting developer communities, and how to get more involved with the community.</p>

@@ -8,5 +8,11 @@ events:
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-06-05T08:00:00.000Z'
     timeEnd: null
+  - name: CocoaHeads Brisbane Meetup
+    uri: >-
+      /events/2018/06/05/f760ba9158576c3e79b18b31f932b7250cde6b4b78e91ca0ad2b6571b6e2bfa1
+    organizer: CocoaHeads
+    timeStart: '2018-06-05T08:00:00.000Z'
+    timeEnd: null
 
 ---

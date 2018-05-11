@@ -8,6 +8,12 @@ events:
     organizer: Brisbane DevStart
     timeStart: '2018-05-18T01:00:00.000Z'
     timeEnd: null
+  - name: A friendly discussion about automated payments - bring your questions!
+    uri: >-
+      /events/2018/05/18/bd9c4d756c58036f3b4a7f3159c9661052ce5628013adbe1ae30e99c1331f1d4
+    organizer: Brisbane PaymentTech Meetup
+    timeStart: '2018-05-18T02:00:00.000Z'
+    timeEnd: null
   - name: Fishburners Pitch-Off Series
     uri: >-
       /events/2018/05/18/fe9b9991810110d71efc8483196063df69746cae5bab085d9c1218f603300067

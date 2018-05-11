@@ -2,36 +2,6 @@
 title: Events for 2018/05/10
 layout: event-index
 events:
-  - name: Agile & Product Development - Are they a Match made in Heaven?
-    uri: >-
-      /events/2018/05/10/48070b9be501b070292f3de8ee4bcea89fbe90392e523eeda3028ce0ebff8df0
-    organizer: The Digital Breakfast Series
-    timeStart: '2018-05-09T21:00:00.000Z'
-    timeEnd: null
-  - name: Apigee API Tech Forum - Brisbane
-    uri: >-
-      /events/2018/05/10/71536d4bb31db4d98627def2ccb776d30098218e1f74fa838aae2bd096993345
-    organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
-    timeStart: '2018-05-09T22:30:00.000Z'
-    timeEnd: null
-  - name: Apigee API Tech Forum
-    uri: >-
-      /events/2018/05/10/b1b6a6f3003485bce81e8a41d76569292dbb136d5f588d1664f597cbace5af89
-    organizer: GDG Brisbane
-    timeStart: '2018-05-09T22:30:00.000Z'
-    timeEnd: null
-  - name: How to write content to transform your business - Online Masterclass
-    uri: >-
-      /events/2018/05/10/54e369c06e89f006bc559146099d645bc97cdcc9f1498ffd7c1c2c9bdab70c10
-    organizer: Savvy Australian Bloggers
-    timeStart: '2018-05-09T23:30:00.000Z'
-    timeEnd: null
-  - name: IT Lunch
-    uri: >-
-      /events/2018/05/10/cbc4def63559936236709baa7a760739ec97b94d72d2e3e424f8307d2a3a4ea5
-    organizer: dotMaleny
-    timeStart: '2018-05-10T02:30:00.000Z'
-    timeEnd: null
   - name: AWS Security Tri-State Meetup – 10th of May (Thurs)
     uri: >-
       /events/2018/05/10/35b5229f7c9e8c84bac133699de82afd979e25608cbd1330012283479b487e55

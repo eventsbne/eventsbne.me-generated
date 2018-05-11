@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-14T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-10T05:38:27.981Z'
-timeUpdated: '2018-05-10T05:38:27.981Z'
+timeCreated: '2018-05-11T05:38:31.044Z'
+timeUpdated: '2018-05-11T05:38:31.044Z'
 countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly DevStart meetup
-date: '2018-05-10T05:38:27.981Z'
+date: '2018-05-11T05:38:31.044Z'
 
 ---
-<p>Come along and meet fellow startup folks. Usually we have a talk from an experienced startup person (details closer to the date) followed by discussion and networking.</p>
+<p>Brisbane Dev Start is happy to announce that Monday's speaker will be Michael Mersiades from Chatfor10!</p> <p>Chatfor10 is a social impact tech startup that aims to help teach languages through micro-learning. Chatfor10 has been active for the last six months, working with refugees and volunteer tutors. Michael will be giving us a brief talk about the Chatfor10 journey so far. Ahead of his big presentation at the Elevator+ accelerator pitch event to be held at the Brisbane Powerhouse, later this month. So come along and hear the story of Chatfor10!</p>

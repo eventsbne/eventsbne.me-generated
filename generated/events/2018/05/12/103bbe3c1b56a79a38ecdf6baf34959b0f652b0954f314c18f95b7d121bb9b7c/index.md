@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-12T03:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-10T05:38:27.981Z'
-timeUpdated: '2018-05-10T05:38:27.981Z'
-countAttending: '9'
+timeCreated: '2018-05-11T05:38:31.044Z'
+timeUpdated: '2018-05-11T05:38:31.044Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Weekend Workshop - A "bring the washing in" Weather Station
-date: '2018-05-10T05:38:27.981Z'
+date: '2018-05-11T05:38:31.044Z'
 
 ---
 <p>• What we'll do</p> <p>Build a solar powered sensor that measures outside temperature and humidity, and also detects raindrops. It warns you when rain arrives, in time to get the washing in.</p> <p>• What to bring<br/>Bring a laptop computer.</p> <p>• Important to know<br/>There will be a cost of $60 per kit for this event that covers parts equipment and afternoon tea. Attendance will be limited to 8 kits. You may assemble your kit in a group for no extra charge (but let me know if so for catering)</p>

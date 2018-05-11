@@ -18,7 +18,7 @@ organizer:
   id: b071a38640e121932441d5656ef5e028dad9f586d52921f1a974ccae5eaa8f55
   remoteId: '18528139'
   remoteIdType: meetup
-  name: Brisbane Microsoft 365 Technical & Business Meetup
+  name: Brisbane Microsoft 365 Business & Technical Meetup
   url: 'https://meetup.com/bnemicrosoft365'
   description: null
   codeOfConduct: null
