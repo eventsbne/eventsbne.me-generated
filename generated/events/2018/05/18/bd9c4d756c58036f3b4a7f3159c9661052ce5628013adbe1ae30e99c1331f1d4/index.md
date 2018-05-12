@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-18T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-11T05:38:31.044Z'
-timeUpdated: '2018-05-11T05:38:31.044Z'
-countAttending: '1'
+timeCreated: '2018-05-12T05:38:37.268Z'
+timeUpdated: '2018-05-12T05:38:37.268Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: A friendly discussion about automated payments - bring your questions!
-date: '2018-05-11T05:38:31.044Z'
+date: '2018-05-12T05:38:37.268Z'
 
 ---
 <p>A casual meeting to share experiences with payments, difficulties in collecting payments and troubelshooting Q&amp;A's to help</p>

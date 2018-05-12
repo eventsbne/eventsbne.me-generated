@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-17T06:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-09T05:38:35.466Z'
-timeUpdated: '2018-05-09T05:38:35.466Z'
-countAttending: '17'
+timeCreated: '2018-05-12T05:38:37.268Z'
+timeUpdated: '2018-05-12T05:38:37.268Z'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Trailhead DX Global Gathering
-date: '2018-05-09T05:38:35.466Z'
+date: '2018-05-12T05:38:37.268Z'
 
 ---
 <p>TBD</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-16T00:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-09T05:38:35.466Z'
-timeUpdated: '2018-05-09T05:38:35.466Z'
-countAttending: '4'
+timeCreated: '2018-05-12T05:38:37.268Z'
+timeUpdated: '2018-05-12T05:38:37.268Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Gold Coast Bitcoin Mining Coffee Catch Up
-date: '2018-05-09T05:38:35.466Z'
+date: '2018-05-12T05:38:37.268Z'
 
 ---
 <p>Catch up with everything crypto over coffee and motivated company.</p>

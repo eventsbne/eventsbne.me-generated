@@ -32,6 +32,12 @@ events:
     organizer: Bitcoin and Digitalcurrency Learning Centre
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
+  - name: 'Disruption in aquaculture:  Q&A w/ Ridley Corporation & CSIRO'
+    uri: >-
+      /events/2018/05/15/9a91af9fdf6bc60524c6af5fe0b4a5427c441ef9ff0c0fce54591b56be75b4fd
+    organizer: Agtech Brisbane
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
   - name: May Meetup - Lessons about startups && Breaking down monoliths
     uri: >-
       /events/2018/05/15/56d679f4441f9a9aa487572a066141ce46b09da0c1a855b97475656c79ff72b8
@@ -42,12 +48,6 @@ events:
     uri: >-
       /events/2018/05/15/615f3c9273deb956516de4c7a08f833fda37afa0bb30c722de083fae7354f2d8
     organizer: Crypto Training & Mining Meetup
-    timeStart: '2018-05-15T08:00:00.000Z'
-    timeEnd: null
-  - name: 'Disruption in aquaculture:  Q&A w/ Ridley Corporation & CSIRO'
-    uri: >-
-      /events/2018/05/15/9a91af9fdf6bc60524c6af5fe0b4a5427c441ef9ff0c0fce54591b56be75b4fd
-    organizer: Agtech Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: Light Play

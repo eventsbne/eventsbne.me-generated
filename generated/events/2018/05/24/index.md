@@ -10,6 +10,12 @@ events:
     organizer: Dynatrace Brisbane Meetup
     timeStart: '2018-05-24T07:30:00.000Z'
     timeEnd: null
+  - name: EOS Brisbane - Community Meetup
+    uri: >-
+      /events/2018/05/24/4fa3ff795533334faee589ff8be9ba04c2567fa0eca6be34ffc5223345501510
+    organizer: EOS Brisbane
+    timeStart: '2018-05-24T07:30:00.000Z'
+    timeEnd: null
   - name: Agile Brisbane - Retrospective month
     uri: >-
       /events/2018/05/24/5e4f194e83034747a87473d69bc3f1430ea7eca06ccfe80bd23fad063e973d4e

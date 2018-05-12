@@ -14,6 +14,12 @@ events:
     organizer: Brisbane Microsoft 365 Business & Technical Meetup
     timeStart: '2018-05-30T07:30:00.000Z'
     timeEnd: null
+  - name: Brisbane Office 365 Business User Group Meetup – May 2018
+    uri: >-
+      /events/2018/05/30/713d1d5b2e7ea1dc7bed2d47f2fc6e097338c4e5227cc8804f8ce87bd57ef07a
+    organizer: Brisbane Microsoft 365 Business & Technical Meetup
+    timeStart: '2018-05-30T07:30:00.000Z'
+    timeEnd: null
   - name: WordPress 15th Anniversary Celebration (Ipswich)
     uri: >-
       /events/2018/05/30/cc6d8b9d4f08f31d53478b0d2ceb2f03d6ef9b51086569475327d7ecadeded2d
