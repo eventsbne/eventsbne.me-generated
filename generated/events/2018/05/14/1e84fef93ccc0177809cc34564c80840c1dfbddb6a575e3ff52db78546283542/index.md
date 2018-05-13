@@ -5,11 +5,11 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-14T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-12T05:38:37.268Z'
-timeUpdated: '2018-05-12T05:38:37.268Z'
+timeCreated: '2018-05-13T05:38:41.602Z'
+timeUpdated: '2018-05-13T05:38:41.602Z'
 countAttending: '105'
 countCapacity: null
-countWaitlist: '9'
+countWaitlist: '11'
 price: null
 url: 'https://www.meetup.com/BrisJS/events/247063112/'
 image: null
@@ -27,7 +27,7 @@ organizer:
   codeOfConduct: 'https://brisjs.org/#conduct'
 layout: event
 title: 'JS & Accessibility + Fixed vs Growth Mindset + panel: esnext rad or bad?'
-date: '2018-05-12T05:38:37.268Z'
+date: '2018-05-13T05:38:41.602Z'
 
 ---
 <p>Enjoy presentations by our great speakers, pizza and drinks, as well as the opportunity to network with your peers.</p> <p>Schedule:<br/>6:15 PM - Arrive &amp; mingle - wait at Gallery Level elevators for security to let you up (same level as the train station)<br/>6:30 PM - Welcome &amp; introductions feat. Kevin Vanderbeken<br/>6:45 PM - Talks begin…</p> <p>⌨ JS &amp; Accessibility - Larene Lg<br/>We haven't had an accessibility talk at BrisJS since the meetup started, so Larene is boldly going to break this tradition by discussing the basics, and how they might apply to React. We ran a poll to see what people wanted to hear, check it out here: <a href="https://twitter.com/BrisJS/status/992259606435909633" class="linkified">https://twitter.com/BrisJS/status/992259606435909633</a></p> <p>📈 Fixed Mindset vs Growth Mindset - Jordan Morris<br/>A short presentation on the damaging effects of a fixed mindset and how you can foster a growth mindset in development and other areas of life.</p> <p>✨ The Top Five Internet JavaScripts this Month - you won’t BELIEVE #4! - Josh Wulf<br/>Where did that month go? Who cares - here’s your chance to blink and miss it all over again as Josh Wulf covers the top five JavaScript internets of the month in five minutes.</p> <p>😎||🙅 Rad Or Bad? The Javascript quiz with Kory Nunn<br/>Are you across the latest JS features? In this special feature Kory throws the question to the panel, who will channel the zeitgeist and determine which features are worth your time, and which are there for show.</p> <p>(To check out what we'll be discussing and have your say, submit Kory's survey in advance <a href="https://www.surveymonkey.com/r/SMQG9V9" class="linkified">https://www.surveymonkey.com/r/SMQG9V9</a>)</p> <p>❓ Why not volunteer to speak next time?<br/>Have you got something to say? Submit your talk today! <a href="https://brisjs.org/#present" class="linkified">https://brisjs.org/#present</a></p> <p>👉 Code of Conduct<br/>BrisJS is dedicated to a harassment-free experience for everyone. Our anti-harassment policy can be found at: <a href="https://bris.js.org/#conduct" class="linkified">https://bris.js.org/#conduct</a></p> <p>👉 Accessibility<br/>The upper and lower car parks in Toowong Tower are open until 10:30 at night, leaving plenty of time for you to leave after the event. BrisJS is wheelchair accessible from the taxi rank, car parks and train station, but please note the train station is only wheelchair accessible via the street after the centre closes at 9pm.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-30T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-12T05:38:37.268Z'
-timeUpdated: '2018-05-12T05:38:37.268Z'
-countAttending: '17'
+timeCreated: '2018-05-13T05:38:41.602Z'
+timeUpdated: '2018-05-13T05:38:41.602Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Office 365 Business User Group Meetup – May 2018
-date: '2018-05-12T05:38:37.268Z'
+date: '2018-05-13T05:38:41.602Z'
 
 ---
 <p>Hi, Everyone!</p> <p>Welcome to the first meeting of our business-focused Office 365 user group in Brisbane!</p> <p>Our events will be held every second month on the last Wednesday (May, Jul, Sep, Nov) at the same time as the Brisbane Microsoft 365 Technical Meetup. This gives us a dedicated business owner/end-user focus, with a chance to also mingle over pizza with the tech experts.</p> <p>This month we’ll go “Around the office in 80 ways” with virtual CIO &amp; Microsoft MVP Sonia Cuff, as she explains the different products in the Office 365 suite &amp; examples of how they can be used.</p> <p>Come along to learn about some products you may not have heard of, or some useful tips &amp; features.</p> <p>When: Wednesday Evening – 30/05/2018</p> <p>Agenda:<br/>5:30pm - 6:00pm = Networking with Pizza and Drinks<br/>6:00pm - 6:10pm = Welcome – Presented by Chris Gecks<br/>6:10pm – 7:10pm = Around the office in 80 ways – Presented by Sonia Cuff<br/>7:10pm - 7:45pm = What’s new in Office 365 – Chris Gecks<br/>7:45pm – 8:00pm = Questions</p> <p>Eventbrite: <a href="http://bit.ly/2KaagkS" class="linkified">http://bit.ly/2KaagkS</a></p> <p>If you have any questions please do not hesitate to contact Sonia at [masked] or Chris at [masked] or follow us on Meetup or our website <a href="https://www.365community.org" class="linkified">https://www.365community.org</a></p> <p>Thank you for all your ongoing support.</p> <p>Kindest Regards,<br/>Sonia Cuff &amp; Chris Gecks</p>

@@ -8,16 +8,16 @@ events:
     organizer: QLD ALM Users Group
     timeStart: '2018-05-13T22:00:00.000Z'
     timeEnd: null
-  - name: Blockchain Reserve - Brisbane Investment Analysis
-    uri: >-
-      /events/2018/05/14/8cad482c530a131b326216892bb7d5b4b3ffb81192cb94cfbbd7721c49b5e683
-    organizer: Blockchain Reserve Brisbane
-    timeStart: '2018-05-14T08:00:00.000Z'
-    timeEnd: null
   - name: What Angel Investors Look For
     uri: >-
       /events/2018/05/14/e816d1ffcefe30b338738e386d5a9d71d59882707355820ffe00eadb7c94b4b8
     organizer: Startup Ipswich
+    timeStart: '2018-05-14T08:00:00.000Z'
+    timeEnd: null
+  - name: Blockchain Reserve - Brisbane Investment Analysis
+    uri: >-
+      /events/2018/05/14/8cad482c530a131b326216892bb7d5b4b3ffb81192cb94cfbbd7721c49b5e683
+    organizer: Blockchain Reserve Brisbane
     timeStart: '2018-05-14T08:00:00.000Z'
     timeEnd: null
   - name: 'JS & Accessibility + Fixed vs Growth Mindset + panel: esnext rad or bad?'

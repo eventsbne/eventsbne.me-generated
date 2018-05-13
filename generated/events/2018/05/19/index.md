@@ -2,6 +2,12 @@
 title: Events for 2018/05/19
 layout: event-index
 events:
+  - name: codeSwich is in Ipswich!
+    uri: >-
+      /events/2018/05/19/179fbf086d1c55333322ac08dced97ecd6d15feb211f3c2ea756e4eba3042c56
+    organizer: Western Corridor Technology Enthusiasts
+    timeStart: '2018-05-18T23:00:00.000Z'
+    timeEnd: null
   - name: DIY Robocars Workshop
     uri: >-
       /events/2018/05/19/212202989b4c709087e9414637fee642c610bb549046d80bcbe3c47e6cb8f726

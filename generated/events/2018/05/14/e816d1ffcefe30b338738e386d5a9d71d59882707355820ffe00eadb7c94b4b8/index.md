@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-14T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-11T05:38:31.044Z'
-timeUpdated: '2018-05-11T05:38:31.044Z'
-countAttending: '5'
+timeCreated: '2018-05-13T05:38:41.602Z'
+timeUpdated: '2018-05-13T05:38:41.602Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: What Angel Investors Look For
-date: '2018-05-11T05:38:31.044Z'
+date: '2018-05-13T05:38:41.602Z'
 
 ---
 <p>What do Angel Investors look for when making seed investment decisions?</p> <p>Join us at Fire Station 101 to learn about:</p> <p>1. What the minimum requirements for seeking investment generally are</p> <p>2. How the process of seed and angel investing works</p> <p>3. What the key elements of a successful pitch are</p> <p>Our presenter is Simon Horne, an active angel investor from Moreton Ventures an early-stage support and development organisation for Angel Investors who also prepare early-stage businesses for investment.</p> <p>With a strong technical background, Simon holds a Mechatronics Engineering degree as well as an MBA in New Venture Management. He has more than 15 years international entrepreneurial experience having started Businesses in Asia, Australia and the US.</p>
