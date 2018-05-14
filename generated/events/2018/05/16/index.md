@@ -8,11 +8,17 @@ events:
     organizer: Bitcoin Mining Passive Income Meetup
     timeStart: '2018-05-16T00:30:00.000Z'
     timeEnd: null
-  - name: 'Blockchain Research from QUT, UQ, and Griffith University'
+  - name: 'Blockchain Research from UQ, and Griffith University'
     uri: >-
       /events/2018/05/16/ab75b2d547f308e7d90b29f3c8660b64010367d33f14fa27d91bc7c4e2ce377c
     organizer: Ethereum Engineering Group
     timeStart: '2018-05-16T02:30:00.000Z'
+    timeEnd: null
+  - name: Fishburners Weekly Tour
+    uri: >-
+      /events/2018/05/16/512667e45798f9e7a13dce3ec7a3aef98cb11cf96f8ad1bceddfef545d73ed81
+    organizer: Fishburners Brisbane
+    timeStart: '2018-05-16T03:00:00.000Z'
     timeEnd: null
   - name: Myriad Festival 2018
     uri: >-

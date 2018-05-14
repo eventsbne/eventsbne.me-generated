@@ -3,10 +3,10 @@ id: 09a13143852219dd85dead4cf309ab3605c9bcbbcd7304bc5aa8c78bd585afd2
 remoteId: fqfvclyxgbjc
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-05-17T06:00:00.000Z'
+timeStart: '2018-05-17T04:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-12T05:38:37.268Z'
-timeUpdated: '2018-05-12T05:38:37.268Z'
+timeCreated: '2018-05-14T05:39:35.550Z'
+timeUpdated: '2018-05-14T05:39:35.550Z'
 countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Trailhead DX Global Gathering
-date: '2018-05-12T05:38:37.268Z'
+date: '2018-05-14T05:39:35.550Z'
 
 ---
-<p>TBD</p>
+<p>Ok folks please check out this link for the full details and registration</p> <p><a href="https://mailchi.mp/c6df0950c3a2/brisbane-trailheadx-global-gathering-17th-may-1232549" class="linkified">https://mailchi.mp/c6df0950c3a2/brisbane-trailheadx-global-gathering-17th-may-1232549</a></p>

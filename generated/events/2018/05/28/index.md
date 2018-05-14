@@ -26,5 +26,11 @@ events:
     organizer: Angular Brisbane
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
+  - name: Monthly Evening Symposium - Call For Speakers
+    uri: >-
+      /events/2018/05/28/7beceae9a707059669844c02be29a6737ac0dfb19377fd80c1e1e6f4bd43ce2f
+    organizer: Brisbane Internet of Things (IOT) Interest Group
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
 
 ---

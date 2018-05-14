@@ -20,5 +20,11 @@ events:
     organizer: HS Ipswich
     timeStart: '2018-05-19T03:30:00.000Z'
     timeEnd: null
+  - name: Humbug - Regular Meeting
+    uri: >-
+      /events/2018/05/19/9d682ccfd8b337e5235e418a5db6f61689326b0555d7ccc93c3559fd60bc0036
+    organizer: Humbug
+    timeStart: '2018-05-19T05:00:00.000Z'
+    timeEnd: null
 
 ---

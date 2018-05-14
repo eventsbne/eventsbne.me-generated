@@ -6,7 +6,7 @@ events:
     uri: >-
       /events/2018/05/17/09a13143852219dd85dead4cf309ab3605c9bcbbcd7304bc5aa8c78bd585afd2
     organizer: Brisbane Salesforce Developer Group
-    timeStart: '2018-05-17T06:00:00.000Z'
+    timeStart: '2018-05-17T04:00:00.000Z'
     timeEnd: null
   - name: WooCommerce Meetup - Topic TBD
     uri: >-

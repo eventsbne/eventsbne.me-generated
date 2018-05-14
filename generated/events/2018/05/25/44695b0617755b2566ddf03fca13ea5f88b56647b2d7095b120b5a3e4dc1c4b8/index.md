@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-25T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-11T05:38:31.044Z'
-timeUpdated: '2018-05-11T05:38:31.044Z'
-countAttending: '10'
+timeCreated: '2018-05-14T05:39:35.550Z'
+timeUpdated: '2018-05-14T05:39:35.550Z'
+countAttending: '13'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress 15th Anniversary Celebration
-date: '2018-05-11T05:38:31.044Z'
+date: '2018-05-14T05:39:35.550Z'
 
 ---
 <p>WordPress will be 15th years old this May 27th, 2018!<br/>To celebrate, over the weekend WordPress communities around the globe will be holding celebration parties and meetups.</p> <p>As the 27th is a Sunday, Brisbane is going to celebrate early on Friday, May 25th instead!</p> <p>Everyone is invited to come along to River City Labs (our usual venue) to enjoy some refreshments (and maybe even a WordPress birthday cake) and celebrate 15 years of WordPress. We'll be sharing our party photos and love for WordPress with the rest of the world via the hashtag #wp15.</p> <p>Don't forget to spread the word, let's make this WordPress birthday memorable :)</p>

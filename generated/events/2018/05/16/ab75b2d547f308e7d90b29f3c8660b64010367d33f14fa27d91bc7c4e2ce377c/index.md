@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-16T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-12T05:38:37.268Z'
-timeUpdated: '2018-05-12T05:38:37.268Z'
-countAttending: '28'
+timeCreated: '2018-05-14T05:39:35.550Z'
+timeUpdated: '2018-05-14T05:39:35.550Z'
+countAttending: '30'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: 'Blockchain Research from QUT, UQ, and Griffith University'
-date: '2018-05-12T05:38:37.268Z'
+title: 'Blockchain Research from UQ, and Griffith University'
+date: '2018-05-14T05:39:35.550Z'
 
 ---
-<p>BYO Lunch</p> <p>Three researchers will each present for 20 minutes on their research topic. Researchers will be drawn from University of Queensland, Queensland University of Technology and Griffith University, and other universities.</p>
+<p>BYO Lunch</p> <p>This meet-up covers three short talks from the following researchers:</p> <p>Zhenyang Shi, under graduate student at University of Queensland and intern at ConsenSys: Wireshark DevP2P dissector.<br/>Dr Kamanashis Biswas, Associate Lecturer, Griffith University: Blockchain based wine supply chain traceability system.<br/>Peter Robinson, PhD candidate at University of Queensland and applied cryptographer at ConsenSys: Ethereum private sidechains.</p>

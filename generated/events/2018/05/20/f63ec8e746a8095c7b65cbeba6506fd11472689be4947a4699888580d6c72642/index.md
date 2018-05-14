@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-20T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-03T05:38:38.339Z'
-timeUpdated: '2018-05-03T05:38:38.339Z'
-countAttending: '5'
+timeCreated: '2018-05-14T05:39:35.550Z'
+timeUpdated: '2018-05-14T05:39:35.550Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: ICRA X Public Forum
-date: '2018-05-03T05:38:38.339Z'
+date: '2018-05-14T05:39:35.550Z'
 
 ---
 <p>ICRA-X (Public Forum)<br/>ICRA-X is an outreach activity to the general public in the region that hosts the IEEE International Conference on Robotics and Automation (ICRA) by the IEEE Robotics and Automation Society. It will feature lively presentations from distinguished experts on popular and cutting-edge topics in the field. ICRA-X is aimed at enlightening the greater community, especially the young generation.</p> <p>Register here: <a href="https://icmsaust.eventsair.com/icra2018/icra-x" class="linkified">https://icmsaust.eventsair.com/icra2018/icra-x</a><br/>Venue: Great Hall, Brisbane Convention &amp; Exhibition Centre, Merivale St &amp; Glenelg Street, South Brisbane QLD 4101</p> <p><a href="http://icra2018.org/program/icra-x/" class="linkified">http://icra2018.org/program/icra-x/</a></p>
