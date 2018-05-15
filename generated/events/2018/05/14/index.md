@@ -2,12 +2,6 @@
 title: Events for 2018/05/14
 layout: event-index
 events:
-  - name: 'QALMUG May meeting - Mon 14-May at 8am (7:30 breakfast)'
-    uri: >-
-      /events/2018/05/14/34eb85535b3bca953541ed7e4f88aa9da8b7818653466b815879c62e805c460c
-    organizer: QLD ALM Users Group
-    timeStart: '2018-05-13T22:00:00.000Z'
-    timeEnd: null
   - name: What Angel Investors Look For
     uri: >-
       /events/2018/05/14/e816d1ffcefe30b338738e386d5a9d71d59882707355820ffe00eadb7c94b4b8

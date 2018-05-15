@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-14T05:39:35.550Z'
-timeUpdated: '2018-05-14T05:39:35.550Z'
-countAttending: '53'
+timeCreated: '2018-05-15T05:38:36.498Z'
+timeUpdated: '2018-05-15T05:38:36.498Z'
+countAttending: '59'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Agile Brisbane - Retrospective month
-date: '2018-05-14T05:39:35.550Z'
+date: '2018-05-15T05:38:36.498Z'
 
 ---
 <p>Summary:</p> <p>We're continuing to change up the format of Agile Brisbane and this month will be themed around Retrospectives. Ian Bruce from Global Payments (aka Ezidebit) will be giving a short talk on how they've been running Retrospectives. If you haven't seen their offices before, they are very impressive. Then we'll spend the remaining time running a Retrospective on Agile Brisbane.</p> <p>Looking for volunteers:</p> <p>We are looking for volunteers to help us run a scaled retrospective. We'll split into 5 groups running 5 retrospectives simultaneously.</p> <p>We'll be looking for feedback on what we've been doing well, what we can improve, any suggestions for venues / speakers / topics. We'll bring the key insights from each group back to the group.</p> <p>Please comment below if you'd like to help.</p> <p>Agenda:</p> <p>• 5:30 - 6pm - Arrive early for some food, a drink and a chat</p> <p>• 6 - 6:15pm - Ian Bruce - Scrum Master - Global Payments - Talk on Retrospectives</p> <p>• 6:15 - 7pm - Retrospective on Agile Brisbane.</p> <p>Our sponsors:</p> <p>Thanks to Global Payments (<a href="https://www.globalpaymentsinc.com/en-au" class="linkified">https://www.globalpaymentsinc.com/en-au</a>) for providing this month's venue to Elabor8 (<a href="https://elabor8.com.au" class="linkified">https://elabor8.com.au</a>) for their ongoing sponsorship for Agile Brisbane Meetup.</p>

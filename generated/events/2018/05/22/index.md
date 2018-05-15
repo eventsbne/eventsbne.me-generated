@@ -2,6 +2,12 @@
 title: Events for 2018/05/22
 layout: event-index
 events:
+  - name: Oracle Analytics - FREE 2hr Hands-On Workshop
+    uri: >-
+      /events/2018/05/22/6f4cbfb3f7a347ba4c83e765589ca5e8ce81c843508e7013641686a997af3078
+    organizer: Oracle Brisbane
+    timeStart: '2018-05-21T23:30:00.000Z'
+    timeEnd: null
   - name: >-
       Meet Dr Catherine Ball - Scientist, Innovator, Mum (SheFlies, Gumption
       Trigger,
@@ -30,16 +36,16 @@ events:
     organizer: Bitcoin and Digitalcurrency Learning Centre
     timeStart: '2018-05-22T08:00:00.000Z'
     timeEnd: null
-  - name: Bitcoin Pizza Day!
-    uri: >-
-      /events/2018/05/22/a6b26e0417713beccc20175ee03f9057ba1a39ce3f95dec53e4e1891f56bf450
-    organizer: Bitcoin & Blockchain Brisbane
-    timeStart: '2018-05-22T08:00:00.000Z'
-    timeEnd: null
   - name: 'Techniques for influencing stakeholders, even challenging ones'
     uri: >-
       /events/2018/05/22/e1f65cd539d711d5ff415ca60f62128002fd9d2df84c52739c8abf07351cbe51
     organizer: UX Brisbane
+    timeStart: '2018-05-22T08:00:00.000Z'
+    timeEnd: null
+  - name: Bitcoin Pizza Day!
+    uri: >-
+      /events/2018/05/22/a6b26e0417713beccc20175ee03f9057ba1a39ce3f95dec53e4e1891f56bf450
+    organizer: Bitcoin & Blockchain Brisbane
     timeStart: '2018-05-22T08:00:00.000Z'
     timeEnd: null
   - name: BrisRuby.com Monthly  Meetup

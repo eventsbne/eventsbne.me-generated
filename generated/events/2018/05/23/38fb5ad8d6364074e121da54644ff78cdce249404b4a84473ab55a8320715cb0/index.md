@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-23T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-14T05:39:35.550Z'
-timeUpdated: '2018-05-14T05:39:35.550Z'
-countAttending: '46'
+timeCreated: '2018-05-15T05:38:36.498Z'
+timeUpdated: '2018-05-15T05:38:36.498Z'
+countAttending: '45'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Join World Product Day - Guest Speaker Rowan Lamont from Designworks
-date: '2018-05-14T05:39:35.550Z'
+date: '2018-05-15T05:38:36.498Z'
 
 ---
 <p>May 23 is World Product Day. We’re joining 80+ cities across the world to celebrate all things product! We'll be live linking with Sydney, Melbourne and the UK ProductTank organisers.</p> <p>Guest speaker Rowan Lamont, head of strategy at Designworks, will share insights into how a Design Thinking approach lead to the design and delivery of the Queen's Baton for the 2018 Commonwealth Games.</p> <p>Follow the event: #worldproductday #producttank</p>

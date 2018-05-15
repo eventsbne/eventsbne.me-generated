@@ -26,16 +26,16 @@ events:
     organizer: Hackerspace Brisbane
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
-  - name: Bitcoin (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game??
-    uri: >-
-      /events/2018/05/15/615f3c9273deb956516de4c7a08f833fda37afa0bb30c722de083fae7354f2d8
-    organizer: Crypto Training & Mining Meetup
-    timeStart: '2018-05-15T08:00:00.000Z'
-    timeEnd: null
   - name: May Meetup - Lessons about startups && Breaking down monoliths
     uri: >-
       /events/2018/05/15/56d679f4441f9a9aa487572a066141ce46b09da0c1a855b97475656c79ff72b8
     organizer: Brisbane .NET User Group
+    timeStart: '2018-05-15T08:00:00.000Z'
+    timeEnd: null
+  - name: Bitcoin (BTC) v Bitcoin Cash (BCH) - A Zero Sum Game??
+    uri: >-
+      /events/2018/05/15/615f3c9273deb956516de4c7a08f833fda37afa0bb30c722de083fae7354f2d8
+    organizer: Crypto Training & Mining Meetup
     timeStart: '2018-05-15T08:00:00.000Z'
     timeEnd: null
   - name: How will Bitcoin scale to replace banks and mastercards ?

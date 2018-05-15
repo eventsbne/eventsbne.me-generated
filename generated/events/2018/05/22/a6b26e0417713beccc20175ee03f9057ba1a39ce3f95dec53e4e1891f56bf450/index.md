@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-22T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-09T05:38:35.466Z'
-timeUpdated: '2018-05-09T05:38:35.466Z'
-countAttending: '63'
+timeCreated: '2018-05-15T05:38:36.498Z'
+timeUpdated: '2018-05-15T05:38:36.498Z'
+countAttending: '66'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Bitcoin Pizza Day!
-date: '2018-05-09T05:38:35.466Z'
+date: '2018-05-15T05:38:36.498Z'
 
 ---
 <p>What we'll do:<br/>On May 22, 2010, now known as Bitcoin Pizza Day, Laszlo Hanyecz agreed to pay 10,000 Bitcoins for two delivered Papa John's pizzas. Organized on bitcointalk forum, the Florida man reached out for help. "I'll pay 10,000 bitcoins for a couple of pizzas.. like maybe 2 large ones so I have some left over for the next day," Hanyecz wrote.</p> <p>To celebrate this day, we will have an event and of course drink beer and eat pizza.</p> <p>"Boroughs Of New York"<br/>757 Ann St<br/>Fortitude Valley, QLD 4006</p> <p>• What to bring<br/>Bitcoin and cash.... and bitcoin cash.</p> <p><a href="http://boroughsofny.com/locations/" class="linkified">http://boroughsofny.com/locations/</a></p> <p>Here is the original thread. <a href="https://bitcointalk.org/index.php?topic=137.msg1195" class="linkified">https://bitcointalk.org/index.php?topic=137.msg1195</a></p>

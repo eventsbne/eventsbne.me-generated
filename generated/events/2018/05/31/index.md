@@ -2,6 +2,12 @@
 title: Events for 2018/05/31
 layout: event-index
 events:
+  - name: May Drones Meetup
+    uri: >-
+      /events/2018/05/31/47a49d4c702f22561e3715e4c01da73361cfa2fe1f31448d7463e1aabdf0ce47
+    organizer: Brisbane Drones
+    timeStart: '2018-05-30T21:00:00.000Z'
+    timeEnd: null
   - name: May 2018 QLD Power BI User Group
     uri: >-
       /events/2018/05/31/496444284c6e4d783ca0f9fa0c5ec48165bc669b99c36dab0c743d340db5f5f1

@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-07T05:38:31.586Z'
-timeUpdated: '2018-05-07T05:38:31.586Z'
+timeCreated: '2018-05-15T05:38:36.498Z'
+timeUpdated: '2018-05-15T05:38:36.498Z'
 countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Talk about DevOps and demo cool stuff!
-date: '2018-05-07T05:38:31.586Z'
+date: '2018-05-15T05:38:36.498Z'
 
 ---
-<p>The next meetup is on Thursday May 24th at the Mudgeeraba Tech Space.</p> <p>If anyone has something to talk about hit me up here or at [masked]</p>
+<p>The next meetup is on Thursday May 24th at the Mudgeeraba Tech Space. Will be kicking off around 6:30pm with pizza at 7pm.</p> <p>We're excited to have Matt Wanchap talking about DevOps in the Microsoft stack: Azure AD and Visual Studio Team Services.<br/>Paul will (probably) be talking about how to secure your servers with code.</p> <p>If anyone has something to talk about hit me up here or at [masked]</p>

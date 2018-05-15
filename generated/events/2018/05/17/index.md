@@ -2,6 +2,12 @@
 title: Events for 2018/05/17
 layout: event-index
 events:
+  - name: IT Lunch
+    uri: >-
+      /events/2018/05/17/758e6de6008ce18d70098f25b59a3bf723065dd3dd55262451bd64caea998ab4
+    organizer: dotMaleny
+    timeStart: '2018-05-17T02:30:00.000Z'
+    timeEnd: null
   - name: Trailhead DX Global Gathering
     uri: >-
       /events/2018/05/17/09a13143852219dd85dead4cf309ab3605c9bcbbcd7304bc5aa8c78bd585afd2
