@@ -8,7 +8,7 @@ events:
     organizer: Ethereum Engineering Group
     timeStart: '2018-06-13T02:30:00.000Z'
     timeEnd: null
-  - name: A Look into the MS Conversational AI Tech Stack
+  - name: Looking into MS Conversational AI Tech Stack
     uri: >-
       /events/2018/06/13/0cb361275b30f6c771dcac5be1b63ab3c39800ccacdb302449249d4a59c066c3
     organizer: Brisbane Azure User Group

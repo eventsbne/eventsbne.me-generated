@@ -14,6 +14,12 @@ events:
     organizer: Brisbane Professional Microsoft Excel Meetup
     timeStart: '2018-06-06T05:30:00.000Z'
     timeEnd: null
+  - name: 'Playing Lean: Full Game - Myriad Edition @River City Labs'
+    uri: >-
+      /events/2018/06/06/cd22fe8a22070ffbb2a318cb0cc0321e4ca6dcc28a401ea7ed6938ca6d1a4315
+    organizer: Lean Business Strategies
+    timeStart: '2018-06-06T07:30:00.000Z'
+    timeEnd: null
   - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
     uri: >-
       /events/2018/06/06/fc53d37e25e41c962c60482717a628c287f736716c813e6f7d90ca6ee8b1e0d2

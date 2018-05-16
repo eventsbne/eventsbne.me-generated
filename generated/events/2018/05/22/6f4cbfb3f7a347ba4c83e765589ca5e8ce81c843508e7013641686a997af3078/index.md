@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-21T23:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '8'
+timeCreated: '2018-05-16T05:39:15.643Z'
+timeUpdated: '2018-05-16T05:39:15.643Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Oracle Analytics - FREE 2hr Hands-On Workshop
-date: '2018-05-15T05:38:36.498Z'
+date: '2018-05-16T05:39:15.643Z'
 
 ---
 <p>Are you being left behind in the Age of Analytics?</p> <p>Are you swimming in a sea of data? Are you wondering how to turn your data into an innovative analytical application? Are you trying to work out how to carry your innovations through in order to transform your Organisation?</p> <p>Whether you're looking at building a whiz-bang dashboard, or voice-enabled mobile analytics, or you just simply want better Excel, this Analytics Simplified workshop will provide you with an understanding of the methods and tools that you need.</p> <p>This is not a talkfest, you will also take part in a free 2 hour hands on workshop. You will follow a Case Study that enables you to put what you learn into practice, by using the methodology and delivering Digital content in the cloud.</p> <p>By the end of the workshop you’ll be able to:</p> <p>- Look for the signals using Data Discovery.<br/>- Use Natural Language Processing to ‘explain’ your data.<br/>- Talk to your data – Literally talk to your data and collaborate using your own mobile device.</p> <p>No previous experience or programming skills required.</p> <p>Workshop Requirements:</p> <p>This is a Hands-On Workshop. Event Participants will need to bring a WI-FI enabled laptop and mobile phone to be able to participate in the workshop.</p> <p>Register now to avoid disappointment, as places are limited. This event is using Eventbrite to register attendance. Please register at: <a href="http://bit.ly/2HZNStj" class="linkified">http://bit.ly/2HZNStj</a></p>

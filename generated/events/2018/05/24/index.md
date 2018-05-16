@@ -34,6 +34,12 @@ events:
     organizer: Brisbane Data and Stuff Meetup
     timeStart: '2018-05-24T08:00:00.000Z'
     timeEnd: null
+  - name: BNE0x1F (32nd Session)
+    uri: >-
+      /events/2018/05/24/e029014b8599e982afa0a959abd217eaaf61818421d5930a389d5086e085ca75
+    organizer: SecTalks Brisbane
+    timeStart: '2018-05-24T08:00:00.000Z'
+    timeEnd: null
   - name: Talk about DevOps and demo cool stuff!
     uri: >-
       /events/2018/05/24/32ac251338682e89a7f619f6b9da3be84947da19d3271ed84efda1e30dec888e

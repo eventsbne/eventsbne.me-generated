@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-21T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '39'
+timeCreated: '2018-05-16T05:39:15.643Z'
+timeUpdated: '2018-05-16T05:39:15.643Z'
+countAttending: '45'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Rendering Tech Tricks
-date: '2018-05-15T05:38:36.498Z'
+date: '2018-05-16T05:39:15.643Z'
 
 ---
 <p>For small developers, it’s uncommon to dedicate time and manpower to deal with some weird and obscure rendering phenomenon. Understandable, you have the major components of the project, and some nice-to-haves, and while you’ll usually try for both, often the results are underwhelming. Like the major components, the real quality comes not from implementation but in fine-tuning, so to really gain from the optional parts it’s worth investing a bit more time adjusting them to suit your needs. This talk will be about quickly and efficiently managing various issues that can occur when dealing with Lighting, Shaders, FX, Terrains, Cameras, Post Processing, and the like. While this will primarily be relevant to 3D games, some will be applicable to 2D games as well. Much of this will be compatible with the new Unity Shader Graphs and Scriptable Render Pipeline. Brendan will briefly go over shader basics rendering modes, but no prior knowledge or specialized skill sets are required, only a basic knowledge of Unity. The audience should come out with some skills and knowledge that can quickly and easily find a way into their current projects.</p> <p>Brendan Bennett has been using Unity since 2009 in the 2.X cycle. Since then he has released to the asset store, done contractor work in fields from virtual racetrack design, world building, particle effects, shaders and pre-release user testing. Brendan also uses Unity to keep sane while building and maintaining database systems with .NET during the day.</p> <p>Please note: We've had to organise this event a week earlier than usual due to venue bookings</p>

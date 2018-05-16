@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '32'
+timeCreated: '2018-05-16T05:39:15.643Z'
+timeUpdated: '2018-05-16T05:39:15.643Z'
+countAttending: '41'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Brisbane Meetup!
-date: '2018-05-15T05:38:36.498Z'
+date: '2018-05-16T05:39:15.643Z'
 
 ---
-<p>Come and join your AWSome peers at the Brisbane AWS User Group Meetup! This is the meetup before the AWS Sydney Summit! This event will be subject to a strict RSVP policy.</p> <p>Please make sure to RSVP ASAP to avoid any disappointment. Please arrive from 5:45pm for a sharp 6:00pm start. RSVPs here are great, but it's the ones on Eventbrite which will be given to security!</p> <p>RSVP HERE: <a href="https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154" class="linkified">https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154</a></p> <p>Presenters are still being finalised for this one, but rest assured they'll be good and we'd still love you to RSVP and attend!</p> <p>•• IMPORTANT ••<br/>This event will be subject to a strict RSVP policy. Please make sure to RSVP ASAP to avoid any disappointment.</p> <p>RSVP HERE: <a href="https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154" class="linkified">https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154</a></p>
+<p>Come and join your AWSome peers at the Brisbane AWS User Group Meetup! Make sure to RSVP ASAP to avoid any disappointment.</p> <p>Please arrive from 5:45pm for a sharp 6:00pm start. RSVPs here are great, but it's the ones on Eventbrite which will be given to security!<br/>RSVP HERE: <a href="https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154" class="linkified">https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154</a></p> <p>•• AWS RECAP ••<br/>Presented by: Nathan Limbert, Technical Account Manager @ AWS</p> <p>A quick summary, and review of recent and noteworthy AWS announcements.</p> <p>•• Automating Least Access Privileges in AWS IAM ••<br/>Presented by: Marcus Rosen, Consultant &amp; APN Cloud Warrior @ CloudTrek</p> <p>Are your IAM permissions too broad? Where do you even start when looking to limit your IAM privileges?! In this presentation Marcus will showcase an innovative approach to generating least access privileges in IAM via historical usage patterns through the use of services such as CloudTrail, Lambda and DynamoDB.</p> <p>•• Using the Cloud to Water My Plants ••<br/>Presented by: Mark Promnitz, Principal Architect &amp; APN Cloud Warrior @ Itoc</p> <p>AWS is a standard place to do business, but it can also be used for fun. Mark will run us through a recent project leveraging AWS IoT, Cognito, S3, DynamoDB, a sensor or two and his plants(?!).<br/>Come and see how easy it is to innovate on AWS and have a working solution in a short space of time.</p> <p>•• IMPORTANT ••<br/>This event will be subject to a strict RSVP policy. Please make sure to RSVP ASAP to avoid any disappointment.</p> <p>RSVP HERE: <a href="https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154" class="linkified">https://www.eventbrite.com.au/e/aws-brisbane-user-group-may-2018-brisbane-tickets-46054468154</a></p>

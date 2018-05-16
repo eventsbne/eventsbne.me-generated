@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-13T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '15'
+timeCreated: '2018-05-16T05:39:15.643Z'
+timeUpdated: '2018-05-16T05:39:15.643Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: A Look into the MS Conversational AI Tech Stack
-date: '2018-05-15T05:38:36.498Z'
+title: Looking into MS Conversational AI Tech Stack
+date: '2018-05-16T05:39:15.643Z'
 
 ---
 <p>All the tech giants are heavily investing in Conversational AI. Microsoft offers a powerful and portable tech stack such as Azure Bot Service, LUIS, QnA Maker, Cortana skills and a lot more. We will briefly talk about how they work together. We will demo some existing features which can make our bots more engaging and easier to integrate. Also in Microsoft Build 2018, there are a number of updates and new tools announced for preview, we will look into some of these new features as well.</p> <p>About the Presenter</p> <p>Jia Ji Chen is a senior consultant for Avanade. He is very passionate about innovation.</p>
