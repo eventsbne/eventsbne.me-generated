@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-04T23:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '5'
+timeCreated: '2018-05-17T05:38:27.136Z'
+timeUpdated: '2018-05-17T05:38:27.136Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Containers and Kuberbetes - FREE 2hr Hands-On Workshop
-date: '2018-05-15T05:38:36.498Z'
+date: '2018-05-17T05:38:27.136Z'
 
 ---
 <p>Understand how Containers, Kubernetes and the Cloud-Native Landscape fit together</p> <p>Organisations are excited about the cloud-native approach as it helps provide parity between development and production environments, adoption of the DevOps framework, and enables software developers to build great products faster.</p> <p>This new paradigm in application delivery has brought with it much new jargon and tooling – “Containers”, “Docker”, “Kubernetes”, “Container Orchestration”, and “Microservices” are fast becoming the new norm.</p> <p>Save time and get up to speed on the business value and technical know-how of these contemporary, cloud-native concepts and tools, including:</p> <p>- Cloud Native Computing Foundation "CNCF" Landscape<br/>- Containers<br/>- Docker<br/>- Kubernetes<br/>- Microservices</p> <p>Oracle is at the forefront of the cloud-native movement. Oracle holds a platinum membership to the Cloud Native Computing Foundation (CNCF), and is a contributor to significant open source projects, such as the Kubernetes container orchestration platform.</p> <p>This workshop will provide you with the clarity, and level of understanding that you need to successfully navigate this new technology landscape with confidence. Together we will piece together the components, demystify the jargon, and work through a Kubernetes deployment scenario on the Oracle cloud.</p> <p>Register now to avoid disappointment as places are limited. This event is using Eventbrite to register attendance. Please register at: <a href="https://bit.ly/2IBpXV5" class="linkified">https://bit.ly/2IBpXV5</a></p>

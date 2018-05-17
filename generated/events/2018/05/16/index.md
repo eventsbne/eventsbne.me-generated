@@ -2,30 +2,6 @@
 title: Events for 2018/05/16
 layout: event-index
 events:
-  - name: Gold Coast Bitcoin Mining Coffee Catch Up
-    uri: >-
-      /events/2018/05/16/4aff8007a390dc0d5bf04bd6a45d7ebc8b8092b661fdc1fd549703314898ee30
-    organizer: Bitcoin Mining Passive Income Meetup
-    timeStart: '2018-05-16T00:30:00.000Z'
-    timeEnd: null
-  - name: 'Blockchain Research from UQ, and Griffith University'
-    uri: >-
-      /events/2018/05/16/ab75b2d547f308e7d90b29f3c8660b64010367d33f14fa27d91bc7c4e2ce377c
-    organizer: Ethereum Engineering Group
-    timeStart: '2018-05-16T02:30:00.000Z'
-    timeEnd: null
-  - name: Fishburners Weekly Tour
-    uri: >-
-      /events/2018/05/16/512667e45798f9e7a13dce3ec7a3aef98cb11cf96f8ad1bceddfef545d73ed81
-    organizer: Fishburners Brisbane
-    timeStart: '2018-05-16T03:00:00.000Z'
-    timeEnd: null
-  - name: Myriad Festival 2018
-    uri: >-
-      /events/2018/05/16/9ef2c7c1ce5cfef75c7da632e134c03ace458615aaa4a9303ada923f871271f5
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
-    timeStart: '2018-05-16T05:00:00.000Z'
-    timeEnd: null
   - name: Brisbane Northside WordPress Meetup
     uri: >-
       /events/2018/05/16/5a45acae8fb45bc0f06cdf03c269fa2fdd5f410103019e2800b24c295a88a05e

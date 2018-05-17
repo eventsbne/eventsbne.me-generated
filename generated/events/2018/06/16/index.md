@@ -8,5 +8,11 @@ events:
     organizer: Anthony Borton- 2018
     timeStart: '2018-06-16T00:00:00.000Z'
     timeEnd: '2018-06-16T07:00:00.000Z'
+  - name: Humbug - Regular Meeting
+    uri: >-
+      /events/2018/06/16/bd0cb0e5923fe47ea6db2836ddc256f3a29e0a68e9211fc56eb576c3e21fa583
+    organizer: Humbug
+    timeStart: '2018-06-16T05:00:00.000Z'
+    timeEnd: null
 
 ---

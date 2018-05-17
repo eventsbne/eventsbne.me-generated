@@ -2,16 +2,16 @@
 title: Events for 2018/06/05
 layout: event-index
 events:
-  - name: Containers and Kuberbetes - FREE 2hr Hands-On Workshop
-    uri: >-
-      /events/2018/06/05/c0716df8e3104cf34470dc8bea309599c6c521a22d94a3fce6885644b48cc164
-    organizer: Oracle Brisbane
-    timeStart: '2018-06-04T23:30:00.000Z'
-    timeEnd: null
   - name: How to write content to transform your business - Online Masterclass
     uri: >-
       /events/2018/06/05/dfb8a90df804576d9db99210e2119bc2d4a1fab94f2f6a5418deabac13593356
     organizer: Savvy Australian Bloggers
+    timeStart: '2018-06-04T23:30:00.000Z'
+    timeEnd: null
+  - name: Containers and Kuberbetes - FREE 2hr Hands-On Workshop
+    uri: >-
+      /events/2018/06/05/c0716df8e3104cf34470dc8bea309599c6c521a22d94a3fce6885644b48cc164
+    organizer: Oracle Brisbane
     timeStart: '2018-06-04T23:30:00.000Z'
     timeEnd: null
   - name: Google Developer Group
@@ -24,6 +24,12 @@ events:
     uri: >-
       /events/2018/06/05/f760ba9158576c3e79b18b31f932b7250cde6b4b78e91ca0ad2b6571b6e2bfa1
     organizer: CocoaHeads
+    timeStart: '2018-06-05T08:00:00.000Z'
+    timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/06/05/d229e832280b82a12dca245679bc5989bee3891df301af169da1cb399cfbdfd2
+    organizer: Hackerspace Brisbane
     timeStart: '2018-06-05T08:00:00.000Z'
     timeEnd: null
 

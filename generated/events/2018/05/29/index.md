@@ -22,5 +22,11 @@ events:
     organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
     timeStart: '2018-05-29T07:45:00.000Z'
     timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/05/29/0aeee737a4fc4409ecf9940a07452f206a070ff6bd2500f457f58a8e8b3378e5
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-05-29T08:00:00.000Z'
+    timeEnd: null
 
 ---

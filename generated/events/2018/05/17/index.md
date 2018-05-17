@@ -26,16 +26,16 @@ events:
     organizer: Brisbane Web Accessibility & Inclusive Design
     timeStart: '2018-05-17T08:00:00.000Z'
     timeEnd: null
-  - name: Gold Coast Bitcoin Meetup
-    uri: >-
-      /events/2018/05/17/a73027bbfdcf6f05a11146624eb582ce406aa749d00cf0682288ed40da5f6379
-    organizer: Gold Coast Bitcoin Meetup
-    timeStart: '2018-05-17T08:30:00.000Z'
-    timeEnd: null
   - name: AWS Gold Coast regular meetup
     uri: >-
       /events/2018/05/17/8f5a4a17c39f83b865d3c5071ad10d99681a85a8db7b4b2d7d92a375f772c2d7
     organizer: Amazon Web Services - Gold Coast User Group
+    timeStart: '2018-05-17T08:30:00.000Z'
+    timeEnd: null
+  - name: Gold Coast Bitcoin Meetup
+    uri: >-
+      /events/2018/05/17/a73027bbfdcf6f05a11146624eb582ce406aa749d00cf0682288ed40da5f6379
+    organizer: Gold Coast Bitcoin Meetup
     timeStart: '2018-05-17T08:30:00.000Z'
     timeEnd: null
   - name: 'Bitcoin: Beyond Beginners Gold Coast (Free)'

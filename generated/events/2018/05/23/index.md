@@ -2,6 +2,18 @@
 title: Events for 2018/05/23
 layout: event-index
 events:
+  - name: Gold Coast Bitcoin Mining Coffee Catch Up
+    uri: >-
+      /events/2018/05/23/2357ab5bf2d6bb3cc2fd66a8479a1d529a5bb6a93e9e230e9dc3fc79fc2e6dd3
+    organizer: Bitcoin Mining Passive Income Meetup
+    timeStart: '2018-05-23T00:30:00.000Z'
+    timeEnd: null
+  - name: Fishburners Weekly Tour
+    uri: >-
+      /events/2018/05/23/666b25c3bb54fe83264e8b228e7a5e18ab20c8c12f2a13160fa7c86564f4afc8
+    organizer: Fishburners Brisbane
+    timeStart: '2018-05-23T03:00:00.000Z'
+    timeEnd: null
   - name: May 2018 Gold Coast Shopify Meetup
     uri: >-
       /events/2018/05/23/cce39683724682af68fc4b5fb6fa42248152486e5afcb3e4e2c5f67ce2c11a3b

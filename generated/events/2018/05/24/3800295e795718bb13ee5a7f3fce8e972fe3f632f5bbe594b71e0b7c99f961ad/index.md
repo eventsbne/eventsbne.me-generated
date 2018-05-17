@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-16T05:39:15.643Z'
-timeUpdated: '2018-05-16T05:39:15.643Z'
-countAttending: '5'
+timeCreated: '2018-05-17T05:38:27.136Z'
+timeUpdated: '2018-05-17T05:38:27.136Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Delicious DataOps Discussion - 4th Thursday
-date: '2018-05-16T05:39:15.643Z'
+date: '2018-05-17T05:38:27.136Z'
 
 ---
 <p>We're feverishly putting together some talks for this month.</p> <p>RSVP to secure your seat.</p> <p>Stephen &amp; Mick.</p>
