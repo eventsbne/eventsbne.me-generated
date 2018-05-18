@@ -8,6 +8,12 @@ events:
     organizer: Ethereum Engineering Group
     timeStart: '2018-05-30T02:30:00.000Z'
     timeEnd: null
+  - name: Fishburners Weekly Tour
+    uri: >-
+      /events/2018/05/30/1b45488774585212249d2b6519212f21e85c11ff5e6425814ac917a5caa312d8
+    organizer: Fishburners Brisbane
+    timeStart: '2018-05-30T03:00:00.000Z'
+    timeEnd: null
   - name: Brisbane Microsoft 365 Technical Meetup – May 2018
     uri: >-
       /events/2018/05/30/1c359601247cdac9a167aed770042088c0d926eb337dc4ad97bda4a5ccd9550e

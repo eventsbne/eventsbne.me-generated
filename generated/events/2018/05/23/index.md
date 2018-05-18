@@ -14,12 +14,6 @@ events:
     organizer: Fishburners Brisbane
     timeStart: '2018-05-23T03:00:00.000Z'
     timeEnd: null
-  - name: May 2018 Gold Coast Shopify Meetup
-    uri: >-
-      /events/2018/05/23/cce39683724682af68fc4b5fb6fa42248152486e5afcb3e4e2c5f67ce2c11a3b
-    organizer: Gold Coast Shopify Meetup
-    timeStart: '2018-05-23T07:30:00.000Z'
-    timeEnd: null
   - name: 'Our challenge is this: how to make a hit podcast'
     uri: >-
       /events/2018/05/23/02fe9a0bc3eb2982a1e3aa8e15608efd83963c8aa5d6cff78f48501e57b5b253

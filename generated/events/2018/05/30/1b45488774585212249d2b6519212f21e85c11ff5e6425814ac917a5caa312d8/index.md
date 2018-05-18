@@ -1,17 +1,17 @@
 ---
-id: 666b25c3bb54fe83264e8b228e7a5e18ab20c8c12f2a13160fa7c86564f4afc8
-remoteId: zjlqznyxhbfc
+id: 1b45488774585212249d2b6519212f21e85c11ff5e6425814ac917a5caa312d8
+remoteId: zjlqznyxhbnc
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-05-23T03:00:00.000Z'
+timeStart: '2018-05-30T03:00:00.000Z'
 timeEnd: null
 timeCreated: '2018-05-18T05:38:32.231Z'
 timeUpdated: '2018-05-18T05:38:32.231Z'
-countAttending: '4'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/Fishburners-Brisbane/events/250867909/'
+url: 'https://www.meetup.com/Fishburners-Brisbane/events/250868629/'
 image: null
 venue: {}
 organizer:

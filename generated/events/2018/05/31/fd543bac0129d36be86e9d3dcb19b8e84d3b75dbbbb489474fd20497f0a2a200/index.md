@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-31T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '9'
+timeCreated: '2018-05-18T05:38:32.231Z'
+timeUpdated: '2018-05-18T05:38:32.231Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Let's Talk WordPress!
-date: '2018-05-15T05:38:36.498Z'
+title: 'Personalisation: Tiny Tweaks for Massive Results'
+date: '2018-05-18T05:38:32.231Z'
 
 ---
-<p>We meet and talk about all things WordPress</p> <p>Stay tuned for updates to this event.</p> <p><b>Meeting Format:</b></p> <p><b>6:00 - 6:30pm:</b> Arrival and Networking<br/><b>6:30pm:</b> Welcome and Introduction / Overview of Meeting<br/><b>6:35pm:</b> What's New In WordPress<br/><b>7:00pm:</b> Main Topic<br/><b>7:30pm:</b> Q&amp;A<br/><b>7:45pm:</b> Conclusion and Raffle Draw<br/><b>8:00pm - 8:30pm:</b> Finish and further Networking for those who would like to stay behind.Stay tuned for updates to this event.</p> <p>Bring your business cards to go into a raffle, drawn at the end. </p> <p><b>Finger food</b> is available, kindly sponsored by our event sponsor <a href="http://wpgeni.com">WPGeni</a>.</p> <p>If you know someone who would benefit from this meetup, please let them know by sharing this with them.</p> <p>Looking forward to seeing you there.</p> <p>Best Regards</p> <p>Paul Luxford<br/>Gold Coast Business Websites<br/>[masked]</p>
+<p>So, you have a successful ecommerce business or website.</p> <p>How can you increase conversions and make more money?</p> <p>By speaking directly to your customers.</p> <p>Personalisation allows you to quickly and effectively modify your content to target multiple audiences. By dynamically changing the copy as the page loads, you can replace headlines, case studies and images with content that exactly match the person viewing your site.</p> <p>In this presentation, I'll show you not only how you can make small tweaks for big wins today, but also how to save money while doing it! I'll also cover how you can use personalisation to optimise Google AdWords campaigns.</p> <p>Meet the speaker: Hayden Bech</p> <p>Hayden is a web developer by trade, and runs his own business building sites with Divi. He is also a singer! Having sung for most of his life, Hayden is now the Assistant Director for The Blenders choir who recently performed in the 2018 Commonwealth Games Closing Ceremony.</p> <p>He also runs a business called Vocal Sensei, where he teaches singing to beginners. Vocal Sensei provides free singing courses and vocal coaching to singers all over the world, and is growing rapidly.</p> <p>Hayden's recent success with Google AdWords has allowed Vocal Sensei exposure to tens of thousands of impressions each month, a large share of the Indian search market, and hundreds of people receiving his free course monthly.</p> <p>Hayden's mission is to convince everyone that they have the power to become singers!</p> <p>Meeting Format:</p> <p>6:00 - 6:30pm: Arrival and Networking<br/>6:30pm: Welcome and Introduction / Overview of Meeting<br/>6:35pm: What's Up WordPress<br/>7:00pm: Main Topic<br/>7:30pm: Q&amp;A<br/>7:45pm: Conclusion and Raffle Draw<br/>8:00pm - 8:30pm: Finish and further Networking for those who would like to stay behind.Stay tuned for updates to this event.</p> <p>Meetup cost is only $5.00.</p> <p>Grab your name badge and raffle ticket when you enter.</p> <p>Finger food will be available, kindly provided by our sponsors Conetix (<a href="https://www.conetix.com.au/" class="linkified">https://www.conetix.com.au/</a>) and Plesk (<a href="https://www.plesk.com/" class="linkified">https://www.plesk.com/</a>).</p> <p>Meals and drinks can be purchased from the bar downstairs.</p> <p>If you know someone who would benefit from this meetup, please let them know by sharing this with them (or bring them along).</p> <p>Looking forward to seeing you there.</p> <p>Best Regards</p> <p>Paul &amp; Nik</p>

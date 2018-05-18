@@ -1,9 +1,9 @@
 ---
-id: 462f6435e074a4d98486a396257af17c26bc15d971cca42499e492b9e3e1a965
-remoteId: '248494702'
+id: 6f6ab2ae2fc3ddfb40edeabaf6c6c289c2bc4ee869e4e340a9884593c6006bab
+remoteId: vjtglpyxjbtb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-06-04T09:00:00.000Z'
+timeStart: '2018-06-15T01:00:00.000Z'
 timeEnd: null
 timeCreated: '2018-05-18T05:38:32.231Z'
 timeUpdated: '2018-05-18T05:38:32.231Z'
@@ -12,18 +12,18 @@ countCapacity: null
 countWaitlist: '0'
 price: null
 url: >-
-  https://www.meetup.com/Brisbane-Software-Developers-Startup-Community/events/248494702/
+  https://www.meetup.com/Brisbane-Software-Developers-Startup-Community/events/250895011/
 image: null
 venue:
-  id: 17c9a4f12792daea15237511616434642e4863df9100932eaa774cc743253dba
-  remoteId: '25209070'
+  id: a7f2973666508f7b5e360c01cb064cf75bcf85a3a62897b1b985a4724522ea3d
+  remoteId: '18789612'
   remoteIdType: meetup
-  name: Thoughtworks Brisbane
+  name: Bean
   url: null
   description: null
-  lat: '-27.465681076049805'
-  lon: '153.02780151367188'
-  contactAddress: '19/127 Creek St, Brisbane City QLD 4000'
+  lat: '-27.471412658691406'
+  lon: '153.02426147460938'
+  contactAddress: 'Laneway 181 George St, BRISBANE CBD'
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
@@ -36,8 +36,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Monthly DevStart meetup
+title: Mid-morning inspiration
 date: '2018-05-18T05:38:32.231Z'
 
 ---
-<p>Come along and meet fellow startup folks. Usually we have a talk from an experienced startup person (details closer to the date) followed by discussion and networking.</p>
+<p>A casual catch up over coffee. Meet your local startup community, bounce some ideas, get caffeinated. Who knows what could grow from one coffee?</p>
