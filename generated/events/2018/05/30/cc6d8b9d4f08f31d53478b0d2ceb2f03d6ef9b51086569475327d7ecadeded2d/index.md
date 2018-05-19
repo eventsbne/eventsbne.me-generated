@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-30T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '14'
+timeCreated: '2018-05-19T05:38:31.979Z'
+timeUpdated: '2018-05-19T05:38:31.979Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress 15th Anniversary Celebration (Ipswich)
-date: '2018-05-15T05:38:36.498Z'
+date: '2018-05-19T05:38:31.979Z'
 
 ---
 <p>WordPress will be 15 years old this May! To celebrate, the Ipswich WordPress Meetup will have a meetup on Wednesday the 30th of May and we'll have a few presentations to reflect on the changes and highlights over the last 15 years.</p> <p>Come along to share in this celebration, we'll also have a special cake for the night as too. Don't forget to tag any photos #wp15 via your preferred social media platform.</p> <p>Drinks and pizza will be provided, thanks to our gracious sponsors Fire Station 101, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p>
