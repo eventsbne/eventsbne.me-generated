@@ -30,8 +30,8 @@ organizer:
   id: bca91b2c19c9af4aefe52e1e6d30851ea4b060f9e9c3f33863968fae43f9c84f
   remoteId: '22159195'
   remoteIdType: meetup
-  name: Brisbane ReactJS Meetup
-  url: 'https://meetup.com/Brisbane-ReactJS-Meetup'
+  name: React Brisbane
+  url: 'https://meetup.com/reactbrisbane'
   description: null
   codeOfConduct: null
 layout: event

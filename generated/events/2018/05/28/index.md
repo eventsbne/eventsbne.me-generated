@@ -38,5 +38,11 @@ events:
     organizer: Angular Brisbane
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
+  - name: 'Presentation: Start hunting the bugs - Mutation Testing'
+    uri: >-
+      /events/2018/05/28/1aff4712aa83cd6a3282ec49fd4b542c121e1d6ca5839eddd906967434d718db
+    organizer: Brisbane Software Testers
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
 
 ---

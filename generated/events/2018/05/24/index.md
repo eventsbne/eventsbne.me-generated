@@ -8,18 +8,18 @@ events:
     organizer: dotMaleny
     timeStart: '2018-05-24T02:30:00.000Z'
     timeEnd: null
+  - name: AWS Brisbane Meetup!
+    uri: >-
+      /events/2018/05/24/69d110af42a4c144a2ca1e3b176fb855eeb5105e460184a8b06bf07e8839897c
+    organizer: Amazon Web Services - Brisbane User Group
+    timeStart: '2018-05-24T07:30:00.000Z'
+    timeEnd: null
   - name: >-
       How your service providers have a critical impact on your Customer's
       Experience
     uri: >-
       /events/2018/05/24/a209598c01e0173f0196380c3006a1bc5cd82c9350cf6dc468bde5930e8a48ae
     organizer: Dynatrace Brisbane Meetup
-    timeStart: '2018-05-24T07:30:00.000Z'
-    timeEnd: null
-  - name: AWS Brisbane Meetup!
-    uri: >-
-      /events/2018/05/24/69d110af42a4c144a2ca1e3b176fb855eeb5105e460184a8b06bf07e8839897c
-    organizer: Amazon Web Services - Brisbane User Group
     timeStart: '2018-05-24T07:30:00.000Z'
     timeEnd: null
   - name: EOS Brisbane - Community Meetup
