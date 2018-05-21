@@ -26,5 +26,11 @@ events:
     organizer: use \BNE\PHP;
     timeStart: '2018-05-31T08:00:00.000Z'
     timeEnd: null
+  - name: CoinGeek Conference Wrap Up and Post-Upgrade Discussion
+    uri: >-
+      /events/2018/05/31/29541c407bd1f17b17e908c19c24d1625c93194cecb0c61a8c4eb670df5d9ff4
+    organizer: Bitcoin Cash Brisbane
+    timeStart: '2018-05-31T08:00:00.000Z'
+    timeEnd: null
 
 ---

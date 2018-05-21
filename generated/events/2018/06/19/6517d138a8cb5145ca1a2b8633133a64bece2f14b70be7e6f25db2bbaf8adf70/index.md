@@ -1,17 +1,17 @@
 ---
-id: b05a73f613434d5628ccb1695f05c697c30c017907228eae1bb9b93d8e01b0df
-remoteId: tbhnbmyxhbdc
+id: 6517d138a8cb5145ca1a2b8633133a64bece2f14b70be7e6f25db2bbaf8adf70
+remoteId: tbhnbmyxjbzb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-05-22T08:00:00.000Z'
+timeStart: '2018-06-19T08:00:00.000Z'
 timeEnd: null
 timeCreated: '2018-05-21T05:38:35.701Z'
 timeUpdated: '2018-05-21T05:38:35.701Z'
-countAttending: '4'
+countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/hackbne/events/250447687/'
+url: 'https://www.meetup.com/hackbne/events/250840848/'
 image: null
 venue: {}
 organizer:

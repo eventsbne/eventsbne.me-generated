@@ -14,14 +14,6 @@ events:
     organizer: Amazon Web Services - Brisbane User Group
     timeStart: '2018-05-24T07:30:00.000Z'
     timeEnd: null
-  - name: >-
-      How your service providers have a critical impact on your Customer's
-      Experience
-    uri: >-
-      /events/2018/05/24/a209598c01e0173f0196380c3006a1bc5cd82c9350cf6dc468bde5930e8a48ae
-    organizer: Dynatrace Brisbane Meetup
-    timeStart: '2018-05-24T07:30:00.000Z'
-    timeEnd: null
   - name: EOS Brisbane - Community Meetup
     uri: >-
       /events/2018/05/24/4fa3ff795533334faee589ff8be9ba04c2567fa0eca6be34ffc5223345501510

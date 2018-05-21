@@ -14,6 +14,14 @@ events:
     organizer: Lean Business Strategies
     timeStart: '2018-06-07T02:00:00.000Z'
     timeEnd: null
+  - name: >-
+      How your service providers have a critical impact on your Customer's
+      Experience
+    uri: >-
+      /events/2018/06/07/a209598c01e0173f0196380c3006a1bc5cd82c9350cf6dc468bde5930e8a48ae
+    organizer: Dynatrace Brisbane Meetup
+    timeStart: '2018-06-07T07:30:00.000Z'
+    timeEnd: null
   - name: Agile Australia Preview - Trials of the financial services trifecta
     uri: >-
       /events/2018/06/07/8cf25e388a96b8704c70c7338ff62f362a2275f35ca94edf243446998b69979b
