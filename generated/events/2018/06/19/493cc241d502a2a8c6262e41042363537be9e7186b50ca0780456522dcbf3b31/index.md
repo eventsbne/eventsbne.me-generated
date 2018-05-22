@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: null
 timeStart: '2018-06-19T06:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-21T05:38:35.701Z'
-timeUpdated: '2018-05-21T05:38:35.701Z'
-countAttending: '13'
+timeCreated: '2018-05-22T05:38:39.741Z'
+timeUpdated: '2018-05-22T05:38:39.741Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: S1-E2- SecOps - Nothing to see here!
-date: '2018-05-21T05:38:35.701Z'
+date: '2018-05-22T05:38:39.741Z'
 
 ---
 No description was provided.

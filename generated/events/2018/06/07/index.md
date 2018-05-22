@@ -28,5 +28,11 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-06-07T07:30:00.000Z'
     timeEnd: null
+  - name: Bitcoin for Beginners Gold Coast (FREE)
+    uri: >-
+      /events/2018/06/07/38fed624c590ace87846cbac50eefbfed79725c5d7d2b1b2d3460a1543a13bf1
+    organizer: The Beauty of Bitcoin Gold Coast (free)
+    timeStart: '2018-06-07T08:30:00.000Z'
+    timeEnd: null
 
 ---

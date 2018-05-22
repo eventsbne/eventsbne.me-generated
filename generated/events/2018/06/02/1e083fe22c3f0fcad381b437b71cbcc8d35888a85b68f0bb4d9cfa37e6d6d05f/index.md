@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-02T02:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-21T05:38:35.701Z'
-timeUpdated: '2018-05-21T05:38:35.701Z'
-countAttending: '43'
+timeCreated: '2018-05-22T05:38:39.741Z'
+timeUpdated: '2018-05-22T05:38:39.741Z'
+countAttending: '44'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Successful Pitching for Indie Devs
-date: '2018-05-21T05:38:35.701Z'
+date: '2018-05-22T05:38:39.741Z'
 
 ---
 <p>Even if you're self publishing, you still need to pitch your game: to collaborators, to press, to players. Building a great pitch early on helps to hone your understanding of your game, which makes every element of development easier. This talk will go over the key elements of a great pitch, and how to think about them when approaching your own game.</p> <p>==</p> <p>Morgan Jaffit is an 18 year veteran of the global games industry creating games for PC, consoles, mobile, and alternate gaming platforms including virtual and augmented reality. He is the Gamerunner and co-founder of independent game studio Defiant Development, Brisbane Australia, employing a team of 25 creating and publishing mobile, PC and console games. Defiant's current title "Hand of Fate 2" has been a critical and commercial success on Steam, PS4, and Xbox One. Morgan represents and supports Australian game development through community engagement, policy advisement, media liaison and higher education.</p>

@@ -30,16 +30,16 @@ events:
     organizer: Bitcoin and Digitalcurrency Learning Centre
     timeStart: '2018-05-22T08:00:00.000Z'
     timeEnd: null
-  - name: 'Techniques for influencing stakeholders, even challenging ones'
-    uri: >-
-      /events/2018/05/22/e1f65cd539d711d5ff415ca60f62128002fd9d2df84c52739c8abf07351cbe51
-    organizer: UX Brisbane
-    timeStart: '2018-05-22T08:00:00.000Z'
-    timeEnd: null
   - name: Open Night Tuesdays
     uri: >-
       /events/2018/05/22/b05a73f613434d5628ccb1695f05c697c30c017907228eae1bb9b93d8e01b0df
     organizer: Hackerspace Brisbane
+    timeStart: '2018-05-22T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Techniques for influencing stakeholders, even challenging ones'
+    uri: >-
+      /events/2018/05/22/e1f65cd539d711d5ff415ca60f62128002fd9d2df84c52739c8abf07351cbe51
+    organizer: UX Brisbane
     timeStart: '2018-05-22T08:00:00.000Z'
     timeEnd: null
   - name: Bitcoin Pizza Day!

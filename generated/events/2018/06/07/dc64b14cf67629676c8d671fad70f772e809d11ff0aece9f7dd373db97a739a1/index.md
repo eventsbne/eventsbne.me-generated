@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-06T21:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-21T05:38:35.701Z'
-timeUpdated: '2018-05-21T05:38:35.701Z'
-countAttending: '12'
+timeCreated: '2018-05-22T05:38:39.741Z'
+timeUpdated: '2018-05-22T05:38:39.741Z'
+countAttending: '16'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Emerging Technologies: are they real innovations or just gadgets?'
-date: '2018-05-21T05:38:35.701Z'
+date: '2018-05-22T05:38:39.741Z'
 
 ---
 <p>u&amp;u invites you to our Digital Breakfast event: 'Emerging Technologies: are they real innovations or just gadgets?'</p> <p>Jack Gillespie, Director of Emerging Technology at Deloitte Digital, has been to the future and now he's back to say, “Technology is not the answer to all your problems”.</p> <p>We talk rigorous innovation processes and embracing the exponential mindset within your business. Clear goals, measurement and planning combined with emerging technologies will take your business to the next level.</p> <p>Seats are limited, so please register below to secure your place at this event.</p>

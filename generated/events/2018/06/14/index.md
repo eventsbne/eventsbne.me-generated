@@ -8,16 +8,16 @@ events:
     organizer: Drupal Brisbane
     timeStart: '2018-06-13T23:30:00.000Z'
     timeEnd: null
-  - name: June Meetup
-    uri: >-
-      /events/2018/06/14/8c01362ced09e7c8ad6ac15fcf5b6042a4505ea052a4d6f5253fb53bfd012963
-    organizer: Brisbane Dynamics 365 User Group
-    timeStart: '2018-06-14T07:30:00.000Z'
-    timeEnd: null
   - name: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
     uri: >-
       /events/2018/06/14/7a359bd4fc8751d4b220c16f02d1ee25d8b02d70a4527e583d17f63a041a47d3
     organizer: Brisbane AWS Security User Group
+    timeStart: '2018-06-14T07:30:00.000Z'
+    timeEnd: null
+  - name: June Meetup
+    uri: >-
+      /events/2018/06/14/8c01362ced09e7c8ad6ac15fcf5b6042a4505ea052a4d6f5253fb53bfd012963
+    organizer: Brisbane Dynamics 365 User Group
     timeStart: '2018-06-14T07:30:00.000Z'
     timeEnd: null
   - name: '[Fortitude Valley] WordPress Brisbane June: TBA'

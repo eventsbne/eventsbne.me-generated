@@ -8,5 +8,11 @@ events:
     organizer: React Brisbane
     timeStart: '2018-06-18T08:30:00.000Z'
     timeEnd: null
+  - name: 'Blockchain Fundamentals: What''s the Blockchain and How Does It Work?'
+    uri: >-
+      /events/2018/06/18/bc11b1d5ffefee979f836e7cbc82f127a30c383a46f2da0aaa7d0f46966efbf8
+    organizer: Blockchain for Business Brisbane
+    timeStart: '2018-06-18T08:30:00.000Z'
+    timeEnd: null
 
 ---

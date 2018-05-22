@@ -14,6 +14,12 @@ events:
     organizer: Fishburners Brisbane
     timeStart: '2018-05-30T03:00:00.000Z'
     timeEnd: null
+  - name: Lifting and Shifting Legacy Applications to Oracle Cloud
+    uri: >-
+      /events/2018/05/30/ea03a6bed8b550ebe6a3e424d5aee01f8447bc0fc19bd4c20cf2a89fd5ae9f9b
+    organizer: Oracle Brisbane
+    timeStart: '2018-05-30T06:30:00.000Z'
+    timeEnd: null
   - name: Brisbane Microsoft 365 Technical Meetup – May 2018
     uri: >-
       /events/2018/05/30/1c359601247cdac9a167aed770042088c0d926eb337dc4ad97bda4a5ccd9550e
