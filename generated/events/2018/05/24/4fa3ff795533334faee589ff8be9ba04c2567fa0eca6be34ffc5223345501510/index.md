@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-22T05:38:39.741Z'
-timeUpdated: '2018-05-22T05:38:39.741Z'
-countAttending: '29'
+timeCreated: '2018-05-23T05:38:46.773Z'
+timeUpdated: '2018-05-23T05:38:46.773Z'
+countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: EOS Brisbane - Community Meetup
-date: '2018-05-22T05:38:39.741Z'
+date: '2018-05-23T05:38:46.773Z'
 
 ---
 <p>Join us to hear what we at EOSphere have been working on over the last few months in preparation for the launch of EOS. We have been busy sponsoring global events, engaging in local blockchain initiatives and building a business focused on servicing the EOS community. We'd love to update you on what we have been doing and would also love to hear your thoughts and feedback as we approach the official launch of EOS in June.</p>

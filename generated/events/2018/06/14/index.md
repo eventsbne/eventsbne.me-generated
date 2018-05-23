@@ -14,7 +14,7 @@ events:
     organizer: Brisbane AWS Security User Group
     timeStart: '2018-06-14T07:30:00.000Z'
     timeEnd: null
-  - name: June Meetup
+  - name: June Meetup - the great debate
     uri: >-
       /events/2018/06/14/8c01362ced09e7c8ad6ac15fcf5b6042a4505ea052a4d6f5253fb53bfd012963
     organizer: Brisbane Dynamics 365 User Group

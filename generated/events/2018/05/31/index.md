@@ -14,10 +14,10 @@ events:
     organizer: Queensland Power BI User Group
     timeStart: '2018-05-31T07:30:00.000Z'
     timeEnd: null
-  - name: CoinGeek Conference Wrap Up and Post-Upgrade Discussion
+  - name: 'Personalisation: Tiny Tweaks for Massive Results'
     uri: >-
-      /events/2018/05/31/29541c407bd1f17b17e908c19c24d1625c93194cecb0c61a8c4eb670df5d9ff4
-    organizer: Bitcoin Cash Brisbane
+      /events/2018/05/31/fd543bac0129d36be86e9d3dcb19b8e84d3b75dbbbb489474fd20497f0a2a200
+    organizer: WordPress Gold Coast
     timeStart: '2018-05-31T08:00:00.000Z'
     timeEnd: null
   - name: BrisPHP Q2 2018
@@ -26,10 +26,10 @@ events:
     organizer: use \BNE\PHP;
     timeStart: '2018-05-31T08:00:00.000Z'
     timeEnd: null
-  - name: 'Personalisation: Tiny Tweaks for Massive Results'
+  - name: CoinGeek Conference Wrap Up and Post-Upgrade Discussion
     uri: >-
-      /events/2018/05/31/fd543bac0129d36be86e9d3dcb19b8e84d3b75dbbbb489474fd20497f0a2a200
-    organizer: WordPress Gold Coast
+      /events/2018/05/31/29541c407bd1f17b17e908c19c24d1625c93194cecb0c61a8c4eb670df5d9ff4
+    organizer: Bitcoin Cash Brisbane
     timeStart: '2018-05-31T08:00:00.000Z'
     timeEnd: null
 

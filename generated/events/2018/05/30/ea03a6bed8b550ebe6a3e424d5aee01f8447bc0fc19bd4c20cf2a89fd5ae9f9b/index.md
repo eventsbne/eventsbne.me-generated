@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-30T06:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-22T05:38:39.741Z'
-timeUpdated: '2018-05-22T05:38:39.741Z'
-countAttending: '6'
+timeCreated: '2018-05-23T05:38:46.773Z'
+timeUpdated: '2018-05-23T05:38:46.773Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Lifting and Shifting Legacy Applications to Oracle Cloud
-date: '2018-05-22T05:38:39.741Z'
+date: '2018-05-23T05:38:46.773Z'
 
 ---
 <p>AUSOUG (Australian Oracle User Group) presents "Teaching Turkeys To Fly - Lifting and Shifting Legacy Applications to Oracle Cloud" with Dennis Remmer.</p> <p>Much noise has been made on the quick ROI from deploying greenfield systems to Oracle Cloud. Oracle's IaaS catalog stands up very well to competing vendor offerings, and Oracle's PaaS Cloud offers a comprehensive range of simple, robust, cost effective solutions across data management, application development, integration, management, content, analytics and security.</p> <p>Sounds great, but the reality is that a large percentage of candidate migration projects to the Cloud are ones whose foundations remain firmly concreted into the ground. These are the long-running, on-premise applications, built on now-legacy environments but which are too scary to touch; and yet it is these that still cost so much to maintain where they sit.</p> <p>You'd love to see these 'turkeys' soaring in those clouds, but it all seems too hard. Time for some flying lessons.</p> <p>Lets pick on a couple of flightless birds and discuss whether lifting and shifting them to the Oracle Cloud is even possible; and how you might approach such an exercise - considering the technical and business impacts and benefits.</p> <p>Agenda:<br/>4:00pm: Event Opens<br/>4:30pm: Session Starts<br/>6:00pm: Networking<br/>6:30pm: Event Closes</p> <p>About Dennis Remmer - Principal Consultant for LogicalTech, Oracle ACE in Fusion Middleware, and former National President of the Australian Oracle User Group - is commonly engaged in integration and development using SOA, BPM, WebCenter and cloud-based iPaaS, and of course, is a keen ornithologist, specialising in flighless birds.</p>

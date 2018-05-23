@@ -2,12 +2,6 @@
 title: Events for 2018/05/22
 layout: event-index
 events:
-  - name: Oracle Analytics - FREE 2hr Hands-On Workshop
-    uri: >-
-      /events/2018/05/22/6f4cbfb3f7a347ba4c83e765589ca5e8ce81c843508e7013641686a997af3078
-    organizer: Oracle Brisbane
-    timeStart: '2018-05-21T23:30:00.000Z'
-    timeEnd: null
   - name: >-
       Meet Dr Catherine Ball - Scientist, Innovator, Mum (SheFlies, Gumption
       Trigger,

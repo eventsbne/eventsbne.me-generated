@@ -16,6 +16,12 @@ events:
     organizer: Lean Business Strategies
     timeStart: '2018-05-29T07:30:00.000Z'
     timeEnd: null
+  - name: 'BM25F in Elasticsearch: how to set it up for best relevance'
+    uri: >-
+      /events/2018/05/29/998a82c6c203579fb0ae90a559e74c9e93abd5ef1516d5ed436d73f07faa1eb3
+    organizer: Elastic Brisbane User Group
+    timeStart: '2018-05-29T07:30:00.000Z'
+    timeEnd: null
   - name: 'MVVMCross 6.0, Build discussion and news'
     uri: >-
       /events/2018/05/29/ad55aa14afe4df2bd21536cf513c7fc6acec164644c83c98e29402ee554a8896

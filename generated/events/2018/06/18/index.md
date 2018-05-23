@@ -14,5 +14,13 @@ events:
     organizer: Blockchain for Business Brisbane
     timeStart: '2018-06-18T08:30:00.000Z'
     timeEnd: null
+  - name: >-
+      June Double Header -  Blue-Green Deployment + Azure Functions Aren't
+      Enterprisy
+    uri: >-
+      /events/2018/06/18/15bc117a9e833465287dad3839c709d2bff5542aa25ad440fcf1e0b03454afdb
+    organizer: Gold Coast Azure / .NET User Group
+    timeStart: '2018-06-18T08:30:00.000Z'
+    timeEnd: null
 
 ---

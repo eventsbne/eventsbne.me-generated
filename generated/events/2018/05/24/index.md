@@ -38,6 +38,12 @@ events:
     organizer: SecTalks Brisbane
     timeStart: '2018-05-24T08:00:00.000Z'
     timeEnd: null
+  - name: 'Outback Start-Up: Tips & Strategies from conception to ASX'
+    uri: >-
+      /events/2018/05/24/d531c21b446dd7b261290e46d25b0850322c107a176bad5ceed6c5eb1dbeb0dd
+    organizer: Startup Ipswich
+    timeStart: '2018-05-24T08:00:00.000Z'
+    timeEnd: null
   - name: Data Storytelling
     uri: >-
       /events/2018/05/24/0e0d2f70c347164de382fa27d76e09cbe45e9367c4689b42650e6d0fda60302b
