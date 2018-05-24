@@ -18,8 +18,8 @@ organizer:
   id: 2ba09508d3e4f084e6981259885ca034978f077d5b57df77f21e6bda6ffdd44a
   remoteId: '2715362'
   remoteIdType: meetup
-  name: Australian OpenStack User Group
-  url: 'https://meetup.com/Australian-OpenStack-User-Group'
+  name: Australian Open Infrastructure User Group
+  url: 'https://meetup.com/Australian-Open-Infrastructure-User-Group'
   description: null
   codeOfConduct: null
 layout: event

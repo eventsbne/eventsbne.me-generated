@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T21:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-23T05:38:46.773Z'
-timeUpdated: '2018-05-23T05:38:46.773Z'
-countAttending: '10'
+timeCreated: '2018-05-24T05:38:32.521Z'
+timeUpdated: '2018-05-24T05:38:32.521Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: "Community Breakfast ⚓️\U0001F6E5"
-date: '2018-05-23T05:38:46.773Z'
+date: '2018-05-24T05:38:32.521Z'
 
 ---
 <p>It's been a few weeks since we hit the CBD, so we're sailing on down to Riverbar and Kitchen on the water at Eagle Street this week ⚓️🛥</p> <p>---------------------------</p> <p>Welcome to the weekly support group for (digital) product designers.</p> <p>This group is for anyone interested in design, and how it applies to software, apps, web apps, and other digital products.</p> <p>If you're into UX, UI, interaction, brand, business strategy, or any of the myriad other topics we love to talk about, you'll fit right in – but even more so if you're into all of the above.</p> <p>Our aim is to build a tighter design community in BNE by sharing our knowledge and gaining experience from outside of our regular teams and circles.</p> <p>This is a very casual affair. Just turn up, order breakfast or a coffee, and talk product design with some rad new people.</p> <p>Bring problems you're working through, or #designdrama topics to fire up a debate, or if you're hanging to get started, join our Slack (check the link below) and get some conversation happening early.</p> <p>We always look forward to meeting new faces, seeing familiar ones, and building a better, more connected design community in Brisbane.</p> <p>**You'll need to pay for your own food &amp; drinks.**</p> <p>Join our Slack: <a href="https://join.slack.com/t/productof/shared_invite/enQtMzI1MTcxODAxODQ1LWE5NjVhZmFhNzZiN2U0MTYwYTBjYTgxMGU4ZDY5Y2FjZmU1NGU0YTk2OTk2NzYzOGZkNGM3YWU4NmVmYzJiMWM" class="linkified">https://join.slack.com/t/productof/shared_invite/enQtMzI1MTcxODAxODQ1LWE5NjVhZmFhNzZiN2U0MTYwYTBjYTgxMGU4ZDY5Y2FjZmU1NGU0YTk2OTk2NzYzOGZkNGM3YWU4NmVmYzJiMWM</a></p>

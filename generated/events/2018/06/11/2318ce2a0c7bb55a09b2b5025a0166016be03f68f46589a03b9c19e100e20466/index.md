@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-11T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-15T05:38:36.498Z'
-timeUpdated: '2018-05-15T05:38:36.498Z'
-countAttending: '11'
+timeCreated: '2018-05-24T05:38:32.521Z'
+timeUpdated: '2018-05-24T05:38:32.521Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Call for Speakers: EmberJS Brisbane Meetup 11 June'
-date: '2018-05-15T05:38:36.498Z'
+date: '2018-05-24T05:38:32.521Z'
 
 ---
 <p>EmberJS Brisbane will be having the next meetup on the evening of Monday 11th June at offices of GBST at 410 Ann Street, Brisbane.</p> <p>We will aim to have pizza and drinks followed by a couple of talks and/or workshops. We are looking for speakers/ideas to present at our next meetup.</p> <p>If you would like to request a talk or would like to speak about something Ember related, create an issue on our GitHub page, <a href="https://github.com/EmberBris/meetups/issues" class="linkified">https://github.com/EmberBris/meetups/issues</a>.</p> <p>Feel free to get in touch with James or Kartik for any further questions :)</p>

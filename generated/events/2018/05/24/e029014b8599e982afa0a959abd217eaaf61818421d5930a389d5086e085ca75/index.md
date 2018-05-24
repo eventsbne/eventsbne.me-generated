@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-24T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-23T05:38:46.773Z'
-timeUpdated: '2018-05-23T05:38:46.773Z'
-countAttending: '73'
+timeCreated: '2018-05-24T05:38:32.521Z'
+timeUpdated: '2018-05-24T05:38:32.521Z'
+countAttending: '77'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BNE0x1F (32nd Session)
-date: '2018-05-23T05:38:46.773Z'
+date: '2018-05-24T05:38:32.521Z'
 
 ---
 <p>@jpginc will be doing a workshop/presentation on a beginners guide to programming. For the workshop, you'll need a Windows machine/VM with autohotkey and scite4autohotkey installed.</p> <p>We don't have a set CTF for this month, but will probably work together on some B2R challenges from VulnHub.</p> <p>This month is extra special as dook should be there for the entirety for a change.</p> <p>Here are some thing to take note of:</p> <p>1) Bring your laptop.</p> <p>B) Free wireless internet "should" be available, but is not guaranteed. You may want to bring your own wifi dongles or tether to your iPwns.</p> <p>five) This is a learning exercise for everyone. The idea is to think about problems, make friends and have fun. Don't treat it like a competition (too much). If you are a beginner and no clue where to start, ask around, most people are friendly and will help out, or let you shoulder surf.</p> <p>z) Have fun. Learn. Mentor if you are able to. Participate, or just socialise. This is supposed to be a fun, learning event for the security and hacker community.</p> <p>As usual there will be beer, soft drinks and pizza courtesy of our AWESOME sponsors.</p> <p>If you can't find us/get into the venue, please call (03)[masked] or shoot us a message on Meetup and we can help out.</p> <p>• What to bring<br/>laptop, smart pwns, curiosity</p> <p>• Important to know<br/>Meet for a drink at Criterion Bar beforehand, around 5pm. Lift access stops at 6pm, so get to the foyer before then to be escorted up!</p>

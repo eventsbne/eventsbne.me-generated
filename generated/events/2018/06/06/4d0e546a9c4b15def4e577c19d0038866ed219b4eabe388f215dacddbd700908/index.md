@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-06T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-23T05:38:46.773Z'
-timeUpdated: '2018-05-23T05:38:46.773Z'
-countAttending: '34'
+timeCreated: '2018-05-24T05:38:32.521Z'
+timeUpdated: '2018-05-24T05:38:32.521Z'
+countAttending: '37'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Writing a smart contract in vyper
-date: '2018-05-23T05:38:46.773Z'
+date: '2018-05-24T05:38:32.521Z'
 
 ---
 <p>• What we'll do<br/>Solidity is the main coding language for everything related to Ethereum. Although it is not the most convenient language to learn, let alone master, it does allow developers from all over the world to pick it up pretty quickly. However, there is also the Viper language, which has undergone some major breakthroughs lately. It is doubtful Viper will ever replace Solidity as Ethereum’s main coding language, but that does not mean it is a useless project right now. In fact, the roadmap features outlined by its team are quite promising.</p>

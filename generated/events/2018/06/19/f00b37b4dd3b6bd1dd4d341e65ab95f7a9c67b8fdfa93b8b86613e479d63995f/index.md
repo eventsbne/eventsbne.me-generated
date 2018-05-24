@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-19T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-22T05:38:39.741Z'
-timeUpdated: '2018-05-22T05:38:39.741Z'
+timeCreated: '2018-05-24T05:38:32.521Z'
+timeUpdated: '2018-05-24T05:38:32.521Z'
 countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
@@ -14,15 +14,15 @@ price: null
 url: 'https://www.meetup.com/Brisbane-GitLab-Meetup/events/250389199/'
 image: null
 venue:
-  id: 71d41690d79da1193c0b65eaca0086b9b1132d93e68214c19f4976c41a531fe6
-  remoteId: '24831338'
+  id: d407ee0271493126db60abda672bae568fc5ff095fd17af10a9c479f57b5095a
+  remoteId: '25831713'
   remoteIdType: meetup
-  name: '127 Creek Street, Brisbane'
+  name: Toobirds
   url: null
   description: null
-  lat: '-27.46571159362793'
+  lat: '-27.465656280517578'
   lon: '153.02777099609375'
-  contactAddress: 127 Creek Street
+  contactAddress: 127 Creek St
   contactCity: Brisbane
   contactCountry: Australia
   contactPhone: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: GitLab Community  - learning & networking event
-date: '2018-05-22T05:38:39.741Z'
+date: '2018-05-24T05:38:32.521Z'
 
 ---
 <p>GitLab are coming to Brisbane - to share with their user Community - latest capabilities and problems that GitLab helps solve.</p> <p>This is a 1st for Brisbane.</p> <p>Do you have certain problems to share, or areas you'd like to learn about? If so, let's put them on the agenda for this 1st session, where GitLab experts can work through these with us.</p> <p>Pizza and drinks provided. . .</p>

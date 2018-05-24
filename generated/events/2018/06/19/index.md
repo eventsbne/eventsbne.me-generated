@@ -14,6 +14,14 @@ events:
     organizer: Beers with Cisco Engineers - QLD
     timeStart: '2018-06-19T06:30:00.000Z'
     timeEnd: null
+  - name: >-
+      Prof Nick Graves, QUT: Clinical trials could be a massive waste of
+      research $
+    uri: >-
+      /events/2018/06/19/b3647dacfabebe7a999f674e691a0c46c7c4070f9d59960b6a0621e846115469
+    organizer: Queensland Branch of the Statistical Society of Australia
+    timeStart: '2018-06-19T07:00:00.000Z'
+    timeEnd: null
   - name: GitLab Community  - learning & networking event
     uri: >-
       /events/2018/06/19/f00b37b4dd3b6bd1dd4d341e65ab95f7a9c67b8fdfa93b8b86613e479d63995f
