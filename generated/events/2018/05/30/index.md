@@ -2,6 +2,12 @@
 title: Events for 2018/05/30
 layout: event-index
 events:
+  - name: Gold Coast Bitcoin Mining Coffee Catch Up
+    uri: >-
+      /events/2018/05/30/1af629e029828edda0b85e62d77f9a3e3afc2befb4d012ccba750c70c90bda46
+    organizer: Bitcoin Mining Passive Income Meetup
+    timeStart: '2018-05-30T00:30:00.000Z'
+    timeEnd: null
   - name: Solidity Programming Language
     uri: >-
       /events/2018/05/30/e5238b553338006a2c4723eedef5082c586aaf5df6259de628e1e125ad6510a5

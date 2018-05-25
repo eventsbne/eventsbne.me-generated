@@ -1,17 +1,17 @@
 ---
-id: 47a49d4c702f22561e3715e4c01da73361cfa2fe1f31448d7463e1aabdf0ce47
-remoteId: '250771269'
+id: 212202989b4c709087e9414637fee642c610bb549046d80bcbe3c47e6cb8f726
+remoteId: '248995121'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-05-30T21:00:00.000Z'
+timeStart: '2018-06-01T23:00:00.000Z'
 timeEnd: null
 timeCreated: '2018-05-25T05:38:34.235Z'
 timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '3'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/Brisbane-Drones/events/250771269/'
+url: 'https://www.meetup.com/DIY-Robocars-Brisbane/events/248995121/'
 image: null
 venue:
   id: 5a66fea8edb134d559d6d99a129a7f69f3450bb4b7d912b37c5aa348ceae17b8
@@ -27,16 +27,16 @@ venue:
   contactCountry: Australia
   contactPhone: null
 organizer:
-  id: ffe3dce9a7f4fda5932b92cb9577714a3d79ab7c527e5a5d84e560217f2a1c5a
-  remoteId: '23729341'
+  id: 0ac3a080278f91b6f56433db3082df897d605a29798df49b3b68b255560cdd5a
+  remoteId: '26009812'
   remoteIdType: meetup
-  name: Brisbane Drones
-  url: 'https://meetup.com/Brisbane-Drones'
+  name: DIY Robocars Brisbane
+  url: 'https://meetup.com/DIY-Robocars-Brisbane'
   description: null
   codeOfConduct: null
 layout: event
-title: May Drones Meetup
+title: DIY Robocars Workshop
 date: '2018-05-25T05:38:34.235Z'
 
 ---
-<p>Meetup and discuss on the latest exciting developments in the realm of UAVs and RPAs. Nibbles and drinks will be available. Find us at the second level of the ARC Incubator!</p>
+<p>We'll be meeting to discuss building robocars and a track for us to race on. Venue and more details will be announced shortly.</p> <p>Please note: This meetup has been rescheduled due to ICRA.</p>

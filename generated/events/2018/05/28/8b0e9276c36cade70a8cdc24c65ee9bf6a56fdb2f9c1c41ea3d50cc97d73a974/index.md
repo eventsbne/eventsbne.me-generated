@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-28T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-24T05:38:32.521Z'
-timeUpdated: '2018-05-24T05:38:32.521Z'
-countAttending: '9'
+timeCreated: '2018-05-25T05:38:34.235Z'
+timeUpdated: '2018-05-25T05:38:34.235Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,8 +24,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-date: '2018-05-24T05:38:32.521Z'
+title: Australian Open Infrastructure User Group - Quarterly Brisbane Meetup
+date: '2018-05-25T05:38:34.235Z'
 
 ---
 <p>For this quarter's meetup, we have a special guest presentation. Michael Mallon from UQ's Research Computing Centre will talk about the NeCTAR Research Cloud, which uses OpenStack. Here's some info from Michael:</p> <p>"Operating an OpenStack deployment is an interesting gig regardless of scale. It’s especially interesting when other organisations are also operating the same deployment as a federation. The NeCTAR Research Cloud is all of that and has been running continuously in production since the Diablo release. I have been working for the Research Computing Centre at UQ since 2011 in various devops and support capacities. My current role at the RCC involves developing, supporting and operating the Queensland NeCTAR and RDS facilities for QCIF (I’ll explain the acronym soup at the talk). I’ll be talking about how NeCTAR works and my experiences as an operator for Queensland node of NeCTAR."</p> <p>If we have time afterwards, Dan Macpherson will talk about some of the different OpenStack quickstart tools available.</p> <p>Food and soft drinks will be provided. See you all there!</p>

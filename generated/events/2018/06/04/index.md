@@ -20,5 +20,11 @@ events:
     organizer: Brisbane DevStart
     timeStart: '2018-06-04T09:00:00.000Z'
     timeEnd: null
+  - name: Using Power Excel to create dashboards with Chandoo
+    uri: >-
+      /events/2018/06/04/4715823114db34fe7f4f01dd2ae47e6e93f93e4d2c071c2a4dd37e80ddccd58b
+    organizer: Brisbane Professional Microsoft Excel Meetup
+    timeStart: '2018-06-04T09:00:00.000Z'
+    timeEnd: null
 
 ---

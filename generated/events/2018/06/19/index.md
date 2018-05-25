@@ -52,5 +52,11 @@ events:
     organizer: Brisbane API's and Microservices Meetup
     timeStart: '2018-06-19T08:00:00.000Z'
     timeEnd: null
+  - name: Drupal Gold Coast Monthly Meetup
+    uri: >-
+      /events/2018/06/19/b6ea01c513d967ee164d1eb70c1a3fd409cf2065df5d3c08dd3cd48315ccb9f4
+    organizer: Drupal Gold Coast
+    timeStart: '2018-06-19T09:00:00.000Z'
+    timeEnd: null
 
 ---

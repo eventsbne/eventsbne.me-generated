@@ -2,12 +2,6 @@
 title: Events for 2018/05/24
 layout: event-index
 events:
-  - name: IT Lunch
-    uri: >-
-      /events/2018/05/24/cc987353189fda72e3f005402bdc5ddae9168094e79443c0c038865b4b29a865
-    organizer: dotMaleny
-    timeStart: '2018-05-24T02:30:00.000Z'
-    timeEnd: null
   - name: AWS Brisbane Meetup!
     uri: >-
       /events/2018/05/24/69d110af42a4c144a2ca1e3b176fb855eeb5105e460184a8b06bf07e8839897c
