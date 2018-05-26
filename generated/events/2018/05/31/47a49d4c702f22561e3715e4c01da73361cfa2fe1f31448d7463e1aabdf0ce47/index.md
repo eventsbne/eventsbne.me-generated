@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-30T21:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-25T05:38:34.235Z'
-timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '3'
+timeCreated: '2018-05-26T05:38:47.887Z'
+timeUpdated: '2018-05-26T05:38:47.887Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: May Drones Meetup
-date: '2018-05-25T05:38:34.235Z'
+date: '2018-05-26T05:38:47.887Z'
 
 ---
 <p>Meetup and discuss on the latest exciting developments in the realm of UAVs and RPAs. Nibbles and drinks will be available. Find us at the second level of the ARC Incubator!</p>

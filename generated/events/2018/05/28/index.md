@@ -20,22 +20,10 @@ events:
     organizer: Blockchain Reserve Brisbane
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
-  - name: "\U0001F170️ES9 (ES 2018), Intro to Angular & Angular Forms"
-    uri: >-
-      /events/2018/05/28/9986b42971701762a5b63cd52971cb79fa1b33e6b05ffd06afc3c7edfd314d57
-    organizer: Angular Brisbane
-    timeStart: '2018-05-28T08:00:00.000Z'
-    timeEnd: null
   - name: Monthly Evening Symposium - Call For Speakers
     uri: >-
       /events/2018/05/28/7beceae9a707059669844c02be29a6737ac0dfb19377fd80c1e1e6f4bd43ce2f
     organizer: Brisbane Internet of Things (IOT) Interest Group
-    timeStart: '2018-05-28T08:00:00.000Z'
-    timeEnd: null
-  - name: Australian Open Infrastructure User Group - Quarterly Brisbane Meetup
-    uri: >-
-      /events/2018/05/28/8b0e9276c36cade70a8cdc24c65ee9bf6a56fdb2f9c1c41ea3d50cc97d73a974
-    organizer: Australian Open Infrastructure User Group
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
   - name: 'Presentation: Start hunting the bugs - Mutation Testing'
@@ -48,6 +36,18 @@ events:
     uri: >-
       /events/2018/05/28/33ad2d19e43c6e0cf45c1ef35ee53407558ed735a2423d770e9f30c1dc411c14
     organizer: Blockchain Reserve Brisbane
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
+  - name: "\U0001F170️ES9 (ES 2018), Intro to Angular & Angular Forms"
+    uri: >-
+      /events/2018/05/28/9986b42971701762a5b63cd52971cb79fa1b33e6b05ffd06afc3c7edfd314d57
+    organizer: Angular Brisbane
+    timeStart: '2018-05-28T08:00:00.000Z'
+    timeEnd: null
+  - name: Australian Open Infrastructure User Group - Quarterly Brisbane Meetup
+    uri: >-
+      /events/2018/05/28/8b0e9276c36cade70a8cdc24c65ee9bf6a56fdb2f9c1c41ea3d50cc97d73a974
+    organizer: Australian Open Infrastructure User Group
     timeStart: '2018-05-28T08:00:00.000Z'
     timeEnd: null
 

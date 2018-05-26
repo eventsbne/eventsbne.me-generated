@@ -10,16 +10,16 @@ events:
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-05-29T02:00:00.000Z'
     timeEnd: null
-  - name: 'Playing Lean: Full Game - Myriad Edition @Oracle'
-    uri: >-
-      /events/2018/05/29/48baaf33f2b6ae3eb1a73c32f7bfdb28fd0d8457a2dd6b96eeeca564f2167d6c
-    organizer: Lean Business Strategies
-    timeStart: '2018-05-29T07:30:00.000Z'
-    timeEnd: null
   - name: 'BM25F in Elasticsearch: how to set it up for best relevance'
     uri: >-
       /events/2018/05/29/998a82c6c203579fb0ae90a559e74c9e93abd5ef1516d5ed436d73f07faa1eb3
     organizer: Elastic Brisbane User Group
+    timeStart: '2018-05-29T07:30:00.000Z'
+    timeEnd: null
+  - name: 'Playing Lean: Full Game - Myriad Edition @Oracle'
+    uri: >-
+      /events/2018/05/29/48baaf33f2b6ae3eb1a73c32f7bfdb28fd0d8457a2dd6b96eeeca564f2167d6c
+    organizer: Lean Business Strategies
     timeStart: '2018-05-29T07:30:00.000Z'
     timeEnd: null
   - name: 'MVVMCross 6.0, Build discussion and news'

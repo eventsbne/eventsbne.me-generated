@@ -8,16 +8,16 @@ events:
     organizer: Amazon Web Services - Gold Coast User Group
     timeStart: '2018-06-21T08:30:00.000Z'
     timeEnd: null
-  - name: June Drones Meetup
-    uri: >-
-      /events/2018/06/21/4aea335718d451b1b5fcf5c583d71498179e48c285652ff64dcb6d971959aeff
-    organizer: Brisbane Drones
-    timeStart: '2018-06-21T09:00:00.000Z'
-    timeEnd: null
   - name: Gold Coast Bitcoin Meetup
     uri: >-
       /events/2018/06/21/58a2c415444699e2b0ab69cb008c489ac029c8d9f335bb67184dba72770b39ae
     organizer: Gold Coast Bitcoin Meetup
+    timeStart: '2018-06-21T09:00:00.000Z'
+    timeEnd: null
+  - name: June Drones Meetup
+    uri: >-
+      /events/2018/06/21/4aea335718d451b1b5fcf5c583d71498179e48c285652ff64dcb6d971959aeff
+    organizer: Brisbane Drones
     timeStart: '2018-06-21T09:00:00.000Z'
     timeEnd: null
 
