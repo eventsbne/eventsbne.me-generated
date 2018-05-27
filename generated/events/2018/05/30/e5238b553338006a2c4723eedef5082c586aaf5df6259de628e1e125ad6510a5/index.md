@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-30T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-26T05:38:47.887Z'
-timeUpdated: '2018-05-26T05:38:47.887Z'
-countAttending: '21'
+timeCreated: '2018-05-27T05:38:28.279Z'
+timeUpdated: '2018-05-27T05:38:28.279Z'
+countAttending: '22'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Solidity Programming Language
-date: '2018-05-26T05:38:47.887Z'
+date: '2018-05-27T05:38:28.279Z'
 
 ---
 <p>BYO Lunch.</p> <p>Lucas Cullen (<a href="https://www.linkedin.com/in/lucascullen/" class="linkified">https://www.linkedin.com/in/lucascullen/</a>) will introduce the Solidity Programming Language.</p>
