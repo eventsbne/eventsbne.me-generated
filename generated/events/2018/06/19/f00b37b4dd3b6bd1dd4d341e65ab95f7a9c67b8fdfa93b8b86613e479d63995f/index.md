@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-19T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-25T05:38:34.235Z'
-timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '6'
+timeCreated: '2018-05-28T05:38:25.938Z'
+timeUpdated: '2018-05-28T05:38:25.938Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: GitLab Community  - learning & networking event
-date: '2018-05-25T05:38:34.235Z'
+date: '2018-05-28T05:38:25.938Z'
 
 ---
 <p>GitLab are coming to Brisbane - to share with their user Community - latest capabilities and problems that GitLab helps solve.</p> <p>This is a 1st for Brisbane.</p> <p>Do you have certain problems to share, or areas you'd like to learn about? If so, let's put them on the agenda for this 1st session, where GitLab experts can work through these with us.</p> <p>Please arrive between 5-5:30.</p> <p>Pizza and drinks provided.</p>

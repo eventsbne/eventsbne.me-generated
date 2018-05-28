@@ -3,11 +3,11 @@ id: 4715823114db34fe7f4f01dd2ae47e6e93f93e4d2c071c2a4dd37e80ddccd58b
 remoteId: '251061036'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-06-04T09:00:00.000Z'
+timeStart: '2018-06-04T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-25T05:38:34.235Z'
-timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '3'
+timeCreated: '2018-05-28T05:38:25.938Z'
+timeUpdated: '2018-05-28T05:38:25.938Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Using Power Excel to create dashboards with Chandoo
-date: '2018-05-25T05:38:34.235Z'
+date: '2018-05-28T05:38:25.938Z'
 
 ---
 <p>The Group Financial modelling Excel is holding the meeting.</p> <p><a href="https://www.meetup.com/Financial-Modelling-in-Excel-Meetup-Brisbane/events/247699277/comments/491446049/?read=1&amp;_xtd=gatlbWFpbF9jbGlja9oAJDViMzkzYmZhLWFiNzktNDEzNi1iZDA1LTAzZTcxMWQ0YjEyYg&amp;_af=event&amp;_af_eid=247699277&amp;https=on" class="linkified">https://www.meetup.com/Financial-Modelling-in-Excel-Meetup-Brisbane/events/247699277/comments/491446049/?read=1&amp;_xtd=gatlbWFpbF9jbGlja9oAJDViMzkzYmZhLWFiNzktNDEzNi1iZDA1LTAzZTcxMWQ0YjEyYg&amp;_af=event&amp;_af_eid=247699277&amp;https=on</a></p> <p>Please register on that group.</p>

@@ -20,7 +20,7 @@ events:
     organizer: Hackerspace Brisbane
     timeStart: '2018-06-12T08:00:00.000Z'
     timeEnd: null
-  - name: IoT and SCADA Hackers!
+  - name: Introduction to ARM
     uri: >-
       /events/2018/06/12/748d92fecafa867d96e980c9b6b409db2aacb79d84abc9ac2034cc7920d22aca
     organizer: IoT and SCADA Hackers Australia

@@ -1,17 +1,17 @@
 ---
-id: e5238b553338006a2c4723eedef5082c586aaf5df6259de628e1e125ad6510a5
-remoteId: '249486331'
+id: 6407d08d39da42d3cc3f26c2f77190520cdba26a087bf4152baeadeb414cf2cd
+remoteId: '249487081'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-05-30T02:30:00.000Z'
+timeStart: '2018-06-27T02:30:00.000Z'
 timeEnd: null
 timeCreated: '2018-05-28T05:38:25.938Z'
 timeUpdated: '2018-05-28T05:38:25.938Z'
-countAttending: '26'
+countAttending: '1'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/ethereum-engineering/events/249486331/'
+url: 'https://www.meetup.com/ethereum-engineering/events/249487081/'
 image: null
 venue:
   id: b2ed3c89c91050d77803e6382f09be9995e7d2567438aeb6a503edafbf11118d
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Solidity Programming Language
+title: 'Consensus Algorithms: PoW, PoS, PoA'
 date: '2018-05-28T05:38:25.938Z'
 
 ---
-<p>BYO Lunch.</p> <p>Lucas Cullen (<a href="https://www.linkedin.com/in/lucascullen/" class="linkified">https://www.linkedin.com/in/lucascullen/</a>) will introduce the Solidity Programming Language.</p>
+<p>BYO Lunch.</p> <p>Rob Dawson (<a href="https://www.linkedin.com/in/redawson/" class="linkified">https://www.linkedin.com/in/redawson/</a>) will present on Proof of Work, Proof of Stake, and Proof of Authority consensus algorithms.</p>

@@ -8,7 +8,7 @@ events:
     organizer: The Digital Breakfast Series
     timeStart: '2018-06-06T21:00:00.000Z'
     timeEnd: null
-  - name: 'Startups: Getting into the right Mindset for Sales! (Lunchtime Session)'
+  - name: 'Startup Growth: Leveraging Jobs Theory to increase your competitiveness'
     uri: >-
       /events/2018/06/07/7e51c8275602a785e76d606159bda78e008a04e226fb77a0448c64b3438de74b
     organizer: Lean Business Strategies

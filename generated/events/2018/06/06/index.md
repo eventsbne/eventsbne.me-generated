@@ -20,16 +20,16 @@ events:
     organizer: Lean Business Strategies
     timeStart: '2018-06-06T07:30:00.000Z'
     timeEnd: null
-  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
-    uri: >-
-      /events/2018/06/06/fc53d37e25e41c962c60482717a628c287f736716c813e6f7d90ca6ee8b1e0d2
-    organizer: "\U0001F916 Brisbane Robotics Interest Group"
-    timeStart: '2018-06-06T08:00:00.000Z'
-    timeEnd: null
   - name: Overcoming bias for better team performance
     uri: >-
       /events/2018/06/06/1838349cc0be3a786b4fa0b584a614ab6410f6d59bcdb5dc8bf059a32cab7172
     organizer: CTO School Brisbane
+    timeStart: '2018-06-06T08:00:00.000Z'
+    timeEnd: null
+  - name: "\U0001F916 + \U0001F37A | Robots and Beverages"
+    uri: >-
+      /events/2018/06/06/fc53d37e25e41c962c60482717a628c287f736716c813e6f7d90ca6ee8b1e0d2
+    organizer: "\U0001F916 Brisbane Robotics Interest Group"
     timeStart: '2018-06-06T08:00:00.000Z'
     timeEnd: null
   - name: Writing a smart contract in vyper

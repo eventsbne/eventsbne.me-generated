@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-31T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-25T05:38:34.235Z'
-timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '1'
+timeCreated: '2018-05-28T05:38:25.938Z'
+timeUpdated: '2018-05-28T05:38:25.938Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -23,8 +23,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: DataOps Meetup - 31st of May (Thurs)
-date: '2018-05-25T05:38:34.235Z'
+title: 'Devops meets Data Science - DataOps Meetup - 31st of May. Fully sponsored :)'
+date: '2018-05-28T05:38:25.938Z'
 
 ---
-<p>Hi DataOps Fans!</p> <p>Here are the details of our Meetup this month:</p> <p>SPEAKER 1: Ian Hansel - Director, Verge Labs<br/>TALK TOPIC:<br/>'Why you should care about DataOps as a Data Scientist.'<br/>How some of the key concepts of DataOps; reproducability, orchestration and disposable environments relate to data science. The talk will go over a real world use case and how a DataOps approach can be used to solve some of the issues that usually come up in a machine learning project.</p> <p>SPEAKER 2: Laura Leahy - Head of Data Analytics, Shelde<br/>TALK TOPIC:<br/>'How we used a DataOps approach to deliver real time customer journey visualisations'<br/>Customer journey visualisations sum up the experiences that customers go through when interacting with your company and brand, and provide insights to ways of improving those experiences. This talk will cover a recent programme of work to deliver outcomes in a large changing, complex environment. We’ll discuss:-<br/>* the use cases<br/>* the delivery approach<br/>* the wins we made<br/>* the ongoing learnings along the way</p> <p>SPEAKER 3: Mick Esber - Digital Transformation Agent<br/>TALK TOPIC:<br/>'Like Peas and Carrots - Blockchain and Big Data'<br/>With out question Blockchain is a disruptive technology that will change Tech, but overall business practices and approaches that have been the norm for centuries. Blockchain has the potential to change the way that the world approaches big data, with enhanced security and data quality. Linking automation and orchestration with Big Data and Blockchain can unlock use cases that were not possible or even imagined previously. This talk explains the benefits of Blockchain and Big Data and how with Automation they can become the vehicle for disruption and innovation.</p> <p>See you!</p> <p>The MeetupMadness Team</p>
+<p>Hi DataOps Fans!</p> <p>We have a smorgasbord of data-based goodness for our next gig. Thanks again to our kind sponsors Shelde &amp; Netapp!</p> <p>(Bris) SPEAKER 1: Mick Esber - Digital Transformation Agent<br/>TALK TOPIC:<br/>'Like Peas and Carrots - Blockchain and Big Data'<br/>With out question Blockchain is a disruptive technology that will change Tech, but overall business practices and approaches that have been the norm for centuries. Blockchain has the potential to change the way that the world approaches big data, with enhanced security and data quality. Linking automation and orchestration with Big Data and Blockchain can unlock use cases that were not possible or even imagined previously. This talk explains the benefits of Blockchain and Big Data and how with Automation they can become the vehicle for disruption and innovation.</p> <p>(Syd + Melb) SPEAKER 1: Laura Leahy - Head of Data Analytics, Shelde<br/>TALK TOPIC:<br/>'How we used a DataOps approach to deliver real time customer journey visualisations'<br/>Customer journey visualisations sum up the experiences that customers go through when interacting with your company and brand, and provide insights to ways of improving those experiences. This talk will cover a recent programme of work to deliver outcomes in a large changing, complex environment. We’ll discuss:-<br/>* the use cases<br/>* the delivery approach<br/>* the wins we made<br/>* the ongoing learnings along the way</p> <p>(Tri-state) SPEAKER 2: Ian Hansel - Director, Verge Labs<br/>TALK TOPIC:<br/>'Why you should care about DataOps as a Data Scientist.'<br/>How some of the key concepts of DataOps; reproducibility, orchestration and disposable environments relate to data science. The talk will go over a real world use case and how a DataOps approach can be used to solve some of the issues that usually come up in a machine learning project.</p> <p>See you there!</p> <p>The MeetupMadness Team</p>

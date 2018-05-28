@@ -8,5 +8,17 @@ events:
     organizer: Elabor8 Lunch and Learn Brisbane
     timeStart: '2018-06-26T02:00:00.000Z'
     timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/06/26/0dce17697b785e333dc379d30b7d504972982badf2b173c596669d5990664444
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-06-26T08:00:00.000Z'
+    timeEnd: null
+  - name: BrisRuby.com Monthly  Meetup
+    uri: >-
+      /events/2018/06/26/d9f38ef1dabd8de9e8f1e2867ff14d905ad5e6d1a9816d35f5408a489c393685
+    organizer: The Brisbane Ruby and Rails
+    timeStart: '2018-06-26T08:30:00.000Z'
+    timeEnd: null
 
 ---

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-12T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-27T05:38:28.279Z'
-timeUpdated: '2018-05-27T05:38:28.279Z'
-countAttending: '7'
+timeCreated: '2018-05-28T05:38:25.938Z'
+timeUpdated: '2018-05-28T05:38:25.938Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: IoT and SCADA Hackers!
-date: '2018-05-27T05:38:28.279Z'
+title: Introduction to ARM
+date: '2018-05-28T05:38:25.938Z'
 
 ---
-<p>Hi Everyone!</p> <p>We will have a talk or workshop for the night, details to come. See you there!<br/>Josh</p>
+<p>Hi Everyone!</p> <p>For this meetup we'll have Aaron stepping us through an introduction to ARM, setting up an emulator, and writing some code.</p> <p>If you'd like to follow along, please bring along a laptop capable of running a virtual machine.</p> <p>See you there!<br/>Josh</p>

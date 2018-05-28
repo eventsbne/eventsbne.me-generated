@@ -3,11 +3,11 @@ id: 462f6435e074a4d98486a396257af17c26bc15d971cca42499e492b9e3e1a965
 remoteId: '248494702'
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-06-04T09:00:00.000Z'
+timeStart: '2018-06-03T20:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-24T05:38:32.521Z'
-timeUpdated: '2018-05-24T05:38:32.521Z'
-countAttending: '5'
+timeCreated: '2018-05-28T05:38:25.938Z'
+timeUpdated: '2018-05-28T05:38:25.938Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,8 +36,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Monthly DevStart meetup
-date: '2018-05-24T05:38:32.521Z'
+title: Divvito makes co-parenting communication easier
+date: '2018-05-28T05:38:25.938Z'
 
 ---
-<p>Come along and meet fellow startup folks. Usually we have a talk from an experienced startup person (details closer to the date) followed by discussion and networking.</p>
+<p>Brisbane Dev Start is happy to announce that Monday's speaker will be Peter Oxenham from Divvito!</p> <p>Divvito is a messaging app to help make co-parenting communication easier, that comes with your very own personal messaging bot, Dani.</p> <p>Check out the interview on Today Extra. <a href="https://www.youtube.com/watch?v=Z7pi3v-soOU" class="embedded">https://www.youtube.com/watch?v=Z7pi3v-soOU</a></p> <p>Peter will be giving us talks covering topics including<br/>- Tech outline<br/>- What he did wrong<br/>- Why he thinks he is not an "entrepreneur".</p> <p>Join us at 6:00pm for a 6.30pm start.</p>

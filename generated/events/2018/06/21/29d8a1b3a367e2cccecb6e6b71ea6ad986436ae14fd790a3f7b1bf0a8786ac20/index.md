@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-21T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-25T05:38:34.235Z'
-timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '7'
+timeCreated: '2018-05-28T05:38:25.938Z'
+timeUpdated: '2018-05-28T05:38:25.938Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: AWS Gold Coast regular meetup
-date: '2018-05-25T05:38:34.235Z'
+date: '2018-05-28T05:38:25.938Z'
 
 ---
 <p>This month we have a talk on Amazon Connect, a Simple to use, cloud-based contact centre. If you want to learn how to setup your own cloud phone system with Amazon Connect, come and find out how easy (and cheap) it is to get started.</p> <p>Rick Jewson, from the small boutique AWS Partner company, Freom Pty Ltd, will be giving us a presentation on his experiences setting up a cloud PABX system using Amazon Connect. One of his clients had a traditional in-house phone system that was nearing end of life, and as they had had success with other AWS services, when he suggested moving their call centre hardware into the cloud, they agreed to a trial. They were so happy with the results they have now moved their two call centres into Amazon Connect and have not looked back.</p> <p>We are excited to have this talk by Rick and appreciate his time in giving this talk.</p>
