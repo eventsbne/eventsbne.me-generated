@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-01T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-25T05:38:34.235Z'
-timeUpdated: '2018-05-25T05:38:34.235Z'
-countAttending: '17'
+timeCreated: '2018-05-29T05:38:42.409Z'
+timeUpdated: '2018-05-29T05:38:42.409Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: DIY Robocars Workshop
-date: '2018-05-25T05:38:34.235Z'
+date: '2018-05-29T05:38:42.409Z'
 
 ---
 <p>We'll be meeting to discuss building robocars and a track for us to race on. Venue and more details will be announced shortly.</p> <p>Please note: This meetup has been rescheduled due to ICRA.</p>
