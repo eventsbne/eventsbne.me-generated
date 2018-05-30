@@ -20,18 +20,18 @@ events:
     organizer: Bitcoin Cash Brisbane
     timeStart: '2018-05-31T08:00:00.000Z'
     timeEnd: null
-  - name: BrisPHP Q2 2018
-    uri: >-
-      /events/2018/05/31/159400903c9e320bcec49d706bf0796ca85337378767818e7c5868920a770eca
-    organizer: use \BNE\PHP;
-    timeStart: '2018-05-31T08:00:00.000Z'
-    timeEnd: null
   - name: >-
       Devops meets Data Science - DataOps Meetup - 31st of May. Fully sponsored
       :)
     uri: >-
       /events/2018/05/31/0e3719fee0b0b83ae23ff67e48a2f60817de05101336e549ca7cca57f54c0846
     organizer: Brisbane DataOps User Group
+    timeStart: '2018-05-31T08:00:00.000Z'
+    timeEnd: null
+  - name: BrisPHP Q2 2018
+    uri: >-
+      /events/2018/05/31/159400903c9e320bcec49d706bf0796ca85337378767818e7c5868920a770eca
+    organizer: use \BNE\PHP;
     timeStart: '2018-05-31T08:00:00.000Z'
     timeEnd: null
   - name: 'Personalisation: Tiny Tweaks for Massive Results'
