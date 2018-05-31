@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-05-31T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-30T05:38:27.966Z'
-timeUpdated: '2018-05-30T05:38:27.966Z'
-countAttending: '70'
+timeCreated: '2018-05-31T05:38:45.107Z'
+timeUpdated: '2018-05-31T05:38:45.107Z'
+countAttending: '74'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: BrisPHP Q2 2018
-date: '2018-05-30T05:38:27.966Z'
+date: '2018-05-31T05:38:45.107Z'
 
 ---
 <p>Time for the second quarterly BrisPHP meetup!</p> <p>We've got some great talks lined up:</p> <p>- What's new in PHP Land by Nathan Dench<br/>- PHP: How the heck did we get here? by Tom Newby<br/>- The beauty of Slim PHP by Nik Kyriakidis<br/>- Reaching Nirvana, one commit at a time by Piers Warmers</p> <p>We still have space for one more talk, if you have an idea for one post an issue on our GitHub: <a href="https://github.com/BrisPHP/meetups/issues" class="linkified">https://github.com/BrisPHP/meetups/issues</a> (this is also a great place to look if you want to give a talk).</p> <p>Everyone who submits a GitHub issue will go into the draw to win a voucher for <a href="https://knpuniversity.com/" class="linkified">https://knpuniversity.com/</a> who offer some great PHP and Symfony online tutorials.</p> <p>This meetup will again be hosted by our great sponsor CreditSense in the City, who will be providing drinks and food.</p> <p>Schedule:<br/>6pm for drinks and mingles<br/>6.20pm kickoff with the first 2 talks<br/>7.00pm break for food and mingles<br/>7.20pm last 2 talks for the night<br/>Will finish up around 8-8.30pm</p>

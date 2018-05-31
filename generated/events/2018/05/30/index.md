@@ -2,24 +2,6 @@
 title: Events for 2018/05/30
 layout: event-index
 events:
-  - name: Gold Coast Bitcoin Mining Coffee Catch Up
-    uri: >-
-      /events/2018/05/30/1af629e029828edda0b85e62d77f9a3e3afc2befb4d012ccba750c70c90bda46
-    organizer: Bitcoin Mining Passive Income Meetup
-    timeStart: '2018-05-30T00:30:00.000Z'
-    timeEnd: null
-  - name: Solidity Programming Language
-    uri: >-
-      /events/2018/05/30/e5238b553338006a2c4723eedef5082c586aaf5df6259de628e1e125ad6510a5
-    organizer: Ethereum Engineering Group
-    timeStart: '2018-05-30T02:30:00.000Z'
-    timeEnd: null
-  - name: Fishburners Weekly Tour
-    uri: >-
-      /events/2018/05/30/1b45488774585212249d2b6519212f21e85c11ff5e6425814ac917a5caa312d8
-    organizer: Fishburners Brisbane
-    timeStart: '2018-05-30T03:00:00.000Z'
-    timeEnd: null
   - name: Lifting and Shifting Legacy Applications to Oracle Cloud
     uri: >-
       /events/2018/05/30/ea03a6bed8b550ebe6a3e424d5aee01f8447bc0fc19bd4c20cf2a89fd5ae9f9b

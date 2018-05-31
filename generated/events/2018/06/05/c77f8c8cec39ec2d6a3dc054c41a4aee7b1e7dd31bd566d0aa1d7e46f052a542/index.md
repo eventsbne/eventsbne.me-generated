@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-05T05:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-30T05:38:27.966Z'
-timeUpdated: '2018-05-30T05:38:27.966Z'
-countAttending: '2'
+timeCreated: '2018-05-31T05:38:45.107Z'
+timeUpdated: '2018-05-31T05:38:45.107Z'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Solving real-world problems with IBM Cloud Object Storage
-date: '2018-05-30T05:38:27.966Z'
+date: '2018-05-31T05:38:45.107Z'
 
 ---
 <p>The object-based storage (OBS) industry is experiencing rapid growth as the marketplace becomes more literate with the concepts and finds new ways to deploy the technology.</p> <p>IBM is a leader in the OBS market, with many customers using our object storage solutions in new and innovative ways. The focus of this presentation is to demonstrate a few of the ways this technology is solving real-world challenges for customers today.</p>
