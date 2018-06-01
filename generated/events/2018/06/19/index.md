@@ -52,6 +52,18 @@ events:
     organizer: Brisbane API's and Microservices Meetup
     timeStart: '2018-06-19T08:00:00.000Z'
     timeEnd: null
+  - name: Google Developer Group - Google I/O
+    uri: >-
+      /events/2018/06/19/8bb1bf995afde0e2525a7074b02600625ffc7d90ee954f483b57c630b456ca11
+    organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
+    timeStart: '2018-06-19T08:00:00.000Z'
+    timeEnd: null
+  - name: A night with Leanne Kemp from Everledger
+    uri: >-
+      /events/2018/06/19/cf8a3014442f787b560a18ff2b986cb18140f574152bd3ed8e31385652d7c05e
+    organizer: Bitcoin & Blockchain Brisbane
+    timeStart: '2018-06-19T08:00:00.000Z'
+    timeEnd: null
   - name: Drupal Gold Coast Monthly Meetup
     uri: >-
       /events/2018/06/19/b6ea01c513d967ee164d1eb70c1a3fd409cf2065df5d3c08dd3cd48315ccb9f4

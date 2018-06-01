@@ -14,6 +14,12 @@ events:
     organizer: Lean Business Strategies
     timeStart: '2018-06-07T02:00:00.000Z'
     timeEnd: null
+  - name: IT Lunch
+    uri: >-
+      /events/2018/06/07/05926e297b321e8adcaf1c578f2f5e64dfa1ff98d86a407e81dea83624bcedd5
+    organizer: dotMaleny
+    timeStart: '2018-06-07T02:30:00.000Z'
+    timeEnd: null
   - name: >-
       How your service providers have a critical impact on your Customer's
       Experience
@@ -27,6 +33,18 @@ events:
       /events/2018/06/07/8cf25e388a96b8704c70c7338ff62f362a2275f35ca94edf243446998b69979b
     organizer: Agile Brisbane
     timeStart: '2018-06-07T07:30:00.000Z'
+    timeEnd: null
+  - name: Tips & Tricks for Kaggle
+    uri: >-
+      /events/2018/06/07/a8a6e23c03130e7e96e2b3be50b206ebd22195807ec21d60d0beb0f3b8c7df05
+    organizer: Brisbane Artificial Intelligence
+    timeStart: '2018-06-07T08:00:00.000Z'
+    timeEnd: null
+  - name: 'Fireside Chat with Cameron Turner, Co creater Perkii'
+    uri: >-
+      /events/2018/06/07/e0932a14669fbc6df70cd86071f56db370331df6813aefdab567d00495cd3497
+    organizer: Ag Tech Innovation & catch up Brisbane Meetup
+    timeStart: '2018-06-07T08:00:00.000Z'
     timeEnd: null
   - name: Bitcoin for Beginners Gold Coast (FREE)
     uri: >-

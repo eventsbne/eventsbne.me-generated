@@ -14,5 +14,17 @@ events:
     organizer: Brisbane Azure User Group
     timeStart: '2018-06-13T07:30:00.000Z'
     timeEnd: null
+  - name: Regular Wednesday Open Hack.
+    uri: >-
+      /events/2018/06/13/fbec2e3add87f5052280cb34b2f3974048966829c1d17a0654ac99433b853fff
+    organizer: Gold Coast Techspace
+    timeStart: '2018-06-13T09:00:00.000Z'
+    timeEnd: null
+  - name: Brisbane Bitcoin Mining Coffee Meet Up
+    uri: >-
+      /events/2018/06/13/929a3c367317f0566d618d9901638e909582e051e85c3b6e9a656733549b4025
+    organizer: Bitcoin Mining Passive Income Meetup
+    timeStart: '2018-06-13T09:30:00.000Z'
+    timeEnd: null
 
 ---
