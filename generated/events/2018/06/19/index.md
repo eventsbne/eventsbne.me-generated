@@ -46,16 +46,16 @@ events:
     organizer: Brisbane Joomla Users Group
     timeStart: '2018-06-19T08:00:00.000Z'
     timeEnd: null
-  - name: 'APIs and Microservices, Talks & Networking - June'
-    uri: >-
-      /events/2018/06/19/9ec1973f3eab41c232a4d8dcda71633aa8bc23bd5b733c4adb3a165c96b7e218
-    organizer: Brisbane API's and Microservices Meetup
-    timeStart: '2018-06-19T08:00:00.000Z'
-    timeEnd: null
   - name: Google Developer Group - Google I/O
     uri: >-
       /events/2018/06/19/8bb1bf995afde0e2525a7074b02600625ffc7d90ee954f483b57c630b456ca11
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
+    timeStart: '2018-06-19T08:00:00.000Z'
+    timeEnd: null
+  - name: 'APIs and Microservices, Talks & Networking - June'
+    uri: >-
+      /events/2018/06/19/9ec1973f3eab41c232a4d8dcda71633aa8bc23bd5b733c4adb3a165c96b7e218
+    organizer: Brisbane API's and Microservices Meetup
     timeStart: '2018-06-19T08:00:00.000Z'
     timeEnd: null
   - name: A night with Leanne Kemp from Everledger

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-07T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-01T05:38:39.508Z'
-timeUpdated: '2018-06-01T05:38:39.508Z'
-countAttending: '1'
+timeCreated: '2018-06-02T05:38:40.526Z'
+timeUpdated: '2018-06-02T05:38:40.526Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: IT Lunch
-date: '2018-06-01T05:38:39.508Z'
+date: '2018-06-02T05:38:40.526Z'
 
 ---
 <p>Come along and join us while we chat about IT, philosophy &amp; metaphysics.</p> <p>Please don't get turned off if there are not many attendees responding. This Meetup is here so new people can find us. Our Techies generally forget to respond :)</p> <p>We do now take a GOLD COIN DONATION JAR to the lunch - not compulsory. We do that because Meetup charge us $AU121 twice a year to keep this here.</p>

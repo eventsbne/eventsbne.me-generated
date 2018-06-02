@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: null
 timeStart: '2018-06-14T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-31T05:38:45.107Z'
-timeUpdated: '2018-05-31T05:38:45.107Z'
-countAttending: '22'
+timeCreated: '2018-06-02T05:38:40.526Z'
+timeUpdated: '2018-06-02T05:38:40.526Z'
+countAttending: '23'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: June Meetup - the great debate
-date: '2018-05-31T05:38:45.107Z'
+date: '2018-06-02T05:38:40.526Z'
 
 ---
 No description was provided.

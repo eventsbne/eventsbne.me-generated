@@ -34,17 +34,23 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-06-07T07:30:00.000Z'
     timeEnd: null
+  - name: 'Fireside Chat with Cameron Turner, Co creater Perkii'
+    uri: >-
+      /events/2018/06/07/e0932a14669fbc6df70cd86071f56db370331df6813aefdab567d00495cd3497
+    organizer: Ag Tech Innovation & catch up Brisbane Meetup
+    timeStart: '2018-06-07T08:00:00.000Z'
+    timeEnd: null
   - name: Tips & Tricks for Kaggle
     uri: >-
       /events/2018/06/07/a8a6e23c03130e7e96e2b3be50b206ebd22195807ec21d60d0beb0f3b8c7df05
     organizer: Brisbane Artificial Intelligence
     timeStart: '2018-06-07T08:00:00.000Z'
     timeEnd: null
-  - name: 'Fireside Chat with Cameron Turner, Co creater Perkii'
+  - name: Let's meetup and learn about Wordpress (including DIVI)
     uri: >-
-      /events/2018/06/07/e0932a14669fbc6df70cd86071f56db370331df6813aefdab567d00495cd3497
-    organizer: Ag Tech Innovation & catch up Brisbane Meetup
-    timeStart: '2018-06-07T08:00:00.000Z'
+      /events/2018/06/07/a29a7e21c178f8ecff633ae684e4d84b5b8aebdc42ecbc52aa0967301b039e2c
+    organizer: Brisbane WordPress Learners Meetup
+    timeStart: '2018-06-07T08:30:00.000Z'
     timeEnd: null
   - name: Bitcoin for Beginners Gold Coast (FREE)
     uri: >-

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-06T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-01T05:38:39.508Z'
-timeUpdated: '2018-06-01T05:38:39.508Z'
-countAttending: '37'
+timeCreated: '2018-06-02T05:38:40.526Z'
+timeUpdated: '2018-06-02T05:38:40.526Z'
+countAttending: '39'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Overcoming bias for better team performance
-date: '2018-06-01T05:38:39.508Z'
+date: '2018-06-02T05:38:40.526Z'
 
 ---
 <p>By now most of us have heard of unconscious bias, the hidden assumptions and associations that hinder our best intentions when it comes to inclusion and diversity. But how do we even begin to manage mental processes which by their very definition, are outside of our awareness?<br/>In this talk, Beth will introduce some of the risks of unconscious bias, the rewards of managing it, and will guide you through some strategies to start you on your journey towards a more inclusive workplace.</p> <p>Beth is a behavioural scientist whose work focuses on cognitive bias and its effects on diversity and inclusion within a human rights perspective. Previously she has worked as a community engagement officer at the Anti-Discrimination Commission Queensland where she developed their Unconscious Bias training package and delivered training and consulting services. Currently she is working for State Government as behavioural economics lead where she brings a wealth of knowledge and experience in finding strategies to improve behavioural outcomes between the government and the public.<br/>Beth Incognito is the lead trainer, consultant, and founder of Incognition.</p>
