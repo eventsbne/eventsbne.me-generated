@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-07T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-02T05:38:40.526Z'
-timeUpdated: '2018-06-02T05:38:40.526Z'
-countAttending: '112'
+timeCreated: '2018-06-03T05:38:41.756Z'
+timeUpdated: '2018-06-03T05:38:41.756Z'
+countAttending: '120'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Tips & Tricks for Kaggle
-date: '2018-06-02T05:38:40.526Z'
+date: '2018-06-03T05:38:41.756Z'
 
 ---
 <p>Join to hear insights on all things Kaggle! Lex and Dmytro will be sharing their tricks for winning (or not doing too badly at least) at Kaggle competitions.<br/>Focusing on structured data, Lex will discuss fundamentals, including:<br/>* Exploring the dataset<br/>* Feature engineering<br/>* Dealing with missing data<br/>* Model selection<br/>* Stacking models<br/>* Kaggle submission</p> <p>Dmytro will then run through case studies of his winning entries to Kaggle. Dmytro is ranked 50th in the ENTIRE WORLD at Kaggle and we just so happened to find him hiding in Brisbane.</p> <p>As usual, this will be interactive so feel free to come with plenty of your own questions :)</p> <p>Agenda:<br/>6:00pm Mingling, networking and nibbles, sponsored by Microsoft<br/>6:30pm Lex Toumbourou (ThoughtWorks)<br/>6:50pm Dmytro Poplavskiy (Topcon Positioning Systems)<br/>7:10pm Open discussion<br/>7:30pm Mingling continued</p> <p>To get to the venue take the elevators from within the old TC Beirne building up to level 2. Lift access will close at 6.30pm. Let us know if you plan on arriving later!</p> <p>A very big thank you to Microsoft for sponsoring the event and the following Kaggle hackathon.</p>

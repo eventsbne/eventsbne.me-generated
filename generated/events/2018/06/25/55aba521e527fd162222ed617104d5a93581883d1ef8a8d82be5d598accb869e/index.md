@@ -1,17 +1,17 @@
 ---
-id: 570ec8d7e89ee3d0cf5dd8bfd38f15f820d77fdd131e92ad080b4a2b3687cf07
-remoteId: xvnpspyxjbpb
+id: 55aba521e527fd162222ed617104d5a93581883d1ef8a8d82be5d598accb869e
+remoteId: xvnpspyxjbhc
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-06-11T08:00:00.000Z'
+timeStart: '2018-06-25T08:00:00.000Z'
 timeEnd: null
 timeCreated: '2018-06-03T05:38:41.756Z'
 timeUpdated: '2018-06-03T05:38:41.756Z'
-countAttending: '10'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
-url: 'https://www.meetup.com/meetup-group-QuCYWLSo/events/250476812/'
+url: 'https://www.meetup.com/meetup-group-QuCYWLSo/events/251352585/'
 image: null
 venue:
   id: 2e11bad796addc1d1f326f924d18dff0c75497db926b534e90540179d32eea14
