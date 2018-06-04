@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-12T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-30T05:38:27.966Z'
-timeUpdated: '2018-05-30T05:38:27.966Z'
-countAttending: '8'
+timeCreated: '2018-06-04T05:38:40.027Z'
+timeUpdated: '2018-06-04T05:38:40.027Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Power up with Sitecore
-date: '2018-05-30T05:38:27.966Z'
+date: '2018-06-04T05:38:40.027Z'
 
 ---
 <p>Lock the date for the next Sitecore Brisbane User Group. Jerry Li, Head Developer at Speedwell will discuss marketing automation in Sitecore 9. Join us to gain valuable insights on how your digital marketing and development team can work together to successfully bring a marketing engagement plan to life using Sitecore. You will learn how to implement an engagement plan effectively and set up marketing automation that delivers relevant experiences for your customers.</p> <p>Join us at Speedwell House at 5pm for drinks. We’ll launch into the presentation and Q&amp;A at 5:30pm and serve pizza and drinks at 6:30pm for a 7pm close. We look forward to seeing you then.</p>

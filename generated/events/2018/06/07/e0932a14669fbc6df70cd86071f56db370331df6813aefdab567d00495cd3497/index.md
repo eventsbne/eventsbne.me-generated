@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-07T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-03T05:38:41.756Z'
-timeUpdated: '2018-06-03T05:38:41.756Z'
-countAttending: '3'
+timeCreated: '2018-06-04T05:38:40.027Z'
+timeUpdated: '2018-06-04T05:38:40.027Z'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Fireside Chat with Cameron Turner, Co creater Perkii'
-date: '2018-06-03T05:38:41.756Z'
+date: '2018-06-04T05:38:40.027Z'
 
 ---
 <p>Cameron Turner - Entrepreneur In Residence and Lecturer, CEO</p> <p>Innovation is the difference between good and great, between break even and profit, between Nokia and Apple. I have spent more than 20 but less than 30 years researching problems, developing solutions and executing innovation and commercialsation strategies to transform ideas into sustainable competitive advantage. The world doesn't need more ideas, it needs better execution of ideas that solve real problems thus creating value. That is what I'm good at.</p> <p>I've founded 4 start-ups commercialising world first innovations, like the worlds most scientifically advanced probiotic drink, a world first biological herbicide and drought proof brightly coloured flowering plants. I've developed and/or commercialised new drug formulations, health supplements and turf, cereal and fruit varieties and am an inventor on 2 patents. I've raised millions of dollars from Angels, VC's and government to commercialise innovations for impact.</p> <p>My USP's are entrepreneurship, business development, capital raising, public speaking and strategy.</p>

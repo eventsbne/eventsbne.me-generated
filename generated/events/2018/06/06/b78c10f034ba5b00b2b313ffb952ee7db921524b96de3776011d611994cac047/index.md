@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-06T05:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-03T05:38:41.756Z'
-timeUpdated: '2018-06-03T05:38:41.756Z'
-countAttending: '11'
+timeCreated: '2018-06-04T05:38:40.027Z'
+timeUpdated: '2018-06-04T05:38:40.027Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Convert your messy spreadsheets into beautiful systems
-date: '2018-06-03T05:38:41.756Z'
+date: '2018-06-04T05:38:40.027Z'
 
 ---
 <p>Dr Stephen Gay has recently been invited to present a webinar to Australian Institute of Mining and Metallurgy on improving Excel use amongst scientists and engineers. This talk will be a live presentation on this topic and will discuss a broad range of techniques such as colour styles, named ranges, arrays, flowcharting, etc. with the purpose of making spreadsheets error-free, understandable, automated and understandable. (the topics are covered in more detail within a 3 day professional Excel course) (<a href="http://www.excelengineering.com.au/" class="linkified">http://www.excelengineering.com.au/</a>)</p> <p>The meeting will be organised once there are a large number of people (greater than 30) indicating interest.</p>

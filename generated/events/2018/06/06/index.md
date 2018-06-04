@@ -14,6 +14,12 @@ events:
     organizer: Bitcoin Mining Passive Income Meetup
     timeStart: '2018-06-06T00:30:00.000Z'
     timeEnd: null
+  - name: Fishburners Weekly Tour
+    uri: >-
+      /events/2018/06/06/aa3e3a7e1ad190fb7e04988883ab36b901e6fa61008b92c39be735d221e7e282
+    organizer: Fishburners Brisbane
+    timeStart: '2018-06-06T03:00:00.000Z'
+    timeEnd: null
   - name: Convert your messy spreadsheets into beautiful systems
     uri: >-
       /events/2018/06/06/b78c10f034ba5b00b2b313ffb952ee7db921524b96de3776011d611994cac047

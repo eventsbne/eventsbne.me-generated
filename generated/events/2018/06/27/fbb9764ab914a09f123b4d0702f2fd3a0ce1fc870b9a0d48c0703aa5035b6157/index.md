@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-27T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-29T05:38:42.409Z'
-timeUpdated: '2018-05-29T05:38:42.409Z'
-countAttending: '11'
+timeCreated: '2018-06-04T05:38:40.027Z'
+timeUpdated: '2018-06-04T05:38:40.027Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane - This Time It's Personal
-date: '2018-05-29T05:38:42.409Z'
+date: '2018-06-04T05:38:40.027Z'
 
 ---
 <p>We're back with another in-person meetup in Brisbane. The format will likely be the usual, with two presentations or activities, followed by social chat.</p> <p>Presenting tonight will be Lana Brindley on "Facebook, Dynamite, Uber, Bombs, and Tech Writers: A quick historical excursion through ethics and documentation." . It's expanded from her recent lightning talk at the WTD Remote meetup. [Content warning for some mild swearing]</p> <p>There will be time for another presentation, so let us know if you're interested. The topic should relate *somehow* to documentation but all ideas will be considered. First-time speakers are especially welcome. Anyone looking to practice a presentation they are preparing is welcome to come along as you'll have a captive audience. Either reply here or message either of the organisers here on Meetup.</p> <p>We look forward to seeing you there.</p>

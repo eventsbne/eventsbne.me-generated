@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-08T23:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-03T05:38:41.756Z'
-timeUpdated: '2018-06-03T05:38:41.756Z'
-countAttending: '28'
+timeCreated: '2018-06-04T05:38:40.027Z'
+timeUpdated: '2018-06-04T05:38:40.027Z'
+countAttending: '31'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Kaggle Hackathon: All levels'
-date: '2018-06-03T05:38:41.756Z'
+date: '2018-06-04T05:38:40.027Z'
 
 ---
 <p>Welcome to our first Brisbane.AI Hackathon! We're holding a full weekender Kaggle hack, friendly to all levels of AI skill.</p> <p>Our regular meetup on the Thursday will be covering tips &amp; tricks for tackling a Kaggle competition and we’ll then be kicking off sharp at 9am on Saturday. Throughout the weekend, we’ve got you sorted with AI mentors and Microsoft staff, catering, and Azure passes for all attendees, thanks to the generous support of Microsoft.</p> <p>Both beginner and intermediate/advanced competitions will be set and for both categories Microsoft will be providing *prizes* for the best submission.<br/>For beginners, this is a chance to dive into AI with a fun challenge and for the AI wizards, show us your skills! Bonus: the intermediate/advanced set is an open Kaggle competition so even more cash is up for grabs for any AI gurus among us.</p> <p>Spaces are limited to only 40 spots. We look forward to seeing you there!</p>

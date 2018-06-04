@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-19T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-01T05:38:39.508Z'
-timeUpdated: '2018-06-01T05:38:39.508Z'
-countAttending: '10'
+timeCreated: '2018-06-04T05:38:40.027Z'
+timeUpdated: '2018-06-04T05:38:40.027Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Google Developer Group - Google I/O
-date: '2018-06-01T05:38:39.508Z'
+date: '2018-06-04T05:38:40.027Z'
 
 ---
 <p>Event details to be posted shortly</p>
