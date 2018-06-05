@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-13T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-04T05:38:40.027Z'
-timeUpdated: '2018-06-04T05:38:40.027Z'
-countAttending: '12'
+timeCreated: '2018-06-05T05:38:45.834Z'
+timeUpdated: '2018-06-05T05:38:45.834Z'
+countAttending: '14'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Security & Cryptography Part 2
-date: '2018-06-04T05:38:40.027Z'
+date: '2018-06-05T05:38:45.834Z'
 
 ---
 <p>BYO Lunch.</p> <p>This is part 2 in the series of talks introducing Security and Cryptography. This talk will introduce basic cryptographic algorithms.</p>

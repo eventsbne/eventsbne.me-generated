@@ -3,10 +3,10 @@ id: 7a359bd4fc8751d4b220c16f02d1ee25d8b02d70a4527e583d17f63a041a47d3
 remoteId: mvjggnyxjbsb
 remoteIdType: meetup
 status: upcoming
-timeStart: '2018-06-14T07:30:00.000Z'
+timeStart: '2018-06-14T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-02T05:38:40.526Z'
-timeUpdated: '2018-06-02T05:38:40.526Z'
+timeCreated: '2018-06-05T05:38:45.834Z'
+timeUpdated: '2018-06-05T05:38:45.834Z'
 countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: Inaugural gathering of AWS Security fans @AWS office! (2nd Thursday)
-date: '2018-06-02T05:38:40.526Z'
+title: '**Tri-state AWS Security Meetup (14th of June)**'
+date: '2018-06-05T05:38:45.834Z'
 
 ---
-<p><img src="https://secure.meetupstatic.com/photos/event/4/4/8/2/600_461597538.jpeg" /></p> <p><b><i>Welcome to the Brisvegas AWS Security Meetup!</i></b></p> <p>We have some great speakers we're lining up for this extra special event. Details to follow.</p> <p>Big shout out for <a href="https://aws.amazon.com/">AWS</a> who are sponsoring this event.</p> <p>Get the RSVPs rolling as we only have a limited number of tickets.</p> <p>See you there.</p> <p>Stephen</p>
+<p>*To facilitate AWS venue security requirements, all tickets of this event are via EventBrite.*</p> <p>***REGISTER HERE: <a href="https://www.eventbrite.com.au/e/june-14-aws-security-meetup-brisbane-tickets-46646564129" class="linkified">https://www.eventbrite.com.au/e/june-14-aws-security-meetup-brisbane-tickets-46646564129</a></p> <p>Here's our AWS Security talks for the month of June 2018</p> <p>SPEAKER 1: <br/>Jefferson Haw - Sr. Sales Engr, Okta<br/>TALK TOPIC:<br/>'Streamlining modern authentication into your infrastructure, applications and APIs.'<br/>Does securing your infrastructure/applications/APIs managed and deployed through AWS continuously keep you stay awake at night? Or thinking on how to re-vitalize your existing Identity/Security systems and integrating them with your new modern breed of applications? Learn how either or both of these challenges can be addressed with latest technology, frameworks, approaches and deep dive into demonstrations leveraging the AWS stack using AWS EC2, AWS IAM, AWS Lambda, API Gateway and Alexa</p> <p>SPEAKER 2:<br/>Stephen Wallace - Founder, Meetup Madness<br/>TALK TOPIC:<br/>'TBD'<br/>TBD</p> <p>Schedule:<br/>SYD, MELB &amp; BRIS - Registration, food &amp; drinks starts at 6:00 PM / Presentation starts 6:30 PM</p> <p>Big thanks to our host and sponsor AWS &amp; Okta!!</p> <p>To facilitate AWS venue security requirements, all tickets of this event are via EventBrite in the registration link below.</p> <p>***REGISTER HERE: <a href="https://www.eventbrite.com.au/e/june-14-aws-security-meetup-brisbane-tickets-46646564129" class="linkified">https://www.eventbrite.com.au/e/june-14-aws-security-meetup-brisbane-tickets-46646564129</a></p> <p>Grab your ticket, and see you there!</p> <p>The MeetupMadness Team</p>

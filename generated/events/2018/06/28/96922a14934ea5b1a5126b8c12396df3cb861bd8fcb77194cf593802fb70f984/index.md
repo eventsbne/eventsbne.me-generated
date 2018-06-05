@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-28T06:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-30T05:38:27.966Z'
-timeUpdated: '2018-05-30T05:38:27.966Z'
-countAttending: '5'
+timeCreated: '2018-06-05T05:38:45.834Z'
+timeUpdated: '2018-06-05T05:38:45.834Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Salesforce Developer Group Meeting
-date: '2018-05-30T05:38:27.966Z'
+date: '2018-06-05T05:38:45.834Z'
 
 ---
 <p>Draft agenda as follows: </p> <p>• 4:00pm Food and Drinks </p> <p>• 4:30pm MC opens event &amp; House Keeping </p> <p>• 4:40pm Notice Board – SFDC and Group Announcements </p> <p>• 4:45pm Presentation/Topic TBA</p> <p>• 5:20pm Open Mic – Q&amp;A time, not just for the speaker but also general Q&amp;A </p> <p>• 5:30pm Close and network (finish food and drinks ;)) </p> <p>• 6:00pm Exit </p> <p>If you have any ideas or suggestions please let us know on the </p> <p><a href="http://www.meetup.com/Brisbane-Salesforce-Developer-Group/messages/boards/">Discussions page</a></p>

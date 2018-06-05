@@ -34,6 +34,12 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-06-07T07:30:00.000Z'
     timeEnd: null
+  - name: How to scale up/down Agile Teams
+    uri: >-
+      /events/2018/06/07/1e67c884ea1dae7996e1cf3e204b9a8f3d985e67b8acc3d5c5d0ea3d2635ac8a
+    organizer: Brisbane Scrum User Group
+    timeStart: '2018-06-07T07:50:00.000Z'
+    timeEnd: null
   - name: Tips & Tricks for Kaggle
     uri: >-
       /events/2018/06/07/a8a6e23c03130e7e96e2b3be50b206ebd22195807ec21d60d0beb0f3b8c7df05

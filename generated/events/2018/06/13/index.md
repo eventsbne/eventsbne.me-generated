@@ -14,6 +14,12 @@ events:
     organizer: Brisbane Azure User Group
     timeStart: '2018-06-13T07:30:00.000Z'
     timeEnd: null
+  - name: How to Apply Jobs To Be Done Theory
+    uri: >-
+      /events/2018/06/13/6d388cf56c08aad5664df8c7fecafad0df242b90891e344977a6c5fafbc05ce5
+    organizer: Product Talks Brisbane
+    timeStart: '2018-06-13T07:30:00.000Z'
+    timeEnd: null
   - name: Regular Wednesday Open Hack.
     uri: >-
       /events/2018/06/13/fbec2e3add87f5052280cb34b2f3974048966829c1d17a0654ac99433b853fff

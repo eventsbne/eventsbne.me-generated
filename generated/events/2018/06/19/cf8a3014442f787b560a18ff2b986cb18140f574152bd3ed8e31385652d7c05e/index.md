@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-19T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-04T05:38:40.027Z'
-timeUpdated: '2018-06-04T05:38:40.027Z'
-countAttending: '70'
+timeCreated: '2018-06-05T05:38:45.834Z'
+timeUpdated: '2018-06-05T05:38:45.834Z'
+countAttending: '74'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -38,7 +38,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: A night with Leanne Kemp from Everledger
-date: '2018-06-04T05:38:40.027Z'
+date: '2018-06-05T05:38:45.834Z'
 
 ---
 <p>Brisbane based blockchain "startup" Everledger have kindly agreed to speak at this months blockchain meetup.</p> <p>Come down and hear all about the things Everledger are doing from their CEO Leanne Kemp.</p> <p><a href="https://techcrunch.com/2015/06/29/everledger/" class="linkified">https://techcrunch.com/2015/06/29/everledger/</a></p>
