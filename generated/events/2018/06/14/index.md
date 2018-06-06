@@ -8,6 +8,12 @@ events:
     organizer: Drupal Brisbane
     timeStart: '2018-06-13T23:30:00.000Z'
     timeEnd: null
+  - name: Brisbane Tableau User Group - June 2018
+    uri: >-
+      /events/2018/06/14/22ff8dcf66916dfc4389739794b5f4c618243d3c6f4d90ad172051ea9bf6e4a0
+    organizer: Brisbane Tableau User Group
+    timeStart: '2018-06-14T07:00:00.000Z'
+    timeEnd: null
   - name: June Meetup - the great debate
     uri: >-
       /events/2018/06/14/8c01362ced09e7c8ad6ac15fcf5b6042a4505ea052a4d6f5253fb53bfd012963

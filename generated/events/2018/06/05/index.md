@@ -2,24 +2,6 @@
 title: Events for 2018/06/05
 layout: event-index
 events:
-  - name: How to write content to transform your business - Online Masterclass
-    uri: >-
-      /events/2018/06/05/dfb8a90df804576d9db99210e2119bc2d4a1fab94f2f6a5418deabac13593356
-    organizer: Savvy Australian Bloggers
-    timeStart: '2018-06-04T23:30:00.000Z'
-    timeEnd: null
-  - name: Containers and Kuberbetes - FREE 2hr Hands-On Workshop
-    uri: >-
-      /events/2018/06/05/c0716df8e3104cf34470dc8bea309599c6c521a22d94a3fce6885644b48cc164
-    organizer: Oracle Brisbane
-    timeStart: '2018-06-04T23:30:00.000Z'
-    timeEnd: null
-  - name: Solving real-world problems with IBM Cloud Object Storage
-    uri: >-
-      /events/2018/06/05/c77f8c8cec39ec2d6a3dc054c41a4aee7b1e7dd31bd566d0aa1d7e46f052a542
-    organizer: Brisbane IBM Systems Server and Storage User Group
-    timeStart: '2018-06-05T05:00:00.000Z'
-    timeEnd: null
   - name: Google Developer Group
     uri: >-
       /events/2018/06/05/1264243fbc12162ed1b77eda5ded0eb72178f19099d2e555b9a8e24ec03e062a

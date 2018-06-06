@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-18T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-05T05:38:45.834Z'
-timeUpdated: '2018-06-05T05:38:45.834Z'
-countAttending: '53'
+timeCreated: '2018-06-06T05:38:53.902Z'
+timeUpdated: '2018-06-06T05:38:53.902Z'
+countAttending: '59'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Blockchain Fundamentals: What''s the Blockchain and How Does It Work?'
-date: '2018-06-05T05:38:45.834Z'
+date: '2018-06-06T05:38:53.902Z'
 
 ---
 <p>Join us for our inaugural Blockchain for Business meetup! We'll look at the fundamentals of Blockchain technology, including:</p> <p>• An overview of the first blockchain - Bitcoin<br/>• Sending, storing and signing transactions<br/>• The problems that blockchain technology solves<br/>• Consensus and decentralisation - why they are important in a blockchain<br/>• What we’ve learned after almost 10 years of Bitcoin<br/>• Where the technology is being used now<br/>• Where the technology will be used in the future</p> <p>We'll then open it up for Q&amp;A.</p> <p>The evening should provide a great starting point for anyone wishing to understand what blockchain is and how it may be relevant to them in a professional or business sense. If you're considering using the technology or just want to learn if it's something you need to be considering, this will give you a useful overview.</p> <p>You'll also get the opportunity to network with other business leaders, developers and professionals who are looking to build with the technology. Ultimately, our aim is to build a vibrant enterprise blockchain community where we can collaborate, learn from and add value to everyone involved.</p> <p>To be clear, this is not an investment group - we are focused solely on the technology and how it may be used in enterprise/business settings. If you're looking for speculation or 'investor' groups, there are plenty of those out there. Our focus is building.</p> <p>More details including venue to come.</p> <p>An initiative of BlockSense - <a href="https://block-sense.io" class="linkified">https://block-sense.io</a></p>

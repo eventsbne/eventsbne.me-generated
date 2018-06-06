@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-18T22:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-05T05:38:45.834Z'
-timeUpdated: '2018-06-05T05:38:45.834Z'
-countAttending: '18'
+timeCreated: '2018-06-06T05:38:53.902Z'
+timeUpdated: '2018-06-06T05:38:53.902Z'
+countAttending: '17'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: EOFY - Mobile App Developer meetup
-date: '2018-06-05T05:38:45.834Z'
+date: '2018-06-06T05:38:53.902Z'
 
 ---
 <p>Hi everyone,</p> <p>We're excited to finally kick off the first meetup event this year.</p> <p>We'll talk about Google I/O and exciting things happening on iOS side as well. We can also talk about how we can prepare for future meetup events. I'll present my thoughts and would like to have your input as well.</p> <p>If time permitted, I'd like to give you a tour in the new Flight Centre building. I'm excited to meet you here. Hope you can come.</p> <p>Please note that if fewer than 5 people will attend the event will be canceled.</p>

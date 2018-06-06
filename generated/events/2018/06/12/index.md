@@ -8,7 +8,7 @@ events:
     organizer: Sitecore Brisbane User Group
     timeStart: '2018-06-12T07:00:00.000Z'
     timeEnd: null
-  - name: BFPG Monthly Meetup
+  - name: Hedgehog State Machine Testing & Typescript Sodium (+React)
     uri: >-
       /events/2018/06/12/fd85f556dc5582010458c05fa0d5a815182b9c0c749e7e48f51a73b3d71d4c37
     organizer: Brisbane Functional Programming Group (BFPG)
