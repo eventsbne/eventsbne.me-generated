@@ -20,6 +20,18 @@ events:
     organizer: Ethereum Brisbane
     timeStart: '2018-06-26T08:00:00.000Z'
     timeEnd: null
+  - name: News (there's a lot this month) and Presentations. More to come
+    uri: >-
+      /events/2018/06/26/bb2bb4efcff194c5e9cf5c64e29dc30b817cd522e59bd88604e91af7aada165b
+    organizer: 'Queensland C# Mobile Developers (iOS/Android/Windows)'
+    timeStart: '2018-06-26T08:00:00.000Z'
+    timeEnd: null
+  - name: Monthly Scala Meetup
+    uri: >-
+      /events/2018/06/26/b2991ba38823656f8261d1dcc35340662c7d614f8dc3b54097646aa02c427a5b
+    organizer: Brisbane Scala Meetup
+    timeStart: '2018-06-26T08:00:00.000Z'
+    timeEnd: null
   - name: BrisRuby.com Monthly  Meetup
     uri: >-
       /events/2018/06/26/d9f38ef1dabd8de9e8f1e2867ff14d905ad5e6d1a9816d35f5408a489c393685

@@ -8,5 +8,11 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-07-05T22:00:00.000Z'
     timeEnd: null
+  - name: Monthly Brisbane Bitcoin Cash meetup
+    uri: >-
+      /events/2018/07/06/d289829bca4df8156a56c4f442aab7892037d6bec1c2b257458e2a232454b74e
+    organizer: Bitcoin Cash Brisbane
+    timeStart: '2018-07-06T08:30:00.000Z'
+    timeEnd: null
 
 ---

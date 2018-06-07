@@ -8,6 +8,12 @@ events:
     organizer: Brisbane Salesforce Developer Group
     timeStart: '2018-06-28T06:00:00.000Z'
     timeEnd: null
+  - name: Meet Tim Walmsley of BenchOn. Welcome to the future of work!
+    uri: >-
+      /events/2018/06/28/cba82ebb84387ca535cd4b9dc1ab3ff1100f91ae8c94501fa2dcdd5f60759d85
+    organizer: Startup Grind Brisbane
+    timeStart: '2018-06-28T07:30:00.000Z'
+    timeEnd: null
   - name: Let's Talk WordPress!
     uri: >-
       /events/2018/06/28/44c72d454619e037575fc5547994ad20f010dfa627248565650c7c089a786e0c

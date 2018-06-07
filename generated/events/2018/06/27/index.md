@@ -20,5 +20,11 @@ events:
     organizer: Hacks/Hackers Brisbane
     timeStart: '2018-06-27T08:00:00.000Z'
     timeEnd: null
+  - name: WordPress Ipswich June Meetup
+    uri: >-
+      /events/2018/06/27/a0bfc211b9fa868e91a4b82e95c30278282a7c4d2fdb2dbf11c3eb787f90fc42
+    organizer: Ipswich WordPress Meetup
+    timeStart: '2018-06-27T08:00:00.000Z'
+    timeEnd: null
 
 ---

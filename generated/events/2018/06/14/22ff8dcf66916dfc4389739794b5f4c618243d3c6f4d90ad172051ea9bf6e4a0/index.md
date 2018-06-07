@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-14T07:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-06T05:38:53.902Z'
-timeUpdated: '2018-06-06T05:38:53.902Z'
-countAttending: '2'
+timeCreated: '2018-06-07T05:38:34.941Z'
+timeUpdated: '2018-06-07T05:38:34.941Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Brisbane Tableau User Group - June 2018
-date: '2018-06-06T05:38:53.902Z'
+date: '2018-06-07T05:38:34.941Z'
 
 ---
 <p>IMPORTANT:<br/>Registration have to go through EventBrite, please follow the below link, or reach out if you have any question.<br/>Thanks, and look forward to seeing you there!</p> <p><a href="https://www.eventbrite.com/e/brisbane-tableau-user-group-14-june-2018-tickets-46559263009?aff=ebdssbdestsearch" class="linkified">https://www.eventbrite.com/e/brisbane-tableau-user-group-14-june-2018-tickets-46559263009?aff=ebdssbdestsearch</a></p> <p>Contacts:</p> <p>Dave Keys<br/>M:[masked] E: [masked]</p> <p>Adam Roberti<br/>M:[masked] E: [masked]</p> <p>www.keydata.com.au</p>
