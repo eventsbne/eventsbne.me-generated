@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-12T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-04T05:38:40.027Z'
-timeUpdated: '2018-06-04T05:38:40.027Z'
-countAttending: '7'
+timeCreated: '2018-06-08T05:38:38.240Z'
+timeUpdated: '2018-06-08T05:38:38.240Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Intelligentsia
-date: '2018-06-04T05:38:40.027Z'
+date: '2018-06-08T05:38:38.240Z'
 
 ---
 <p>Intelligentisia is our regular monthly meetup of GCAIML. We will kick off with a welcome and overview of what has been happening in the world of AI/ML in the past month, then switch into our presentations.</p> <p>Presentations this month:</p> <p>• The Vegan Argument and the Human Brain, Tiah Goldstein</p> <p>• Can AI Be Too Human? , Kelvin Ross</p> <p>If you would like to speak about your interesting AI project or use case please volunteer. All welcome.</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-07T05:38:34.941Z'
-timeUpdated: '2018-06-07T05:38:34.941Z'
-countAttending: '4'
+timeCreated: '2018-06-08T05:38:38.240Z'
+timeUpdated: '2018-06-08T05:38:38.240Z'
+countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Scala Meetup
-date: '2018-06-07T05:38:34.941Z'
+date: '2018-06-08T05:38:38.240Z'
 
 ---
 <p>We will be providing two talks:<br/>* Introductory Scala talk - why Scala is an awesome language to develop in.<br/>* TBA</p> <p>Pizza, beer and soft drinks will be supplied.</p>

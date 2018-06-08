@@ -8,6 +8,12 @@ events:
     organizer: Drupal Brisbane
     timeStart: '2018-06-13T23:30:00.000Z'
     timeEnd: null
+  - name: IT Lunch
+    uri: >-
+      /events/2018/06/14/8cbc5d9c2b994c286570577a4cef7aea5a52ce75c2bdd2e5b5d47497b192ce17
+    organizer: dotMaleny
+    timeStart: '2018-06-14T02:30:00.000Z'
+    timeEnd: null
   - name: Brisbane Tableau User Group - June 2018
     uri: >-
       /events/2018/06/14/22ff8dcf66916dfc4389739794b5f4c618243d3c6f4d90ad172051ea9bf6e4a0
