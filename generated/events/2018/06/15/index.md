@@ -14,5 +14,11 @@ events:
     organizer: Brisbane PaymentTech Meetup
     timeStart: '2018-06-15T02:00:00.000Z'
     timeEnd: null
+  - name: Fishburners Pitch-Off Series
+    uri: >-
+      /events/2018/06/15/e926440600d6b69f2383145f631f7d7246d16fc51d854abf290f67b201357fc9
+    organizer: Fishburners Brisbane
+    timeStart: '2018-06-15T07:00:00.000Z'
+    timeEnd: null
 
 ---

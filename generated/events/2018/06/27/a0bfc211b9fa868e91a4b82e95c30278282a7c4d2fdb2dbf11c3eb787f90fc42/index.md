@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-27T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-08T05:38:38.240Z'
-timeUpdated: '2018-06-08T05:38:38.240Z'
-countAttending: '4'
+timeCreated: '2018-06-09T05:38:52.158Z'
+timeUpdated: '2018-06-09T05:38:52.158Z'
+countAttending: '6'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress Ipswich June Meetup
-date: '2018-06-08T05:38:38.240Z'
+date: '2018-06-09T05:38:52.158Z'
 
 ---
 <p>**Guest speaker and topic will be announced before the Meetup. **</p> <p>If you have an idea or found a WordPress feature you didn't know about recently then chances are many others in the group may not know either. It could even be a recent plugin you discovered, we'd love to have you as a guest speaker to share your knowledge. Please see one of the organisers if you'd like to present, the more we share then the more we all learn!</p> <p>Drinks and pizza are also provided, thanks to our gracious sponsors Fire Station 101, Ipswich and West Moreton ARIP, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p> <p>The WordPress Meetups are community driven and focused. Anyone with an interest in WordPress is very welcome to attend, we have members who range from bloggers and basic business owners who use WordPress through to designers and developers who have high levels of knowledge.</p>

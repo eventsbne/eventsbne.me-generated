@@ -5,8 +5,8 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-08T05:38:38.240Z'
-timeUpdated: '2018-06-08T05:38:38.240Z'
+timeCreated: '2018-06-09T05:38:52.158Z'
+timeUpdated: '2018-06-09T05:38:52.158Z'
 countAttending: '7'
 countCapacity: null
 countWaitlist: '0'
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Scala Meetup
-date: '2018-06-08T05:38:38.240Z'
+date: '2018-06-09T05:38:52.158Z'
 
 ---
-<p>We will be providing two talks:<br/>* Introductory Scala talk - why Scala is an awesome language to develop in.<br/>* TBA</p> <p>Pizza, beer and soft drinks will be supplied.</p>
+<p>We will be providing two talks:<br/>* Introductory Scala talk - why Scala is an awesome language to develop in.<br/>* Enhanced Type Safety in Scala: A brief tour through Value types, Refined, Doobie, PureConfig etc, showing how you can enhance type safety for minimal or zero runtime cost.</p> <p>Pizza, beer and soft drinks will be supplied.</p>
