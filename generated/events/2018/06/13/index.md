@@ -20,16 +20,22 @@ events:
     organizer: Fishburners Brisbane
     timeStart: '2018-06-13T03:00:00.000Z'
     timeEnd: null
+  - name: How to Apply Jobs To Be Done Theory
+    uri: >-
+      /events/2018/06/13/6d388cf56c08aad5664df8c7fecafad0df242b90891e344977a6c5fafbc05ce5
+    organizer: Product Talks Brisbane
+    timeStart: '2018-06-13T07:30:00.000Z'
+    timeEnd: null
   - name: Looking into MS Conversational AI Tech Stack
     uri: >-
       /events/2018/06/13/0cb361275b30f6c771dcac5be1b63ab3c39800ccacdb302449249d4a59c066c3
     organizer: Brisbane Azure User Group
     timeStart: '2018-06-13T07:30:00.000Z'
     timeEnd: null
-  - name: How to Apply Jobs To Be Done Theory
+  - name: YOW! Night 2018 Brisbane - Sebastian von Conrad - Jun 13
     uri: >-
-      /events/2018/06/13/6d388cf56c08aad5664df8c7fecafad0df242b90891e344977a6c5fafbc05ce5
-    organizer: Product Talks Brisbane
+      /events/2018/06/13/1bff4bfaa5c4eaf24bdab1e4223bdc22388a9ff4d563137251a08687f95cde17
+    organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-06-13T07:30:00.000Z'
     timeEnd: null
   - name: Regular Wednesday Open Hack.
