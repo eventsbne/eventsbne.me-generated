@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-12T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-10T05:38:31.499Z'
-timeUpdated: '2018-06-10T05:38:31.499Z'
-countAttending: '17'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '18'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Introduction to ARM
-date: '2018-06-10T05:38:31.499Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>Hi Everyone!</p> <p>For this meetup we'll have Aaron stepping us through an introduction to ARM, setting up an emulator, and writing some code.</p> <p>If you'd like to follow along, please bring along a laptop capable of running a virtual machine.</p> <p>See you there!<br/>Josh</p>

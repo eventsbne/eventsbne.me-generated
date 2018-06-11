@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-11T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-10T05:38:31.499Z'
-timeUpdated: '2018-06-10T05:38:31.499Z'
-countAttending: '8'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -35,8 +35,8 @@ organizer:
   description: null
   codeOfConduct: null
 layout: event
-title: 'Call for Speakers: EmberJS Brisbane Meetup 11 June'
-date: '2018-06-10T05:38:31.499Z'
+title: Running React inside Ember
+date: '2018-06-11T05:38:30.164Z'
 
 ---
-<p>EmberJS Brisbane will be having the next meetup on the evening of Monday 11th June at offices of GBST at 410 Ann Street, Brisbane.</p> <p>We will aim to have pizza and drinks followed by a couple of talks and/or workshops. We are looking for speakers/ideas to present at our next meetup.</p> <p>If you would like to request a talk or would like to speak about something Ember related, create an issue on our GitHub page, <a href="https://github.com/EmberBris/meetups/issues" class="linkified">https://github.com/EmberBris/meetups/issues</a>.</p> <p>Feel free to get in touch with James or Kartik for any further questions :)</p>
+<p>Talk 1: Running React Inside Ember by Roz Chivers</p> <p>Roz is a senior architect with GBST in Sydney. For the last couple of weeks Roz has been trying to run React Components, GraphQL, Vue Components within Ember-cli and really is at the forefront of the latest front micro architecture patterns.</p> <p>Come along to today's meetup to hear from Roz (coming up all the way from Sydney)!</p> <p>We will aim to have pizza and drinks followed by a couple of talks and/or workshops. We are looking for speakers/ideas to present at our next meetup.</p> <p>If you would like to request a talk or would like to speak about something Ember related, create an issue on our GitHub page, <a href="https://github.com/EmberBris/meetups/issues" class="linkified">https://github.com/EmberBris/meetups/issues</a>.</p> <p>Feel free to get in touch with James or Kartik for any further questions. Call Kartik on 0413 643 373 if you need help getting access to the lifts.</p>

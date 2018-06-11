@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-27T02:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-05-28T05:38:25.938Z'
-timeUpdated: '2018-05-28T05:38:25.938Z'
-countAttending: '1'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Consensus Algorithms: PoW, PoS, PoA'
-date: '2018-05-28T05:38:25.938Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>BYO Lunch.</p> <p>Rob Dawson (<a href="https://www.linkedin.com/in/redawson/" class="linkified">https://www.linkedin.com/in/redawson/</a>) will present on Proof of Work, Proof of Stake, and Proof of Authority consensus algorithms.</p>

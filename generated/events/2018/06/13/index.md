@@ -2,11 +2,23 @@
 title: Events for 2018/06/13
 layout: event-index
 events:
+  - name: Hackday - Fast.AI Framework
+    uri: >-
+      /events/2018/06/13/d26bedc90c730f5d26f0dcaa6a6fd865121e0b01f3bfcdd3e939e4136a1ab6ef
+    organizer: GCAIML
+    timeStart: '2018-06-12T23:30:00.000Z'
+    timeEnd: null
   - name: Gold Coast Bitcoin Mining Coffee Catch Up
     uri: >-
       /events/2018/06/13/ea18060084aa962a58d76458a1f759b053d019a1c9f25e38ad2916845caa06a6
     organizer: Bitcoin Mining Passive Income Meetup
     timeStart: '2018-06-13T00:30:00.000Z'
+    timeEnd: null
+  - name: TWIML & AI Meetup
+    uri: >-
+      /events/2018/06/13/756bc6bf27c4bb09d6977002cbd50c3f16b53ce174131812019459c60b03489b
+    organizer: GCAIML
+    timeStart: '2018-06-13T01:00:00.000Z'
     timeEnd: null
   - name: Security & Cryptography Part 2
     uri: >-
@@ -37,6 +49,12 @@ events:
       /events/2018/06/13/1bff4bfaa5c4eaf24bdab1e4223bdc22388a9ff4d563137251a08687f95cde17
     organizer: 'Brisbane Google Cloud Developer Group [GDG Cloud]'
     timeStart: '2018-06-13T07:30:00.000Z'
+    timeEnd: null
+  - name: Brisbane Northside WordPress Meetup
+    uri: >-
+      /events/2018/06/13/6b6cb250c34b0678cfa1f401571c22f2312c31054923b10a3ce93c3a7b4a0392
+    organizer: WordPress Brisbane
+    timeStart: '2018-06-13T08:00:00.000Z'
     timeEnd: null
   - name: Regular Wednesday Open Hack.
     uri: >-

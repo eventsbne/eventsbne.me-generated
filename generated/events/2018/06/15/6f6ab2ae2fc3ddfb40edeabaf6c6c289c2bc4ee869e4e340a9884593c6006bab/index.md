@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-15T01:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-10T05:38:31.499Z'
-timeUpdated: '2018-06-10T05:38:31.499Z'
-countAttending: '8'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '9'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Mid-morning inspiration
-date: '2018-06-10T05:38:31.499Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>A casual catch up over coffee. Meet your local startup community, bounce some ideas, get caffeinated. Who knows what could grow from one coffee?</p>

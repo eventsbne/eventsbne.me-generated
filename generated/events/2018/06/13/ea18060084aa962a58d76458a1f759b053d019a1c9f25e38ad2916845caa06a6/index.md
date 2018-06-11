@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-13T00:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-07T05:38:34.941Z'
-timeUpdated: '2018-06-07T05:38:34.941Z'
-countAttending: '1'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '2'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Gold Coast Bitcoin Mining Coffee Catch Up
-date: '2018-06-07T05:38:34.941Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>Explanation of Bitcoin Mining.<br/>How to earn part time passive income</p>

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-02T08:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-10T05:38:31.499Z'
-timeUpdated: '2018-06-10T05:38:31.499Z'
-countAttending: '26'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '29'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -27,7 +27,7 @@ organizer:
   codeOfConduct: 'https://brisjs.org/#conduct'
 layout: event
 title: The Next BrisJS - Call For Speakers
-date: '2018-06-10T05:38:31.499Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>This is a placeholder for our regular meetup on the first Monday of each month, which celebrates everything JS.</p> <p>Please get in touch for presenting interesting or insightful discoveries in the rapidly developing frontend or backend javascript world.</p> <p>Also check our github issues page for upcoming topics or make requests. <a href="https://github.com/BrisJS/meetups/issues" class="linkified">https://github.com/BrisJS/meetups/issues</a></p> <p>You're also welcome to get in touch with me at me@kevinv.org for any information.</p> <p>Details for the talks will be published toward the final date.</p>

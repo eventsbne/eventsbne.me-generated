@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-04T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-08T05:38:38.240Z'
-timeUpdated: '2018-06-08T05:38:38.240Z'
-countAttending: '14'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '19'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Welcome to Azure Service Fabric, be our Guest!'
-date: '2018-06-08T05:38:38.240Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>******************************************************************<br/>NOTE: THIS MONTH'S MEETING IS ONE WEEK EARLY<br/>******************************************************************</p> <p>This session with be an intro to Service Fabric and the programming/application models. Specifically it will cover the Pros and Cons of the Guest Executable pattern, including working examples of creating and deploying applications as a guest executable using Visual Studio, a local cluster, and an Azure Cluster.</p> <p>This will also be an exploration of how Caterpillar have used this pattern to create a new product (MineStar Lite).</p> <p>About the Presenter:</p> <p>Andrew Cartwright (<a href="https://www.linkedin.com/in/andrew-cartwright/" class="linkified">https://www.linkedin.com/in/andrew-cartwright/</a>) has over 25 years in IT covering a wide range of roles in development, management and architecture. Having worked in research, government and the private sector, a common theme has been transport, starting with railway simulation, on to helicopters, planes, boats and most recently mining vehicles. What's exciting for Andrew today is IoT and the Cloud, the velocity and flexibility that enables rapid turn around of customer requirements to delivery of business value.</p>

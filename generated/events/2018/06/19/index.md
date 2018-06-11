@@ -22,6 +22,12 @@ events:
     organizer: Queensland Branch of the Statistical Society of Australia
     timeStart: '2018-06-19T07:00:00.000Z'
     timeEnd: null
+  - name: GitLab Community  - learning & networking event
+    uri: >-
+      /events/2018/06/19/f00b37b4dd3b6bd1dd4d341e65ab95f7a9c67b8fdfa93b8b86613e479d63995f
+    organizer: Brisbane - GitLab Meetup
+    timeStart: '2018-06-19T07:30:00.000Z'
+    timeEnd: null
   - name: 'The CSUN Conf, and why access matters'
     uri: >-
       /events/2018/06/19/c272919b06159be8accbe472907fea2f4cf9b71665e5fe554d96438e2fa5c837
@@ -32,12 +38,6 @@ events:
     uri: >-
       /events/2018/06/19/014db0ca0826de40b1fe4b9b6ece04b2cfad42f3ec0a00b0f8fabb168cd8af3f
     organizer: UI + Visual Design BNE
-    timeStart: '2018-06-19T07:30:00.000Z'
-    timeEnd: null
-  - name: GitLab Community  - learning & networking event
-    uri: >-
-      /events/2018/06/19/f00b37b4dd3b6bd1dd4d341e65ab95f7a9c67b8fdfa93b8b86613e479d63995f
-    organizer: Brisbane - GitLab Meetup
     timeStart: '2018-06-19T07:30:00.000Z'
     timeEnd: null
   - name: Open Night Tuesdays

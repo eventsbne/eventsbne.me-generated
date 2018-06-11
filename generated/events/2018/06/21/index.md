@@ -8,6 +8,12 @@ events:
     organizer: Amazon Web Services - Gold Coast User Group
     timeStart: '2018-06-21T08:30:00.000Z'
     timeEnd: null
+  - name: 'Bitcoin: Beyond Beginners Gold Coast (Free)'
+    uri: >-
+      /events/2018/06/21/0b39b20599900c14e94bd09cb7279e3115d6718a2f1cc051360bd14c8bb9654d
+    organizer: Bitcoin MeetUp Gold Coast (Free)
+    timeStart: '2018-06-21T08:30:00.000Z'
+    timeEnd: null
   - name: June Drones Meetup
     uri: >-
       /events/2018/06/21/4aea335718d451b1b5fcf5c583d71498179e48c285652ff64dcb6d971959aeff

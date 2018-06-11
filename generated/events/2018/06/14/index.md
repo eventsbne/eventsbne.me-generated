@@ -26,16 +26,16 @@ events:
     organizer: Brisbane Dynamics 365 User Group
     timeStart: '2018-06-14T07:30:00.000Z'
     timeEnd: null
-  - name: '[Fortitude Valley] WordPress Brisbane June'
-    uri: >-
-      /events/2018/06/14/b6aeda19875ffd457be63e310a2746cae504861f529873cbe94ac37311c0b534
-    organizer: WordPress Brisbane
-    timeStart: '2018-06-14T08:00:00.000Z'
-    timeEnd: null
   - name: '**Tri-state AWS Security Meetup (14th of June)**'
     uri: >-
       /events/2018/06/14/7a359bd4fc8751d4b220c16f02d1ee25d8b02d70a4527e583d17f63a041a47d3
     organizer: Brisbane AWS Security User Group
+    timeStart: '2018-06-14T08:00:00.000Z'
+    timeEnd: null
+  - name: '[Fortitude Valley] WordPress Brisbane June'
+    uri: >-
+      /events/2018/06/14/b6aeda19875ffd457be63e310a2746cae504861f529873cbe94ac37311c0b534
+    organizer: WordPress Brisbane
     timeStart: '2018-06-14T08:00:00.000Z'
     timeEnd: null
   - name: The crisis in health and medical statistics

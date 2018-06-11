@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-19T07:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-10T05:38:31.499Z'
-timeUpdated: '2018-06-10T05:38:31.499Z'
-countAttending: '11'
+timeCreated: '2018-06-11T05:38:30.164Z'
+timeUpdated: '2018-06-11T05:38:30.164Z'
+countAttending: '12'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'The CSUN Conf, and why access matters'
-date: '2018-06-10T05:38:31.499Z'
+date: '2018-06-11T05:38:30.164Z'
 
 ---
 <p>hey there,</p> <p>So this month after a wonderful A11y Bytes we're back at the ABC for our regular talks followed by a beer at the Charming Squire.</p> <p>This month we have two speakers. Intopia Digital will be providing a speaker (final details to be locked in - will update description ASAP) to discuss the recent CSUN Conference and what's new in accessibility. More details to come....</p> <p>Additionally we'll have a personal story from Jordan Morris about his journey into accessibility tech and why it's important. Here is a teaser to his story: "I’m a Junior Software Engineer who has been studying for about 9 months. My original drive for learning to program was being able to create societal value even when chronic illness got in the way. I’ll be discussing how an accessible community allowed me to study, why I wish to keep creating an inclusive community and what we can do to make this a reality."</p> <p>As per usual, we welcome everyone to catch up, discuss accessibility, and grab a beer and discuss more in a less powerpoint orientated way.</p> <p>Hope you can make it!</p>
