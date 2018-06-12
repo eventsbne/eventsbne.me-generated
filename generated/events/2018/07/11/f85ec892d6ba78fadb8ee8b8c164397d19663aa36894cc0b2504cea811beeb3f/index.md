@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-10T22:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-11T05:38:30.164Z'
-timeUpdated: '2018-06-11T05:38:30.164Z'
-countAttending: '14'
+timeCreated: '2018-06-12T05:38:49.269Z'
+timeUpdated: '2018-06-12T05:38:49.269Z'
+countAttending: '15'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'ProductTank Panel: Medical Industry Product Management'
-date: '2018-06-11T05:38:30.164Z'
+date: '2018-06-12T05:38:49.269Z'
 
 ---
 <p>Medical is a growth industry in Queensland. During this panel we will hear from four practitioners who are growing medical products. They will share about key trends in the industry and what they're doing to navigate their product to success within this ecosystem.</p>

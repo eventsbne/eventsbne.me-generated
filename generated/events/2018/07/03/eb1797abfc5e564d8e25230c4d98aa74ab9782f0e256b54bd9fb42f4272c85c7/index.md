@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-03T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-08T05:38:38.240Z'
-timeUpdated: '2018-06-08T05:38:38.240Z'
-countAttending: '7'
+timeCreated: '2018-06-12T05:38:49.269Z'
+timeUpdated: '2018-06-12T05:38:49.269Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: CocoaHeads Brisbane Meetup
-date: '2018-06-08T05:38:38.240Z'
+date: '2018-06-12T05:38:49.269Z'
 
 ---
 <p>TBD</p>

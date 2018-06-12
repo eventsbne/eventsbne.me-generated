@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-26T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-11T05:38:30.164Z'
-timeUpdated: '2018-06-11T05:38:30.164Z'
-countAttending: '10'
+timeCreated: '2018-06-12T05:38:49.269Z'
+timeUpdated: '2018-06-12T05:38:49.269Z'
+countAttending: '11'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -25,7 +25,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: News (there's a lot this month) and Presentations. More to come
-date: '2018-06-11T05:38:30.164Z'
+date: '2018-06-12T05:38:49.269Z'
 
 ---
 <p>What a month. Github, WWDC, and countless other other things. We're just confirming details for the presenter this month, but we'll see you there on the 26th of June.</p>

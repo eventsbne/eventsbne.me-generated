@@ -14,6 +14,12 @@ events:
     organizer: Brisbane Functional Programming Group (BFPG)
     timeStart: '2018-06-12T07:45:00.000Z'
     timeEnd: null
+  - name: Open Night Tuesdays
+    uri: >-
+      /events/2018/06/12/b44d42b5aec2c8c4cc3c86f3c408b14f4e855c65428a5820f57f69154e648e36
+    organizer: Hackerspace Brisbane
+    timeStart: '2018-06-12T08:00:00.000Z'
+    timeEnd: null
   - name: >-
       Developing Enterprise Apps with ASP.NET Core 2.1 – presented by Jason
       Taylor
@@ -26,12 +32,6 @@ events:
     uri: >-
       /events/2018/06/12/748d92fecafa867d96e980c9b6b409db2aacb79d84abc9ac2034cc7920d22aca
     organizer: IoT and SCADA Hackers Australia
-    timeStart: '2018-06-12T08:00:00.000Z'
-    timeEnd: null
-  - name: Open Night Tuesdays
-    uri: >-
-      /events/2018/06/12/b44d42b5aec2c8c4cc3c86f3c408b14f4e855c65428a5820f57f69154e648e36
-    organizer: Hackerspace Brisbane
     timeStart: '2018-06-12T08:00:00.000Z'
     timeEnd: null
   - name: Drupal Brisbane Monthly Meetup

@@ -20,6 +20,12 @@ events:
     organizer: Brisbane Internet of Things (IOT) Interest Group
     timeStart: '2018-06-25T08:00:00.000Z'
     timeEnd: null
+  - name: Founder to Founder Fireside Chat
+    uri: >-
+      /events/2018/06/25/4a927d77943b7841b4411d8a3fe68953921c18f05e087198b871addc4d3512ea
+    organizer: Startup Ipswich
+    timeStart: '2018-06-25T08:00:00.000Z'
+    timeEnd: null
   - name: Blockchain Reserve - Brisbane Investment Analysis
     uri: >-
       /events/2018/06/25/55aba521e527fd162222ed617104d5a93581883d1ef8a8d82be5d598accb869e

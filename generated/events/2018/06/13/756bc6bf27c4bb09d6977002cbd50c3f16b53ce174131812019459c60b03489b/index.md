@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-13T01:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-11T05:38:30.164Z'
-timeUpdated: '2018-06-11T05:38:30.164Z'
-countAttending: '1'
+timeCreated: '2018-06-12T05:38:49.269Z'
+timeUpdated: '2018-06-12T05:38:49.269Z'
+countAttending: '3'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: TWIML & AI Meetup
-date: '2018-06-11T05:38:30.164Z'
+date: '2018-06-12T05:38:49.269Z'
 
 ---
 <p>GCAIML host Kelvin Ross will be presenting to the TWIMLAI meetup group (hosted from the US) on "Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks" (<a href="https://twimlai.com/meetup/" class="linkified">https://twimlai.com/meetup/</a>). Come to Techspace to be in person while Kelvin does the online TWIMLAI presentation.</p>

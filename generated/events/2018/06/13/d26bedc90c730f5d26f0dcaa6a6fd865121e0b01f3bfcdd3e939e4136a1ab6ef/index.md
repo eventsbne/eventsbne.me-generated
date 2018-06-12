@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-12T23:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-11T05:38:30.164Z'
-timeUpdated: '2018-06-11T05:38:30.164Z'
-countAttending: '2'
+timeCreated: '2018-06-12T05:38:49.269Z'
+timeUpdated: '2018-06-12T05:38:49.269Z'
+countAttending: '5'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Hackday - Fast.AI Framework
-date: '2018-06-11T05:38:30.164Z'
+date: '2018-06-12T05:38:49.269Z'
 
 ---
 <p>Some members have been completing the Fast.AI deep learning training. They have an impressive framework built on top of pytorch. We will be installing and running this within AWS and applying to some datasets we have prepared.</p> <p>Experience with python and deep learning fundamentals beneficial.</p>

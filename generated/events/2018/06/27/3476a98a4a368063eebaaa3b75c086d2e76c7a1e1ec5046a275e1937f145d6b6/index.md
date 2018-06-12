@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-27T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-11T05:38:30.164Z'
-timeUpdated: '2018-06-11T05:38:30.164Z'
-countAttending: '18'
+timeCreated: '2018-06-12T05:38:49.269Z'
+timeUpdated: '2018-06-12T05:38:49.269Z'
+countAttending: '20'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Hacks/Hackers Brisbane
-date: '2018-06-11T05:38:30.164Z'
+date: '2018-06-12T05:38:49.269Z'
 
 ---
 <p>Hacks/Hackers Brisbane meets once a month (usually) on the fourth Wednesday. We start at about 6pm and have speakers on a variety of topics.</p> <p>Keep these dates in your diary, folks.</p> <p>🍻 🍕 😃</p>

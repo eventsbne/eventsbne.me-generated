@@ -26,5 +26,11 @@ events:
     organizer: Gold Coast Bitcoin Meetup
     timeStart: '2018-06-21T09:00:00.000Z'
     timeEnd: null
+  - name: 8-week “5 STAR Content 2 Ca$h” online course
+    uri: >-
+      /events/2018/06/21/950a623f6eadd7574532efae7eafc0c42041b0bbbc31d277db51773f40d85d8b
+    organizer: Savvy Australian Bloggers
+    timeStart: '2018-06-21T09:00:00.000Z'
+    timeEnd: null
 
 ---

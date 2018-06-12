@@ -14,6 +14,12 @@ events:
     organizer: IoT and SCADA Hackers Australia
     timeStart: '2018-07-10T08:00:00.000Z'
     timeEnd: null
+  - name: Drupal Brisbane Monthly Meetup
+    uri: >-
+      /events/2018/07/10/6227921d6d38551f2c609f716d8ab0668360b6cb36ff3263bdb63aee0d5a162c
+    organizer: Drupal Brisbane
+    timeStart: '2018-07-10T08:30:00.000Z'
+    timeEnd: null
   - name: 'Blockchain Foundations: Ethereum & Smart Contracts'
     uri: >-
       /events/2018/07/10/15e099ff2d122331605a15ac447d4f1ae32fc79c4eff7ade1c68ec4746336ae0

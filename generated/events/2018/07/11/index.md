@@ -14,5 +14,11 @@ events:
     organizer: Savvy Australian Bloggers
     timeStart: '2018-07-10T23:30:00.000Z'
     timeEnd: null
+  - name: Q&A with Modular Farms;  Director James Pateras
+    uri: >-
+      /events/2018/07/11/a0859b0ad328e707ca6c2362fe3882183eff84d5ea1efdda97552ca0460a3ee7
+    organizer: Agtech Brisbane
+    timeStart: '2018-07-11T08:00:00.000Z'
+    timeEnd: null
 
 ---
