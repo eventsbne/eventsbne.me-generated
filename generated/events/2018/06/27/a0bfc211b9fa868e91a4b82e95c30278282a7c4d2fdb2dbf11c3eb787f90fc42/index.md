@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-27T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-12T05:38:49.269Z'
-timeUpdated: '2018-06-12T05:38:49.269Z'
-countAttending: '9'
+timeCreated: '2018-06-13T05:38:33.921Z'
+timeUpdated: '2018-06-13T05:38:33.921Z'
+countAttending: '10'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: WordPress Ipswich June Meetup
-date: '2018-06-12T05:38:49.269Z'
+date: '2018-06-13T05:38:33.921Z'
 
 ---
 <p>This month we have Ron Windred presenting and he'll be showing us how to combine the online and offline marketing of your WordPress website.</p> <p>As great as WordPress is as a medium to build on, it’s not of much use if it’s directionless and poorly marketed. People prefer to do business with those they know, like, trust and remember. And, you can leverage this with the right blend of marketing, from within and outside of your WordPress site.</p> <p>Drinks and pizza are also provided, thanks to our gracious sponsors Fire Station 101, Ipswich and West Moreton ARIP, Excite Media, Plesk and Conetix.</p> <p>If this is your first WordPress Meetup, please don't be shy! You'll find a great community of users and developers who are all happy to share their WordPress wisdom and information.</p> <p>The WordPress Meetups are community driven and focused. Anyone with an interest in WordPress is very welcome to attend, we have members who range from bloggers and basic business owners who use WordPress through to designers and developers who have high levels of knowledge.</p>

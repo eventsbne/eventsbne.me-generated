@@ -14,16 +14,16 @@ events:
     organizer: Startup Grind Brisbane
     timeStart: '2018-06-28T07:30:00.000Z'
     timeEnd: null
-  - name: Let's Talk WordPress!
-    uri: >-
-      /events/2018/06/28/44c72d454619e037575fc5547994ad20f010dfa627248565650c7c089a786e0c
-    organizer: WordPress Gold Coast
-    timeStart: '2018-06-28T08:00:00.000Z'
-    timeEnd: null
   - name: Delicious DataOps Discussion - 4th Thursday
     uri: >-
       /events/2018/06/28/bda7763443196ffa7fa0d82539d448d595b0bbf3e0bcfd50d405fa03b2580e4a
     organizer: Brisbane Data and Stuff Meetup
+    timeStart: '2018-06-28T08:00:00.000Z'
+    timeEnd: null
+  - name: Let's Talk WordPress!
+    uri: >-
+      /events/2018/06/28/44c72d454619e037575fc5547994ad20f010dfa627248565650c7c089a786e0c
+    organizer: WordPress Gold Coast
     timeStart: '2018-06-28T08:00:00.000Z'
     timeEnd: null
   - name: Talk about DevOps and demo cool stuff!

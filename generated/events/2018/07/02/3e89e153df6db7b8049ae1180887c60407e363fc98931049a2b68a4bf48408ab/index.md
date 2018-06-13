@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-02T09:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-12T05:38:49.269Z'
-timeUpdated: '2018-06-12T05:38:49.269Z'
-countAttending: '3'
+timeCreated: '2018-06-13T05:38:33.921Z'
+timeUpdated: '2018-06-13T05:38:33.921Z'
+countAttending: '4'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -37,7 +37,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly DevStart meetup
-date: '2018-06-12T05:38:49.269Z'
+date: '2018-06-13T05:38:33.921Z'
 
 ---
 <p>Come along and meet fellow startup folks. Usually we have a talk from an experienced startup person (details closer to the date) followed by discussion and networking.</p>

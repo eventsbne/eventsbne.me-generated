@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-06-20T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-12T05:38:49.269Z'
-timeUpdated: '2018-06-12T05:38:49.269Z'
-countAttending: '7'
+timeCreated: '2018-06-13T05:38:33.921Z'
+timeUpdated: '2018-06-13T05:38:33.921Z'
+countAttending: '8'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Why Does Implementation Fail?
-date: '2018-06-12T05:38:49.269Z'
+date: '2018-06-13T05:38:33.921Z'
 
 ---
 <p>Join us at Fire Station 101 for our next business strategy event!</p> <p>There are no shortage of good ideas, but good ideas don’t implement themselves. Some ideas seem to be easy to implement, and some seem to be extremely difficult.</p> <p>So why does implementation fail? How can you predict if something is likely to be implemented successfully or not?</p> <p>What can you do to create an organisational culture that makes great decisions that are always implemented?</p> <p>Our presenter, Don McKenzie will show you a systemic approach to answering these questions. Don shares real-life business case studies along with tools you can apply to your own businesses to learn from his experiences.</p> <p>These include;<br/>• Building companies across 4 countries in a range of industries including floating on the ASX<br/>• A $750,000 acquisition turning into nearly $55M in under 7-years<br/>• Acquisition of a $45M company that had to be placed into liquidation 2-years later</p> <p>Don highlights the common ingredients to both these successes and failures and their relevance to every business or organisation irrelevant of size. His personal experiences combined with globally recognised content will give you practical ideas which can be applied with immediate effect for any business.</p>
