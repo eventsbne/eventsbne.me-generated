@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-12T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-13T05:38:33.921Z'
-timeUpdated: '2018-06-13T05:38:33.921Z'
-countAttending: '2'
+timeCreated: '2018-07-02T13:50:15.454Z'
+timeUpdated: '2018-07-02T13:50:15.454Z'
+countAttending: '24'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -24,7 +24,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: 'Call for speakers, finalising event details.'
-date: '2018-06-13T05:38:33.921Z'
+date: '2018-07-02T13:50:15.454Z'
 
 ---
 <p>The event is at Fishburners, Level 2, 155 Queen Street, with official kick-off at 6:00 pm. </p> <p>Event details will be updated as speakers and further details are finalised.</p>

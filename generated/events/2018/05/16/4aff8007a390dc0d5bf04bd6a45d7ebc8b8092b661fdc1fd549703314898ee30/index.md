@@ -20,8 +20,8 @@ venue:
   name: Quality Hotel Mermaid Waters
   url: null
   description: null
-  lat: '-28.04817008972168'
-  lon: '153.42710876464844'
+  lat: '-28.047279357910156'
+  lon: '153.42591857910156'
   contactAddress: Cnr Markeri St & Sunshine Blvd Mermaid Waters
   contactCity: Gold Coast
   contactCountry: Australia

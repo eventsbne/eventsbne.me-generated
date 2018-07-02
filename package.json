@@ -6,11 +6,11 @@
   "private": "true",
   "dependencies": {
     "async": "^2.6.0",
-    "event-db-builder": "^2.1.4",
+    "event-db-builder": "git+https://github.com/eventsbne/event-db-builder.git",
     "js-yaml": "^3.11.0",
     "mkdirp": "^0.5.1",
     "moment-timezone": "^0.5.14",
-    "sqlite3": "^3.1.13"
+    "sqlite3": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",

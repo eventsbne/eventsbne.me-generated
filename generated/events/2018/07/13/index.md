@@ -8,5 +8,11 @@ events:
     organizer: ASSAB 2018
     timeStart: '2018-07-13T08:00:00.000Z'
     timeEnd: '2018-07-13T09:30:00.000Z'
+  - name: The Amazing Potential of Unbounded Scaling
+    uri: >-
+      /events/2018/07/13/d289829bca4df8156a56c4f442aab7892037d6bec1c2b257458e2a232454b74e
+    organizer: Bitcoin Cash Brisbane
+    timeStart: '2018-07-13T08:30:00.000Z'
+    timeEnd: null
 
 ---

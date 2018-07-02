@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-04T08:00:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-13T05:38:33.921Z'
-timeUpdated: '2018-06-13T05:38:33.921Z'
-countAttending: '15'
+timeCreated: '2018-07-02T13:50:15.454Z'
+timeUpdated: '2018-07-02T13:50:15.454Z'
+countAttending: '32'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Leveraging Data to Create Industry Leading Customer Experiences
-date: '2018-06-13T05:38:33.921Z'
+date: '2018-07-02T13:50:15.454Z'
 
 ---
-<p>For our July panel, we will be asking our retail experts to discuss how they leverage customer data to create best of breed customer experiences, no matter what the channel.</p> <p>Joining us on the panel, we have:<br/>• Lizzi Emery, Omni Strategy @ Innovation Manager @ Super Retail Group<br/>• Adrian McKenzie, Senior Manager of eCommerce @ EB Games</p> <p>Make sure you get in touch or comment below with any questions you want the panel to answer on the night and make sure you invite any fellow eCommers you think might be interested.</p> <p>Look forward to seeing you at ShopTalk!</p>
+<p>For our July panel, we will be asking our retail experts to discuss how they leverage customer data to create best of breed customer experiences, no matter what the channel.</p> <p>Joining us on the panel, we have:<br/>• Lizzi Emery, Omni Strategy &amp; Innovation Manager @ Super Retail Group<br/>• Adrian McKenzie, Senior Manager of eCommerce @ EB Games<br/>• Adriana Porter, Leader, Customer Relationship Marketing @ Virgin Australia</p> <p>Make sure you get in touch or comment below with any questions you want the panel to answer on the night and make sure you invite any fellow eCommers you think might be interested.</p> <p>Look forward to seeing you at ShopTalk!</p>

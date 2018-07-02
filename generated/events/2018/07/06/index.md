@@ -8,11 +8,17 @@ events:
     organizer: Agile Brisbane
     timeStart: '2018-07-05T22:00:00.000Z'
     timeEnd: null
-  - name: Monthly Brisbane Bitcoin Cash meetup
+  - name: Brisbane Lean Coffee
     uri: >-
-      /events/2018/07/06/d289829bca4df8156a56c4f442aab7892037d6bec1c2b257458e2a232454b74e
-    organizer: Bitcoin Cash Brisbane
-    timeStart: '2018-07-06T08:30:00.000Z'
+      /events/2018/07/06/3b5763cd37022bdd28050602bf368ade70f169602d925360da4345dacaf1640a
+    organizer: Agile Brisbane
+    timeStart: '2018-07-05T22:00:00.000Z'
+    timeEnd: null
+  - name: Fishburners Pitch-Off Series
+    uri: >-
+      /events/2018/07/06/b09b3f3b33617a2740bc8e9006f91d227517d710628f76e654d085a8f64503fa
+    organizer: Fishburners Brisbane
+    timeStart: '2018-07-06T07:00:00.000Z'
     timeEnd: null
 
 ---

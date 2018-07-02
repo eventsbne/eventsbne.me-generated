@@ -20,8 +20,8 @@ venue:
   name: Sunnybank Community and Sports Club
   url: null
   description: null
-  lat: '-27.571300506591797'
-  lon: '153.06027221679688'
+  lat: '-27.57269859313965'
+  lon: '153.0734405517578'
   contactAddress: '470 McCullough Street, Sunnybank QLD 4109'
   contactCity: Brisbane
   contactCountry: Australia

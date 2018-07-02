@@ -25,7 +25,7 @@ venue:
   contactAddress: 'Level 19, 127 Creek St'
   contactCity: Brisbane
   contactCountry: Australia
-  contactPhone: null
+  contactPhone: +61 7 3129 4506
 organizer:
   id: 709cc4a90a5ca6021fe09782b4ec54df71f0df4750497fbb70b6b0ad2260b9ed
   remoteId: '12818082'

@@ -5,9 +5,9 @@ remoteIdType: meetup
 status: upcoming
 timeStart: '2018-07-06T23:30:00.000Z'
 timeEnd: null
-timeCreated: '2018-06-11T05:38:30.164Z'
-timeUpdated: '2018-06-11T05:38:30.164Z'
-countAttending: '16'
+timeCreated: '2018-07-02T13:50:15.454Z'
+timeUpdated: '2018-07-02T13:50:15.454Z'
+countAttending: '27'
 countCapacity: null
 countWaitlist: '0'
 price: null
@@ -36,7 +36,7 @@ organizer:
   codeOfConduct: null
 layout: event
 title: Monthly Blender Meetup
-date: '2018-06-11T05:38:30.164Z'
+date: '2018-07-02T13:50:15.454Z'
 
 ---
 <p>This is the monthly meetup for users of Blender - the open-source 3d application. Run by Andrew Price of Blender Guru, the #1 Youtube channel for Blender.</p> <p>Whether you're a veteran of the software or a complete newbie that's interested in getting started, you're welcome to attend!</p> <p>At the meetup we share the projects we're working on, ask questions, get help or just watch to see what others are doing with the software.</p> <p>Participants are welcome to bring along their work (images, videos or blend files) on a USB or laptop and get feedback or help from others members.</p> <p>Snacks and cold drinks are provided! Please just bring a gold coin donation to cover expenses.</p> <p>Join our Facebook group: <a href="https://www.facebook.com/groups/478898222462942/" class="linkified">https://www.facebook.com/groups/478898222462942/</a></p> <p>---------------------<br/>What to bring:<br/>-A laptop if you have work to share</p> <p>---------------------</p> <p>Parking</p> <p>There’s parking options across the road at GOMA or the Brisbane Convention Centre. However, it's best to take public transport, as the Cultural Centre bus station and South Brisbane Rail stations are a short walk from the campus.</p>
